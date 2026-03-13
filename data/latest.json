@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T12:46:44.416Z",
+  "generated_at": "2026-03-13T12:50:53.144Z",
   "news_summary": [
     {
       "headline": "Israel-Iran Conflict: Iran War Live Updates: Defiant Crowds Rally in Tehran; U.S. Vows to Reopen Key Strait",
@@ -9,7 +9,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-13T12:44:09.000Z"
+          "published_at": "2026-03-13T12:46:09.000Z"
         }
       ],
       "reliability_score": 1
@@ -35,7 +35,7 @@
         {
           "title": "Korea Times",
           "url": "https://www.koreatimes.co.kr/southkorea/society/20260313/korea-to-invest-58-bil-in-semiconductor-ai-battery-technologies?utm_source=rss",
-          "published_at": "2026-03-13T12:42:04.000Z"
+          "published_at": "2026-03-13T12:47:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,25 +199,32 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Codex side-effect: intelligence??",
+      "title": "Built an open-source gateway daemon for Claude Code CLI with multi-agent org, cron, Slack & web dashboard. Runs on Max plan too.",
       "score": 0.51,
-      "summary": "Thread on \"Codex side-effect: intelligence??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rskdko/codex_sideeffect_intelligence/",
-      "subreddit": "codex"
+      "summary": "Thread on \"Built an open-source gateway daemon for Claude Code CLI with multi-agent org, cron, Slack & web dashboard. Runs on Max p\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rskg1q/built_an_opensource_gateway_daemon_for_claude/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "the assignments i already submitted :')",
-      "score": 0.52,
-      "summary": "Thread on \"the assignments i already submitted :')\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rslut6/the_assignments_i_already_submitted/",
-      "subreddit": "ChatGPT"
+      "title": "So I tried the AI credits, and for 22 credits out of 1000, the model thought for 3 seconds lol, modified one item and run 1 or 2 commands",
+      "score": 0.49,
+      "summary": "Thread on \"So I tried the AI credits, and for 22 credits out of 1000, the model thought for 3 seconds lol, modified one item and ru\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1rsi2wb/so_i_tried_the_ai_credits_and_for_22_credits_out/",
+      "subreddit": "GoogleAntigravityIDE"
     },
     {
-      "title": "My vs extension for Kimi not working any advice",
+      "title": "What? Is this real or just a bug? After only 2 or 3 Gemini + Opus prompts, I already hit the weekly limit on a simple task.",
       "score": 0.5,
-      "summary": "Thread on \"My vs extension for Kimi not working any advice\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/kimi/comments/1rsjwpp/my_vs_extension_for_kimi_not_working_any_advice/",
-      "subreddit": "kimi"
+      "summary": "Thread on \"What? Is this real or just a bug? After only 2 or 3 Gemini + Opus prompts, I already hit the weekly limit on a simple ta\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rsjvyy/what_is_this_real_or_just_a_bug_after_only_2_or_3/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Please vote for custom code review instructions in the Codex app",
+      "score": 0.36,
+      "summary": "Thread on \"Please vote for custom code review instructions in the Codex app\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rrt3zx/please_vote_for_custom_code_review_instructions/",
+      "subreddit": "ChatGPTCoding"
     },
     {
       "title": "OpenClaw dynamic skills",
@@ -227,11 +234,11 @@
       "subreddit": "openclaw"
     },
     {
-      "title": "VS Code Terminal Issue",
-      "score": 0.49,
-      "summary": "Thread on \"VS Code Terminal Issue\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rsi7q7/vs_code_terminal_issue/",
-      "subreddit": "vscode"
+      "title": "Spent more time debugging Openclaw than using it, built my own agent instead",
+      "score": 0.51,
+      "summary": "Thread on \"Spent more time debugging Openclaw than using it, built my own agent instead\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/clawdbot/comments/1rsk61o/spent_more_time_debugging_openclaw_than_using_it/",
+      "subreddit": "clawdbot"
     },
     {
       "title": "People paying 80usd to install OpenClaw and 30 to uninstall it. What do you think?",
@@ -241,18 +248,11 @@
       "subreddit": "openclaw"
     },
     {
-      "title": "Is /review whats burning so much usage in 5.4?",
-      "score": 0.49,
-      "summary": "Thread on \"Is /review whats burning so much usage in 5.4?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rsi8tv/is_review_whats_burning_so_much_usage_in_54/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Got 100% off Plus while deactivating my plan.",
-      "score": 0.49,
-      "summary": "Thread on \"Got 100% off Plus while deactivating my plan.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsikcp/got_100_off_plus_while_deactivating_my_plan/",
-      "subreddit": "ChatGPT"
+      "title": "Mac Mini + Clawd agent setup extremely slow (10 min responses). Is this normal or am I misconfigured?",
+      "score": 0.51,
+      "summary": "Thread on \"Mac Mini + Clawd agent setup extremely slow (10 min responses). Is this normal or am I misconfigured?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/clawdbot/comments/1rslacw/mac_mini_clawd_agent_setup_extremely_slow_10_min/",
+      "subreddit": "clawdbot"
     },
     {
       "title": "Running OpenClaw 24/7 on Mac Mini M4, what actually works after weeks of trial and error",
@@ -269,45 +269,45 @@
       "subreddit": "openclaw"
     },
     {
-      "title": "Anyone running openclaw successfully with an open source model?",
+      "title": "claw3D",
       "score": 0.49,
-      "summary": "Thread on \"Anyone running openclaw successfully with an open source model?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rshcwe/anyone_running_openclaw_successfully_with_an_open/",
+      "summary": "Thread on \"claw3D\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/clawdbot/comments/1rsibsw/claw3d/",
+      "subreddit": "clawdbot"
+    },
+    {
+      "title": "An AI agent deleted 25,000 documents from the wrong database. One second of distraction. Real case.",
+      "score": 0.49,
+      "summary": "Thread on \"An AI agent deleted 25,000 documents from the wrong database. One second of distraction. Real case.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rshuz9/an_ai_agent_deleted_25000_documents_from_the/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "My new Claude launch skill - 6 battle-tested launch playbooks behind 30 Product Hunt #1s, 6,000+ GitHub stars in 7 days, and reach in 100+ countries",
+      "score": 0.49,
+      "summary": "Thread on \"My new Claude launch skill - 6 battle-tested launch playbooks behind 30 Product Hunt #1s, 6,000+ GitHub stars in 7 days,\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rsihrm/my_new_claude_launch_skill_6_battletested_launch/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Antigravity: some ideas and feature requests that could help restore users’ trust:",
+      "score": 0.49,
+      "summary": "Thread on \"Antigravity: some ideas and feature requests that could help restore users’ trust:\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rsi9y0/antigravity_some_ideas_and_feature_requests_that/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "My friend used OpenClaw for stock trading… and got wrecked.",
+      "score": 0.48,
+      "summary": "Thread on \"My friend used OpenClaw for stock trading… and got wrecked.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rsg8er/my_friend_used_openclaw_for_stock_trading_and_got/",
       "subreddit": "openclaw"
-    },
-    {
-      "title": "5.4 is worse than 5.3 codex for me - and i have a lot of context on these models",
-      "score": 0.48,
-      "summary": "Thread on \"5.4 is worse than 5.3 codex for me - and i have a lot of context on these models\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rsgoj9/54_is_worse_than_53_codex_for_me_and_i_have_a_lot/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Copilot is the Internet Explorer / Bing of AI",
-      "score": 0.48,
-      "summary": "Thread on \"Copilot is the Internet Explorer / Bing of AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsgpyl/copilot_is_the_internet_explorer_bing_of_ai/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Can’t unsubscribe from Kimi",
-      "score": 0.48,
-      "summary": "Thread on \"Can’t unsubscribe from Kimi\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/kimi/comments/1rsh0hr/cant_unsubscribe_from_kimi/",
-      "subreddit": "kimi"
-    },
-    {
-      "title": "Bad news...",
-      "score": 0.45,
-      "summary": "Thread on \"Bad news...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rsbvsd/bad_news/",
-      "subreddit": "codex"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-13T12:46:05.419Z",
-    "refresh_finished_at": "2026-03-13T12:46:44.416Z",
+    "refresh_started_at": "2026-03-13T12:50:49.035Z",
+    "refresh_finished_at": "2026-03-13T12:50:53.144Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2265
+        "duration_ms": 2130
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38944
+        "duration_ms": 4070
       }
     },
     "warnings": []
