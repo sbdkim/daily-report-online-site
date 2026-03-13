@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-03-13T11:47:11.748Z",
+  "generated_at": "2026-03-13T11:56:07.579Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center",
+      "headline": "Israel-Iran Conflict: Iran War Live Updates: Large Crowd Rallies in Tehran as Markets Shrug Off U.S. Oil Measures",
       "region": "world",
-      "summary": "Iran War Live Updates: Israel Targets Hezbollah in Beirut as Strikes Hit City Center. The attacks heightened fears that the war was expanding beyond Hezbollah’s traditional strongholds into parts of Beirut once considered comparatively safe. New strikes were also reported in Iran, Iraq and Israel.",
+      "summary": "Israel-Iran Conflict: Iran War Live Updates: Large Crowd Rallies in Tehran as Markets Shrug Off U.S. Oil Measures. Thousands gathered in the Iranian capital in opposition to the United States and Israel, even as the Israeli military warned of more strikes there and in Lebanon. Oil prices barely budged after the Trump administration eased restrictions on Russian shipments.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-13T11:39:15.000Z"
+          "published_at": "2026-03-13T11:52:44.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Countries are negotiating rules to mine the deep sea. The U.S. is pushing ahead alone",
+      "headline": "Questions mount for Hegseth over possible US involvement in strike on Iranian school",
       "region": "us",
-      "summary": "Countries are negotiating rules to mine the deep sea. The U.S. is pushing ahead alone. With growing interest in mining critical metals from the seafloor, countries are now negotiating international rules. The Trump administration is forging ahead on its own, speeding up environmental review for mining the fragile ecosystem.",
+      "summary": "Questions mount for Hegseth over possible US involvement in strike on Iranian school. Democrats have written to ask the defence secretary whether the US was responsible, but he says the issue is being investigated.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/13/nx-s1-5736150/deep-sea-mining-impact-critical-minerals",
-          "published_at": "2026-03-13T10:50:50.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cn87ndd4rgyo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-12T12:22:22.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Air China to resume Beijing-Pyongyang route",
+      "headline": "Korea to invest $5.8 bil. in semiconductor, AI, battery technologies",
       "region": "korea",
-      "summary": "Air China to resume Beijing-Pyongyang route. BEIJING, March 13 (Yonhap) -- China's national carrier, Air China, will resume f..",
+      "summary": "Korea to invest $5.8 bil. in semiconductor, AI, battery technologies. The government will invest about 8.6 trillion won ($5.77 billion) this year to accelerate development across various fields, including semiconductors, artificial intelligence (AI), shipbuilding, energy and batteries, as it moves to strengthen Korea’s technological sovereignty and respond to intensifying global competition. The Ministry of Science and ICT announced Friday that the joint public-private Special Committee on the National Strategic Technology approved the 2026 implementation plan, mobilizing 23 ministries to coordinate research funding, policy tools and financial support. The plan is part of the government’s five-year national strategy for strategic technologies from 2024 through 2028, aimed at securing critical capabilities that are considered essential to national security and industrial growth. As part of the plan, the government has ramped up national strategic technology research and development (R&D) spending by 30 percent from last year to 8.6 trillion won in 2026. The fund will support coordinated government programs covering 513 designated technologies, which th.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260313010400320",
-          "published_at": "2026-03-13T11:32:50.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20260313/korea-to-invest-58-bil-in-semiconductor-ai-battery-technologies?utm_source=rss",
+          "published_at": "2026-03-13T11:52:05.000Z"
         }
       ],
       "reliability_score": 1
@@ -184,14 +184,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "U.S. welcomes S. Korea's passage of investment bill as 'positive' step: U.S. official",
-      "region": "korea",
-      "summary": "U.S. welcomes S. Korea's passage of investment bill as 'positive' step: U.S. official. WASHINGTON, March 13 (Yonhap) -- U.S. President Donald Trump's administration we..",
+      "headline": "US eases Russia oil sanctions as Iran war pushes up energy prices ",
+      "region": "us",
+      "summary": "US eases Russia oil sanctions as Iran war pushes up energy prices. Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260313010100315",
-          "published_at": "2026-03-13T09:32:52.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-13T09:54:52.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,52 +199,52 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Built an AI memory system based on cognitive science instead of vector databases",
-      "score": 0.5,
-      "summary": "Most AI agent memory is just vector DB + semantic search. Store everything, retrieve by similarity. It works, but it doesn't scale well over time. The noise floor keeps r. In the comments, people are mainly debating Graph-RAG with ACT-R decay, Hebbian learning, Ebbinghaus forgetting curve. Definitely not free to run, but it’s been blowing my mind haha!",
-      "source_link": "https://www.reddit.com/r/artificial/comments/1rrss36/built_an_ai_memory_system_based_on_cognitive/",
+      "title": "How we’re reimagining Maps with Gemini",
+      "score": 0.48,
+      "summary": "Thread on \"How we’re reimagining Maps with Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/",
       "subreddit": "artificial"
     },
     {
       "title": "[D] What is even the point of these LLM benchmarking papers?",
-      "score": 0.6,
-      "summary": "Lately, NeurIPS and ICLR are flooded with these LLM benchmarking papers. All they do is take a problem X and benchmark a bunch of propriety LLMs on this problem. My main . In the comments, people are mainly debating For a lot of these papers it seems like the point is to publish the paper - not a tautology, I mean publish or perish is the worst way. The ",
+      "score": 0.43,
+      "summary": "Thread on \"[D] What is even the point of these LLM benchmarking papers?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/MachineLearning/comments/1rsdify/d_what_is_even_the_point_of_these_llm/",
       "subreddit": "MachineLearning"
     },
     {
-      "title": "Gemini’s task automation is here and it’s wild | The Verge",
-      "score": 0.97,
-      "summary": "Thread on \"Gemini’s task automation is here and it’s wild | The Verge\". In the comments, people are mainly debating &gt;*The first prompt I gave it was pretty simple: order an Uber to the airport. Gemini asked for clarification to determine which airport (",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rs1r4j/geminis_task_automation_is_here_and_its_wild_the/",
+      "title": "This robot prints itself to grow and reach tight spaces!",
+      "score": 0.48,
+      "summary": "Thread on \"This robot prints itself to grow and reach tight spaces!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rsky4n/this_robot_prints_itself_to_grow_and_reach_tight/",
       "subreddit": "singularity"
     },
     {
-      "title": "The U.S. Defense Department says Claude would pollute the defense supply chain, but more interestingly, it claims Claude has a 20% chance of being sentient and having its own mood",
-      "score": 0.96,
-      "summary": "https://www.cnbc.com/2026/03/12/anthropic-claude-emil-michael-defense.html this part of the interview is going viral. Full video on link. In the comments, people are mainly debating This guy is basically confused by words having a different meaning in different contexts. Claude's \"constitution\" is a text file used to hel",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rs0ca1/the_us_defense_department_says_claude_would/",
+      "title": "I paid Anthropic $300/month while their technology ran through the system that helped kill 175 children in Iran.",
+      "score": 0.48,
+      "summary": "Thread on \"I paid Anthropic $300/month while their technology ran through the system that helped kill 175 children in Iran.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rsku0f/i_paid_anthropic_300month_while_their_technology/",
       "subreddit": "singularity"
+    },
+    {
+      "title": "AI Consciousness Formula",
+      "score": 0.47,
+      "summary": "Thread on \"AI Consciousness Formula\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/artificial/comments/1rsjngq/ai_consciousness_formula/",
+      "subreddit": "artificial"
     },
     {
       "title": "CVPR workshop farming citations - how is this ethical?? [D]",
-      "score": 0.54,
-      "summary": "I cam across the PHAROS-AIF-MIH workshop at CVPR 2026 and one of the condition to participate in their challenge is to cite 13 papers by the challenge organizer and they . In the comments, people are mainly debating Report to the Workshop Chair",
+      "score": 0.38,
+      "summary": "Thread on \"CVPR workshop farming citations - how is this ethical?? [D]\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/MachineLearning/comments/1rs56wa/cvpr_workshop_farming_citations_how_is_this/",
       "subreddit": "MachineLearning"
-    },
-    {
-      "title": "Systemd 260-rc3 released with AI Agents documentation added",
-      "score": 0.37,
-      "summary": "Thread on \"Systemd 260-rc3 released with AI Agents documentation added\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/",
-      "subreddit": "artificial"
     }
   ],
   "metadata": {
-    "overall_status": "success",
-    "refresh_started_at": "2026-03-13T11:47:10.306Z",
-    "refresh_finished_at": "2026-03-13T11:47:11.748Z",
+    "overall_status": "partial",
+    "refresh_started_at": "2026-03-13T11:56:05.893Z",
+    "refresh_finished_at": "2026-03-13T11:56:07.579Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -252,15 +252,18 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1442
+        "duration_ms": 1686
       },
       "reddit": {
-        "source": "public-json",
-        "status": "success",
+        "source": "rss",
+        "status": "partial",
         "item_count": 6,
-        "duration_ms": 1226
+        "duration_ms": 1399,
+        "warning": "Reddit public JSON returned no usable posts; falling back to RSS."
       }
     },
-    "warnings": []
+    "warnings": [
+      "Reddit public JSON returned no usable posts; falling back to RSS."
+    ]
   }
 }
