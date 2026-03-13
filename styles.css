@@ -295,15 +295,6 @@ summary:focus-visible {
   padding: 12px 0;
 }
 
-.item-summary {
-  list-style: none;
-  cursor: pointer;
-}
-
-.item-summary::-webkit-details-marker {
-  display: none;
-}
-
 .item-top {
   display: grid;
   grid-template-columns: auto 1fr;

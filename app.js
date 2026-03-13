@@ -80,26 +80,6 @@ const createEmptyState = (message) => {
   return item;
 };
 
-const createDetailNote = (label, text) => {
-  if (!text) {
-    return null;
-  }
-
-  const wrapper = document.createElement("section");
-  wrapper.className = "detail-section";
-
-  const heading = document.createElement("p");
-  heading.className = "detail-label";
-  heading.textContent = label;
-
-  const note = document.createElement("p");
-  note.className = "detail-note";
-  note.textContent = text;
-
-  wrapper.append(heading, note);
-  return wrapper;
-};
-
 const createSourceLinks = (sources) => {
   if (!sources || sources.length === 0) {
     return null;
@@ -122,7 +102,6 @@ const createSourceLinks = (sources) => {
 
 const addItem = (list, item) => {
   const fragment = template.content.cloneNode(true);
-  const detailsEl = fragment.querySelector("details");
   const primaryBadgeEl = fragment.querySelector(".badge.primary");
   const secondaryBadgeEl = fragment.querySelector(".badge.secondary");
   const linkEl = fragment.querySelector("a");
@@ -144,10 +123,6 @@ const addItem = (list, item) => {
   const sourceLinks = createSourceLinks(item.sources);
   if (sourceLinks) {
     detailsContainer.appendChild(sourceLinks);
-  }
-
-  if (item.expanded) {
-    detailsEl.open = true;
   }
 
   list.appendChild(fragment);
@@ -214,14 +189,13 @@ const renderBriefing = (briefing) => {
       metadata.sections?.news?.warning ||
       "No recent news stories were selected.",
     (item) => ({
-      primaryBadge: `${item.region.toUpperCase()} ${item.reliability_score}`,
-      secondaryBadge: metadata.sections?.news?.warning ? "Warning" : null,
+      primaryBadge: item.region.toUpperCase(),
+      secondaryBadge: null,
       title: item.headline,
       url: item.sources[0]?.url,
       reason: item.summary || "",
-      detailSections: [createDetailNote("Summary", item.summary || "")],
+      detailSections: [],
       sources: item.sources || [],
-      expanded: false,
     }),
   );
 
@@ -232,16 +206,15 @@ const renderBriefing = (briefing) => {
       metadata.sections?.reddit?.warning ||
       "No Reddit AI stories were selected.",
     (item) => ({
-      primaryBadge: `r/${item.subreddit} ${item.score}`,
-      secondaryBadge: metadata.sections?.reddit?.warning ? "Warning" : null,
+      primaryBadge: `r/${item.subreddit}`,
+      secondaryBadge: null,
       title: item.title,
       url: item.source_link,
       reason: item.summary || "",
-      detailSections: [createDetailNote("Summary", item.summary || "")],
+      detailSections: [],
       sources: item.source_link
         ? [{ title: "Open discussion", url: item.source_link }]
         : [],
-      expanded: false,
     }),
   );
 
