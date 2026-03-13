@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-13T11:56:07.579Z",
+  "generated_at": "2026-03-13T12:04:25.896Z",
   "news_summary": [
     {
       "headline": "Israel-Iran Conflict: Iran War Live Updates: Large Crowd Rallies in Tehran as Markets Shrug Off U.S. Oil Measures",
       "region": "world",
-      "summary": "Israel-Iran Conflict: Iran War Live Updates: Large Crowd Rallies in Tehran as Markets Shrug Off U.S. Oil Measures. Thousands gathered in the Iranian capital in opposition to the United States and Israel, even as the Israeli military warned of more strikes there and in Lebanon. Oil prices barely budged after the Trump administration eased restrictions on Russian shipments.",
+      "summary": "Israel-Iran Conflict: Iran War Live Updates: Large Crowd Rallies in Tehran as Markets Shrug Off U.S. Oil Measures. Thousands gathered in the Iranian capital in opposition to the United States and Israel. Oil prices barely budged after the Trump administration eased restrictions on Russian shipments. U.S. defense officials are briefing reporters after the military said that four crew members had died in the crash of a refueling jet in Iraq.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-13T11:52:44.000Z"
+          "published_at": "2026-03-13T12:00:23.000Z"
         }
       ],
       "reliability_score": 1
@@ -35,7 +35,7 @@
         {
           "title": "Korea Times",
           "url": "https://www.koreatimes.co.kr/southkorea/society/20260313/korea-to-invest-58-bil-in-semiconductor-ai-battery-technologies?utm_source=rss",
-          "published_at": "2026-03-13T11:52:05.000Z"
+          "published_at": "2026-03-13T11:57:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,10 +199,10 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "How we’re reimagining Maps with Gemini",
+      "title": "Impossible to 100% prevent abuse, Grok lawyers say in Dutch case against nudify tools",
       "score": 0.48,
-      "summary": "Thread on \"How we’re reimagining Maps with Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/",
+      "summary": "Thread on \"Impossible to 100% prevent abuse, Grok lawyers say in Dutch case against nudify tools\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/artificial/comments/1rsler0/impossible_to_100_prevent_abuse_grok_lawyers_say/",
       "subreddit": "artificial"
     },
     {
@@ -220,18 +220,18 @@
       "subreddit": "singularity"
     },
     {
+      "title": "How we’re reimagining Maps with Gemini",
+      "score": 0.48,
+      "summary": "Thread on \"How we’re reimagining Maps with Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/",
+      "subreddit": "artificial"
+    },
+    {
       "title": "I paid Anthropic $300/month while their technology ran through the system that helped kill 175 children in Iran.",
       "score": 0.48,
       "summary": "Thread on \"I paid Anthropic $300/month while their technology ran through the system that helped kill 175 children in Iran.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/singularity/comments/1rsku0f/i_paid_anthropic_300month_while_their_technology/",
       "subreddit": "singularity"
-    },
-    {
-      "title": "AI Consciousness Formula",
-      "score": 0.47,
-      "summary": "Thread on \"AI Consciousness Formula\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/artificial/comments/1rsjngq/ai_consciousness_formula/",
-      "subreddit": "artificial"
     },
     {
       "title": "CVPR workshop farming citations - how is this ethical?? [D]",
@@ -243,8 +243,8 @@
   ],
   "metadata": {
     "overall_status": "partial",
-    "refresh_started_at": "2026-03-13T11:56:05.893Z",
-    "refresh_finished_at": "2026-03-13T11:56:07.579Z",
+    "refresh_started_at": "2026-03-13T12:04:24.078Z",
+    "refresh_finished_at": "2026-03-13T12:04:25.896Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -252,13 +252,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1686
+        "duration_ms": 1818
       },
       "reddit": {
         "source": "rss",
         "status": "partial",
         "item_count": 6,
-        "duration_ms": 1399,
+        "duration_ms": 781,
         "warning": "Reddit public JSON returned no usable posts; falling back to RSS."
       }
     },
