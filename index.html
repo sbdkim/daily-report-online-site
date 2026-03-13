@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daily Briefing</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="loadingOverlay" class="loading-overlay" hidden>
+      <div class="loading-panel" role="status" aria-live="polite">
+        <div class="spinner" aria-hidden="true"></div>
+        <p id="loadingMessage">Loading briefing...</p>
+      </div>
+    </div>
+
+    <main class="shell">
+      <header class="topbar">
+        <div class="title-block">
+          <h1>Daily Briefing</h1>
+          <p id="generatedAt" class="subtitle">Loading latest snapshot...</p>
+        </div>
+        <div class="actions">
+          <button id="themeToggleBtn" class="ghost" type="button" aria-pressed="false">
+            Dark mode
+          </button>
+          <button id="refreshBtn">Reload snapshot</button>
+        </div>
+      </header>
+
+      <section class="summary-bar">
+        <section class="summary-cell">
+          <h2>Cadence</h2>
+          <p id="cadenceStatus" class="status-text">Snapshot updates every 6 hours.</p>
+        </section>
+        <section class="summary-cell">
+          <h2>Snapshot</h2>
+          <p id="snapshotStatus" class="status-text">Waiting for generated site data.</p>
+        </section>
+        <section class="summary-cell">
+          <h2>Briefing</h2>
+          <p id="status" class="status-text"></p>
+        </section>
+      </section>
+
+      <section class="grid">
+        <article class="panel" data-section-key="news">
+          <div class="card-head">
+            <div class="card-title">
+              <h2>World / US / Korea News</h2>
+              <p class="card-subtitle">Top selected stories</p>
+            </div>
+            <div class="card-controls">
+              <p id="newsMeta" class="card-meta"></p>
+              <button
+                type="button"
+                class="panel-toggle ghost"
+                data-target="newsPanelBody"
+                aria-expanded="true"
+                aria-controls="newsPanelBody"
+              >
+                Collapse
+              </button>
+            </div>
+          </div>
+          <div id="newsPanelBody" class="panel-body">
+            <ul id="newsList" class="list"></ul>
+          </div>
+        </article>
+
+        <article class="panel" data-section-key="reddit">
+          <div class="card-head">
+            <div class="card-title">
+              <h2>AI Feed from Reddit</h2>
+              <p class="card-subtitle">Worth a quick scan</p>
+            </div>
+            <div class="card-controls">
+              <p id="redditMeta" class="card-meta"></p>
+              <button
+                type="button"
+                class="panel-toggle ghost"
+                data-target="redditPanelBody"
+                aria-expanded="true"
+                aria-controls="redditPanelBody"
+              >
+                Collapse
+              </button>
+            </div>
+          </div>
+          <div id="redditPanelBody" class="panel-body">
+            <ul id="redditList" class="list"></ul>
+          </div>
+        </article>
+      </section>
+    </main>
+
+    <template id="itemTemplate">
+      <li class="item">
+        <details class="item-card">
+          <summary class="item-summary">
+            <div class="item-top">
+              <div class="item-badges">
+                <span class="badge primary"></span>
+                <span class="badge secondary" hidden></span>
+              </div>
+              <a target="_blank" rel="noreferrer"></a>
+            </div>
+            <p class="reason"></p>
+          </summary>
+          <div class="item-details"></div>
+        </details>
+      </li>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
