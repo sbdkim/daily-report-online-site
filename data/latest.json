@@ -1,20 +1,15 @@
 {
-  "generated_at": "2026-03-13T12:43:32.597Z",
+  "generated_at": "2026-03-13T12:46:44.416Z",
   "news_summary": [
     {
-      "headline": "King expressed 'concern' over Alberta separatists, say First Nations chiefs",
+      "headline": "Israel-Iran Conflict: Iran War Live Updates: Defiant Crowds Rally in Tehran; U.S. Vows to Reopen Key Strait",
       "region": "world",
-      "summary": "King expressed 'concern' over Alberta separatists, say First Nations chiefs. Indigenous leaders made Charles aware of the \"threat\" posed by the movement during a meeting in London, they say.",
+      "summary": "Israel-Iran Conflict: Iran War Live Updates: Defiant Crowds Rally in Tehran; U.S. Vows to Reopen Key Strait. Thousands gathered in the Iranian capital in opposition to Israel and the United States. Pentagon officials said they would stop Iran from choking off the Strait of Hormuz, but did not say how.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-13T03:04:28.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-13T03:04:28.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
+          "published_at": "2026-03-13T12:44:09.000Z"
         }
       ],
       "reliability_score": 1
@@ -46,154 +41,6 @@
       "reliability_score": 1
     },
     {
-      "headline": "US eases Russia oil sanctions as Iran war pushes up energy prices ",
-      "region": "us",
-      "summary": "US eases Russia oil sanctions as Iran war pushes up energy prices. Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-13T12:23:17.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "One dead and two injured in Virginia university shooting ",
-      "region": "us",
-      "summary": "One dead and two injured in Virginia university shooting. A gunman opened fire at Old Dominion University in Virginia, shooting three people before students subdued him.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c4gjrzgr32mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T23:18:58.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "UFC fighters to train FBI agents at Quantico",
-      "region": "world",
-      "summary": "UFC fighters to train FBI agents at Quantico. Athletes will visit the FBI academy this weekend to give a seminar on fighting techniques and tactics.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c743emjmnrro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T22:23:46.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c743emjmnrro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T22:23:46.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Customer sues Costco for tariff refunds",
-      "region": "us",
-      "summary": "Customer sues Costco for tariff refunds. The lawsuit is an indication of the complexities looming over a potential $166bn in tariff refunds.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cwyxz3xe04yo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T16:08:37.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC",
-      "region": "us",
-      "summary": "Epstein used modelling agent to recruit girls, Brazilian women tell BBC. Modelling agent used businesses to recruit girls and arrange US visas to visit Jeffrey Epstein, Brazilian women tell BBC.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cr4576v66kno?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T00:05:52.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere",
-      "region": "us",
-      "summary": "Nasa spacecraft weighing 1,300lb re-enters Earth's atmosphere. Much of the Van Allen Probe was expected to burn up in the atmosphere, though Nasa said there was a \"low\" risk of people being struck by surviving components.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd9gwdgg38vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T11:23:36.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Sly fox sneaks on to cargo ship in Southampton and arrives in New York",
-      "region": "us",
-      "summary": "Sly fox sneaks on to cargo ship in Southampton and arrives in New York. The animal that stowed away on the vessel is now in the care of the Bronx Zoo with veterinary staff.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cly2xynjzdzo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-12T13:42:44.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts",
-      "region": "us",
-      "summary": "Volcanic fragments rain down as Hawaii's Kilauea volcano erupts. This eruption episode sent fragments made of ash, pumice, and pieces of volcanic glass into communities, forcing highway closures and the evacuation of tourists.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/videos/c2e4ljy1kp8o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-11T16:52:10.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "US inflation stable ahead of Iran shock",
-      "region": "us",
-      "summary": "US inflation stable ahead of Iran shock. With energy prices jumping, analysts say the report might be viewed as a \"historical artefact\".",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cde4w32573xo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-11T13:38:42.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "New US ambassador to South Africa summoned over 'undiplomatic remarks'",
-      "region": "us",
-      "summary": "New US ambassador to South Africa summoned over 'undiplomatic remarks'. Leo Brent Bozell apologises after weighing in on a dispute rooted in the country's apartheid past.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c14m1vzmxz3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-11T21:30:16.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Israel-Iran Conflict: Iran War Live Updates: Crowds Rally in Tehran as U.S. Measures Fail to Calm Oil Fears",
-      "region": "world",
-      "summary": "Israel-Iran Conflict: Iran War Live Updates: Crowds Rally in Tehran as U.S. Measures Fail to Calm Oil Fears. Thousands gathered in the Iranian capital in opposition to the United States and Israel. U.S. defense officials are briefing reporters after the military said that four crew members had died in the crash of a refueling jet in Iraq.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-13T12:38:11.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
       "headline": "What Does It Mean to Have Air Superiority Over Iran?",
       "region": "world",
       "summary": "What Does It Mean to Have Air Superiority Over Iran?. The American and Israeli air forces have a dominant advantage in the skies, but Iran can still muster some resistance.",
@@ -205,70 +52,262 @@
         }
       ],
       "reliability_score": 1
+    },
+    {
+      "headline": "Drone Strike Has Cyprus, and Europe, on Edge",
+      "region": "world",
+      "summary": "Drone Strike Has Cyprus, and Europe, on Edge. Allies have rushed to defend the Mediterranean nation, where the drone hit a British base. Some Cypriots wonder why the bases are still there.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/13/world/middleeast/cyprus-iran-drone-strike.html",
+          "published_at": "2026-03-13T09:50:28.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help",
+      "region": "world",
+      "summary": "Phones ‘Ringing Off the Hook’ for Ukraine Defense Firms as Mideast Seeks Help. Ukraine wants to leverage its defense expertise into security partnerships and to reap potentially vast profits for its arms industry.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/13/world/europe/ukraine-drone-interceptors-iran-middle-east.html",
+          "published_at": "2026-03-13T11:00:57.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How the War in Iran Could Help China and Change Asia",
+      "region": "world",
+      "summary": "How the War in Iran Could Help China and Change Asia. American officials have said for years that they would prioritize the Indo-Pacific. Now they’re moving warships, missiles and air defenses out for a war in the Middle East.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/13/world/asia/iran-war-china-asia.html",
+          "published_at": "2026-03-13T04:00:37.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict",
+      "region": "world",
+      "summary": "A Visit to a Temple at the Heart of the Thailand-Cambodia Conflict. A rare visit to a Khmer temple on Thailand and Cambodia’s border showed how deadly clashes between the two countries have scarred a heritage site.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/13/world/asia/thailand-cambodia-preah-vihear-temple.html",
+          "published_at": "2026-03-13T04:01:17.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack",
+      "region": "world",
+      "summary": "Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack. The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html",
+          "published_at": "2026-03-12T12:35:16.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse",
+      "region": "world",
+      "summary": "How Russia’s Scorched-Earth Attacks Put Ukraine’s Power Grid Near Collapse. Strikes on Ukrainian energy systems have tripled this winter. Continuous repairs and Western aid staved off a total breakdown.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/europe/ukraine-russia-energy-system.html",
+          "published_at": "2026-03-12T09:02:33.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump Tempers María Corina Machado’s Political Ambitions in Venezuela",
+      "region": "world",
+      "summary": "Trump Tempers María Corina Machado’s Political Ambitions in Venezuela. President Trump is tempering the political ambitions of María Corina Machado, a Nobel laureate, as he deepens ties with her foes in Venezuela.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/americas/trump-maria-corina-machado-venezuela.html",
+          "published_at": "2026-03-12T22:48:48.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "China Wants Its Ethnic Minorities to Blend In. Now It’s the Law.",
+      "region": "world",
+      "summary": "China Wants Its Ethnic Minorities to Blend In. Now It’s the Law.. Under a new “ethnic unity” law, Mandarin Chinese must now be the language of teaching. Parents must guide their children to love the Communist Party. Neighborhoods should be mixed.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/asia/china-minorities-xinjiang-tibet.html",
+          "published_at": "2026-03-13T10:36:59.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks",
+      "region": "world",
+      "summary": "Ground Down by War, Hezbollah’s Loyal Base Shows Cracks. “We just want to be back in our homes,” said a Lebanese man who, like many others in the latest round of fighting, has to flee.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/middleeast/lebanon-hezbollah-israel.html",
+          "published_at": "2026-03-12T11:02:40.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee",
+      "region": "world",
+      "summary": "Israel Drops Case Against Soldiers Accused of Abusing Palestinian Detainee. After a prisoner arrived at a hospital with broken ribs and a torn rectum, Israelis were once again at odds over the issue of mistreatment and impunity.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/12/world/middleeast/israel-detainee-abuse-charges.html",
+          "published_at": "2026-03-12T19:47:38.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "US eases Russia oil sanctions as Iran war pushes up energy prices ",
+      "region": "us",
+      "summary": "US eases Russia oil sanctions as Iran war pushes up energy prices. Washington says a 30-day waiver is only for sanctioned Russian oil already loaded on vessels at sea.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/clyzj3g3pygo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-13T12:23:17.000Z"
+        }
+      ],
+      "reliability_score": 1
     }
   ],
   "reddit_ai_summary": [
     {
-      "title": "claude-code-best-practice hits GitHub Trending (Monthly) with 15,000★",
-      "score": 0.48,
-      "summary": "Thread on \"claude-code-best-practice hits GitHub Trending (Monthly) with 15,000★\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rsls8b/claudecodebestpractice_hits_github_trending/",
-      "subreddit": "ClaudeCode"
+      "title": "Codex side-effect: intelligence??",
+      "score": 0.51,
+      "summary": "Thread on \"Codex side-effect: intelligence??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rskdko/codex_sideeffect_intelligence/",
+      "subreddit": "codex"
     },
     {
-      "title": "It didn't understand a joke. :(",
-      "score": 0.48,
-      "summary": "Thread on \"It didn't understand a joke. :(\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsm9f3/it_didnt_understand_a_joke/",
+      "title": "the assignments i already submitted :')",
+      "score": 0.52,
+      "summary": "Thread on \"the assignments i already submitted :')\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rslut6/the_assignments_i_already_submitted/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Is Claude Code actually solving most coding problems for you?",
-      "score": 0.48,
-      "summary": "Thread on \"Is Claude Code actually solving most coding problems for you?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsma30/is_claude_code_actually_solving_most_coding/",
-      "subreddit": "ArtificialInteligence"
+      "title": "My vs extension for Kimi not working any advice",
+      "score": 0.5,
+      "summary": "Thread on \"My vs extension for Kimi not working any advice\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1rsjwpp/my_vs_extension_for_kimi_not_working_any_advice/",
+      "subreddit": "kimi"
     },
     {
-      "title": "Please vote for custom code review instructions in the Codex app",
-      "score": 0.33,
-      "summary": "Thread on \"Please vote for custom code review instructions in the Codex app\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rrt3zx/please_vote_for_custom_code_review_instructions/",
-      "subreddit": "ChatGPTCoding"
+      "title": "OpenClaw dynamic skills",
+      "score": 0.52,
+      "summary": "Thread on \"OpenClaw dynamic skills\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rsm20b/openclaw_dynamic_skills/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "GPT 5.4's Local optimization is dangerous for you and your work",
-      "score": 0.48,
-      "summary": "Thread on \"GPT 5.4's Local optimization is dangerous for you and your work\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsm6ig/gpt_54s_local_optimization_is_dangerous_for_you/",
+      "title": "VS Code Terminal Issue",
+      "score": 0.49,
+      "summary": "Thread on \"VS Code Terminal Issue\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rsi7q7/vs_code_terminal_issue/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "People paying 80usd to install OpenClaw and 30 to uninstall it. What do you think?",
+      "score": 0.51,
+      "summary": "Thread on \"People paying 80usd to install OpenClaw and 30 to uninstall it. What do you think?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rskcdw/people_paying_80usd_to_install_openclaw_and_30_to/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Is /review whats burning so much usage in 5.4?",
+      "score": 0.49,
+      "summary": "Thread on \"Is /review whats burning so much usage in 5.4?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rsi8tv/is_review_whats_burning_so_much_usage_in_54/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Got 100% off Plus while deactivating my plan.",
+      "score": 0.49,
+      "summary": "Thread on \"Got 100% off Plus while deactivating my plan.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsikcp/got_100_off_plus_while_deactivating_my_plan/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "I think we might be entering the AI systems architecture phase now",
-      "score": 0.48,
-      "summary": "Thread on \"I think we might be entering the AI systems architecture phase now\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rsm1vb/i_think_we_might_be_entering_the_ai_systems/",
-      "subreddit": "ArtificialInteligence"
+      "title": "Running OpenClaw 24/7 on Mac Mini M4, what actually works after weeks of trial and error",
+      "score": 0.49,
+      "summary": "Thread on \"Running OpenClaw 24/7 on Mac Mini M4, what actually works after weeks of trial and error\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rsi5bi/running_openclaw_247_on_mac_mini_m4_what_actually/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "Goose vs Claude Code vs Cline vs ....",
-      "score": 0.48,
-      "summary": "Thread on \"Goose vs Claude Code vs Cline vs ....\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rsljls/goose_vs_claude_code_vs_cline_vs/",
-      "subreddit": "ClaudeCode"
+      "title": "Mission Control for Openclaw",
+      "score": 0.49,
+      "summary": "Thread on \"Mission Control for Openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rsib53/mission_control_for_openclaw/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "Take the Vibe Coding survey, enter to win a $500 Amazon gift card",
-      "score": 0.32,
-      "summary": "Thread on \"Take the Vibe Coding survey, enter to win a $500 Amazon gift card\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rrs0rg/take_the_vibe_coding_survey_enter_to_win_a_500/",
-      "subreddit": "ChatGPTCoding"
+      "title": "Anyone running openclaw successfully with an open source model?",
+      "score": 0.49,
+      "summary": "Thread on \"Anyone running openclaw successfully with an open source model?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rshcwe/anyone_running_openclaw_successfully_with_an_open/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "5.4 is worse than 5.3 codex for me - and i have a lot of context on these models",
+      "score": 0.48,
+      "summary": "Thread on \"5.4 is worse than 5.3 codex for me - and i have a lot of context on these models\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rsgoj9/54_is_worse_than_53_codex_for_me_and_i_have_a_lot/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Copilot is the Internet Explorer / Bing of AI",
+      "score": 0.48,
+      "summary": "Thread on \"Copilot is the Internet Explorer / Bing of AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsgpyl/copilot_is_the_internet_explorer_bing_of_ai/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Can’t unsubscribe from Kimi",
+      "score": 0.48,
+      "summary": "Thread on \"Can’t unsubscribe from Kimi\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1rsh0hr/cant_unsubscribe_from_kimi/",
+      "subreddit": "kimi"
+    },
+    {
+      "title": "Bad news...",
+      "score": 0.45,
+      "summary": "Thread on \"Bad news...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rsbvsd/bad_news/",
+      "subreddit": "codex"
     }
   ],
   "metadata": {
-    "overall_status": "partial",
-    "refresh_started_at": "2026-03-13T12:43:29.784Z",
-    "refresh_finished_at": "2026-03-13T12:43:32.598Z",
+    "overall_status": "success",
+    "refresh_started_at": "2026-03-13T12:46:05.419Z",
+    "refresh_finished_at": "2026-03-13T12:46:44.416Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -276,18 +315,15 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1734
+        "duration_ms": 2265
       },
       "reddit": {
-        "source": "rss",
-        "status": "partial",
-        "item_count": 8,
-        "duration_ms": 2770,
-        "warning": "Reddit public JSON returned no usable posts; falling back to RSS."
+        "source": "public-json+rss",
+        "status": "success",
+        "item_count": 15,
+        "duration_ms": 38944
       }
     },
-    "warnings": [
-      "Reddit public JSON returned no usable posts; falling back to RSS."
-    ]
+    "warnings": []
   }
 }
