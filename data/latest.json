@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-14T01:27:11.220Z",
+  "generated_at": "2026-03-14T06:39:30.682Z",
   "news_summary": [
     {
-      "headline": "Israel-Iran Conflict: Iran War Live Updates: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says",
+      "headline": "Israel-Iran Conflict: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says",
       "region": "world",
-      "summary": "Israel-Iran Conflict: Iran War Live Updates: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says. The strikes on Kharg Island hit military sites, including those storing missiles and mines, a U.S. military official said, adding that economic infrastructure was not targeted. Oil prices have risen by more than 40 percent since the start of the war.",
+      "summary": "Israel-Iran Conflict: U.S. Military Attacks Iran’s Oil Export Hub, Trump Says. The strikes on Kharg Island hit military sites, including those storing missiles and mines, a U.S. military official said, adding that economic infrastructure was not targeted. Oil prices have risen by more than 40 percent since the start of the war.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/13/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-14T01:22:19.000Z"
+          "published_at": "2026-03-14T05:28:40.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,14 +28,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Hyundai workers, residents in Ulsan fear impact of robots' arrival at US factories",
+      "headline": "Man flees after stabbing woman to death in Namyangju",
       "region": "korea",
-      "summary": "Hyundai workers, residents in Ulsan fear impact of robots' arrival at US factories. “We weren’t even shaken during COVID. It somehow just passed us by,” said Joo Jung-hee, an 80-year-old restaurant owner. “That’s because of the factory workers.” Running a small restaurant in Ulsan, a city whose economy revolves around six major Hyundai Motor factories, Joo has rarely worried about sales. Even with pain-relief patches on hands darkened by age spots, she still smiles at the sight of customers streaming in each day, metimes swallowing a handful of painkillers before returning to work. Inside the modest 82-square-meter restaurant, ten steel tables fill quickly at lunchtime. Factory workers tired of cafeteria food come for Joo’s pollack stew or ft tofu up, and the place turns into mething like a neighborhood living room. Over the years serving out food, she now knows when the next seasonal promotion is. Restaurants nearby have changed owners several times in the past year alone. But Joo has held on to her spot, which sits directly across from the factory gates for three decades. For her, Ulsan was the city that made it possible to raise three sons. She arrived.",
+      "summary": "Man flees after stabbing woman to death in Namyangju. A man has fled after fatally stabbing a woman on a street in Namyangju, near Seoul, on Saturday, prompting the police to track him down, officials said. The police received a report at around 9 a.m. that the suspect killed a woman in her 30s in Namyangju, about 20 kilometers east of Seoul, according to the officials. The suspect is known to be an ex-convict who was mandated to wear an electronic ankle monitoring device.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260314/hyundai-workers-residents-in-ulsan-fear-impact-of-robots-arrival-at-us-factories?utm_source=rss",
-          "published_at": "2026-03-14T01:22:03.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260314/man-flees-after-stabbing-woman-to-death-in-namyangju?utm_source=rss",
+          "published_at": "2026-03-14T06:32:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -185,11 +185,16 @@
     },
     {
       "headline": "Judge says 'no evidence' to justify Federal Reserve probe ",
-      "region": "us",
+      "region": "world",
       "summary": "Judge says 'no evidence' to justify Federal Reserve probe. Jeanine Pirro said she would appeal the ruling, which blocks the subpoenas she issued to the central bank.",
       "sources": [
         {
           "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-13T21:28:26.000Z"
+        },
+        {
+          "title": "BBC",
           "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss",
           "published_at": "2026-03-13T21:28:26.000Z"
         }
@@ -199,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Full access: What are the risks?",
+      "title": "The Death of OpenAI's Whistleblower Makes No Sense: What Happened to Suchir Balaji?",
       "score": 0.51,
-      "summary": "Thread on \"Full access: What are the risks?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rt3dh1/full_access_what_are_the_risks/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Cmon you know you want one",
-      "score": 0.49,
-      "summary": "Thread on \"Cmon you know you want one\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rt093n/cmon_you_know_you_want_one/",
+      "summary": "Thread on \"The Death of OpenAI's Whistleblower Makes No Sense: What Happened to Suchir Balaji?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rtb15v/the_death_of_openais_whistleblower_makes_no_sense/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "A side project we started in 2019 accidentally turned into an AIOS and an AI agent platform",
+      "title": "Why the majority of vibe coded projects fail",
+      "score": 0.47,
+      "summary": "Thread on \"Why the majority of vibe coded projects fail\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rt31th/why_the_majority_of_vibe_coded_projects_fail/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Built a backend system with ChatGPT so my coding agents can set up auth, DB and deploy apps end-to-end",
       "score": 0.52,
-      "summary": "Thread on \"A side project we started in 2019 accidentally turned into an AIOS and an AI agent platform\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rt5l2f/a_side_project_we_started_in_2019_accidentally/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "/extension vs /plugin marketplace",
-      "score": 0.51,
-      "summary": "Thread on \"/extension vs /plugin marketplace\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rt4b2b/extension_vs_plugin_marketplace/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "What backend infrastructure needs to look like if coding agents are going to run it",
-      "score": 0.5,
-      "summary": "Thread on \"What backend infrastructure needs to look like if coding agents are going to run it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rt1h8t/what_backend_infrastructure_needs_to_look_like_if/",
+      "summary": "Thread on \"Built a backend system with ChatGPT so my coding agents can set up auth, DB and deploy apps end-to-end\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rtbyqr/built_a_backend_system_with_chatgpt_so_my_coding/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "CPT and SFT for LLM training",
-      "score": 0.51,
-      "summary": "Thread on \"CPT and SFT for LLM training\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rt51z4/cpt_and_sft_for_llm_training/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Codex 5.4 is great in single prompt tasks but has poor context continuity in longer convos, at least on VS Codex",
-      "score": 0.51,
-      "summary": "Thread on \"Codex 5.4 is great in single prompt tasks but has poor context continuity in longer convos, at least on VS Codex\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rt57xb/codex_54_is_great_in_single_prompt_tasks_but_has/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Opinion | Why I’m Suing Grammarly (Gift Article)",
-      "score": 0.5,
-      "summary": "Thread on \"Opinion | Why I’m Suing Grammarly (Gift Article)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rt291o/opinion_why_im_suing_grammarly_gift_article/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "This is saving $60 dollar actually if use correctly! an MCP tool which will extend your Claude code usage with results. Read the story below",
-      "score": 0.5,
-      "summary": "Thread on \"This is saving $60 dollar actually if use correctly! an MCP tool which will extend your Claude code usage with results. \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rt1jjo/this_is_saving_60_dollar_actually_if_use/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "UI Tips in Codex",
-      "score": 0.5,
-      "summary": "Thread on \"UI Tips in Codex\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rt2r2w/ui_tips_in_codex/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "AI and kid's education - unpopular opinion",
+      "title": "RIP Gemini",
       "score": 0.49,
-      "summary": "Thread on \"AI and kid's education - unpopular opinion\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rszac6/ai_and_kids_education_unpopular_opinion/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"RIP Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1rt7swm/rip_gemini/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "Anyone like me want to use MCP in Openclaw without sky-high bill?",
+      "score": 0.52,
+      "summary": "Thread on \"Anyone like me want to use MCP in Openclaw without sky-high bill?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rtbvqu/anyone_like_me_want_to_use_mcp_in_openclaw/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Showcase Weekend! — Week 10, 2026",
+      "score": 0.51,
+      "summary": "Thread on \"Showcase Weekend! — Week 10, 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rtajr6/showcase_weekend_week_10_2026/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Ok. Why the OpenClaw craze takes a storm in China - from someone live in China",
+      "score": 0.51,
+      "summary": "Thread on \"Ok. Why the OpenClaw craze takes a storm in China - from someone live in China\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rtaz5q/ok_why_the_openclaw_craze_takes_a_storm_in_china/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Which corporate chat bot are you misusing as your free LLM right now?",
+      "score": 0.5,
+      "summary": "Thread on \"Which corporate chat bot are you misusing as your free LLM right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rt93cl/which_corporate_chat_bot_are_you_misusing_as_your/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "How do you stop your OpenClaw agent from forgetting context after a few hours/day?",
+      "score": 0.5,
+      "summary": "Thread on \"How do you stop your OpenClaw agent from forgetting context after a few hours/day?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rt8wex/how_do_you_stop_your_openclaw_agent_from/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "What is everyone using to build these websites so fast?",
+      "score": 0.5,
+      "summary": "Thread on \"What is everyone using to build these websites so fast?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rta1f8/what_is_everyone_using_to_build_these_websites_so/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Gemini is the only AI tool I've used where you can only edit the most recent message.",
+      "score": 0.48,
+      "summary": "Thread on \"Gemini is the only AI tool I've used where you can only edit the most recent message.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1rt6lcd/gemini_is_the_only_ai_tool_ive_used_where_you_can/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "\"Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn’t ready\"",
+      "score": 0.47,
+      "summary": "Thread on \"\"Morgan Stanley warns an AI breakthrough Is coming in 2026 — and most of the world isn’t ready\"\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rt4n6x/morgan_stanley_warns_an_ai_breakthrough_is_coming/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "AI Pro user here - frustrated with Google lately",
+      "score": 0.47,
+      "summary": "Thread on \"AI Pro user here - frustrated with Google lately\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1rt41hq/ai_pro_user_here_frustrated_with_google_lately/",
+      "subreddit": "GeminiAI"
     },
     {
       "title": "Left ChatGPT and Gemini to interact with each other for a few minutes…",
-      "score": 0.49,
+      "score": 0.46,
       "summary": "Thread on \"Left ChatGPT and Gemini to interact with each other for a few minutes…\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rt16ks/left_chatgpt_and_gemini_to_interact_with_each/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "DAE think Raptor Mini is actually one of the best models Copilot offers? I prefer it to anything other than Claude Opus 4.6",
-      "score": 0.49,
-      "summary": "Thread on \"DAE think Raptor Mini is actually one of the best models Copilot offers? I prefer it to anything other than Claude Opus \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rszpa3/dae_think_raptor_mini_is_actually_one_of_the_best/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "How many tokens will ChatGPT burn for this task ?",
-      "score": 0.48,
-      "summary": "Thread on \"How many tokens will ChatGPT burn for this task ?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rsxzad/how_many_tokens_will_chatgpt_burn_for_this_task/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "I have used up 90% of my weekly limit in less than a day something is not right",
-      "score": 0.48,
-      "summary": "Thread on \"I have used up 90% of my weekly limit in less than a day something is not right\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rsz19n/i_have_used_up_90_of_my_weekly_limit_in_less_than/",
-      "subreddit": "codex"
+      "title": "What backend infrastructure needs to look like if coding agents are going to run it",
+      "score": 0.46,
+      "summary": "Thread on \"What backend infrastructure needs to look like if coding agents are going to run it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rt1h8t/what_backend_infrastructure_needs_to_look_like_if/",
+      "subreddit": "ChatGPTCoding"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-14T01:26:32.951Z",
-    "refresh_finished_at": "2026-03-14T01:27:11.221Z",
+    "refresh_started_at": "2026-03-14T06:38:53.344Z",
+    "refresh_finished_at": "2026-03-14T06:39:30.682Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1750
+        "duration_ms": 2196
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38207
+        "duration_ms": 37272
       }
     },
     "warnings": []
