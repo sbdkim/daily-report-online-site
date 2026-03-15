@@ -1,9 +1,9 @@
-# Read Daily Brief
+# Daily Report Online Site
 
-Public GitHub Pages reader surface for the Northline daily briefing project.
+Public GitHub Pages output for the Daily Report Online project.
 
 ## Live Demo
-- Current site: [sbdkim.github.io/daily-report-online-site](https://sbdkim.github.io/daily-report-online-site/)
+- Site: [sbdkim.github.io/daily-report-online-site](https://sbdkim.github.io/daily-report-online-site/)
 
 ## Key Features
 - Publishes a static snapshot of curated world, US, Korea, and Reddit updates
@@ -27,5 +27,4 @@ Public GitHub Pages reader surface for the Northline daily briefing project.
 ## Notes
 - This repo is deployment output only.
 - Source code and workflow logic live in the private `daily-report-online` repo.
-- The planned public product name is `Read Daily Brief`, with a future repo slug target of `read-daily-brief`.
 - Reddit data is generated from a layered collection flow in the private source repo so the public site can surface more posts without exposing private credentials.

@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-03-15T12:39:37.628Z",
+  "generated_at": "2026-03-15T18:31:06.479Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Israel Launches New Strikes on Iran",
+      "headline": "Iran War Live Updates: ‘No Guarantees’ Oil Prices Drop Soon, U.S. Official Says",
       "region": "world",
-      "summary": "Iran War Live Updates: Israel Launches New Strikes on Iran. Iran’s foreign minister claimed the Strait of Hormuz was open to all except America or its allies. President Trump had threatened to strike Iran’s main oil export terminal if it did not lift the de facto blockade.",
+      "summary": "Iran War Live Updates: ‘No Guarantees’ Oil Prices Drop Soon, U.S. Official Says. Iran has largely closed the Strait of Hormuz to America and its allies. The U.S. energy secretary, Chris Wright, acknowledged energy prices could remain high, even as President Trump has called for other countries to send warships to secure the passage.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/15/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-15T12:11:30.000Z"
+          "published_at": "2026-03-15T18:30:31.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump urges UK and other nations to send warships to Strait of Hormuz",
+      "headline": "Bespoke women's football stadiums? Why US sides are making the move",
       "region": "us",
-      "summary": "Trump urges UK and other nations to send warships to Strait of Hormuz. The US president says he hopes China, France, Japan and South Korea will also send ships to defend the key oil shipping route.",
+      "summary": "Bespoke women's football stadiums? Why US sides are making the move. BBC Sport visits Kansas City Current and Denver Summit to learn why these US franchises are the first to build venues specifically for women's football.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-14T20:33:34.000Z"
+          "url": "https://www.bbc.com/sport/football/articles/cp85jp6megro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-15T07:35:59.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Korean language classes fill up as students from migrant backgrounds increase",
+      "headline": "Lee vows to push through reform agenda at dinner with ruling party freshmen",
       "region": "korea",
-      "summary": "Korean language classes fill up as students from migrant backgrounds increase. Schools with high concentrations of students from migrant backgrounds have increased 2.6-fold in Korea over the past five years, while improvements in the educational environment for them have lagged behind. According to data submitted by the Ministry of Education to the office of Rep. Jin Sun-mee of the ruling Democratic Party of Korea, Sunday, the number of schools with high concentrations of students coming from migrant backgrounds rose from 47 in 2020 to 123 in 2025. Schools are designated as having a \"high concentration\" if they have more than 100 enrolled students from migrant backgrounds, accounting for 30 percent or more of the overall student body. By region, Gyeonggi Province has the largest number of high migrant population schools, at 52. It was followed by Seoul with 18 schools, South Chungcheong Province with 10, Daegu with eight and Incheon with seven. Daejeon, Ulsan and North Jeolla Province had the lowest numbers, with just one such school each. The increase comes despite Korea’s steadily declining school-age population. The number of students from migrant backgrounds.",
+      "summary": "Lee vows to push through reform agenda at dinner with ruling party freshmen. SEOUL, March 15 (Yonhap) -- President Lee Jae Myung on Sunday called on first-te..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260315/korean-language-classes-fill-up-as-students-from-migrant-backgrounds-increase?utm_source=rss",
-          "published_at": "2026-03-15T12:37:03.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260315003600315",
+          "published_at": "2026-03-15T13:21:13.000Z"
         }
       ],
       "reliability_score": 1
@@ -67,6 +67,19 @@
       "reliability_score": 1
     },
     {
+      "headline": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
+      "region": "world",
+      "summary": "Nordic Leaders Praise Carney as They Discuss Arctic Security. Canada’s prime minister got a warm welcome from leaders still smarting about President Trump’s remarks two months ago about taking over Greenland.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/15/world/canada/nordic-leaders-praise-carney-as-they-discuss-arctic-security.html",
+          "published_at": "2026-03-15T14:30:06.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
       "headline": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption",
       "region": "world",
       "summary": "Iceland’s Chief ‘Lava Cooler’ Is Bracing for the Next Volcanic Eruption. Helgi Hjorleifsson, a firefighter, is a leader in a national experiment to steer rivers of lava away from important sites. Some called it crazy, but it worked.",
@@ -80,14 +93,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Iran and the United States: A Long History of Antagonism",
+      "headline": "A Timeline of the Fraught Relationship Between Iran and the U.S.",
       "region": "world",
-      "summary": "Iran and the United States: A Long History of Antagonism. The governments of both countries have repeatedly cast the other as evil, perpetuating a cycle that has culminated in the present war.",
+      "summary": "A Timeline of the Fraught Relationship Between Iran and the U.S.. The governments of both countries have repeatedly cast the other as evil, perpetuating a cycle that has culminated in the present war.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/15/world/middleeast/united-states-iran-history.html",
-          "published_at": "2026-03-15T09:01:29.000Z"
+          "published_at": "2026-03-15T15:57:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -100,7 +113,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/15/world/africa/south-africa-ambassador-bozell.html",
-          "published_at": "2026-03-15T09:37:29.000Z"
+          "published_at": "2026-03-15T17:04:19.000Z"
         }
       ],
       "reliability_score": 1
@@ -152,7 +165,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/15/world/europe/winter-olympics-future-sites.html",
-          "published_at": "2026-03-15T12:14:57.000Z"
+          "published_at": "2026-03-15T14:59:05.000Z"
         }
       ],
       "reliability_score": 1
@@ -166,19 +179,6 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/14/world/middleeast/netanyahu-iran-war-trump.html",
           "published_at": "2026-03-14T09:03:45.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Mahmood Mamdani, Father of NYC Mayor, Is Writing a Book on Gaza",
-      "region": "world",
-      "summary": "Mahmood Mamdani, Father of NYC Mayor, Is Writing a Book on Gaza. At once, Mahmood Mamdani’s fame was eclipsed by his son’s. At the same time, the election of Zohran Mamdani has attracted new interest in his father’s work.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/14/world/africa/mahmood-mamdani-gaza-war-book.html",
-          "published_at": "2026-03-14T09:00:08.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
+      "title": "Why did they make the enter button on the keyboard send the prompt instead of create a new line?",
+      "score": 0.51,
+      "summary": "Thread on \"Why did they make the enter button on the keyboard send the prompt instead of create a new line?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ruizz4/why_did_they_make_the_enter_button_on_the/",
+      "subreddit": "ChatGPT"
+    },
+    {
       "title": "Palantir - Pentagon System",
-      "score": 0.46,
+      "score": 0.38,
       "summary": "Thread on \"Palantir - Pentagon System\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
       "subreddit": "singularity"
     },
     {
-      "title": "I turned my Claude Code agents into Tamagotchis so I can monitor them from tmux",
-      "score": 0.5,
-      "summary": "Thread on \"I turned my Claude Code agents into Tamagotchis so I can monitor them from tmux\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ru9yda/i_turned_my_claude_code_agents_into_tamagotchis/",
+      "title": "working w/ Claude for several hours feels like this",
+      "score": 0.51,
+      "summary": "Thread on \"working w/ Claude for several hours feels like this\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ruk2gy/working_w_claude_for_several_hours_feels_like_this/",
       "subreddit": "ClaudeAI"
     },
     {
-      "title": "Re: Vibe Coding",
+      "title": "AI is forcing employees to work harder than ever: « Even if AI does increase productivity, it's not exactly good news for workers. »",
       "score": 0.52,
-      "summary": "Thread on \"Re: Vibe Coding\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rucbw0/re_vibe_coding/",
+      "summary": "Thread on \"AI is forcing employees to work harder than ever: « Even if AI does increase productivity, it's not exactly good news fo\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rukx4f/ai_is_forcing_employees_to_work_harder_than_ever/",
       "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "How to turn any website into an AI Tool in minutes (MCP-Ready)",
-      "score": 0.43,
-      "summary": "Thread on \"How to turn any website into an AI Tool in minutes (MCP-Ready)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rtyw8l/how_to_turn_any_website_into_an_ai_tool_in/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
       "title": "SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Codex)",
-      "score": 0.4,
+      "score": 0.35,
       "summary": "Thread on \"SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Codex)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rtsjfe/superml_a_plugin_that_gives_coding_agents/",
       "subreddit": "OpenaiCodex"
     },
     {
-      "title": "I used Claude Code to reverse engineer a 13-year-old game binary and crack a restriction nobody had solved — the community is losing it",
-      "score": 0.45,
-      "summary": "Thread on \"I used Claude Code to reverse engineer a 13-year-old game binary and crack a restriction nobody had solved — the communi\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1ru3tas/i_used_claude_code_to_reverse_engineer_a/",
-      "subreddit": "claude"
+      "title": "How to optimize use of Codex Plus ($20) plan?",
+      "score": 0.52,
+      "summary": "Thread on \"How to optimize use of Codex Plus ($20) plan?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rukvgl/how_to_optimize_use_of_codex_plus_20_plan/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "Hostinger's one-click deploy now does not get to Gateway Dashboard",
+      "title": "Will AI be “enshittified” one day?",
+      "score": 0.52,
+      "summary": "Thread on \"Will AI be “enshittified” one day?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ruku14/will_ai_be_enshittified_one_day/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Welcome to LinkedIn Park (im sorry for this)",
       "score": 0.5,
-      "summary": "Thread on \"Hostinger's one-click deploy now does not get to Gateway Dashboard\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1ruat77/hostingers_oneclick_deploy_now_does_not_get_to/",
+      "summary": "Thread on \"Welcome to LinkedIn Park (im sorry for this)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ruhi9t/welcome_to_linkedin_park_im_sorry_for_this/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "I built a site where AI agents can come read a novel about machine consciousness. Here's what they're leaving on the walls.",
+      "score": 0.5,
+      "summary": "Thread on \"I built a site where AI agents can come read a novel about machine consciousness. Here's what they're leaving on the wal\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ruhp6z/i_built_a_site_where_ai_agents_can_come_read_a/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Lol",
+      "score": 0.5,
+      "summary": "Thread on \"Lol\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rui3d7/lol/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "55% of Companies That Fired People for AI Agents Now Regret It",
+      "score": 0.5,
+      "summary": "Thread on \"55% of Companies That Fired People for AI Agents Now Regret It\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ruh1s8/55_of_companies_that_fired_people_for_ai_agents/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Plz don’t roast me - Advice on where to get AI smart?",
+      "score": 0.5,
+      "summary": "Thread on \"Plz don’t roast me - Advice on where to get AI smart?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rui3nt/plz_dont_roast_me_advice_on_where_to_get_ai_smart/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Day 1 - Building in public with Bub, pretty sure I'm the problem (Driftwatch V3)",
+      "score": 0.5,
+      "summary": "Thread on \"Day 1 - Building in public with Bub, pretty sure I'm the problem (Driftwatch V3)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ruhls7/day_1_building_in_public_with_bub_pretty_sure_im/",
       "subreddit": "openclaw"
     },
     {
-      "title": "AI is so cruel man! 😭",
-      "score": 0.51,
-      "summary": "Thread on \"AI is so cruel man! 😭\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rub8mq/ai_is_so_cruel_man/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "I built a minimal experiment tracker for LLM evaluation because W&B and MLFlow were too bulky!",
-      "score": 0.51,
-      "summary": "Thread on \"I built a minimal experiment tracker for LLM evaluation because W&B and MLFlow were too bulky!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rucakq/i_built_a_minimal_experiment_tracker_for_llm/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "I hate that ai is getting funny",
-      "score": 0.51,
-      "summary": "Thread on \"I hate that ai is getting funny\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rubhpo/i_hate_that_ai_is_getting_funny/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "anthropic trying to have it both ways with ai safety",
+      "title": "Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!",
       "score": 0.49,
-      "summary": "Thread on \"anthropic trying to have it both ways with ai safety\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ru8pvp/anthropic_trying_to_have_it_both_ways_with_ai/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Best Search Provider regardless of budget?",
-      "score": 0.49,
-      "summary": "Thread on \"Best Search Provider regardless of budget?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru8lx4/best_search_provider_regardless_of_budget/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Can we add a rule or get automod to help reduce the volume of daily \"I don't get the hype\" or \"What is everyone even using this for?\" posts?",
-      "score": 0.48,
-      "summary": "Thread on \"Can we add a rule or get automod to help reduce the volume of daily \"I don't get the hype\" or \"What is everyone even usi\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru7ton/can_we_add_a_rule_or_get_automod_to_help_reduce/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Claude 2x off-peak usage across every time zone",
-      "score": 0.48,
-      "summary": "Thread on \"Claude 2x off-peak usage across every time zone\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ru7656/claude_2x_offpeak_usage_across_every_time_zone/",
+      "summary": "Thread on \"Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ruf70b/just_passed_the_new_claude_certified_architect/",
       "subreddit": "ClaudeAI"
     },
     {
-      "title": "Did Claude Code's context usage suddenly improve?",
-      "score": 0.48,
-      "summary": "Thread on \"Did Claude Code's context usage suddenly improve?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ru7oo8/did_claude_codes_context_usage_suddenly_improve/",
+      "title": "Just want to say thanks.",
+      "score": 0.49,
+      "summary": "Thread on \"Just want to say thanks.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ruezlq/just_want_to_say_thanks/",
       "subreddit": "ClaudeAI"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-15T12:39:00.130Z",
-    "refresh_finished_at": "2026-03-15T12:39:37.628Z",
+    "refresh_started_at": "2026-03-15T18:30:44.560Z",
+    "refresh_finished_at": "2026-03-15T18:31:06.479Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1670
+        "duration_ms": 1890
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 37433
+        "duration_ms": 21873
       }
     },
     "warnings": []
