@@ -3,7 +3,14 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Daily Briefing</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./shared/tokens.css" />
+    <title>Read Daily Brief | Northline</title>
     <link rel="icon" type="image/png" href="./favicon.png" />
     <link rel="stylesheet" href="./styles.css" />
   </head>
@@ -11,20 +18,18 @@
     <div id="loadingOverlay" class="loading-overlay" hidden>
       <div class="loading-panel" role="status" aria-live="polite">
         <div class="spinner" aria-hidden="true"></div>
-        <p id="loadingMessage">Loading briefing...</p>
+        <p id="loadingMessage">Loading daily brief...</p>
       </div>
     </div>
 
     <main class="shell">
       <header class="topbar">
         <div class="title-block">
-          <h1>Daily Briefing</h1>
-          <p id="generatedAt" class="subtitle">Loading latest snapshot...</p>
+          <p class="eyebrow">Northline Reports</p>
+          <h1>Read Daily Brief</h1>
+          <p id="generatedAt" class="subtitle">Loading latest brief...</p>
         </div>
         <div class="actions">
-          <button id="themeToggleBtn" class="ghost" type="button" aria-pressed="false">
-            Dark mode
-          </button>
           <button id="refreshBtn">Reload snapshot</button>
         </div>
       </header>
