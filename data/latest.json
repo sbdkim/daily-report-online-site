@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-15T01:52:55.268Z",
+  "generated_at": "2026-03-15T06:49:34.756Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
+      "headline": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy",
       "region": "world",
-      "summary": "Iran War Live Updates: U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy. An Iran-backed militia took responsibility for an overnight attack on the U.S. Embassy in Baghdad. President Trump called on other nations to help escort oil tankers through the Strait of Hormuz.",
+      "summary": "U.S. Tells Citizens to Leave Iraq After Second Attack on Embassy. An Iran-backed militia took responsibility for an overnight attack on the U.S. Embassy in Baghdad. President Trump called on other nations to help escort oil tankers through the Strait of Hormuz.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-15T01:27:00.000Z"
+          "published_at": "2026-03-15T05:18:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,14 +28,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Tech giants facing higher cost burdens amid supply chain disruptions",
+      "headline": "Korean language classes crowded as migrant student numbers grow",
       "region": "korea",
-      "summary": "Tech giants facing higher cost burdens amid supply chain disruptions. SEOUL, March 15 (Yonhap) -- South Korean tech giants faced higher production cos..",
+      "summary": "Korean language classes crowded as migrant student numbers grow. Schools with high concentrations of students from migrant backgrounds have increased 2.6-fold in Korea over the past five years, while improvements in the educational environment for them have lagged behind. According to data submitted by the Ministry of Education to the office of Rep. Jin Sun-mee of the ruling Democratic Party of Korea, Sunday, the number of schools with high concentrations of students coming from migrant backgrounds rose from 47 in 2020 to 123 in 2025. Schools are designated as having a \"high concentration\" if they have more than 100 enrolled students from migrant backgrounds, accounting for 30 percent or more of the overall student body. By region, Gyeonggi Province has the largest number of high migrant population schools, at 52. It was followed by Seoul with 18 schools, South Chungcheong Province with 10, Daegu with eight and Incheon with seven. Daejeon, Ulsan and North Jeolla Province had the lowest numbers, with just one such school each. The increase comes despite Korea’s steadily declining school-age population. The number of students from migrant backgrounds.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260315001300320",
-          "published_at": "2026-03-15T01:42:31.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20260315/korean-language-classes-crowded-as-migrant-student-numbers-grow?utm_source=rss",
+          "published_at": "2026-03-15T06:42:04.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +48,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/14/world/middleeast/netanyahu-iran-war-trump.html",
-          "published_at": "2026-03-14T09:03:44.000Z"
+          "published_at": "2026-03-14T09:03:45.000Z"
         }
       ],
       "reliability_score": 1
@@ -61,7 +61,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/14/world/africa/mahmood-mamdani-gaza-war-book.html",
-          "published_at": "2026-03-14T09:00:07.000Z"
+          "published_at": "2026-03-14T09:00:08.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Claude gets interactive now, jaw dropped",
+      "title": "Palantir - Pentagon System",
       "score": 0.5,
-      "summary": "Thread on \"Claude gets interactive now, jaw dropped\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rtxa2q/claude_gets_interactive_now_jaw_dropped/",
-      "subreddit": "ClaudeAI"
+      "summary": "Thread on \"Palantir - Pentagon System\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1ru4c9s/palantir_pentagon_system/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Things Anthropic launched in last 70 days of 2026 (so far):",
-      "score": 0.45,
-      "summary": "Thread on \"Things Anthropic launched in last 70 days of 2026 (so far):\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/Anthropic/comments/1rto7xp/things_anthropic_launched_in_last_70_days_of_2026/",
-      "subreddit": "Anthropic"
+      "title": "(I made) A Python library that lets LLMs generate functions at runtime (PyFuncAI)",
+      "score": 0.49,
+      "summary": "Thread on \"(I made) A Python library that lets LLMs generate functions at runtime (PyFuncAI)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ru3fi2/i_made_a_python_library_that_lets_llms_generate/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "[PolyPrompt] Turn messy AI prompts into professional ones - free tool",
+      "title": "Admin contact option for claude models in GitHub copilot vs code.",
       "score": 0.52,
-      "summary": "Thread on \"[PolyPrompt] Turn messy AI prompts into professional ones - free tool\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1ru1dpe/polyprompt_turn_messy_ai_prompts_into/",
+      "summary": "Thread on \"Admin contact option for claude models in GitHub copilot vs code.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1ru6um1/admin_contact_option_for_claude_models_in_github/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "A program I created because I wanted to use my computer's Codex even when I was outside the house.",
-      "score": 0.32,
-      "summary": "Thread on \"A program I created because I wanted to use my computer's Codex even when I was outside the house.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rt0qli/a_program_i_created_because_i_wanted_to_use_my/",
-      "subreddit": "OpenaiCodex"
+      "title": "How to turn any website into an AI Tool in minutes (MCP-Ready)",
+      "score": 0.47,
+      "summary": "Thread on \"How to turn any website into an AI Tool in minutes (MCP-Ready)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rtyw8l/how_to_turn_any_website_into_an_ai_tool_in/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Claude Code)",
-      "score": 0.48,
-      "summary": "Thread on \"SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Claude Cod\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rtuxq7/superml_a_plugin_that_gives_coding_agents/",
-      "subreddit": "AiAutomations"
-    },
-    {
-      "title": "Claude Plugin to MCP Obsidian",
+      "title": "Subscription",
       "score": 0.51,
-      "summary": "Thread on \"Claude Plugin to MCP Obsidian\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1rtzes5/claude_plugin_to_mcp_obsidian/",
-      "subreddit": "claude"
+      "summary": "Thread on \"Subscription\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1ru5kkm/subscription/",
+      "subreddit": "kimi"
     },
     {
-      "title": "finally found a helpful use case for open claw",
-      "score": 0.48,
-      "summary": "Thread on \"finally found a helpful use case for open claw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rtuykb/finally_found_a_helpful_use_case_for_open_claw/",
+      "title": "Cost optimization Claude Code+free AI models for my agent",
+      "score": 0.51,
+      "summary": "Thread on \"Cost optimization Claude Code+free AI models for my agent\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru5frz/cost_optimization_claude_codefree_ai_models_for/",
       "subreddit": "openclaw"
     },
     {
-      "title": "sooo Claude-code can byepass and listen but Github-Copilot does not listen",
-      "score": 0.51,
-      "summary": "Thread on \"sooo Claude-code can byepass and listen but Github-Copilot does not listen\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rtzfpe/sooo_claudecode_can_byepass_and_listen_but/",
+      "title": "Turn your VS Code thinking indicator into a live dashboard. Static tip packs, real-time data sources, AI-powered summaries",
+      "score": 0.52,
+      "summary": "Thread on \"Turn your VS Code thinking indicator into a live dashboard. Static tip packs, real-time data sources, AI-powered summari\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1ru701n/turn_your_vs_code_thinking_indicator_into_a_live/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "creating account issue with phone number",
-      "score": 0.51,
-      "summary": "Thread on \"creating account issue with phone number\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1rtz7ur/creating_account_issue_with_phone_number/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Mobile apps and Claude code?",
-      "score": 0.51,
-      "summary": "Thread on \"Mobile apps and Claude code?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1rtz1os/mobile_apps_and_claude_code/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Anthropic just wiped out another wave of startups, mostly in education. Custom charts, diagrams, and interactive visuals in Claude, learning mode.",
-      "score": 0.5,
-      "summary": "Thread on \"Anthropic just wiped out another wave of startups, mostly in education. Custom charts, diagrams, and interactive visuals\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rtxrt7/anthropic_just_wiped_out_another_wave_of_startups/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "2 weeks of 2x rates : Life's Good !!!",
-      "score": 0.5,
-      "summary": "Thread on \"2 weeks of 2x rates : Life's Good !!!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rtyk4g/2_weeks_of_2x_rates_lifes_good/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "Any ETA on GitHub Copilot improving its tab completion? (Still stuck on GPT-4.1)",
+      "title": "I open-sourced a Smart Router for OpenClaw — routes 80+ models automatically",
       "score": 0.49,
-      "summary": "Thread on \"Any ETA on GitHub Copilot improving its tab completion? (Still stuck on GPT-4.1)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rtw5qf/any_eta_on_github_copilot_improving_its_tab/",
+      "summary": "Thread on \"I open-sourced a Smart Router for OpenClaw — routes 80+ models automatically\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru2xvx/i_opensourced_a_smart_router_for_openclaw_routes/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Meta delays release of new AI, weighs licensing Google's Gemini after disappointing trial runs: report",
+      "score": 0.48,
+      "summary": "Thread on \"Meta delays release of new AI, weighs licensing Google's Gemini after disappointing trial runs: report\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ru0gud/meta_delays_release_of_new_ai_weighs_licensing/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Maybe the real OpenClaw opportunity is building vertical tools, not just using it",
+      "score": 0.48,
+      "summary": "Thread on \"Maybe the real OpenClaw opportunity is building vertical tools, not just using it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru1g36/maybe_the_real_openclaw_opportunity_is_building/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Everyone says OpenClaw is unreliable.... NOT FOR ME!! Here is why:",
+      "score": 0.48,
+      "summary": "Thread on \"Everyone says OpenClaw is unreliable.... NOT FOR ME!! Here is why:\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ru14vz/everyone_says_openclaw_is_unreliable_not_for_me/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "**Copilot Pro — premium requests running out after a few prompts with Claude Opus 4.6, Anyone else?**",
+      "score": 0.48,
+      "summary": "Thread on \"**Copilot Pro — premium requests running out after a few prompts with Claude Opus 4.6, Anyone else?**\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1ru1osd/copilot_pro_premium_requests_running_out_after_a/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "Is it possible to have multiple plan in a single account?",
-      "score": 0.49,
-      "summary": "Thread on \"Is it possible to have multiple plan in a single account?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rtuzfe/is_it_possible_to_have_multiple_plan_in_a_single/",
-      "subreddit": "GithubCopilot"
+      "title": "We‘re getting closer",
+      "score": 0.47,
+      "summary": "Thread on \"We‘re getting closer\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rtzqcs/were_getting_closer/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "Anthropic just told you exactly when their servers are struggling, and they're paying you to help fix it",
-      "score": 0.49,
-      "summary": "Thread on \"Anthropic just told you exactly when their servers are struggling, and they're paying you to help fix it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rtwiux/anthropic_just_told_you_exactly_when_their/",
-      "subreddit": "ClaudeAI"
+      "title": "Cascade of A.I. Fakes About War With Iran Causes Chaos Online",
+      "score": 0.47,
+      "summary": "Thread on \"Cascade of A.I. Fakes About War With Iran Causes Chaos Online\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rtyhrf/cascade_of_ai_fakes_about_war_with_iran_causes/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "⚠️ We burned $750 in 3 days on OpenRouter — here's how to avoid our mistake!",
+      "score": 0.47,
+      "summary": "Thread on \"⚠️ We burned $750 in 3 days on OpenRouter — here's how to avoid our mistake!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rtyhb2/we_burned_750_in_3_days_on_openrouter_heres_how/",
+      "subreddit": "openclaw"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-15T01:52:16.239Z",
-    "refresh_finished_at": "2026-03-15T01:52:55.269Z",
+    "refresh_started_at": "2026-03-15T06:49:30.508Z",
+    "refresh_finished_at": "2026-03-15T06:49:34.756Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2177
+        "duration_ms": 1720
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38961
+        "duration_ms": 4190
       }
     },
     "warnings": []
