@@ -1,6 +1,5 @@
 const byId = (id) => document.getElementById(id);
 
-const THEME_STORAGE_KEY = "daily-briefing-theme";
 const DATA_URL = "./data/latest.json";
 
 const statusEl = byId("status");
@@ -12,7 +11,6 @@ const redditList = byId("redditList");
 const newsMetaEl = byId("newsMeta");
 const redditMetaEl = byId("redditMeta");
 const refreshBtn = byId("refreshBtn");
-const themeToggleBtn = byId("themeToggleBtn");
 const loadingOverlay = byId("loadingOverlay");
 const loadingMessageEl = byId("loadingMessage");
 const template = byId("itemTemplate");
@@ -33,22 +31,6 @@ const setCadence = (message, type = "info") => {
 
 const setSnapshotStatus = (message, type = "info") => {
   setTextWithType(snapshotEl, message, type);
-};
-
-const applyTheme = (theme) => {
-  document.body.dataset.theme = theme;
-  const isDark = theme === "dark";
-  themeToggleBtn.textContent = isDark ? "Light mode" : "Dark mode";
-  themeToggleBtn.setAttribute("aria-pressed", isDark ? "true" : "false");
-};
-
-const getPreferredTheme = () => {
-  const savedTheme = window.localStorage.getItem(THEME_STORAGE_KEY);
-  if (savedTheme === "light" || savedTheme === "dark") {
-    return savedTheme;
-  }
-
-  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 };
 
 const setLoading = (value, message = "Loading briefing...") => {
@@ -147,7 +129,7 @@ const renderSectionMeta = (element, section) => {
     details.push(section.error);
   }
 
-  element.textContent = details.join(" • ");
+  element.textContent = details.join(" · ");
 };
 
 const renderList = (list, items, emptyMessage, mapper) => {
@@ -168,7 +150,7 @@ const renderBriefing = (briefing) => {
   };
 
   const generatedLabel = new Date(briefing.generated_at).toLocaleString();
-  generatedAtEl.textContent = `${generatedLabel} • static snapshot`;
+  generatedAtEl.textContent = `${generatedLabel} · static snapshot`;
 
   const refreshInterval = metadata.refresh_interval_hours ?? 6;
   setCadence(`GitHub Pages snapshot updates every ${refreshInterval} hours.`, "ok");
@@ -268,15 +250,8 @@ panelToggleButtons.forEach((button) => {
   });
 });
 
-themeToggleBtn.addEventListener("click", () => {
-  const nextTheme = document.body.dataset.theme === "dark" ? "light" : "dark";
-  window.localStorage.setItem(THEME_STORAGE_KEY, nextTheme);
-  applyTheme(nextTheme);
-});
-
 refreshBtn.addEventListener("click", () => {
   window.location.reload();
 });
 
-applyTheme(getPreferredTheme());
 loadBriefing();
