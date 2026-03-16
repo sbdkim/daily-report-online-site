@@ -3,18 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Read Daily Brief | Northline</title>
+    <title>Daily Briefing</title>
     <link rel="icon" type="image/png" href="./favicon.png" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="./shared/tokens.css" />
-    <link rel="stylesheet" href="./shared/darkmode.css" />
     <link rel="stylesheet" href="./styles.css" />
-    <script src="./shared/darkmode.js"></script>
   </head>
   <body>
     <div id="loadingOverlay" class="loading-overlay" hidden>
@@ -27,13 +18,14 @@
     <main class="shell">
       <header class="topbar">
         <div class="title-block">
-          <p class="eyebrow">Northline Briefing</p>
-          <h1>Read Daily Brief</h1>
-          <p class="subtitle">A calm snapshot of the latest generated world, US, Korea, and AI community updates.</p>
-          <p id="generatedAt" class="generated-at">Loading latest snapshot...</p>
+          <h1>Daily Briefing</h1>
+          <p id="generatedAt" class="subtitle">Loading latest snapshot...</p>
         </div>
         <div class="actions">
-          <button id="refreshBtn" class="button-primary" type="button">Reload snapshot</button>
+          <button id="themeToggleBtn" class="ghost" type="button" aria-pressed="false">
+            Dark mode
+          </button>
+          <button id="refreshBtn">Reload snapshot</button>
         </div>
       </header>
 
@@ -63,7 +55,7 @@
               <p id="newsMeta" class="card-meta"></p>
               <button
                 type="button"
-                class="panel-toggle"
+                class="panel-toggle ghost"
                 data-target="newsPanelBody"
                 aria-expanded="true"
                 aria-controls="newsPanelBody"
@@ -87,7 +79,7 @@
               <p id="redditMeta" class="card-meta"></p>
               <button
                 type="button"
-                class="panel-toggle"
+                class="panel-toggle ghost"
                 data-target="redditPanelBody"
                 aria-expanded="true"
                 aria-controls="redditPanelBody"
