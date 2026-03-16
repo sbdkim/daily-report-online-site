@@ -1,7 +1,7 @@
 :root {
   --bg: var(--color-surface-base);
   --surface: var(--color-surface-raised);
-  --panel: color-mix(in srgb, var(--color-surface-raised) 96%, white);
+  --panel: color-mix(in srgb, var(--color-surface-raised) 94%, var(--color-surface-base));
   --panel-muted: var(--color-surface-sunken);
   --line: var(--color-border-subtle);
   --line-strong: var(--color-border-default);
