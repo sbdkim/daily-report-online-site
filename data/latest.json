@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-03-16T12:58:32.155Z",
+  "generated_at": "2026-03-16T18:54:56.195Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Israel Expands Lebanon Offensive; Trump’s Oil-Route Demands Draw Cool Response",
+      "headline": "Iran War Live Updates: Trump Disparages Allies for Rebuffing His Requests for Military Assistance",
       "region": "world",
-      "summary": "Iran War Live Updates: Israel Expands Lebanon Offensive; Trump’s Oil-Route Demands Draw Cool Response. The Israeli military said that it was escalating ground attacks against Iran-backed Hezbollah. China and other nations reacted tepidly to President Trump’s call for warships to reopen the Strait of Hormuz.",
+      "summary": "Iran War Live Updates: Trump Disparages Allies for Rebuffing His Requests for Military Assistance. “We don’t need anybody,” the president declared, even as he said several countries had agreed to help reopen the Strait of Hormuz. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
-          "published_at": "2026-03-16T12:45:39.000Z"
+          "published_at": "2026-03-16T18:41:28.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "US names six crew killed in refuelling plane crash in Iraq",
+      "headline": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
       "region": "us",
-      "summary": "US names six crew killed in refuelling plane crash in Iraq. The aircraft was on a combat mission as part of ongoing US operations against Iran when it crashed in western Iraq on Thursday.",
+      "summary": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer. Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cly0d510yz3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-15T08:08:30.000Z"
+          "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T17:17:19.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "S. Korea expands e-gates access to 42 countries",
+      "headline": "(LEAD) Trump renews calls on S. Korea, China, Japan, others to help keep Strait of Hormuz open",
       "region": "korea",
-      "summary": "S. Korea expands e-gates access to 42 countries. SEOUL, March 16 (Yonhap) -- The justice ministry said Monday it has expanded the..",
+      "summary": "(LEAD) Trump renews calls on S. Korea, China, Japan, others to help keep Strait of Hormuz open. WASHINGTON, March 16 (Yonhap) -- U.S. President Donald Trump on Monday renewed h..",
       "sources": [
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260316009400315",
-          "published_at": "2026-03-16T11:37:59.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260317000351315",
+          "published_at": "2026-03-16T18:01:21.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260317000300315",
+          "published_at": "2026-03-16T17:09:25.000Z"
         }
       ],
       "reliability_score": 1
@@ -67,6 +72,19 @@
       "reliability_score": 1
     },
     {
+      "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
+      "region": "world",
+      "summary": "Desperation in Cuba Ignites Unusual Acts of Defiance. A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
+          "published_at": "2026-03-15T22:48:52.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
       "headline": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
       "region": "world",
       "summary": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.. This time, President Trump went to war without preparing the public, seeking U.N. approval or even consulting allies. But they will have to pick up the pieces.",
@@ -75,6 +93,19 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
           "published_at": "2026-03-16T09:34:08.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’",
+      "region": "world",
+      "summary": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’. “Sentimental Value,” set in Oslo, was named best international feature film. After a slew of negative news in Norway, it was a welcome victory.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/16/world/europe/norway-oscar-win-sentimental-value.html",
+          "published_at": "2026-03-16T13:29:14.000Z"
         }
       ],
       "reliability_score": 1
@@ -101,19 +132,6 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/16/business/iran-bangladesh-imported-gas.html",
           "published_at": "2026-03-16T04:01:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
-      "region": "world",
-      "summary": "Desperation in Cuba Ignites Unusual Acts of Defiance. A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
-          "published_at": "2026-03-15T22:48:52.000Z"
         }
       ],
       "reliability_score": 1
@@ -171,148 +189,24 @@
       "reliability_score": 1
     },
     {
-      "headline": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family",
-      "region": "world",
-      "summary": "4 Palestinians Killed When Israeli Forces Open Fire on West Bank Family. Six members of a Palestinian family went out for a ride in the car. Only two made it back home.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/middleeast/palestinian-family-killed-west-bank.html",
-          "published_at": "2026-03-16T10:44:44.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says",
-      "region": "world",
-      "summary": "Michigan synagogue attacker's brother was Hezbollah commander, IDF says. US officials previously said the man accused of ramming a truck full of explosives into a synagogue had recently lost family in Lebanon.",
+      "headline": "US airline CEOs urge Congress to end shutdown and pay airport workers",
+      "region": "us",
+      "summary": "US airline CEOs urge Congress to end shutdown and pay airport workers. Travellers faced long queues at some airports at the weekend, after transport security workers missed their first full paycheck on Friday.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-15T20:47:36.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c4gj1135x7ro?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-15T20:47:36.000Z"
+          "url": "https://www.bbc.com/news/articles/c5yg12pk21no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T16:55:28.000Z"
         }
       ],
       "reliability_score": 1
     }
   ],
-  "reddit_ai_summary": [
-    {
-      "title": "How do you get help from codex on code reviews?",
-      "score": 0.51,
-      "summary": "Thread on \"How do you get help from codex on code reviews?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rv6gnt/how_do_you_get_help_from_codex_on_code_reviews/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "I feel so attacked",
-      "score": 0.5,
-      "summary": "Thread on \"I feel so attacked\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rv6b4j/i_feel_so_attacked/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Why did OAI remove the posts on X about the 4o deprication?",
-      "score": 0.5,
-      "summary": "Thread on \"Why did OAI remove the posts on X about the 4o deprication?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rv6ajk/why_did_oai_remove_the_posts_on_x_about_the_4o/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Problème github copilot",
-      "score": 0.52,
-      "summary": "Thread on \"Problème github copilot\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rv8ox9/problème_github_copilot/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Why AI Companions actually SAVE LIVES",
-      "score": 0.47,
-      "summary": "Thread on \"Why AI Companions actually SAVE LIVES\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1rv74v2/why_ai_companions_actually_save_lives/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Codex)",
-      "score": 0.26,
-      "summary": "Thread on \"SuperML: A plugin that gives coding agents expert-level ML knowledge with agentic memory (60% improvement vs. Codex)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rtsjfe/superml_a_plugin_that_gives_coding_agents/",
-      "subreddit": "OpenaiCodex"
-    },
-    {
-      "title": "this is the end",
-      "score": 0.46,
-      "summary": "Thread on \"this is the end\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1rv0r5o/this_is_the_end/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "GitHub Student Pack + Copilot Pro — why can't I access Claude models?",
-      "score": 0.52,
-      "summary": "Thread on \"GitHub Student Pack + Copilot Pro — why can't I access Claude models?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rv8dms/github_student_pack_copilot_pro_why_cant_i_access/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Does anyone know what's going on here?",
-      "score": 0.52,
-      "summary": "Thread on \"Does anyone know what's going on here?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rv8daq/does_anyone_know_whats_going_on_here/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "skills vs instructions",
-      "score": 0.52,
-      "summary": "Thread on \"skills vs instructions\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rv80ao/skills_vs_instructions/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Yet another Obsidian memory, but...",
-      "score": 0.51,
-      "summary": "Thread on \"Yet another Obsidian memory, but...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rv7w4g/yet_another_obsidian_memory_but/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
-      "score": 0.5,
-      "summary": "Thread on \"ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rv69yy/chatgpt_ads_still_exclusive_to_the_united_states/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Claude Code gives more usage than Codex now",
-      "score": 0.5,
-      "summary": "Thread on \"Claude Code gives more usage than Codex now\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rv5v63/claude_code_gives_more_usage_than_codex_now/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "I've reverted to Codex 5.3 because 5.4 is eating too many credits too fast",
-      "score": 0.5,
-      "summary": "Thread on \"I've reverted to Codex 5.3 because 5.4 is eating too many credits too fast\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rv69f8/ive_reverted_to_codex_53_because_54_is_eating_too/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "eh....potato patato",
-      "score": 0.49,
-      "summary": "Thread on \"eh....potato patato\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rv3ofk/ehpotato_patato/",
-      "subreddit": "OpenAI"
-    }
-  ],
+  "reddit_ai_summary": [],
   "metadata": {
-    "overall_status": "success",
-    "refresh_started_at": "2026-03-16T12:57:54.970Z",
-    "refresh_finished_at": "2026-03-16T12:58:32.155Z",
+    "overall_status": "partial",
+    "refresh_started_at": "2026-03-16T18:54:37.257Z",
+    "refresh_finished_at": "2026-03-16T18:54:56.195Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,15 +214,18 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2170
+        "duration_ms": 2260
       },
       "reddit": {
-        "source": "public-json+rss",
-        "status": "success",
-        "item_count": 15,
-        "duration_ms": 36936
+        "source": "reddit",
+        "status": "failed",
+        "item_count": 0,
+        "duration_ms": 18861,
+        "error": "Reddit sources returned no usable posts."
       }
     },
-    "warnings": []
+    "warnings": [
+      "Reddit sources returned no usable posts."
+    ]
   }
 }
