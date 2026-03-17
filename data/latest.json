@@ -1,202 +1,217 @@
 {
-  "generated_at": "2026-03-17T06:58:13.583Z",
+  "generated_at": "2026-03-17T12:59:38.322Z",
   "news_summary": [
     {
-      "headline": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict",
+      "headline": "Utah bereavement author found guilty of fatally poisoning her husband",
       "region": "world",
-      "summary": "Trump Says He Wants to Delay Visit to China Because of Middle East Conflict. “I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz.",
+      "summary": "Utah bereavement author found guilty of fatally poisoning her husband. A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
-          "published_at": "2026-03-17T06:16:45.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material",
-      "region": "us",
-      "summary": "Tennessee teens sue Elon Musk's xAI over AI-generated child sexual abuse material. The three girls say that the nonconsensual nude images were created by a perpetrator who used AI company xAI's image generation tools.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/16/nx-s1-5749490/xai-elon-musk-sexualized-images",
-          "published_at": "2026-03-17T01:02:37.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Defense chief vows firm readiness against all possible situations involving Mideast conflict",
-      "region": "korea",
-      "summary": "Defense chief vows firm readiness against all possible situations involving Mideast conflict. Defense Minister Ahn Gyu-back pledged Tuesday to maintain firm military readiness against \"all possible situations\" that could arise from the ongoing conflict in the Middle East. Ahn made the remarks at a parliamentary session as the Strait of Hormuz has effectively been shut amid the U.S.-led war in Iran, raising concerns over regional tensions as well as energy imports using the vital oil shipping route. \"Going forward, our military will thoroughly maintain a firm readiness posture against all possible situations,\" he told lawmakers in a parliamentary defense committee meeting, taking note of what he called expanding military clashes across the Middle East. \"While securing the safety of military units dispatched overseas, the defense ministry maintains a strengthened surveillance posture against North Korea under close coordination with the United States,\" he added. Last week, South Korea successfully carried out the mission \"Operation Desert Shine\" to bring home safely 204 nationals from Saudi Arabia with a military transport aircraft.",
-      "sources": [
-        {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260317/defense-chief-vows-firm-readiness-against-all-possible-situations-involving-mideast-conflict?utm_source=rss",
-          "published_at": "2026-03-17T06:52:03.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:14:04.000Z"
         },
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260317007600315",
-          "published_at": "2026-03-17T06:36:08.000Z"
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:14:04.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "What Do Africans Think of Trump’s Travel Ban List?",
-      "region": "world",
-      "summary": "What Do Africans Think of Trump’s Travel Ban List?. The restrictions on half the continent have been called racist and unfair. “We don’t come to the United States because we’re running away,” one N.B.A. fan said.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/africa/trump-africa-travel-visa-ban.html",
-          "published_at": "2026-03-16T12:42:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei",
-      "region": "world",
-      "summary": "Intrigue, Power Plays and Rivalries: Inside the Rise of Mojtaba Khamenei. The weeklong fight over Iran’s next leader pitted the Revolutionary Guards against moderates. The generals won, but only over spirited resistance.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html",
-          "published_at": "2026-03-17T00:45:26.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Cuba Ready to Accept Outside Investment, Top Official Says",
-      "region": "world",
-      "summary": "Cuba Ready to Accept Outside Investment, Top Official Says. President Trump’s words came amid a nationwide blackout and as a top Cuban official said his country would move to open the economy to foreign investors.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
-          "published_at": "2026-03-17T00:02:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.",
-      "region": "world",
-      "summary": "In Iraq, the U.S. Tried to Bring Allies on Board. Not in Iran.. This time, President Trump went to war without preparing the public, seeking U.N. approval or even consulting allies. But they will have to pick up the pieces.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
-          "published_at": "2026-03-17T00:51:10.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How the Makers of ‘Mr. Nobody Against Putin’ Addressed ‘an Ethical Minefield’",
-      "region": "world",
-      "summary": "How the Makers of ‘Mr. Nobody Against Putin’ Addressed ‘an Ethical Minefield’. The documentary about Vladimir V. Putin’s wartime indoctrination of Russian schoolchildren won an Oscar at Sunday’s Academy Awards.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/europe/oscar-documentary-mr-nobody-against-putin.html",
-          "published_at": "2026-03-16T18:57:38.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’",
-      "region": "world",
-      "summary": "Norway Celebrates Oscar Win for Joachim Trier’s ‘Sentimental Value’. “Sentimental Value,” set in Oslo, was named best international feature film. After a slew of negative news in Norway, it was a welcome victory.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/europe/norway-oscar-win-sentimental-value.html",
-          "published_at": "2026-03-16T13:29:14.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Is Cheburashka, the Beloved Soviet-Born Character, Ruining Russia?",
-      "region": "world",
-      "summary": "Is Cheburashka, the Beloved Soviet-Born Character, Ruining Russia?. Instead of obsessing over the fictional Cheburashka, Russians should be focused on more important things like the rebirth of a Russian empire, influential conservatives say.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/world/europe/russia-cheburashka-movie.html",
-          "published_at": "2026-03-16T09:53:26.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The War Is Making It Harder to Keep the Lights On, 2,000 Miles Away",
-      "region": "world",
-      "summary": "The War Is Making It Harder to Keep the Lights On, 2,000 Miles Away. Bangladesh is taking steps to conserve electricity, which its factories need to keep stitching together the world’s clothing.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/16/business/iran-bangladesh-imported-gas.html",
-          "published_at": "2026-03-16T04:01:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Pakistani-Afghan War Takes Heavy Toll on Civilians",
-      "region": "world",
-      "summary": "Pakistani-Afghan War Takes Heavy Toll on Civilians. Pakistani airstrikes have killed at least 75 civilians and displaced 115,000 in Afghanistan, with both sides vowing escalation and no talks in sight.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html",
-          "published_at": "2026-03-16T22:41:21.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
-      "region": "world",
-      "summary": "Desperation in Cuba Ignites Unusual Acts of Defiance. A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
-          "published_at": "2026-03-15T22:48:52.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Marseille’s Tight Mayoral Race Is a Bellwether for France’s Future",
-      "region": "world",
-      "summary": "Marseille’s Tight Mayoral Race Is a Bellwether for France’s Future. Voters across France choose mayors this week. The far right is performing strongly in the country’s second city, making the contest there a test of national shifts.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/europe/france-marseille-mayor-election-far-right.html",
-          "published_at": "2026-03-16T07:11:33.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital",
+      "headline": "Trump border patrol chief Greg Bovino to retire ",
       "region": "us",
-      "summary": "Afghanistan says 400 people killed in Pakistan strike on Kabul hospital. Afghanistan has accused Pakistan of targeting a hospital for drug users in the Afghan capital with an airstrike, marking a dramatic escalation of a conflict that began late last month. Pakistan has dismissed the accusation.",
+      "summary": "Trump border patrol chief Greg Bovino to retire. He led operations in Democratic-led cities including Minneapolis, where two US citizens were fatally shot.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/16/g-s1-114013/pakistan-strike-kabul-hospital",
-          "published_at": "2026-03-17T00:39:11.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c75e24grnv3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T21:17:22.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Samsung C&T signs US$3 bln green ammonia supply deal with Reliance of India",
+      "region": "korea",
+      "summary": "Samsung C&T signs US$3 bln green ammonia supply deal with Reliance of India. SEOUL, March 17 (Yonhap) -- Samsung C&T Corp., the construction and trading ..",
+      "sources": [
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260317010600320",
+          "published_at": "2026-03-17T11:55:39.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Columbia University protester released after one year in immigration custody",
+      "region": "world",
+      "summary": "Columbia University protester released after one year in immigration custody. Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:08:24.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:08:24.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia",
+      "region": "world",
+      "summary": "Trump says presidents 'should not have learning disabilities' as he mocks Newsom's dyslexia. The National Center for Learning Disabilities said it was \"disturbed\" by the president's remarks.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T02:04:48.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4gjnwmm984o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T02:04:48.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
+      "region": "us",
+      "summary": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer. Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T17:17:19.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Two charged in death of anti-Iranian regime activist in Canada",
+      "region": "us",
+      "summary": "Two charged in death of anti-Iranian regime activist in Canada. Police say the motive remains under investigation but noted the three had disputes on social media.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c7952qyqwz4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T18:48:59.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Bank of America settles over Epstein claims",
+      "region": "us",
+      "summary": "Bank of America settles over Epstein claims. The lawsuit had accused the bank of facilitating Epstein's sex trafficking.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c4gen0xyvy8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T17:34:08.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "US airline CEOs urge Congress to end shutdown and pay airport workers",
+      "region": "us",
+      "summary": "US airline CEOs urge Congress to end shutdown and pay airport workers. Travellers faced long queues at some airports at the weekend, after transport security workers missed their first full paycheck on Friday.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c5yg12pk21no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T16:55:28.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars",
+      "region": "us",
+      "summary": "Jessie Buckley, Michael B Jordan and One Battle After Another reign at Oscars. Paul Thomas Anderson's political thriller wins six prizes including best picture and best director.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c9v0zzzwjzvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T04:00:58.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "From tornadoes to blizzards, severe weather batters parts of the US",
+      "region": "world",
+      "summary": "From tornadoes to blizzards, severe weather batters parts of the US. Millions are under weather warnings as mix of snow, thunderstorms, and high winds hit parts of the eastern US, while the west coast faces extreme heat.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cj98meelzv3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T23:37:57.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj98meelzv3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T23:37:57.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Oscars red carpet: Stars and fashion in pictures",
+      "region": "us",
+      "summary": "Oscars red carpet: Stars and fashion in pictures. Hollywood's biggest stars turn on the style as they walk the red carpet for the glittering ceremony.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cd9g331v315o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T11:12:41.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Oscars 2026: Winners list in full",
+      "region": "us",
+      "summary": "Oscars 2026: Winners list in full. Find out which films and stars have won the famous golden statuettes at the ceremony in Los Angeles.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c33jkvmzl4ko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-16T03:43:48.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Hundreds Dead in Pakistani Airstrike on Kabul, Officials in Afghanistan Say",
+      "region": "world",
+      "summary": "Hundreds Dead in Pakistani Airstrike on Kabul, Officials in Afghanistan Say. The attack hit a drug rehabilitation facility, Afghanistan said, suggesting that its victims included civilians. Pakistan said it had targeted an ammunitions depot.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
+          "published_at": "2026-03-17T11:21:46.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader",
+      "region": "world",
+      "summary": "Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader. Ali Larijani, Iran’s top security official, was killed in an overnight strike, the Israeli military said. His death would deal another severe blow to Iran’s power structure.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
+          "published_at": "2026-03-17T12:55:26.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +219,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Subagents are now available in Codex",
-      "score": 0.45,
-      "summary": "Thread on \"Subagents are now available in Codex\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rvm2si/subagents_are_now_available_in_codex/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Back end dev here, how do you kind folks deal with front end ?",
+      "title": "LLMs are trained to reveal the identity behind pseudonymous usernames. Here’s how it works:",
       "score": 0.51,
-      "summary": "Thread on \"Back end dev here, how do you kind folks deal with front end ?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rvyqvg/back_end_dev_here_how_do_you_kind_folks_deal_with/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Has ChatGPT ever attempted to ruin your reputation?",
-      "score": 0.47,
-      "summary": "Thread on \"Has ChatGPT ever attempted to ruin your reputation?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rvr1ae/has_chatgpt_ever_attempted_to_ruin_your_reputation/",
+      "summary": "Thread on \"LLMs are trained to reveal the identity behind pseudonymous usernames. Here’s how it works:\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rw3vvp/llms_are_trained_to_reveal_the_identity_behind/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Almost done building a Capterra/Product Hunt–type platform Need Ideas what features You Guys Miss in them?",
+      "title": "Was loving Claude until I started feeding it feedback from ChatGPT Pro",
+      "score": 0.49,
+      "summary": "Thread on \"Was loving Claude until I started feeding it feedback from ChatGPT Pro\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rw1b8i/was_loving_claude_until_i_started_feeding_it/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "How to not create goop code?",
       "score": 0.51,
-      "summary": "Thread on \"Almost done building a Capterra/Product Hunt–type platform Need Ideas what features You Guys Miss in them?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rvyeck/almost_done_building_a_capterraproduct_hunttype/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"How to not create goop code?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rw3ig8/how_to_not_create_goop_code/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "The Dictionary Sues OpenAI Over AI Training Data",
+      "title": "How I used Hooks to build a Global \"Vibe-Coding\" Leaderboard",
       "score": 0.48,
-      "summary": "Thread on \"The Dictionary Sues OpenAI Over AI Training Data\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rvyovy/the_dictionary_sues_openai_over_ai_training_data/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"How I used Hooks to build a Global \"Vibe-Coding\" Leaderboard\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rw0fwf/how_i_used_hooks_to_build_a_global_vibecoding/",
+      "subreddit": "OpenaiCodex"
     },
     {
-      "title": "One-Minute Daily AI News 3/16/2026",
+      "title": "This is so annoying lol",
+      "score": 0.41,
+      "summary": "Thread on \"This is so annoying lol\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1rvmu8a/this_is_so_annoying_lol/",
+      "subreddit": "kimi"
+    },
+    {
+      "title": "You don't need a VPS. Here's why running OpenClaw locally is the only setup that actually unlocks its full potential.",
+      "score": 0.51,
+      "summary": "Thread on \"You don't need a VPS. Here's why running OpenClaw locally is the only setup that actually unlocks its full potential.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rw45fk/you_dont_need_a_vps_heres_why_running_openclaw/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Setup agent to reply to emails. Either to expensive or not smart enough. What do I do wrong?",
+      "score": 0.51,
+      "summary": "Thread on \"Setup agent to reply to emails. Either to expensive or not smart enough. What do I do wrong?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rw4rqz/setup_agent_to_reply_to_emails_either_to/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "I’ve noticed ChatGpt doesn’t say ‘You’re not crazy ‘ and ‘That’s rare’ anymore..",
       "score": 0.5,
-      "summary": "Thread on \"One-Minute Daily AI News 3/16/2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvx126/oneminute_daily_ai_news_3162026/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"I’ve noticed ChatGpt doesn’t say ‘You’re not crazy ‘ and ‘That’s rare’ anymore..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rw266i/ive_noticed_chatgpt_doesnt_say_youre_not_crazy/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "my max plan token quota goes to waste every week. how do you use your remaining tokens?",
-      "score": 0.5,
-      "summary": "Thread on \"my max plan token quota goes to waste every week. how do you use your remaining tokens?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rvwns1/my_max_plan_token_quota_goes_to_waste_every_week/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Named the GitHub Action that pulls from our R2 bucket D2",
-      "score": 0.5,
-      "summary": "Thread on \"Named the GitHub Action that pulls from our R2 bucket D2\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rvvzgq/named_the_github_action_that_pulls_from_our_r2/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Why Are Two Of The Biggest AI Startups Both Hiring A Chemical Weapons Expert?",
-      "score": 0.5,
-      "summary": "Thread on \"Why Are Two Of The Biggest AI Startups Both Hiring A Chemical Weapons Expert?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rvvsez/why_are_two_of_the_biggest_ai_startups_both/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Reddit looks to AI search as its next big opportunity",
+      "title": "Self Promotion Thread",
       "score": 0.49,
-      "summary": "Thread on \"Reddit looks to AI search as its next big opportunity\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvvcvy/reddit_looks_to_ai_search_as_its_next_big/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Self Promotion Thread\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rw0xeu/self_promotion_thread/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "NVIDIA partnering with basically every AI company at GTC",
+      "title": "New chatbot release cycle",
       "score": 0.49,
-      "summary": "Thread on \"NVIDIA partnering with basically every AI company at GTC\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvvakb/nvidia_partnering_with_basically_every_ai_company/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"New chatbot release cycle\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rw1hz3/new_chatbot_release_cycle/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "My new Claude Growth Skill - 6 battle-tested playbooks built from 5 SaaS case studies, $90M ARR partnerships, and 1,800 user interviews (Fully open-sourced)",
+      "title": "5 things Openclaw can do without any skills that most beginners don't know about",
       "score": 0.49,
-      "summary": "Thread on \"My new Claude Growth Skill - 6 battle-tested playbooks built from 5 SaaS case studies, $90M ARR partnerships, and 1,800 \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rvvauo/my_new_claude_growth_skill_6_battletested/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"5 things Openclaw can do without any skills that most beginners don't know about\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rw19rx/5_things_openclaw_can_do_without_any_skills_that/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "Is there a way to stop CC clearing scrollback when compacting?",
+      "title": "Constant \"Taking longer than usual. Trying again shortly (attempt X)\" - is this temporary?",
       "score": 0.49,
-      "summary": "Thread on \"Is there a way to stop CC clearing scrollback when compacting?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rvv75d/is_there_a_way_to_stop_cc_clearing_scrollback/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"Constant \"Taking longer than usual. Trying again shortly (attempt X)\" - is this temporary?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rw1kyt/constant_taking_longer_than_usual_trying_again/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "Best way to finish my abandoned book with AI",
-      "score": 0.49,
-      "summary": "Thread on \"Best way to finish my abandoned book with AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rvulld/best_way_to_finish_my_abandoned_book_with_ai/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "US Job Market Visualizer",
+      "title": "Anyone else losing track of ChatGPT conversations while coding?",
       "score": 0.48,
-      "summary": "Thread on \"US Job Market Visualizer\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvtiu4/us_job_market_visualizer/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Anyone else losing track of ChatGPT conversations while coding?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rw0at2/anyone_else_losing_track_of_chatgpt_conversations/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "THIS IS THE REALEST THING LOL",
+      "score": 0.48,
+      "summary": "Thread on \"THIS IS THE REALEST THING LOL\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rw097d/this_is_the_realest_thing_lol/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "using chatgpt as a thinking partner for decisions and it's changed how i make choices",
+      "score": 0.48,
+      "summary": "Thread on \"using chatgpt as a thinking partner for decisions and it's changed how i make choices\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rw0lse/using_chatgpt_as_a_thinking_partner_for_decisions/",
+      "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-17T06:57:38.000Z",
-    "refresh_finished_at": "2026-03-17T06:58:13.583Z",
+    "refresh_started_at": "2026-03-17T12:59:02.391Z",
+    "refresh_finished_at": "2026-03-17T12:59:38.322Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +335,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1535
+        "duration_ms": 2258
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 35519
+        "duration_ms": 35877
       }
     },
     "warnings": []
