@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-03-16T18:54:56.195Z",
+  "generated_at": "2026-03-17T01:42:43.729Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Trump Disparages Allies for Rebuffing His Requests for Military Assistance",
+      "headline": "Iran War Live Updates: Trump Says He Wants to Delay Visit to China Because of Conflict",
       "region": "world",
-      "summary": "Iran War Live Updates: Trump Disparages Allies for Rebuffing His Requests for Military Assistance. “We don’t need anybody,” the president declared, even as he said several countries had agreed to help reopen the Strait of Hormuz. The Israeli military escalated ground attacks against Iran-backed Hezbollah in Lebanon.",
+      "summary": "Iran War Live Updates: Trump Says He Wants to Delay Visit to China Because of Conflict. “I think it’s important that I be here,” President Trump said of asking China to reschedule a summit. Earlier, he disparaged allies for failing to embrace his request for help to reopen the Strait of Hormuz.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/16/world/iran-war-trump-oil-lebanon",
-          "published_at": "2026-03-16T18:41:28.000Z"
+          "published_at": "2026-03-17T01:31:50.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer",
+      "headline": "Utah bereavement author found guilty of fatally poisoning her husband",
       "region": "us",
-      "summary": "Trump's White House chief of staff Susie Wiles diagnosed with breast cancer. Wiles will continue to work \"virtually full time at the White House\" while undergoing treatment, the US president said.",
+      "summary": "Utah bereavement author found guilty of fatally poisoning her husband. A jury found that Kouri Richins killed her husband in March 2022 by poisoning him with a fentanyl-laced drink.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cev7r2egkplo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-16T17:17:19.000Z"
+          "url": "https://www.bbc.com/news/articles/cdxg1nx2r61o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:14:04.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "(LEAD) Trump renews calls on S. Korea, China, Japan, others to help keep Strait of Hormuz open",
+      "headline": "Police nab Korean man over threat to bomb US airport",
       "region": "korea",
-      "summary": "(LEAD) Trump renews calls on S. Korea, China, Japan, others to help keep Strait of Hormuz open. WASHINGTON, March 16 (Yonhap) -- U.S. President Donald Trump on Monday renewed h..",
+      "summary": "Police nab Korean man over threat to bomb US airport. Police said Tuesday they have apprehended a Korean man on suspicion of posting a threat to bomb a U.S. airport last year. The 20-something man allegedly posted the threat on the website of a Detroit airport on March 20 last year and was caught after the U.S. Homeland Security Investigations requested the cooperation of the Korean police in January. The suspect has been referred to the prosecution on charges of making public threats, police said.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260317000351315",
-          "published_at": "2026-03-16T18:01:21.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260317/police-nab-korean-man-over-threat-to-bomb-us-airport?utm_source=rss",
+          "published_at": "2026-03-17T01:37:03.000Z"
         },
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260317000300315",
-          "published_at": "2026-03-16T17:09:25.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260317003200315",
+          "published_at": "2026-03-17T01:04:27.000Z"
         }
       ],
       "reliability_score": 1
@@ -66,20 +66,20 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/16/world/middleeast/iran-mojtaba-khamenei-election-supreme-leader.html",
-          "published_at": "2026-03-16T09:01:52.000Z"
+          "published_at": "2026-03-17T00:45:26.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
+      "headline": "Cuba Ready to Accept Outside Investment, Top Official Says",
       "region": "world",
-      "summary": "Desperation in Cuba Ignites Unusual Acts of Defiance. A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
+      "summary": "Cuba Ready to Accept Outside Investment, Top Official Says. President Trump’s words came amid a nationwide blackout and as a top Cuban official said his country would move to open the economy to foreign investors.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
-          "published_at": "2026-03-15T22:48:52.000Z"
+          "url": "https://www.nytimes.com/2026/03/16/world/americas/cuba-us-foreign-investment-businesses.html",
+          "published_at": "2026-03-17T00:02:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -92,7 +92,20 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/16/world/europe/iraq-iran-us-allies.html",
-          "published_at": "2026-03-16T09:34:08.000Z"
+          "published_at": "2026-03-17T00:51:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How the Makers of ‘Mr. Nobody Against Putin’ Addressed ‘an Ethical Minefield’",
+      "region": "world",
+      "summary": "How the Makers of ‘Mr. Nobody Against Putin’ Addressed ‘an Ethical Minefield’. The documentary about Vladimir V. Putin’s wartime indoctrination of Russian schoolchildren won an Oscar at Sunday’s Academy Awards.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/16/world/europe/oscar-documentary-mr-nobody-against-putin.html",
+          "published_at": "2026-03-16T18:57:38.000Z"
         }
       ],
       "reliability_score": 1
@@ -144,7 +157,20 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/15/world/asia/afghanistan-pakistan-war.html",
-          "published_at": "2026-03-16T07:09:51.000Z"
+          "published_at": "2026-03-16T22:41:21.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Desperation in Cuba Ignites Unusual Acts of Defiance",
+      "region": "world",
+      "summary": "Desperation in Cuba Ignites Unusual Acts of Defiance. A protest in the city of Morón in central Cuba culminated in fiery vandalism at the local Communist Party headquarters.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/15/world/americas/desperation-in-cuba-ignites-unusual-acts-of-defiance.html",
+          "published_at": "2026-03-15T22:48:52.000Z"
         }
       ],
       "reliability_score": 1
@@ -163,50 +189,130 @@
       "reliability_score": 1
     },
     {
-      "headline": "As Rockets Fly Overhead, Residents of Israel’s Border City Stay Underground",
-      "region": "world",
-      "summary": "As Rockets Fly Overhead, Residents of Israel’s Border City Stay Underground. The Israeli government evacuated Kiryat Shmona during the last round of fighting with Hezbollah in 2023. Residents who were told it was safe to return are again under fire.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/middleeast/israel-kiryat-shmona.html",
-          "published_at": "2026-03-15T09:01:26.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Nordic Leaders Praise Carney as They Discuss Arctic Security",
-      "region": "world",
-      "summary": "Nordic Leaders Praise Carney as They Discuss Arctic Security. Canada’s prime minister got a warm welcome from leaders still smarting about President Trump’s remarks two months ago about taking over Greenland.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/15/world/canada/nordic-leaders-praise-carney-as-they-discuss-arctic-security.html",
-          "published_at": "2026-03-15T14:30:06.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "US airline CEOs urge Congress to end shutdown and pay airport workers",
+      "headline": "Columbia University protester released after one year in immigration custody",
       "region": "us",
-      "summary": "US airline CEOs urge Congress to end shutdown and pay airport workers. Travellers faced long queues at some airports at the weekend, after transport security workers missed their first full paycheck on Friday.",
+      "summary": "Columbia University protester released after one year in immigration custody. Federal officials say Leqaa Kordia overstayed her student visa. Her lawyer says she was targeted for pro-Palestinian activism.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c5yg12pk21no?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-16T16:55:28.000Z"
+          "url": "https://www.bbc.com/news/articles/ckgzdkg0q9go?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T01:08:24.000Z"
         }
       ],
       "reliability_score": 1
     }
   ],
-  "reddit_ai_summary": [],
+  "reddit_ai_summary": [
+    {
+      "title": "Art",
+      "score": 0.49,
+      "summary": "Thread on \"Art\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rvm63y/art/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI.",
+      "score": 0.51,
+      "summary": "Thread on \"GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvrt5c/gigatime_scaling_tumor_microenvironment_modeling/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Fastest way to go from website to app?",
+      "score": 0.48,
+      "summary": "Thread on \"Fastest way to go from website to app?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rvkkwt/fastest_way_to_go_from_website_to_app/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "How much are you spending on tokens with OpenClaw per day?",
+      "score": 0.51,
+      "summary": "Thread on \"How much are you spending on tokens with OpenClaw per day?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rvsbyr/how_much_are_you_spending_on_tokens_with_openclaw/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Any recommendations for text cursor replacement extensions?",
+      "score": 0.51,
+      "summary": "Thread on \"Any recommendations for text cursor replacement extensions?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rvr8bt/any_recommendations_for_text_cursor_replacement/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "GPT 5.4 making inappropriate tool calls?",
+      "score": 0.5,
+      "summary": "Thread on \"GPT 5.4 making inappropriate tool calls?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rvqckg/gpt_54_making_inappropriate_tool_calls/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Mac and Openclaw",
+      "score": 0.49,
+      "summary": "Thread on \"Mac and Openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rvnkli/mac_and_openclaw/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "AI as economic warfare",
+      "score": 0.49,
+      "summary": "Thread on \"AI as economic warfare\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvn26s/ai_as_economic_warfare/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "How are people handling destructive tool calls in OpenClaw agents?",
+      "score": 0.48,
+      "summary": "Thread on \"How are people handling destructive tool calls in OpenClaw agents?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rvkv9u/how_are_people_handling_destructive_tool_calls_in/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Looking for the ultimate \"bang for buck\" LLM for OpenClaw. What’s the actual king of the low tier right now?",
+      "score": 0.47,
+      "summary": "Thread on \"Looking for the ultimate \"bang for buck\" LLM for OpenClaw. What’s the actual king of the low tier right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rvjfde/looking_for_the_ultimate_bang_for_buck_llm_for/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Meta’s new AI team has 50 engineers per boss. What could go wrong?",
+      "score": 0.47,
+      "summary": "Thread on \"Meta’s new AI team has 50 engineers per boss. What could go wrong?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvj0gh/metas_new_ai_team_has_50_engineers_per_boss_what/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "AI has supercharged scientists—but may have shrunk science",
+      "score": 0.47,
+      "summary": "Thread on \"AI has supercharged scientists—but may have shrunk science\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvig77/ai_has_supercharged_scientistsbut_may_have_shrunk/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "I finally found a prompt that makes ChatGPT write like human (free)",
+      "score": 0.47,
+      "summary": "Thread on \"I finally found a prompt that makes ChatGPT write like human (free)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rvhcm0/i_finally_found_a_prompt_that_makes_chatgpt_write/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)",
+      "score": 0.46,
+      "summary": "Thread on \"Building an A.I. navigation software that will only require a camera, a raspberry pi and a WiFi connection (DAY 4)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rvfces/building_an_ai_navigation_software_that_will_only/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "We’ve created an open-source VSCode extension so you appear on a globe when you code",
+      "score": 0.44,
+      "summary": "Thread on \"We’ve created an open-source VSCode extension so you appear on a globe when you code\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rvbju0/weve_created_an_opensource_vscode_extension_so/",
+      "subreddit": "vscode"
+    }
+  ],
   "metadata": {
-    "overall_status": "partial",
-    "refresh_started_at": "2026-03-16T18:54:37.257Z",
-    "refresh_finished_at": "2026-03-16T18:54:56.195Z",
+    "overall_status": "success",
+    "refresh_started_at": "2026-03-17T01:42:21.600Z",
+    "refresh_finished_at": "2026-03-17T01:42:43.729Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -214,18 +320,15 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2260
+        "duration_ms": 2101
       },
       "reddit": {
-        "source": "reddit",
-        "status": "failed",
-        "item_count": 0,
-        "duration_ms": 18861,
-        "error": "Reddit sources returned no usable posts."
+        "source": "public-json+rss",
+        "status": "success",
+        "item_count": 15,
+        "duration_ms": 22068
       }
     },
-    "warnings": [
-      "Reddit sources returned no usable posts."
-    ]
+    "warnings": []
   }
 }
