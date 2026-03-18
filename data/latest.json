@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T06:55:58.366Z",
+  "generated_at": "2026-03-18T07:21:51.299Z",
   "news_summary": [
     {
       "headline": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
@@ -28,14 +28,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "BTS' world tour projected to unleash economic boom surpassing Taylor Swift's impact",
+      "headline": "Korea UAE's No. 1 oil priority with 24 mil. barrels secured: presidential aide",
       "region": "korea",
-      "summary": "BTS' world tour projected to unleash economic boom surpassing Taylor Swift's impact. K-pop supergroup BTS is returning from a nearly four-year hiatus with an 82-show world tour that analysts project will generate massive economic activity, establishing an economic engine expected to surpass the financial impact of Taylor Swift's recent global tour. The Korea Culture and Tourism Institute estimates the upcoming 34-city tour will yield 1.2 trillion won ($840 million) per show. The Guardian reported that economists anticipate the North American leg alone will generate tens of trillions of won, significantly exceeding Taylor Swift's 60-date North American tour, which generated about 7 trillion won. Global media outlets are actively reporting on the comeback. The New York Times covered Korean fans rushing to internet cafes for tickets, while CNN broadcast its crew's attempts to book seats. \"BTS is not just a regular K-pop group. They are really the engine of the industry itself,\" Berklee College of Music professor Ray Seol told CNN. The local economy is already feeling the \"BTSnomics\" effect ahead of Friday's release of the group's fifth studio album, \"Arirang.\" Five-star ho.",
+      "summary": "Korea UAE's No. 1 oil priority with 24 mil. barrels secured: presidential aide. The United Arab Emirates (UAE) has pledged to treat Korea as its top priority for crude oil exports, President Lee Jae Myung's top aide said Wednesday, announcing that a total of 24 million barrels have been secured from the Gulf country as Tehran's blockade of the Strait of Hormuz threatens to squeeze Seoul's energy supply. \"The UAE promised that Korea is the 'No. 1 priority' in supplying crude oil and we agreed that Korea could buy oil anytime through the UAE,\" presidential chief of staff Kang Hoon-sik said at a briefing. In addition to 6 million barrels of crude oil under a previous agreement, the UAE promised this time that an additional 18 million barrels would be shipped to Korea. Roughly 6 million barrels will be shipped by three UAE cargo ships, while six Korean vessels will transport the remainder. Kang added that Seoul and Abu Dhabi plan to sign a memorandum of understanding on the oil supply chain in the near future. The announcement follows a rapid diplomatic push by Kang, who flew to the UAE Sunday for a four-day trip, serving as Lee's special envoy for strategic economic c.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260318/bts-world-tour-projected-to-unleash-economic-boom-surpassing-taylor-swifts-impact?utm_source=rss",
-          "published_at": "2026-03-18T06:52:03.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260318/korea-uaes-no-1-oil-priority-with-24-mil-barrels-secured-presidential-aide?utm_source=rss",
+          "published_at": "2026-03-18T07:12:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Those of you who switched from Claude Code to Codex - what does Codex do better? Worse?",
-      "score": 0.45,
-      "summary": "Thread on \"Those of you who switched from Claude Code to Codex - what does Codex do better? Worse?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rwjmqp/those_of_you_who_switched_from_claude_code_to/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "GPT-5.4 can solve one face of a Rubik's cube!",
+      "title": "Free Business From GPT",
       "score": 0.5,
-      "summary": "Thread on \"GPT-5.4 can solve one face of a Rubik's cube!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"Free Business From GPT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rwugiy/free_business_from_gpt/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "Antrophic CEO says 50% entry-level white-collar jobs will be eradicated within 3 years",
-      "score": 0.38,
-      "summary": "Thread on \"Antrophic CEO says 50% entry-level white-collar jobs will be eradicated within 3 years\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/Anthropic/comments/1rw4g9l/antrophic_ceo_says_50_entrylevel_whitecollar_jobs/",
+      "title": "Does anyone use Haiku?",
+      "score": 0.49,
+      "summary": "Thread on \"Does anyone use Haiku?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rws5yi/does_anyone_use_haiku/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "I stopped using Claude.ai entirely. I run my entire business through Claude Code.",
+      "score": 0.47,
+      "summary": "Thread on \"I stopped using Claude.ai entirely. I run my entire business through Claude Code.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/Anthropic/comments/1rwumvr/i_stopped_using_claudeai_entirely_i_run_my_entire/",
       "subreddit": "Anthropic"
     },
     {
-      "title": "Is anyone else facing the issue with run command?",
-      "score": 0.51,
-      "summary": "Thread on \"Is anyone else facing the issue with run command?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwvzbp/is_anyone_else_facing_the_issue_with_run_command/",
-      "subreddit": "google_antigravity"
+      "title": "WTH is going on ghcp?",
+      "score": 0.52,
+      "summary": "Thread on \"WTH is going on ghcp?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rwwww0/wth_is_going_on_ghcp/",
+      "subreddit": "GithubCopilot"
     },
     {
       "title": "How do you catch auth bypass risks in generated code that looks completely correct",
-      "score": 0.4,
+      "score": 0.39,
       "summary": "Thread on \"How do you catch auth bypass risks in generated code that looks completely correct\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rw787p/how_do_you_catch_auth_bypass_risks_in_generated/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Best AI agent setup to run locally with Ollama in 2026?",
-      "score": 0.49,
-      "summary": "Thread on \"Best AI agent setup to run locally with Ollama in 2026?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1rwrfel/best_ai_agent_setup_to_run_locally_with_ollama_in/",
-      "subreddit": "PromptEngineering"
+      "title": "job automation",
+      "score": 0.52,
+      "summary": "Thread on \"job automation\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rwwmpq/job_automation/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)",
-      "score": 0.45,
-      "summary": "Thread on \"Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rwkhpg/agent_engineering_101_a_visual_guide_agentsmd/",
-      "subreddit": "OpenaiCodex"
-    },
-    {
-      "title": "Hit a wall with Obsidian + OpenClaw for multi-project management. How are you guys scaling?",
+      "title": "Copilot enshittification begins?",
       "score": 0.51,
-      "summary": "Thread on \"Hit a wall with Obsidian + OpenClaw for multi-project management. How are you guys scaling?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwvw51/hit_a_wall_with_obsidian_openclaw_for/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"Copilot enshittification begins?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rwvx9f/copilot_enshittification_begins/",
+      "subreddit": "GithubCopilot"
     },
     {
-      "title": "How to login to Facebook, Reddit, Ebay and etc without an API?",
+      "title": "I did it! First time rate-limited!",
       "score": 0.51,
-      "summary": "Thread on \"How to login to Facebook, Reddit, Ebay and etc without an API?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwvyxy/how_to_login_to_facebook_reddit_ebay_and_etc/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"I did it! First time rate-limited!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rwvub6/i_did_it_first_time_ratelimited/",
+      "subreddit": "GithubCopilot"
     },
     {
-      "title": "If OpenClaw agents are going to use more apps/APIs, they probably need passports",
-      "score": 0.49,
-      "summary": "Thread on \"If OpenClaw agents are going to use more apps/APIs, they probably need passports\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwsgz3/if_openclaw_agents_are_going_to_use_more_appsapis/",
-      "subreddit": "openclaw"
+      "title": "Do you think AI will eventually handle most of our emails?",
+      "score": 0.51,
+      "summary": "Thread on \"Do you think AI will eventually handle most of our emails?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rww2e0/do_you_think_ai_will_eventually_handle_most_of/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "Antigravity Claude model is a joke at this point...",
-      "score": 0.49,
-      "summary": "Thread on \"Antigravity Claude model is a joke at this point...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwsryc/antigravity_claude_model_is_a_joke_at_this_point/",
-      "subreddit": "google_antigravity"
+      "title": "Need feedback :)",
+      "score": 0.51,
+      "summary": "Thread on \"Need feedback :)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rwwgem/need_feedback/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "We can now generate and edit 30s 1080p videos in real-time",
+      "title": "Your Website Isn’t Broken.. It’s Just Not Doing Anything",
+      "score": 0.51,
+      "summary": "Thread on \"Your Website Isn’t Broken.. It’s Just Not Doing Anything\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rwv9dm/your_website_isnt_broken_its_just_not_doing/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Hitting rate limits a lot more frequently",
+      "score": 0.5,
+      "summary": "Thread on \"Hitting rate limits a lot more frequently\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rwtrjg/hitting_rate_limits_a_lot_more_frequently/",
+      "subreddit": "GithubCopilot"
+    },
+    {
+      "title": "Claude's rich vocabulary for Loading...",
       "score": 0.48,
-      "summary": "Thread on \"We can now generate and edit 30s 1080p videos in real-time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rwq1v2/we_can_now_generate_and_edit_30s_1080p_videos_in/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"Claude's rich vocabulary for Loading...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rwrjea/claudes_rich_vocabulary_for_loading/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "I made an OpenClaw extension that routes everything through Claude Code CLI instead of the API",
-      "score": 0.47,
-      "summary": "Thread on \"I made an OpenClaw extension that routes everything through Claude Code CLI instead of the API\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwokq7/i_made_an_openclaw_extension_that_routes/",
-      "subreddit": "openclaw"
+      "title": "Claude Status Update : Elevated errors on Claude Opus 4.6 on 2026-03-18T07:03:04.000Z",
+      "score": 0.48,
+      "summary": "Thread on \"Claude Status Update : Elevated errors on Claude Opus 4.6 on 2026-03-18T07:03:04.000Z\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rwwulo/claude_status_update_elevated_errors_on_claude/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "After a 6-day cooldown, exactly at the moment it reset, it gave me another one even without using Antigravity or restoring.",
+      "title": "Thanks for adding GPT 5.4-mini!",
       "score": 0.47,
-      "summary": "Thread on \"After a 6-day cooldown, exactly at the moment it reset, it gave me another one even without using Antigravity or restori\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwn6t8/after_a_6day_cooldown_exactly_at_the_moment_it/",
-      "subreddit": "google_antigravity"
-    },
-    {
-      "title": "I didn't even touched the Claude options, wtf is this limit",
-      "score": 0.47,
-      "summary": "Thread on \"I didn't even touched the Claude options, wtf is this limit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwnatg/i_didnt_even_touched_the_claude_options_wtf_is/",
-      "subreddit": "google_antigravity"
+      "summary": "Thread on \"Thanks for adding GPT 5.4-mini!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1rwpo6g/thanks_for_adding_gpt_54mini/",
+      "subreddit": "GithubCopilot"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-18T06:55:38.337Z",
-    "refresh_finished_at": "2026-03-18T06:55:58.366Z",
+    "refresh_started_at": "2026-03-18T07:21:47.391Z",
+    "refresh_finished_at": "2026-03-18T07:21:51.299Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1756
+        "duration_ms": 2063
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 19972
+        "duration_ms": 3847
       }
     },
     "warnings": []

@@ -1,9 +1,9 @@
-# Daily Report Online Site
+# Read Daily Brief
 
 Public GitHub Pages output for the Daily Report Online project.
 
 ## Live Demo
-- Site: [sbdkim.github.io/daily-report-online-site](https://sbdkim.github.io/daily-report-online-site/)
+- Site: [sbdkim.github.io/read-daily-brief](https://sbdkim.github.io/read-daily-brief/)
 
 ## Key Features
 - Publishes a static snapshot of curated world, US, Korea, and Reddit updates
