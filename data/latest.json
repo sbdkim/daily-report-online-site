@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-03-18T01:47:01.636Z",
+  "generated_at": "2026-03-18T06:55:58.366Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+      "headline": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings",
       "region": "world",
-      "summary": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief. Ali Larijani had served as Iran’s de facto leader recently. A militia commander was also killed, Iranian state media said. Iran’s military leaders said it launched a missile attack on Tel Aviv early Wednesday in retaliation, and airstrikes rocked the Lebanese capital.",
+      "summary": "Iran Launches Missile Attack on Tel Aviv in Retaliation for Latest Killings. Iranian state media confirmed the killings of Ali Larijani, who had served as Iran’s de facto leader recently, and a militia commander late Tuesday. Airstrikes rocked the Lebanese capital early Wednesday.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon",
-          "published_at": "2026-03-18T01:34:25.000Z"
+          "published_at": "2026-03-18T06:05:18.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Arizona AG files criminal charges against Kalshi over 'illegal gambling'",
+      "headline": "Surge in US gas prices deepens political peril for Trump over Iran",
       "region": "us",
-      "summary": "Arizona AG files criminal charges against Kalshi over 'illegal gambling'. Arizona is the first state to allege the prediction market company has committed criminal violations, accusing it of running an unlicensed gambling operation.",
+      "summary": "Surge in US gas prices deepens political peril for Trump over Iran. The odds of a quick resolution to the war appear to be dwindling by the day, and the political stakes for the president are only growing.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/17/nx-s1-5751165/kalshi-criminal-charges-arizona",
-          "published_at": "2026-03-18T00:08:08.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c70k29914q4o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-17T00:24:01.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Gov't to raise terror alert by 1 notch ahead of BTS concert",
+      "headline": "BTS' world tour projected to unleash economic boom surpassing Taylor Swift's impact",
       "region": "korea",
-      "summary": "Gov't to raise terror alert by 1 notch ahead of BTS concert. The government said Wednesday it will raise the official terror alert by one notch ahead of K-pop group BTS' comeback show in central Seoul this weekend. The alert will be raised to the second-lowest level of \"caution\" on a four-tier scale for the Jongno and Jung wards from midnight Wednesday until midnight Saturday, the Office for Government Policy Coordination said in a press release. BTS' concert is scheduled to take place at Gwanghwamun Square in Jongno on Saturday, drawing an expected hundreds of thousands of fans and visitors from around the world. The alert level was adjusted following Prime Minister Kim Min-seok's orders to draw up appropriate safety measures and as terror threats could not be ruled out in the wake of recent global security conditions, the government said. Relevant agencies plan to step up patrols at key sites and facilities and strengthen joint response systems in preparation for emergencies.",
+      "summary": "BTS' world tour projected to unleash economic boom surpassing Taylor Swift's impact. K-pop supergroup BTS is returning from a nearly four-year hiatus with an 82-show world tour that analysts project will generate massive economic activity, establishing an economic engine expected to surpass the financial impact of Taylor Swift's recent global tour. The Korea Culture and Tourism Institute estimates the upcoming 34-city tour will yield 1.2 trillion won ($840 million) per show. The Guardian reported that economists anticipate the North American leg alone will generate tens of trillions of won, significantly exceeding Taylor Swift's 60-date North American tour, which generated about 7 trillion won. Global media outlets are actively reporting on the comeback. The New York Times covered Korean fans rushing to internet cafes for tickets, while CNN broadcast its crew's attempts to book seats. \"BTS is not just a regular K-pop group. They are really the engine of the industry itself,\" Berklee College of Music professor Ray Seol told CNN. The local economy is already feeling the \"BTSnomics\" effect ahead of Friday's release of the group's fifth studio album, \"Arirang.\" Five-star ho.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260318/govt-to-raise-terror-alert-by-1-notch-ahead-of-bts-concert?utm_source=rss",
-          "published_at": "2026-03-18T01:42:03.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20260318/bts-world-tour-projected-to-unleash-economic-boom-surpassing-taylor-swifts-impact?utm_source=rss",
+          "published_at": "2026-03-18T06:52:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +48,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/17/world/asia/afghanistan-pakistan-kabul-hospital.html",
-          "published_at": "2026-03-17T17:44:29.000Z"
+          "published_at": "2026-03-18T06:48:50.000Z"
         }
       ],
       "reliability_score": 1
@@ -126,7 +126,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/17/world/europe/iran-uk-raf-fairford-starmer-trump.html",
-          "published_at": "2026-03-17T04:01:07.000Z"
+          "published_at": "2026-03-18T01:46:00.000Z"
         }
       ],
       "reliability_score": 1
@@ -139,7 +139,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
-          "published_at": "2026-03-17T23:26:26.000Z"
+          "published_at": "2026-03-18T06:22:08.000Z"
         }
       ],
       "reliability_score": 1
@@ -184,14 +184,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "Judge orders 1,000 Voice of America staffers back to work in rebuke to Kari Lake",
-      "region": "us",
-      "summary": "Judge orders 1,000 Voice of America staffers back to work in rebuke to Kari Lake. A federal judge has ordered more than a thousand Voice of America staffers back to work by Monday. It's a major defeat for the Trump administration's effort to cut the news outlet to the bones.",
+      "headline": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "region": "world",
+      "summary": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'. National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/17/nx-s1-5751162/voice-of-america-lawsuit-kari-lake",
-          "published_at": "2026-03-17T23:46:08.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-18T02:12:16.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-18T02:12:16.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)",
-      "score": 0.5,
-      "summary": "Thread on \"Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rwlvrf/agent_engineering_101_a_visual_guide_agentsmd/",
+      "title": "Those of you who switched from Claude Code to Codex - what does Codex do better? Worse?",
+      "score": 0.45,
+      "summary": "Thread on \"Those of you who switched from Claude Code to Codex - what does Codex do better? Worse?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rwjmqp/those_of_you_who_switched_from_claude_code_to/",
       "subreddit": "codex"
     },
     {
-      "title": "I built a ChatGPT visual prompt builder for AI images/videos so you don’t have to write complex prompts that lets you control camera, lens, lighting, and style for AI based on AI models (It's 100% Unlimited Free)",
-      "score": 0.51,
-      "summary": "Thread on \"I built a ChatGPT visual prompt builder for AI images/videos so you don’t have to write complex prompts that lets you co\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rwnuln/i_built_a_chatgpt_visual_prompt_builder_for_ai/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Will Sam Altman ever have peace again on Earth",
+      "title": "GPT-5.4 can solve one face of a Rubik's cube!",
       "score": 0.5,
-      "summary": "Thread on \"Will Sam Altman ever have peace again on Earth\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rwlpmy/will_sam_altman_ever_have_peace_again_on_earth/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "We can now generate and edit 30s 1080p videos in real-time",
-      "score": 0.52,
-      "summary": "Thread on \"We can now generate and edit 30s 1080p videos in real-time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rwq1v2/we_can_now_generate_and_edit_30s_1080p_videos_in/",
+      "summary": "Thread on \"GPT-5.4 can solve one face of a Rubik's cube!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rwuk5n/gpt54_can_solve_one_face_of_a_rubiks_cube/",
       "subreddit": "singularity"
     },
     {
       "title": "Antrophic CEO says 50% entry-level white-collar jobs will be eradicated within 3 years",
-      "score": 0.42,
+      "score": 0.38,
       "summary": "Thread on \"Antrophic CEO says 50% entry-level white-collar jobs will be eradicated within 3 years\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/Anthropic/comments/1rw4g9l/antrophic_ceo_says_50_entrylevel_whitecollar_jobs/",
       "subreddit": "Anthropic"
     },
     {
+      "title": "Is anyone else facing the issue with run command?",
+      "score": 0.51,
+      "summary": "Thread on \"Is anyone else facing the issue with run command?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwvzbp/is_anyone_else_facing_the_issue_with_run_command/",
+      "subreddit": "google_antigravity"
+    },
+    {
       "title": "How do you catch auth bypass risks in generated code that looks completely correct",
-      "score": 0.43,
+      "score": 0.4,
       "summary": "Thread on \"How do you catch auth bypass risks in generated code that looks completely correct\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rw787p/how_do_you_catch_auth_bypass_risks_in_generated/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "I made an OpenClaw extension that routes everything through Claude Code CLI instead of the API",
+      "title": "Best AI agent setup to run locally with Ollama in 2026?",
+      "score": 0.49,
+      "summary": "Thread on \"Best AI agent setup to run locally with Ollama in 2026?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1rwrfel/best_ai_agent_setup_to_run_locally_with_ollama_in/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)",
+      "score": 0.45,
+      "summary": "Thread on \"Agent Engineering 101: A Visual Guide (AGENTS.md, Skills, and MCP)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1rwkhpg/agent_engineering_101_a_visual_guide_agentsmd/",
+      "subreddit": "OpenaiCodex"
+    },
+    {
+      "title": "Hit a wall with Obsidian + OpenClaw for multi-project management. How are you guys scaling?",
       "score": 0.51,
+      "summary": "Thread on \"Hit a wall with Obsidian + OpenClaw for multi-project management. How are you guys scaling?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwvw51/hit_a_wall_with_obsidian_openclaw_for/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "How to login to Facebook, Reddit, Ebay and etc without an API?",
+      "score": 0.51,
+      "summary": "Thread on \"How to login to Facebook, Reddit, Ebay and etc without an API?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwvyxy/how_to_login_to_facebook_reddit_ebay_and_etc/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "If OpenClaw agents are going to use more apps/APIs, they probably need passports",
+      "score": 0.49,
+      "summary": "Thread on \"If OpenClaw agents are going to use more apps/APIs, they probably need passports\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwsgz3/if_openclaw_agents_are_going_to_use_more_appsapis/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Antigravity Claude model is a joke at this point...",
+      "score": 0.49,
+      "summary": "Thread on \"Antigravity Claude model is a joke at this point...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwsryc/antigravity_claude_model_is_a_joke_at_this_point/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "We can now generate and edit 30s 1080p videos in real-time",
+      "score": 0.48,
+      "summary": "Thread on \"We can now generate and edit 30s 1080p videos in real-time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rwq1v2/we_can_now_generate_and_edit_30s_1080p_videos_in/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "I made an OpenClaw extension that routes everything through Claude Code CLI instead of the API",
+      "score": 0.47,
       "summary": "Thread on \"I made an OpenClaw extension that routes everything through Claude Code CLI instead of the API\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/openclaw/comments/1rwokq7/i_made_an_openclaw_extension_that_routes/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Where did the model selector go on ChatGPT?",
-      "score": 0.5,
-      "summary": "Thread on \"Where did the model selector go on ChatGPT?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rwlw3w/where_did_the_model_selector_go_on_chatgpt/",
-      "subreddit": "OpenAI"
+      "title": "After a 6-day cooldown, exactly at the moment it reset, it gave me another one even without using Antigravity or restoring.",
+      "score": 0.47,
+      "summary": "Thread on \"After a 6-day cooldown, exactly at the moment it reset, it gave me another one even without using Antigravity or restori\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwn6t8/after_a_6day_cooldown_exactly_at_the_moment_it/",
+      "subreddit": "google_antigravity"
     },
     {
-      "title": "NemoClaw by Nvidia is a safe OpenClaw out of the box - CEO",
-      "score": 0.5,
-      "summary": "Thread on \"NemoClaw by Nvidia is a safe OpenClaw out of the box - CEO\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwmhw6/nemoclaw_by_nvidia_is_a_safe_openclaw_out_of_the/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "This is what chatGPT looked like in the 90's",
-      "score": 0.49,
-      "summary": "Thread on \"This is what chatGPT looked like in the 90's\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rwk9op/this_is_what_chatgpt_looked_like_in_the_90s/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Ahh I finally see the frustration of api limits",
-      "score": 0.49,
-      "summary": "Thread on \"Ahh I finally see the frustration of api limits\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwl57o/ahh_i_finally_see_the_frustration_of_api_limits/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "One agent kept dropping context so I split it into three. Now they message each other.",
-      "score": 0.49,
-      "summary": "Thread on \"One agent kept dropping context so I split it into three. Now they message each other.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rwjocq/one_agent_kept_dropping_context_so_i_split_it/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Unlimited plans wont be unlimited soon",
-      "score": 0.48,
-      "summary": "Thread on \"Unlimited plans wont be unlimited soon\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rwh21b/unlimited_plans_wont_be_unlimited_soon/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "When Using Work Claude",
-      "score": 0.48,
-      "summary": "Thread on \"When Using Work Claude\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rwi5ig/when_using_work_claude/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Why the hell would they get rid of the “add details” button",
-      "score": 0.48,
-      "summary": "Thread on \"Why the hell would they get rid of the “add details” button\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rwhfnx/why_the_hell_would_they_get_rid_of_the_add/",
-      "subreddit": "ChatGPT"
+      "title": "I didn't even touched the Claude options, wtf is this limit",
+      "score": 0.47,
+      "summary": "Thread on \"I didn't even touched the Claude options, wtf is this limit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rwnatg/i_didnt_even_touched_the_claude_options_wtf_is/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-18T01:46:56.756Z",
-    "refresh_finished_at": "2026-03-18T01:47:01.636Z",
+    "refresh_started_at": "2026-03-18T06:55:38.337Z",
+    "refresh_finished_at": "2026-03-18T06:55:58.366Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2029
+        "duration_ms": 1756
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4830
+        "duration_ms": 19972
       }
     },
     "warnings": []
