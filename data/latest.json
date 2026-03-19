@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-19T01:47:26.211Z",
+  "generated_at": "2026-03-19T06:52:07.449Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank",
+      "headline": "Missile Attack Kills at Least 3 in West Bank",
       "region": "world",
-      "summary": "Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank. Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.",
+      "summary": "Missile Attack Kills at Least 3 in West Bank. Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-19T01:20:08.000Z"
+          "published_at": "2026-03-19T06:29:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,19 +28,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "S. Korea, US conclude key springtime military drills amid N. Korean threats",
+      "headline": "Tripartite council puts AI at top of agenda as robot fears grow",
       "region": "korea",
-      "summary": "S. Korea, US conclude key springtime military drills amid N. Korean threats. South Korea and the United States wrapped up their annual Freedom Shield (FS) exercise Thursday aimed at strengthening their combined readiness posture, amid North Korea's verbal threats and the launch of some 10 ballistic missiles. The major springtime exercise, involving realistic wartime scenarios reflecting trends in modern warfare, drew to an end after an 11-day run, their militaries said in a joint statement. \"The Republic of Korea and the United States successfully concluded FS 26, reaffirming a strong combined defense posture and further enhancing the alliance's ability to conduct operations across all domains,\" the statement said, referring to South Korea by its formal name. This year's exercise focused on assessing conditions to achieve the transfer of wartime operational control (OPCON) from Washington to Seoul as South Korea seeks a \"conditions-based\" handover within President Lee Jae Myung's five-year term ending in 2030. Some 18,000 troops took part in the drills, a scale similar to the previous year, but the number of field training exercises halved to around 22, compared.",
+      "summary": "Tripartite council puts AI at top of agenda as robot fears grow. The presidential Economic, Social and Labor Council has placed artificial intelligence (AI) at the center of its new work agenda, establishing a dedicated AI transition committee as part of a broader effort to revitalize tripartite social dialogue. The council under President Lee Jae Myung held its first plenary session Thursday at Cheong Wa Dae, unveiling a package of seven committees that collectively target what officials call Korea’s “compound transition crisis” of an AI revolution, demographic change and the green energy transition. Its committee on “labor-management coexistence in the AI transition” seeks to map how AI spreads through workplaces, how jobs and skills will change, and what cooperation models labor and management can build around that shift. Council Chair Kim Ji-hyung said AI has become one of the most pressing challenges for the nation’s economy and labor market and therefore needs to be handled as a dedicated social dialogue agenda, amid fears of job replacement as companies such as Hyundai Motor move to introduce humanoid robots like “Atlas.” Speaki.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260319/s-korea-us-conclude-key-springtime-military-drills-amid-n-korean-threats?utm_source=rss",
-          "published_at": "2026-03-19T01:47:04.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260319003000315",
-          "published_at": "2026-03-19T01:14:34.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20260319/tripartite-council-puts-ai-at-top-of-agenda-as-robot-fears-grow?utm_source=rss",
+          "published_at": "2026-03-19T06:47:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -92,7 +87,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
-          "published_at": "2026-03-18T18:44:44.000Z"
+          "published_at": "2026-03-18T18:44:45.000Z"
         }
       ],
       "reliability_score": 1
@@ -170,7 +165,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/europe/uk-meningitis-outbreak-what-to-know.html",
-          "published_at": "2026-03-18T17:48:07.000Z"
+          "published_at": "2026-03-19T05:08:25.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "How we treat AI in 2023 vs 2026",
+      "title": "Codex Usage Drain is Getting Absurd.",
+      "score": 0.52,
+      "summary": "Thread on \"Codex Usage Drain is Getting Absurd.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rxsvsf/codex_usage_drain_is_getting_absurd/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "I built ClaudeWatch with Claude Code -- a free, open-source desktop app to monitor all your running Claude Code sessions",
       "score": 0.51,
-      "summary": "Thread on \"How we treat AI in 2023 vs 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxm9b4/how_we_treat_ai_in_2023_vs_2026/",
+      "summary": "Thread on \"I built ClaudeWatch with Claude Code -- a free, open-source desktop app to monitor all your running Claude Code sessions\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxsndc/i_built_claudewatch_with_claude_code_a_free/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "I asked claude to make a video about what it's like to be an LLM",
+      "score": 0.5,
+      "summary": "Thread on \"I asked claude to make a video about what it's like to be an LLM\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxqswz/i_asked_claude_to_make_a_video_about_what_its/",
       "subreddit": "ChatGPT"
     },
     {
+      "title": "For those missing chats: pinned chats are failing in the web UI. Here’s the workaround.",
+      "score": 0.5,
+      "summary": "Thread on \"For those missing chats: pinned chats are failing in the web UI. Here’s the workaround.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxqz5w/for_those_missing_chats_pinned_chats_are_failing/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "For anyone impacted by the recent change undermining bypassPermissions, here is a workaround",
+      "score": 0.5,
+      "summary": "Thread on \"For anyone impacted by the recent change undermining bypassPermissions, here is a workaround\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxr2jn/for_anyone_impacted_by_the_recent_change/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "I built a lightweight project memory system that works with Codex, Claude Code, and other AI coding agents",
+      "score": 0.5,
+      "summary": "Thread on \"I built a lightweight project memory system that works with Codex, Claude Code, and other AI coding agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rxqfvt/i_built_a_lightweight_project_memory_system_that/",
+      "subreddit": "codex"
+    },
+    {
       "title": "OpenAI is shipping everything. Anthropic is perfecting one thing.",
-      "score": 0.51,
+      "score": 0.48,
       "summary": "Thread on \"OpenAI is shipping everything. Anthropic is perfecting one thing.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxmc81/openai_is_shipping_everything_anthropic_is/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "I bought $200 Claude Code so you don’t have to !",
-      "score": 0.49,
-      "summary": "Thread on \"I bought $200 Claude Code so you don’t have to !\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxgy6u/i_bought_200_claude_code_so_you_dont_have_to/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "ai dev tools for companies vs individual devs are completely different products and we need to stop comparing them",
-      "score": 0.43,
-      "summary": "Thread on \"ai dev tools for companies vs individual devs are completely different products and we need to stop comparing them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rx4838/ai_dev_tools_for_companies_vs_individual_devs_are/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
-      "title": "Is Vscodium is no good enough for WSL?",
-      "score": 0.49,
-      "summary": "Thread on \"Is Vscodium is no good enough for WSL?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rxglec/is_vscodium_is_no_good_enough_for_wsl/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "Has anyone else noticed when someone has and uses a vocabulary beyond the third grade everyone jumps on the post with that's \"ChatGPT!\"?",
-      "score": 0.51,
-      "summary": "Thread on \"Has anyone else noticed when someone has and uses a vocabulary beyond the third grade everyone jumps on the post with th\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxkyyu/has_anyone_else_noticed_when_someone_has_and_uses/",
+      "title": "How we treat AI in 2023 vs 2026",
+      "score": 0.48,
+      "summary": "Thread on \"How we treat AI in 2023 vs 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxm9b4/how_we_treat_ai_in_2023_vs_2026/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Debugging LLM apps is painful — how are you finding root causes?",
-      "score": 0.5,
-      "summary": "Thread on \"Debugging LLM apps is painful — how are you finding root causes?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxjehz/debugging_llm_apps_is_painful_how_are_you_finding/",
-      "subreddit": "OpenAI"
+      "title": "Codex usage acting funny?",
+      "score": 0.48,
+      "summary": "Thread on \"Codex usage acting funny?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rxmagm/codex_usage_acting_funny/",
+      "subreddit": "codex"
     },
     {
-      "title": "That was hard",
-      "score": 0.49,
-      "summary": "Thread on \"That was hard\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxi7j9/that_was_hard/",
+      "title": "GPT is great… but why does it suck at UI?",
+      "score": 0.48,
+      "summary": "Thread on \"GPT is great… but why does it suck at UI?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rxm3g8/gpt_is_great_but_why_does_it_suck_at_ui/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "ChatGPT randomly switched to Russian letters for a single word...",
+      "score": 0.48,
+      "summary": "Thread on \"ChatGPT randomly switched to Russian letters for a single word...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxt8cb/chatgpt_randomly_switched_to_russian_letters_for/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "OpenAI launches ultra-fast GPT-5.4 mini and nano models.",
+      "title": "can ANYONE tell me what happens after 5.3 hits limit??",
       "score": 0.48,
-      "summary": "Thread on \"OpenAI launches ultra-fast GPT-5.4 mini and nano models.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxdydb/openai_launches_ultrafast_gpt54_mini_and_nano/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"can ANYONE tell me what happens after 5.3 hits limit??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxt3qz/can_anyone_tell_me_what_happens_after_53_hits/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "I built a VS Code extension to manually order files/folders in Explorer with a .order file",
+      "title": "wh… what the fuck…?",
       "score": 0.48,
-      "summary": "Thread on \"I built a VS Code extension to manually order files/folders in Explorer with a .order file\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rxehb4/i_built_a_vs_code_extension_to_manually_order/",
-      "subreddit": "vscode"
+      "summary": "Thread on \"wh… what the fuck…?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxsr9t/wh_what_the_fuck/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "Anyone using the simple browser instead of external browser when running code?",
-      "score": 0.48,
-      "summary": "Thread on \"Anyone using the simple browser instead of external browser when running code?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rxe204/anyone_using_the_simple_browser_instead_of/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "CoPilot is achingly slow now.",
-      "score": 0.48,
-      "summary": "Thread on \"CoPilot is achingly slow now.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rxeqrx/copilot_is_achingly_slow_now/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "News article: Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It",
+      "title": "I'm going to get downvoted but: Claude has never gotten significantly dumber, you're using the tool wrong.",
       "score": 0.47,
-      "summary": "Thread on \"News article: Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxdh23/news_article_companies_say_the_risks_of_open/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"I'm going to get downvoted but: Claude has never gotten significantly dumber, you're using the tool wrong.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxkds8/im_going_to_get_downvoted_but_claude_has_never/",
+      "subreddit": "ClaudeCode"
     },
     {
-      "title": "What are global vcs talking about right now about AI? Everyone is saying something big is coming, but \"what\" is It? Any folks from vc/banks giants that can spill some beans here?",
+      "title": "OAuth is down",
       "score": 0.47,
-      "summary": "Thread on \"What are global vcs talking about right now about AI? Everyone is saying something big is coming, but \"what\" is It? Any \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxdbem/what_are_global_vcs_talking_about_right_now_about/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Got hit with this out of the blue",
-      "score": 0.47,
-      "summary": "Thread on \"Got hit with this out of the blue\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxcea3/got_hit_with_this_out_of_the_blue/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"OAuth is down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxkx7j/oauth_is_down/",
+      "subreddit": "ClaudeCode"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-19T01:47:21.989Z",
-    "refresh_finished_at": "2026-03-19T01:47:26.212Z",
+    "refresh_started_at": "2026-03-19T06:51:38.785Z",
+    "refresh_finished_at": "2026-03-19T06:52:07.450Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1749
+        "duration_ms": 1537
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4186
+        "duration_ms": 28632
       }
     },
     "warnings": []
