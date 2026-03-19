@@ -1,41 +1,80 @@
 {
-  "generated_at": "2026-03-19T06:52:07.449Z",
+  "generated_at": "2026-03-19T12:52:08.210Z",
   "news_summary": [
     {
-      "headline": "Missile Attack Kills at Least 3 in West Bank",
+      "headline": "Iran War Live Updates: Bessent Says U.S. Is Considering New Steps on Oil as Attacks Rattle Energy Markets",
       "region": "world",
-      "summary": "Missile Attack Kills at Least 3 in West Bank. Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.",
+      "summary": "Iran War Live Updates: Bessent Says U.S. Is Considering New Steps on Oil as Attacks Rattle Energy Markets. Treasury Secretary Scott Bessent said that the Trump administration could release more oil from American reserves, as it scrambles to avert a sustained energy crisis set off by the U.S.-Israeli war against Iran.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-19T06:29:34.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
+          "published_at": "2026-03-19T12:45:40.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Cesar Chavez abused and raped women and girls, NYT investigation says",
+      "headline": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war",
       "region": "us",
-      "summary": "Cesar Chavez abused and raped women and girls, NYT investigation says. A New York Times investigation has revealed allegations that the late renowned labor leader abused girls and raped Dolores Huerta, his longtime organizing partner.",
+      "summary": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war. At the Emergency Hospital, dozens crowded around a thick book to check the names of the victims killed in an airstrike on a rehabilitation center. The U.N. says over a hundred people were killed.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers",
-          "published_at": "2026-03-18T18:26:37.000Z"
+          "url": "https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war",
+          "published_at": "2026-03-19T12:11:54.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Tripartite council puts AI at top of agenda as robot fears grow",
+      "headline": "Global biomedical summit to convene in North Jeolla Province, drawing top scientists",
       "region": "korea",
-      "summary": "Tripartite council puts AI at top of agenda as robot fears grow. The presidential Economic, Social and Labor Council has placed artificial intelligence (AI) at the center of its new work agenda, establishing a dedicated AI transition committee as part of a broader effort to revitalize tripartite social dialogue. The council under President Lee Jae Myung held its first plenary session Thursday at Cheong Wa Dae, unveiling a package of seven committees that collectively target what officials call Korea’s “compound transition crisis” of an AI revolution, demographic change and the green energy transition. Its committee on “labor-management coexistence in the AI transition” seeks to map how AI spreads through workplaces, how jobs and skills will change, and what cooperation models labor and management can build around that shift. Council Chair Kim Ji-hyung said AI has become one of the most pressing challenges for the nation’s economy and labor market and therefore needs to be handled as a dedicated social dialogue agenda, amid fears of job replacement as companies such as Hyundai Motor move to introduce humanoid robots like “Atlas.” Speaki.",
+      "summary": "Global biomedical summit to convene in North Jeolla Province, drawing top scientists. Jeonbuk National University and North Jeolla Province said they will host the 16th International Symposium on Frontiers in Biomedical Polymers (FBPS) from June 7 to 11 next year at the university’s International Conference Hall. FBPS 2027 is expected to attract between 500 and 700 participants from 20 to 30 countries, organizers said. It will mark the second time Korea has hosted the symposium after its inaugural turn in 2017. Founded in 1995, the conference has been held every two years in a format modeled after the Gordon Research Conferences, a structure known for fostering intensive, high-level academic exchange. The symposium spans a wide range of disciplines shaping the future of medicine, including stem cells, regenerative medicine, organoids, drug delivery systems, tissue engineering, biomaterials, 3D printing, gene therapy and bioimaging. Organizers said the breadth of topics reflects the growing convergence of biology, engineering and data science. The conference will be co-chaired by Khang Gil-son and Lee Dong-won, professors at Jeonbuk National University, along with Kim Ch.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260319/tripartite-council-puts-ai-at-top-of-agenda-as-robot-fears-grow?utm_source=rss",
-          "published_at": "2026-03-19T06:47:03.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/others/20260319/global-biomedical-summit-to-convene-in-north-jeolla-province-drawing-top-scientists?utm_source=rss",
+          "published_at": "2026-03-19T12:47:02.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Iran War’s Economic Threat to Europe and Asia",
+      "region": "world",
+      "summary": "The Iran War’s Economic Threat to Europe and Asia. Inflation and its consequences for growth are a growing concern for countries where memories of the 2022 energy crisis are fresh.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html",
+          "published_at": "2026-03-19T06:06:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
+      "region": "world",
+      "summary": "E.U. Loan for Ukraine Becomes Election Leverage for Orban. European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
+          "published_at": "2026-03-19T07:00:07.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "In Swaths of Germany, the Far-Right AfD Is Part of the Fabric",
+      "region": "world",
+      "summary": "In Swaths of Germany, the Far-Right AfD Is Part of the Fabric. The Alternative for Germany party, or AfD, is shunned in federal politics but is a regional force. This fall, it could win broader power for the first time.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/germany-far-right-afd.html",
+          "published_at": "2026-03-19T04:01:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +87,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
-          "published_at": "2026-03-18T19:32:35.000Z"
+          "published_at": "2026-03-19T09:19:08.000Z"
         }
       ],
       "reliability_score": 1
@@ -74,7 +113,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
-          "published_at": "2026-03-18T18:41:58.000Z"
+          "published_at": "2026-03-19T11:57:19.000Z"
         }
       ],
       "reliability_score": 1
@@ -145,53 +184,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
-      "region": "world",
-      "summary": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change. Israeli attacks have targeted the command centers of Iran’s repressive, internal security forces in hopes that Iranians will overthrow their rulers. Some see that as wishful thinking.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-          "published_at": "2026-03-18T23:16:35.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "As a Meningitis Outbreak Spreads in Kent, UK, Here’s What to Know",
-      "region": "world",
-      "summary": "As a Meningitis Outbreak Spreads in Kent, UK, Here’s What to Know. At least 20 young adults are believed to be infected, and two have died, in an outbreak of meningococcal disease in the county of Kent, in southeast England.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/uk-meningitis-outbreak-what-to-know.html",
-          "published_at": "2026-03-19T05:08:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?",
-      "region": "world",
-      "summary": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?. An attack forced its crew to abandon ship in early March. No country has intervened, despite fears of environmental disaster.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/abandoned-russian-tanker-mediterranean-sea.html",
-          "published_at": "2026-03-18T16:04:01.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder",
+      "headline": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape",
       "region": "us",
-      "summary": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder. A Utah jury convicted Kouri Richins of fatally spiking her husband's drink with fentanyl in 2022. Prosecutors said she was hoping to collect millions of dollars from multiple life insurance policies.",
+      "summary": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape. Attacks on gas facilities by Israel and Iran have escalated the war and impacted global markets. And, renowned union leader and labor rights advocate Cesar Chavez is accused of sexual abuse and rape.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/18/nx-s1-5751765/kouri-richins-trial-murder-husband-book",
-          "published_at": "2026-03-18T18:14:28.000Z"
+          "url": "https://www.npr.org/2026/03/19/g-s1-114413/up-first-newsletter-iran-israel-qatar-war-trump-cesar-chavez-faa-safety-policies",
+          "published_at": "2026-03-19T11:10:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Codex Usage Drain is Getting Absurd.",
+      "title": "I love how this mf never disagree",
+      "score": 0.48,
+      "summary": "Thread on \"I love how this mf never disagree\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxtvfs/i_love_how_this_mf_never_disagree/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "MiroThinker H1 tops GPT 5.4, Claude 4.6 Opus on BrowseComp; its 3B param open source variant beats GPT 5 on GAIA",
       "score": 0.52,
-      "summary": "Thread on \"Codex Usage Drain is Getting Absurd.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rxsvsf/codex_usage_drain_is_getting_absurd/",
-      "subreddit": "codex"
+      "summary": "Thread on \"MiroThinker H1 tops GPT 5.4, Claude 4.6 Opus on BrowseComp; its 3B param open source variant beats GPT 5 on GAIA\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rxyz9c/mirothinker_h1_tops_gpt_54_claude_46_opus_on/",
+      "subreddit": "singularity"
     },
     {
-      "title": "I built ClaudeWatch with Claude Code -- a free, open-source desktop app to monitor all your running Claude Code sessions",
+      "title": "THE IMPUNITOUS PLUNDER OF YOUR FUTURE. You are being robbed of every thought – and you even say thank you for it with a subscription.",
+      "score": 0.52,
+      "summary": "Thread on \"THE IMPUNITOUS PLUNDER OF YOUR FUTURE. You are being robbed of every thought – and you even say thank you for it with a \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxz97g/the_impunitous_plunder_of_your_future_you_are/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "What AI tools are actually worth trying beyond GitHub Copilot in 2026?",
+      "score": 0.5,
+      "summary": "Thread on \"What AI tools are actually worth trying beyond GitHub Copilot in 2026?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rxw1gu/what_ai_tools_are_actually_worth_trying_beyond/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "I built an AI agent that can book appointments for you by chatting with your potential customers",
       "score": 0.51,
-      "summary": "Thread on \"I built ClaudeWatch with Claude Code -- a free, open-source desktop app to monitor all your running Claude Code sessions\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxsndc/i_built_claudewatch_with_claude_code_a_free/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"I built an AI agent that can book appointments for you by chatting with your potential customers\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxy6q0/i_built_an_ai_agent_that_can_book_appointments/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "I asked claude to make a video about what it's like to be an LLM",
+      "title": "New, Powerful UX and Design Tool I made - Check it out (forever free)",
+      "score": 0.51,
+      "summary": "Thread on \"New, Powerful UX and Design Tool I made - Check it out (forever free)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxyt61/new_powerful_ux_and_design_tool_i_made_check_it/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "ChatGPT gets really slow in long chats so I tried fixing it locally",
+      "score": 0.51,
+      "summary": "Thread on \"ChatGPT gets really slow in long chats so I tried fixing it locally\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxy5dr/chatgpt_gets_really_slow_in_long_chats_so_i_tried/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Understanding Determinant and Matrix Inverse (with simple visual notes)",
+      "score": 0.51,
+      "summary": "Thread on \"Understanding Determinant and Matrix Inverse (with simple visual notes)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxxomd/understanding_determinant_and_matrix_inverse_with/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training",
       "score": 0.5,
-      "summary": "Thread on \"I asked claude to make a video about what it's like to be an LLM\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxqswz/i_asked_claude_to_make_a_video_about_what_its/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxwrbp/bmg_sues_anthropic_for_using_bruno_mars_rolling/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "For those missing chats: pinned chats are failing in the web UI. Here’s the workaround.",
+      "title": "I made a stupid simple MAINTENANCE.md for AI docs and it actually fixed a bunch of nonsense",
       "score": 0.5,
-      "summary": "Thread on \"For those missing chats: pinned chats are failing in the web UI. Here’s the workaround.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxqz5w/for_those_missing_chats_pinned_chats_are_failing/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"I made a stupid simple MAINTENANCE.md for AI docs and it actually fixed a bunch of nonsense\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxwqn8/i_made_a_stupid_simple_maintenancemd_for_ai_docs/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "For anyone impacted by the recent change undermining bypassPermissions, here is a workaround",
-      "score": 0.5,
-      "summary": "Thread on \"For anyone impacted by the recent change undermining bypassPermissions, here is a workaround\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxr2jn/for_anyone_impacted_by_the_recent_change/",
-      "subreddit": "ClaudeCode"
+      "title": "what happens to mcp servers when the company behind them shuts down",
+      "score": 0.49,
+      "summary": "Thread on \"what happens to mcp servers when the company behind them shuts down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxvn19/what_happens_to_mcp_servers_when_the_company/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "I built a lightweight project memory system that works with Codex, Claude Code, and other AI coding agents",
-      "score": 0.5,
-      "summary": "Thread on \"I built a lightweight project memory system that works with Codex, Claude Code, and other AI coding agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rxqfvt/i_built_a_lightweight_project_memory_system_that/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "OpenAI is shipping everything. Anthropic is perfecting one thing.",
+      "title": "What 81,000 people want from AI \\ Anthropic",
       "score": 0.48,
-      "summary": "Thread on \"OpenAI is shipping everything. Anthropic is perfecting one thing.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxmc81/openai_is_shipping_everything_anthropic_is/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"What 81,000 people want from AI \\ Anthropic\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rxtrhr/what_81000_people_want_from_ai_anthropic/",
+      "subreddit": "singularity"
     },
     {
-      "title": "How we treat AI in 2023 vs 2026",
+      "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
       "score": 0.48,
-      "summary": "Thread on \"How we treat AI in 2023 vs 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxm9b4/how_we_treat_ai_in_2023_vs_2026/",
+      "summary": "Thread on \"CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxtt72/ceo_asks_chatgpt_how_to_void_250_million_contract/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Codex usage acting funny?",
+      "title": "Experts here, what’s your full automation stack for you and your team?",
       "score": 0.48,
-      "summary": "Thread on \"Codex usage acting funny?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rxmagm/codex_usage_acting_funny/",
-      "subreddit": "codex"
+      "summary": "Thread on \"Experts here, what’s your full automation stack for you and your team?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxu1dp/experts_here_whats_your_full_automation_stack_for/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "GPT is great… but why does it suck at UI?",
-      "score": 0.48,
-      "summary": "Thread on \"GPT is great… but why does it suck at UI?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rxm3g8/gpt_is_great_but_why_does_it_suck_at_ui/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "ChatGPT randomly switched to Russian letters for a single word...",
-      "score": 0.48,
-      "summary": "Thread on \"ChatGPT randomly switched to Russian letters for a single word...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxt8cb/chatgpt_randomly_switched_to_russian_letters_for/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "can ANYONE tell me what happens after 5.3 hits limit??",
-      "score": 0.48,
-      "summary": "Thread on \"can ANYONE tell me what happens after 5.3 hits limit??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxt3qz/can_anyone_tell_me_what_happens_after_53_hits/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "wh… what the fuck…?",
-      "score": 0.48,
-      "summary": "Thread on \"wh… what the fuck…?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxsr9t/wh_what_the_fuck/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "I'm going to get downvoted but: Claude has never gotten significantly dumber, you're using the tool wrong.",
+      "title": "ChatGPT is crawling B2B websites constantly. Most companies have no idea what it's pulling out",
       "score": 0.47,
-      "summary": "Thread on \"I'm going to get downvoted but: Claude has never gotten significantly dumber, you're using the tool wrong.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxkds8/im_going_to_get_downvoted_but_claude_has_never/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "OAuth is down",
-      "score": 0.47,
-      "summary": "Thread on \"OAuth is down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1rxkx7j/oauth_is_down/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"ChatGPT is crawling B2B websites constantly. Most companies have no idea what it's pulling out\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxs8m7/chatgpt_is_crawling_b2b_websites_constantly_most/",
+      "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-19T06:51:38.785Z",
-    "refresh_finished_at": "2026-03-19T06:52:07.450Z",
+    "refresh_started_at": "2026-03-19T12:52:04.067Z",
+    "refresh_finished_at": "2026-03-19T12:52:08.210Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1537
+        "duration_ms": 1367
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 28632
+        "duration_ms": 4107
       }
     },
     "warnings": []
