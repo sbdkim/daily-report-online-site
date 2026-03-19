@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-03-18T18:52:27.409Z",
+  "generated_at": "2026-03-19T01:47:26.211Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Oil and Gas Prices Jump After Strike Hits Key Energy Site",
+      "headline": "Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank",
       "region": "world",
-      "summary": "Iran War Live Updates: Oil and Gas Prices Jump After Strike Hits Key Energy Site. The attack on South Pars, one of the world’s biggest gas fields, showed how the war threatens global energy supplies. Israel killed Iran’s intelligence minister, the latest high-ranking official to be targeted.",
+      "summary": "Iran War Live Updates: Missile Attack Kills at Least 3 in West Bank. Several others were injured in the Iranian attack that was the first to kill Palestinians in the Israeli-occupied West Bank since the war began. Residents in Tehran and elsewhere in Iran describe lives gripped by fear and anger.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/18/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-18T18:49:05.000Z"
+          "published_at": "2026-03-19T01:20:08.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "US holds interest rates as Iran war triggers oil shock",
+      "headline": "Cesar Chavez abused and raped women and girls, NYT investigation says",
       "region": "us",
-      "summary": "US holds interest rates as Iran war triggers oil shock. The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
+      "summary": "Cesar Chavez abused and raped women and girls, NYT investigation says. A New York Times investigation has revealed allegations that the late renowned labor leader abused girls and raped Dolores Huerta, his longtime organizing partner.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-18T18:22:28.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5752253/cesar-chavez-sexual-assault-dolores-huerta-united-farm-workers",
+          "published_at": "2026-03-18T18:26:37.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "(LEAD) Fed holds key rate steady, projects 1 rate cut this year amid Iran war uncertainty",
+      "headline": "S. Korea, US conclude key springtime military drills amid N. Korean threats",
       "region": "korea",
-      "summary": "(LEAD) Fed holds key rate steady, projects 1 rate cut this year amid Iran war uncertainty. WASHINGTON, March 18 (Yonhap) -- The U.S. Federal Reserve on Wednesday left its ..",
+      "summary": "S. Korea, US conclude key springtime military drills amid N. Korean threats. South Korea and the United States wrapped up their annual Freedom Shield (FS) exercise Thursday aimed at strengthening their combined readiness posture, amid North Korea's verbal threats and the launch of some 10 ballistic missiles. The major springtime exercise, involving realistic wartime scenarios reflecting trends in modern warfare, drew to an end after an 11-day run, their militaries said in a joint statement. \"The Republic of Korea and the United States successfully concluded FS 26, reaffirming a strong combined defense posture and further enhancing the alliance's ability to conduct operations across all domains,\" the statement said, referring to South Korea by its formal name. This year's exercise focused on assessing conditions to achieve the transfer of wartime operational control (OPCON) from Washington to Seoul as South Korea seeks a \"conditions-based\" handover within President Lee Jae Myung's five-year term ending in 2030. Some 18,000 troops took part in the drills, a scale similar to the previous year, but the number of field training exercises halved to around 22, compared.",
       "sources": [
+        {
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260319/s-korea-us-conclude-key-springtime-military-drills-amid-n-korean-threats?utm_source=rss",
+          "published_at": "2026-03-19T01:47:04.000Z"
+        },
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260319000451315",
-          "published_at": "2026-03-18T18:28:56.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260319003000315",
+          "published_at": "2026-03-19T01:14:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +53,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
-          "published_at": "2026-03-18T18:07:25.000Z"
+          "published_at": "2026-03-18T19:32:35.000Z"
         }
       ],
       "reliability_score": 1
@@ -93,14 +98,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Pakistan to Pause Afghanistan Airstrikes for Eid",
+      "headline": "Pakistan Pauses Afghanistan Airstrikes for Eid",
       "region": "world",
-      "summary": "Pakistan to Pause Afghanistan Airstrikes for Eid. At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.",
+      "summary": "Pakistan Pauses Afghanistan Airstrikes for Eid. At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html",
-          "published_at": "2026-03-18T17:43:52.000Z"
+          "published_at": "2026-03-19T01:12:01.000Z"
         }
       ],
       "reliability_score": 1
@@ -119,6 +124,19 @@
       "reliability_score": 1
     },
     {
+      "headline": "The Tropical St. Patrick’s Day That Honors African History",
+      "region": "world",
+      "summary": "The Tropical St. Patrick’s Day That Honors African History. Montserrat treats the holiday as both a national celebration and a more somber milestone: a commemoration of a failed slave rebellion.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/18/world/americas/montserrat-st-patricks-day.html",
+          "published_at": "2026-03-18T21:14:27.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
       "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
       "region": "world",
       "summary": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader. A Brussels court ruled that Étienne Davignon must stand trial for the murder of Patrice Lumumba, the first prime minister of the Democratic Republic of Congo.",
@@ -126,7 +144,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html",
-          "published_at": "2026-03-18T18:35:38.000Z"
+          "published_at": "2026-03-18T22:56:56.000Z"
         }
       ],
       "reliability_score": 1
@@ -139,7 +157,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-          "published_at": "2026-03-18T15:35:24.000Z"
+          "published_at": "2026-03-18T23:16:35.000Z"
         }
       ],
       "reliability_score": 1
@@ -158,19 +176,6 @@
       "reliability_score": 1
     },
     {
-      "headline": "Betting on Ayatollah’s Ouster Ignites Ire Over Prediction Markets",
-      "region": "world",
-      "summary": "Betting on Ayatollah’s Ouster Ignites Ire Over Prediction Markets. Bettors are angry that Kalshi, citing a policy against death bets, did not pay on wagers. And with signs of trading on government secrets, some lawmakers want to restrict prediction markets.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/ayatollah-ouster-bets-death.html",
-          "published_at": "2026-03-18T13:13:12.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
       "headline": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?",
       "region": "world",
       "summary": "An Abandoned Russian Tanker Is Drifting at Sea. Will Anyone Stop It?. An attack forced its crew to abandon ship in early March. No country has intervened, despite fears of environmental disaster.",
@@ -184,14 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Juliana Stratton wins Illinois Democratic primary for US Senate ",
+      "headline": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder",
       "region": "us",
-      "summary": "Juliana Stratton wins Illinois Democratic primary for US Senate. The 60-year-old Democrat, backed by Governor JB Pritzker, pulled off a surprise victory after months of trailing in the polls.",
+      "summary": "A mom wrote a kids' book on grief. She was just convicted of her husband's murder. A Utah jury convicted Kouri Richins of fatally spiking her husband's drink with fentanyl in 2022. Prosecutors said she was hoping to collect millions of dollars from multiple life insurance policies.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd9g9j3y2p0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-18T11:36:15.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/18/nx-s1-5751765/kouri-richins-trial-murder-husband-book",
+          "published_at": "2026-03-18T18:14:28.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Jeremy O. Harris drunkenly called OpenAI's Sam Altman a Nazi at the Vanity Fair Oscar party",
+      "title": "How we treat AI in 2023 vs 2026",
       "score": 0.51,
-      "summary": "Thread on \"Jeremy O. Harris drunkenly called OpenAI's Sam Altman a Nazi at the Vanity Fair Oscar party\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rx9rqh/jeremy_o_harris_drunkenly_called_openais_sam/",
+      "summary": "Thread on \"How we treat AI in 2023 vs 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxm9b4/how_we_treat_ai_in_2023_vs_2026/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "After $80B, the Metaverse is dead. Horizon World is shutting down",
-      "score": 0.49,
-      "summary": "Thread on \"After $80B, the Metaverse is dead. Horizon World is shutting down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rx6lhj/after_80b_the_metaverse_is_dead_horizon_world_is/",
-      "subreddit": "singularity"
+      "title": "OpenAI is shipping everything. Anthropic is perfecting one thing.",
+      "score": 0.51,
+      "summary": "Thread on \"OpenAI is shipping everything. Anthropic is perfecting one thing.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxmc81/openai_is_shipping_everything_anthropic_is/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Stop pre-selling the future. Current AI agents are 5% tech, 95% hype.",
-      "score": 0.51,
-      "summary": "Thread on \"Stop pre-selling the future. Current AI agents are 5% tech, 95% hype.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxa9eo/stop_preselling_the_future_current_ai_agents_are/",
+      "title": "I bought $200 Claude Code so you don’t have to !",
+      "score": 0.49,
+      "summary": "Thread on \"I bought $200 Claude Code so you don’t have to !\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxgy6u/i_bought_200_claude_code_so_you_dont_have_to/",
       "subreddit": "ArtificialInteligence"
     },
     {
       "title": "ai dev tools for companies vs individual devs are completely different products and we need to stop comparing them",
-      "score": 0.48,
+      "score": 0.43,
       "summary": "Thread on \"ai dev tools for companies vs individual devs are completely different products and we need to stop comparing them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rx4838/ai_dev_tools_for_companies_vs_individual_devs_are/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "🎥 AI UGC Video Automation - Turn Product Photos Into Viral Videos",
-      "score": 0.48,
-      "summary": "Thread on \"🎥 AI UGC Video Automation - Turn Product Photos Into Viral Videos\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxarj7/ai_ugc_video_automation_turn_product_photos_into/",
-      "subreddit": "AI_Agents"
+      "title": "Is Vscodium is no good enough for WSL?",
+      "score": 0.49,
+      "summary": "Thread on \"Is Vscodium is no good enough for WSL?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rxglec/is_vscodium_is_no_good_enough_for_wsl/",
+      "subreddit": "vscode"
     },
     {
-      "title": "Use Case: automating local business prospecting with Google rating signals",
+      "title": "Has anyone else noticed when someone has and uses a vocabulary beyond the third grade everyone jumps on the post with that's \"ChatGPT!\"?",
       "score": 0.51,
-      "summary": "Thread on \"Use Case: automating local business prospecting with Google rating signals\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rxb18x/use_case_automating_local_business_prospecting/",
-      "subreddit": "AiAutomations"
-    },
-    {
-      "title": "chatgpt helped me prep for a salary negotiation and i got $14k more than i expected",
-      "score": 0.51,
-      "summary": "Thread on \"chatgpt helped me prep for a salary negotiation and i got $14k more than i expected\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rx9ufe/chatgpt_helped_me_prep_for_a_salary_negotiation/",
+      "summary": "Thread on \"Has anyone else noticed when someone has and uses a vocabulary beyond the third grade everyone jumps on the post with th\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxkyyu/has_anyone_else_noticed_when_someone_has_and_uses/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Are you automating any part of your content workflow?",
+      "title": "Debugging LLM apps is painful — how are you finding root causes?",
       "score": 0.5,
-      "summary": "Thread on \"Are you automating any part of your content workflow?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rx96s0/are_you_automating_any_part_of_your_content/",
-      "subreddit": "AiAutomations"
+      "summary": "Thread on \"Debugging LLM apps is painful — how are you finding root causes?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxjehz/debugging_llm_apps_is_painful_how_are_you_finding/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Automated telephone calls for sales - are they worth it?",
-      "score": 0.5,
-      "summary": "Thread on \"Automated telephone calls for sales - are they worth it?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rx93b4/automated_telephone_calls_for_sales_are_they/",
-      "subreddit": "AiAutomations"
+      "title": "That was hard",
+      "score": 0.49,
+      "summary": "Thread on \"That was hard\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxi7j9/that_was_hard/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "AI News portal vide coded with Claude Code - Opus 4.6",
-      "score": 0.5,
-      "summary": "Thread on \"AI News portal vide coded with Claude Code - Opus 4.6\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rx8g97/ai_news_portal_vide_coded_with_claude_code_opus_46/",
-      "subreddit": "AiAutomations"
+      "title": "OpenAI launches ultra-fast GPT-5.4 mini and nano models.",
+      "score": 0.48,
+      "summary": "Thread on \"OpenAI launches ultra-fast GPT-5.4 mini and nano models.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxdydb/openai_launches_ultrafast_gpt54_mini_and_nano/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "UK Government backtracks on AI and copyright after outcry from major artists",
-      "score": 0.5,
-      "summary": "Thread on \"UK Government backtracks on AI and copyright after outcry from major artists\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rx9a03/uk_government_backtracks_on_ai_and_copyright/",
+      "title": "I built a VS Code extension to manually order files/folders in Explorer with a .order file",
+      "score": 0.48,
+      "summary": "Thread on \"I built a VS Code extension to manually order files/folders in Explorer with a .order file\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rxehb4/i_built_a_vs_code_extension_to_manually_order/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "Anyone using the simple browser instead of external browser when running code?",
+      "score": 0.48,
+      "summary": "Thread on \"Anyone using the simple browser instead of external browser when running code?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rxe204/anyone_using_the_simple_browser_instead_of/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "CoPilot is achingly slow now.",
+      "score": 0.48,
+      "summary": "Thread on \"CoPilot is achingly slow now.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1rxeqrx/copilot_is_achingly_slow_now/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "News article: Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It",
+      "score": 0.47,
+      "summary": "Thread on \"News article: Companies Say the Risks of ‘Open’ Artificial Intelligence Models Are Worth It\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxdh23/news_article_companies_say_the_risks_of_open/",
       "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "How to break into the market and get clients",
-      "score": 0.49,
-      "summary": "Thread on \"How to break into the market and get clients\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1rx6jf0/how_to_break_into_the_market_and_get_clients/",
-      "subreddit": "AiAutomations"
+      "title": "What are global vcs talking about right now about AI? Everyone is saying something big is coming, but \"what\" is It? Any folks from vc/banks giants that can spill some beans here?",
+      "score": 0.47,
+      "summary": "Thread on \"What are global vcs talking about right now about AI? Everyone is saying something big is coming, but \"what\" is It? Any \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxdbem/what_are_global_vcs_talking_about_right_now_about/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "The dictionaries are suing OpenAI for \"massive\" copyright infringement, and say ChatGPT is starving publishers of revenue",
-      "score": 0.49,
-      "summary": "Thread on \"The dictionaries are suing OpenAI for \"massive\" copyright infringement, and say ChatGPT is starving publishers of revenu\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rx6oq3/the_dictionaries_are_suing_openai_for_massive/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Robot dancing is going well",
-      "score": 0.49,
-      "summary": "Thread on \"Robot dancing is going well\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rx5wd8/robot_dancing_is_going_well/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "I trained a model on childhood photos to simulate memory recall - [More info in post's description]",
-      "score": 0.49,
-      "summary": "Thread on \"I trained a model on childhood photos to simulate memory recall - [More info in post's description]\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rx6ied/i_trained_a_model_on_childhood_photos_to_simulate/",
-      "subreddit": "singularity"
+      "title": "Got hit with this out of the blue",
+      "score": 0.47,
+      "summary": "Thread on \"Got hit with this out of the blue\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rxcea3/got_hit_with_this_out_of_the_blue/",
+      "subreddit": "OpenAI"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-18T18:52:22.806Z",
-    "refresh_finished_at": "2026-03-18T18:52:27.409Z",
+    "refresh_started_at": "2026-03-19T01:47:21.989Z",
+    "refresh_finished_at": "2026-03-19T01:47:26.212Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1726
+        "duration_ms": 1749
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4549
+        "duration_ms": 4186
       }
     },
     "warnings": []
