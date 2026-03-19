@@ -1,41 +1,46 @@
 {
-  "generated_at": "2026-03-19T12:52:08.210Z",
+  "generated_at": "2026-03-19T18:49:43.914Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Bessent Says U.S. Is Considering New Steps on Oil as Attacks Rattle Energy Markets",
+      "headline": "Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans",
       "region": "world",
-      "summary": "Iran War Live Updates: Bessent Says U.S. Is Considering New Steps on Oil as Attacks Rattle Energy Markets. Treasury Secretary Scott Bessent said that the Trump administration could release more oil from American reserves, as it scrambles to avert a sustained energy crisis set off by the U.S.-Israeli war against Iran.",
+      "summary": "Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans. President Trump, speaking in the Oval Office, said he would do whatever was necessary to lower oil prices, even as new strikes on energy sites in the Gulf drove the price of oil up.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-19T12:45:40.000Z"
+          "published_at": "2026-03-19T18:44:15.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war",
+      "headline": "Trump threatens to blow up 'entirety' of  major Iran gas field if it attacks Qatar again",
       "region": "us",
-      "summary": "As Pakistan and Afghanistan declare truce, civilians in Kabul count the cost of war. At the Emergency Hospital, dozens crowded around a thick book to check the names of the victims killed in an airstrike on a rehabilitation center. The U.N. says over a hundred people were killed.",
+      "summary": "Trump threatens to blow up 'entirety' of major Iran gas field if it attacks Qatar again. The attacks led to a spike of more than 25% in gas prices in Europe on Thursday.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/19/g-s1-114417/as-pakistan-and-afghanistan-declare-truce-civilians-in-kabul-count-the-cost-of-war",
-          "published_at": "2026-03-19T12:11:54.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c93j37egjdeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-19T10:37:36.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Global biomedical summit to convene in North Jeolla Province, drawing top scientists",
+      "headline": "(LEAD) Trump calls on Japan to 'step up' as U.S. seeks to keep Strait of Hormuz open",
       "region": "korea",
-      "summary": "Global biomedical summit to convene in North Jeolla Province, drawing top scientists. Jeonbuk National University and North Jeolla Province said they will host the 16th International Symposium on Frontiers in Biomedical Polymers (FBPS) from June 7 to 11 next year at the university’s International Conference Hall. FBPS 2027 is expected to attract between 500 and 700 participants from 20 to 30 countries, organizers said. It will mark the second time Korea has hosted the symposium after its inaugural turn in 2017. Founded in 1995, the conference has been held every two years in a format modeled after the Gordon Research Conferences, a structure known for fostering intensive, high-level academic exchange. The symposium spans a wide range of disciplines shaping the future of medicine, including stem cells, regenerative medicine, organoids, drug delivery systems, tissue engineering, biomaterials, 3D printing, gene therapy and bioimaging. Organizers said the breadth of topics reflects the growing convergence of biology, engineering and data science. The conference will be co-chaired by Khang Gil-son and Lee Dong-won, professors at Jeonbuk National University, along with Kim Ch.",
+      "summary": "(LEAD) Trump calls on Japan to 'step up' as U.S. seeks to keep Strait of Hormuz open. WASHINGTON, March 19 (Yonhap) -- U.S. President Donald Trump on Thursday express..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/others/20260319/global-biomedical-summit-to-convene-in-north-jeolla-province-drawing-top-scientists?utm_source=rss",
-          "published_at": "2026-03-19T12:47:02.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260320000251315",
+          "published_at": "2026-03-19T18:03:24.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260320000200315",
+          "published_at": "2026-03-19T17:25:17.000Z"
         }
       ],
       "reliability_score": 1
@@ -54,14 +59,66 @@
       "reliability_score": 1
     },
     {
-      "headline": "E.U. Loan for Ukraine Becomes Election Leverage for Orban",
+      "headline": "How Immigration Became an Issue in Argentina",
       "region": "world",
-      "summary": "E.U. Loan for Ukraine Becomes Election Leverage for Orban. European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Ukraine. But the issue is a rallying cry in remarkably close elections in Hungary set for April 12.",
+      "summary": "How Immigration Became an Issue in Argentina. Argentina has often stood out for its openness to immigration. Under President Javier Milei, it has started to crack down.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/americas/argentina-immigration-issue.html",
+          "published_at": "2026-03-19T09:00:15.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Soldier Who Came Back From the Dead",
+      "region": "world",
+      "summary": "The Soldier Who Came Back From the Dead. Told that Nazar Daletskyi had died, his Ukrainian family buried what they thought were his remains. He turned up three years later in a prisoner-of-war exchange.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-soldier-dna-mistake-back-from-dead.html",
+          "published_at": "2026-03-19T09:22:53.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.",
+      "region": "world",
+      "summary": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.. A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East is front and center.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
+          "published_at": "2026-03-19T12:40:38.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
+      "region": "world",
+      "summary": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban. European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Kyiv. But the issue is a rallying cry in elections in Hungary set for April 12.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
-          "published_at": "2026-03-19T07:00:07.000Z"
+          "published_at": "2026-03-19T15:48:41.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
+      "region": "world",
+      "summary": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago. Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
+          "published_at": "2026-03-19T09:04:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -75,6 +132,19 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/19/world/europe/germany-far-right-afd.html",
           "published_at": "2026-03-19T04:01:10.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "2 Men Charged With Spying for Iran on Jewish Institutions in UK",
+      "region": "world",
+      "summary": "2 Men Charged With Spying for Iran on Jewish Institutions in UK. The men, both Iranian citizens, are accused of conducting surveillance on several Jewish institutions and community buildings in London.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/iran-spy-charged-uk-jewish-london.html",
+          "published_at": "2026-03-19T14:26:32.000Z"
         }
       ],
       "reliability_score": 1
@@ -106,32 +176,6 @@
       "reliability_score": 1
     },
     {
-      "headline": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.",
-      "region": "world",
-      "summary": "He Lost a Leg for Russia. Then, He Says, His Country Betrayed Him.. Imprisoned for murder, Aleksandr Abbasov-Derskhan sought a new start in life and freedom by signing up to fight in Ukraine. But he says promised benefits proved illusory.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/russia-ukraine-prisoner-benefits.html",
-          "published_at": "2026-03-19T11:57:19.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region",
-      "region": "world",
-      "summary": "For U.S., Unmet Expectations in Iran Fit a Familiar Pattern in the Region. Iran’s military retaliation, along with the political defiance of its new leaders, evokes a decades-old pattern of unrealized goals for American interventions in the region.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/us/israel-us-iran-strategy-war.html",
-          "published_at": "2026-03-18T18:44:45.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
       "headline": "Pakistan Pauses Afghanistan Airstrikes for Eid",
       "region": "world",
       "summary": "Pakistan Pauses Afghanistan Airstrikes for Eid. At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.",
@@ -145,53 +189,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "The Faroe Islands Are Changing Some of Europe’s Strictest Abortion Rules",
+      "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
       "region": "world",
-      "summary": "The Faroe Islands Are Changing Some of Europe’s Strictest Abortion Rules. A new law allowing abortion up to 12 weeks will be a major shift in an archipelago of 55,000 people, and there are strong feelings on both sides.",
+      "summary": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks. What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/faroe-islands-abortion-europe.html",
-          "published_at": "2026-03-18T13:57:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Tropical St. Patrick’s Day That Honors African History",
-      "region": "world",
-      "summary": "The Tropical St. Patrick’s Day That Honors African History. Montserrat treats the holiday as both a national celebration and a more somber milestone: a commemoration of a failed slave rebellion.",
-      "sources": [
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-19T14:07:28.000Z"
+        },
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/americas/montserrat-st-patricks-day.html",
-          "published_at": "2026-03-18T21:14:27.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader",
-      "region": "world",
-      "summary": "Retired Belgian Diplomat, 93, Faces Trial Over 1961 Killing of Congolese Leader. A Brussels court ruled that Étienne Davignon must stand trial for the murder of Patrice Lumumba, the first prime minister of the Democratic Republic of Congo.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/belgium-congo-lumumba-trial.html",
-          "published_at": "2026-03-18T22:56:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape",
-      "region": "us",
-      "summary": "Israel and Iran attack gas facilities. And, Cesar Chavez accused of sexual abuse, rape. Attacks on gas facilities by Israel and Iran have escalated the war and impacted global markets. And, renowned union leader and labor rights advocate Cesar Chavez is accused of sexual abuse and rape.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/19/g-s1-114413/up-first-newsletter-iran-israel-qatar-war-trump-cesar-chavez-faa-safety-policies",
-          "published_at": "2026-03-19T11:10:10.000Z"
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-19T14:07:28.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +209,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "I love how this mf never disagree",
+      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+      "score": 0.5,
+      "summary": "Thread on \"ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ry4sf2/chatgpts_adult_mode_could_spark_a_new_era_of/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Antigravity is basically useless right now. The Gemini CLI is the only thing slightly rescuing the Pro sub.",
+      "score": 0.39,
+      "summary": "Thread on \"Antigravity is basically useless right now. The Gemini CLI is the only thing slightly rescuing the Pro sub.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1rxmy0f/antigravity_is_basically_useless_right_now_the/",
+      "subreddit": "GoogleAntigravityIDE"
+    },
+    {
+      "title": "Vibe coded application",
       "score": 0.48,
-      "summary": "Thread on \"I love how this mf never disagree\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxtvfs/i_love_how_this_mf_never_disagree/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "MiroThinker H1 tops GPT 5.4, Claude 4.6 Opus on BrowseComp; its 3B param open source variant beats GPT 5 on GAIA",
-      "score": 0.52,
-      "summary": "Thread on \"MiroThinker H1 tops GPT 5.4, Claude 4.6 Opus on BrowseComp; its 3B param open source variant beats GPT 5 on GAIA\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rxyz9c/mirothinker_h1_tops_gpt_54_claude_46_opus_on/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "THE IMPUNITOUS PLUNDER OF YOUR FUTURE. You are being robbed of every thought – and you even say thank you for it with a subscription.",
-      "score": 0.52,
-      "summary": "Thread on \"THE IMPUNITOUS PLUNDER OF YOUR FUTURE. You are being robbed of every thought – and you even say thank you for it with a \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxz97g/the_impunitous_plunder_of_your_future_you_are/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Vibe coded application\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ry0lqb/vibe_coded_application/",
+      "subreddit": "google_antigravity"
     },
     {
       "title": "What AI tools are actually worth trying beyond GitHub Copilot in 2026?",
-      "score": 0.5,
+      "score": 0.45,
       "summary": "Thread on \"What AI tools are actually worth trying beyond GitHub Copilot in 2026?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rxw1gu/what_ai_tools_are_actually_worth_trying_beyond/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "I built an AI agent that can book appointments for you by chatting with your potential customers",
-      "score": 0.51,
-      "summary": "Thread on \"I built an AI agent that can book appointments for you by chatting with your potential customers\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxy6q0/i_built_an_ai_agent_that_can_book_appointments/",
-      "subreddit": "AI_Agents"
+      "title": "What happened to gemini",
+      "score": 0.52,
+      "summary": "Thread on \"What happened to gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry8aeu/what_happened_to_gemini/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "New, Powerful UX and Design Tool I made - Check it out (forever free)",
-      "score": 0.51,
-      "summary": "Thread on \"New, Powerful UX and Design Tool I made - Check it out (forever free)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxyt61/new_powerful_ux_and_design_tool_i_made_check_it/",
-      "subreddit": "ArtificialInteligence"
+      "title": "Any good extensions for easily creating multiline code snippets?",
+      "score": 0.52,
+      "summary": "Thread on \"Any good extensions for easily creating multiline code snippets?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1ry8cmp/any_good_extensions_for_easily_creating_multiline/",
+      "subreddit": "vscode"
     },
     {
-      "title": "ChatGPT gets really slow in long chats so I tried fixing it locally",
+      "title": "Why is gemini becoming dumber?",
       "score": 0.51,
-      "summary": "Thread on \"ChatGPT gets really slow in long chats so I tried fixing it locally\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxy5dr/chatgpt_gets_really_slow_in_long_chats_so_i_tried/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Why is gemini becoming dumber?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry7til/why_is_gemini_becoming_dumber/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "Understanding Determinant and Matrix Inverse (with simple visual notes)",
+      "title": "What is this about ???",
       "score": 0.51,
-      "summary": "Thread on \"Understanding Determinant and Matrix Inverse (with simple visual notes)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxxomd/understanding_determinant_and_matrix_inverse_with/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"What is this about ???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry6gjc/what_is_this_about/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training",
+      "title": "Gemini not loading images",
       "score": 0.5,
-      "summary": "Thread on \"BMG sues Anthropic for using Bruno Mars, Rolling Stones lyrics in AI training\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rxwrbp/bmg_sues_anthropic_for_using_bruno_mars_rolling/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Gemini not loading images\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry56mh/gemini_not_loading_images/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "I made a stupid simple MAINTENANCE.md for AI docs and it actually fixed a bunch of nonsense",
+      "title": "Gemini hits the limit really quick",
       "score": 0.5,
-      "summary": "Thread on \"I made a stupid simple MAINTENANCE.md for AI docs and it actually fixed a bunch of nonsense\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxwqn8/i_made_a_stupid_simple_maintenancemd_for_ai_docs/",
-      "subreddit": "AI_Agents"
+      "summary": "Thread on \"Gemini hits the limit really quick\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry4kbv/gemini_hits_the_limit_really_quick/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "what happens to mcp servers when the company behind them shuts down",
+      "title": "I built a VS Code extension to switch between AI models mid-conversation, here's how",
+      "score": 0.5,
+      "summary": "Thread on \"I built a VS Code extension to switch between AI models mid-conversation, here's how\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1ry3oo8/i_built_a_vs_code_extension_to_switch_between_ai/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "hello everyone ，ihave a question,I created an AI Sentinel prototype in VS Code, aiming to \"automatically detect whether the AI ​​deviates from the project constraints every 10 rounds,\" but it's difficult to automatically obtain the Copilot dialogue flow. Is there a more stable approach to this?",
       "score": 0.49,
-      "summary": "Thread on \"what happens to mcp servers when the company behind them shuts down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxvn19/what_happens_to_mcp_servers_when_the_company/",
-      "subreddit": "AI_Agents"
+      "summary": "Thread on \"hello everyone ，ihave a question,I created an AI Sentinel prototype in VS Code, aiming to \"automatically detect whether \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1ry2xjm/hello_everyone_ihave_a_questioni_created_an_ai/",
+      "subreddit": "vscode"
     },
     {
-      "title": "What 81,000 people want from AI \\ Anthropic",
+      "title": "Open-source memory layer for OpenAI apps. Your chatbot can now remember things between sessions and say \"I don't know\" when it should.",
+      "score": 0.49,
+      "summary": "Thread on \"Open-source memory layer for OpenAI apps. Your chatbot can now remember things between sessions and say \"I don't know\" w\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ry2nbd/opensource_memory_layer_for_openai_apps_your/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "I spent the weekend vibe-coding a VS Code extension for those who want their Markdown to look like premium folios.",
       "score": 0.48,
-      "summary": "Thread on \"What 81,000 people want from AI \\ Anthropic\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rxtrhr/what_81000_people_want_from_ai_anthropic/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"I spent the weekend vibe-coding a VS Code extension for those who want their Markdown to look like premium folios.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rxzjrh/i_spent_the_weekend_vibecoding_a_vs_code/",
+      "subreddit": "google_antigravity"
     },
     {
-      "title": "CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court",
+      "title": "Workaround for Google login getting stuck after redirect in Antigravity",
       "score": 0.48,
-      "summary": "Thread on \"CEO Asks ChatGPT How to Void $250 Million Contract, Ignores His Lawyers, Loses Terribly in Court\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxtt72/ceo_asks_chatgpt_how_to_void_250_million_contract/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Experts here, what’s your full automation stack for you and your team?",
-      "score": 0.48,
-      "summary": "Thread on \"Experts here, what’s your full automation stack for you and your team?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1rxu1dp/experts_here_whats_your_full_automation_stack_for/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "ChatGPT is crawling B2B websites constantly. Most companies have no idea what it's pulling out",
-      "score": 0.47,
-      "summary": "Thread on \"ChatGPT is crawling B2B websites constantly. Most companies have no idea what it's pulling out\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rxs8m7/chatgpt_is_crawling_b2b_websites_constantly_most/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Workaround for Google login getting stuck after redirect in Antigravity\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ry05ve/workaround_for_google_login_getting_stuck_after/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-19T12:52:04.067Z",
-    "refresh_finished_at": "2026-03-19T12:52:08.210Z",
+    "refresh_started_at": "2026-03-19T18:49:06.497Z",
+    "refresh_finished_at": "2026-03-19T18:49:43.915Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +325,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1367
+        "duration_ms": 1688
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4107
+        "duration_ms": 37368
       }
     },
     "warnings": []
