@@ -1,158 +1,41 @@
 {
-  "generated_at": "2026-03-20T12:44:30.143Z",
+  "generated_at": "2026-03-20T18:39:56.911Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Oil Prices Remain High as More Attacks Are Reported",
+      "headline": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets",
       "region": "world",
-      "summary": "Iran War Live Updates: Oil Prices Remain High as More Attacks Are Reported. The price of oil eased only slightly after the Trump administration sought to calm markets. A drone attack caused fires at a major Kuwaiti oil refinery for a second straight day.",
+      "summary": "Iran War Live Updates: U.S. Steps Up Attacks in Strait as Energy Fears Unsettle Markets. U.S. warplanes and attack helicopters are hitting Iranian targets in an effort to reopen the Strait of Hormuz, officials said. The price of oil remained high as new strikes hit Gulf energy facilities.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
-          "published_at": "2026-03-20T12:41:29.000Z"
+          "published_at": "2026-03-20T18:29:39.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "He's one reason why aid cuts weren't as dire for the HIV population as predicted",
+      "headline": "Epstein's former attorney testifies he had 'no knowledge whatsoever' of crimes",
       "region": "us",
-      "summary": "He's one reason why aid cuts weren't as dire for the HIV population as predicted. Harerimana Ismail of Uganda is a community health worker who checks on kids with HIV. He lost his salary after the Trump administration's aid cuts but he keeps doing his job.",
+      "summary": "Epstein's former attorney testifies he had 'no knowledge whatsoever' of crimes. Darren Indyke, longtime attorney for Jeffrey Epstein, testified he \"did not know\" of Epstein's sexual abuse of women and girls. He also confirmed the existence of hard drives held by Epstein's estate.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5746630/hiv-aids-trump-administration-aid-cuts",
-          "published_at": "2026-03-20T12:10:44.000Z"
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5754619/epstein-files-lawyer-darren-indyke",
+          "published_at": "2026-03-20T18:28:15.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Korea closes loophole on synthetic nicotine to curb youth vaping",
+      "headline": "Trump decries NATO as 'cowards' for not acceding to his request for Strait of Hormuz security",
       "region": "korea",
-      "summary": "Korea closes loophole on synthetic nicotine to curb youth vaping. South Korea will strictly regulate synthetic nicotine e-cigarettes under conventional tobacco laws starting next month, closing a long-standing loophole to combat a surge in youth vaping. The Ministry of Health and Welfare announced Thursday that the revised Tobacco Business Act takes effect April 24. The previous law defined tobacco based solely on tobacco-derived nicotine extracted from leaves, exempting synthetic nicotine products that carry virtually identical addictive properties. The revision brings synthetic nicotine under tobacco regulations. Authorities banned the use of these e-cigarettes in smoke-free zones, carrying fines of up to 100,000 won ($69) for violators. Sellers must register as authorized retailers, and the government banned online sales outright. Crackdown on youth marketing The law specifically targets marketing aimed at youths. Manufacturers must attach warning pictures and phrases to packaging. The government also banned flavor descriptors such as \"mango,\" \"mint\" and \"sweet\" — alongside related images — on e-liquid bottles. Violating this packaging rule carr.",
+      "summary": "Trump decries NATO as 'cowards' for not acceding to his request for Strait of Hormuz security. WASHINGTON, March 20 (Yonhap) -- U.S. President Donald Trump on Friday criticize..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260320/korea-closes-loophole-on-synthetic-nicotine-to-curb-youth-vaping?utm_source=rss",
-          "published_at": "2026-03-20T12:42:04.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump is dismantling democracy, reports find. And, Treasury to take over student loans",
-      "region": "us",
-      "summary": "Trump is dismantling democracy, reports find. And, Treasury to take over student loans. Recent studies show the U.S. is slipping further from democracy. And, the Trump administration plans to transfer federal student loans from the Education Department to the Treasury Department.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/g-s1-114547/up-first-newsletter-israel-iran-kharg-island-hamas-student-loans-education-department-treasury",
-          "published_at": "2026-03-20T11:29:59.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities",
-      "region": "us",
-      "summary": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities. The latest strikes come after Israeli Prime Minister Benjamin Netanyahu said Thursday that Israel would \"hold off on future attacks\" on Iran's energy infrastructure, following Trump's request.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
-          "published_at": "2026-03-20T10:21:36.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "From mall to torture site: The debate over El Helicoide's future in Venezuela",
-      "region": "us",
-      "summary": "From mall to torture site: The debate over El Helicoide's future in Venezuela. Once a futuristic shopping mall, El Helicoide became one of Venezuela's most feared prisons. Now, as the country changes, so does its fate — erase it, rebuild it, or remember what happened inside.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture",
-          "published_at": "2026-03-20T09:30:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "What president had the lowest approval rating of the 20th century? The quiz knows",
-      "region": "us",
-      "summary": "What president had the lowest approval rating of the 20th century? The quiz knows. What could be more delightful than cannibal invertebrates and food-related weather events? A lot of things.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/g-s1-114392/banksy-bat-oscars-postal-service-messi-war-news-quiz",
-          "published_at": "2026-03-20T09:01:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "10 tried-and-true methods to stay off your phone, according to our readers",
-      "region": "us",
-      "summary": "10 tried-and-true methods to stay off your phone, according to our readers. We asked our audience to share the creative ways they limit their own phone use. They range from the practical (keep your phone in another room) to the creative (pair your phone with a fun paperback).",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone",
-          "published_at": "2026-03-20T09:00:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "An immigration court few have heard of is quietly shaping policy behind the scenes",
-      "region": "us",
-      "summary": "An immigration court few have heard of is quietly shaping policy behind the scenes. President Trump has slashed the number of people on the Board of Immigration Appeals and stacked it with his appointees, tightening the due process available for immigrants, an NPR analysis shows.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
-          "published_at": "2026-03-20T09:00:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Why it's so hard for world leaders to bring down oil and gasoline prices",
-      "region": "us",
-      "summary": "Why it's so hard for world leaders to bring down oil and gasoline prices. From waiving the Jones Act to rerouting oil through the Red Sea, governments are doing their best to make up for the crisis in the Strait of Hormuz, but prices are still rising.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
-          "published_at": "2026-03-20T09:00:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "FCC approves the merger of local television owners Nexstar and Tegna",
-      "region": "us",
-      "summary": "FCC approves the merger of local television owners Nexstar and Tegna. The FCC has approved the sale of Tegna television stations to rival Nexstar Media Group Thursday. The deal would create a company that owns 259 television stations in 44 states.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5754031/fcc-approves-the-merger-of-local-television-owners-nexstar-and-tegna",
-          "published_at": "2026-03-20T08:42:12.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Pittsburgh synagogue attack survivors talk about their friendship and healing journey",
-      "region": "us",
-      "summary": "Pittsburgh synagogue attack survivors talk about their friendship and healing journey. For StoryCorps, two survivors of the 2018 Synagogue attack in Pittsburgh talk about their friendship.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/nx-s1-5753050/pittsburgh-synagogue-attack-survivors-talk-about-their-friendship-and-healing-journey",
-          "published_at": "2026-03-20T08:41:51.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260321000200315",
+          "published_at": "2026-03-20T16:08:15.000Z"
         }
       ],
       "reliability_score": 1
@@ -165,20 +48,33 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
-          "published_at": "2026-03-20T09:02:56.000Z"
+          "published_at": "2026-03-20T18:29:36.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Iran War Underscores the Diverging Aims of U.S. and Israel",
+      "headline": "Trump Organization Eyes Transylvania Golf Course Deal",
       "region": "world",
-      "summary": "Iran War Underscores the Diverging Aims of U.S. and Israel. The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths are diverging.",
+      "summary": "Trump Organization Eyes Transylvania Golf Course Deal. The president’s company is eyeing a site for a golf course and luxury apartments. Will a huge landfill and a troubled project history stand in the way.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
-          "published_at": "2026-03-20T10:18:54.000Z"
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html",
+          "published_at": "2026-03-20T09:01:06.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
+      "region": "world",
+      "summary": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil. Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil. The South American country is less eager.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/americas/us-rare-earth-minerals-brazil-china.html",
+          "published_at": "2026-03-20T13:16:42.000Z"
         }
       ],
       "reliability_score": 1
@@ -191,7 +87,111 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
-          "published_at": "2026-03-20T11:39:37.000Z"
+          "published_at": "2026-03-20T17:59:34.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes",
+      "region": "world",
+      "summary": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes. Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/asia/sri-lanka-iran-war-ships-aircraft.html",
+          "published_at": "2026-03-20T09:34:53.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.",
+      "region": "world",
+      "summary": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.. The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
+          "published_at": "2026-03-20T12:29:20.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices",
+      "region": "world",
+      "summary": "Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices. Across Southeast Asia, a region heavily dependent on energy exports brought via the Strait of Hormuz, lives are being upended by higher oil and gas prices.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/asia/iran-war-oil-thailand-vietnam-philippines.html",
+          "published_at": "2026-03-20T04:01:16.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him",
+      "region": "world",
+      "summary": "Lukashenko Jailed Her in Belarus, but She Wants the World to Talk to Him. Maria Kalesnikava is campaigning for the West to engage with the regime in Belarus that imprisoned her for more than five years.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/maria-kalesnikava-lukashenko-belarus.html",
+          "published_at": "2026-03-20T17:15:49.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Underscores the Diverging Aims of Trump and Netanyahu",
+      "region": "world",
+      "summary": "Iran War Underscores the Diverging Aims of Trump and Netanyahu. The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths are diverging.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
+          "published_at": "2026-03-20T16:56:35.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?",
+      "region": "world",
+      "summary": "Spain Says the Sun Shields It From Rising Gas Costs. Is That True?. Pedro Sánchez, Spain’s prime minister, said the nation’s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html",
+          "published_at": "2026-03-20T13:15:12.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How Japan Reacted to Trump’s Pearl Harbor Joke",
+      "region": "world",
+      "summary": "How Japan Reacted to Trump’s Pearl Harbor Joke. Some people criticized President Trump’s decision to invoke a painful chapter of history. Others worried it might harm U.S.-Japan relations.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/asia/japan-trump-pearl-harbor.html",
+          "published_at": "2026-03-20T04:42:56.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire",
+      "region": "us",
+      "summary": "Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire. The ceasefire, in effect for the past six months, has brought some reprieve to Palestinians in Gaza despite continued hardship, displacement and Israeli restrictions on aid.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/sections/the-picture-show/2026/03/20/nx-s1-5754623/gaza-eid-al-fitr-ramadan-palestinians",
+          "published_at": "2026-03-20T16:19:45.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "What diagram/schema formats, Codex understands better?",
+      "title": "With this spend limit its almost impossible to finish anything.",
       "score": 0.52,
-      "summary": "Thread on \"What diagram/schema formats, Codex understands better?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1ryuoi6/what_diagramschema_formats_codex_understands/",
+      "summary": "Thread on \"With this spend limit its almost impossible to finish anything.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rz42uw/with_this_spend_limit_its_almost_impossible_to/",
       "subreddit": "codex"
     },
     {
-      "title": "SILENT UPDATE. You can edit only your most recent message in a conversation, and you can retry only the most recent ChatGPT response.",
-      "score": 0.5,
-      "summary": "Thread on \"SILENT UPDATE. You can edit only your most recent message in a conversation, and you can retry only the most recent Chat\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ryrvuw/silent_update_you_can_edit_only_your_most_recent/",
-      "subreddit": "ChatGPT"
+      "title": "Claude code is soo good",
+      "score": 0.47,
+      "summary": "Thread on \"Claude code is soo good\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1rytob5/claude_code_is_soo_good/",
+      "subreddit": "GoogleAntigravityIDE"
     },
     {
-      "title": "ChatGPT is starting to affect how I see real life",
-      "score": 0.52,
-      "summary": "Thread on \"ChatGPT is starting to affect how I see real life\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryul09/chatgpt_is_starting_to_affect_how_i_see_real_life/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Triple-State Manifesto Protocol and AI-LLM self-awareness (Grok, Deepseek, Gemini) when prompted in a specific way:",
+      "title": "Sharing my MCP setup — built a code intelligence server that cut Antigravity's search time from 30 tool calls to 1",
       "score": 0.46,
-      "summary": "Thread on \"Triple-State Manifesto Protocol and AI-LLM self-awareness (Grok, Deepseek, Gemini) when prompted in a specific way:\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/DeepSeek/comments/1rymyq1/triplestate_manifesto_protocol_and_aillm/",
-      "subreddit": "DeepSeek"
+      "summary": "Thread on \"Sharing my MCP setup — built a code intelligence server that cut Antigravity's search time from 30 tool calls to 1\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ryt9hz/sharing_my_mcp_setup_built_a_code_intelligence/",
+      "subreddit": "google_antigravity"
     },
     {
-      "title": "Self Promotion Thread",
-      "score": 0.49,
-      "summary": "Thread on \"Self Promotion Thread\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1ryqth6/self_promotion_thread/",
-      "subreddit": "ChatGPTCoding"
+      "title": "Context silos caused by using different AIs for different tasks",
+      "score": 0.51,
+      "summary": "Thread on \"Context silos caused by using different AIs for different tasks\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTPro/comments/1rz2sjq/context_silos_caused_by_using_different_ais_for/",
+      "subreddit": "ChatGPTPro"
     },
     {
-      "title": "Tried vibecoding tools for a few months... on 8 subscriptions ($131/month)",
+      "title": "I’m not sure how to feel about Claudeai essentially copying all the functionality of openclaw. I still use my own openclaw, but I’m curious to know your thoughts on this.??",
       "score": 0.52,
-      "summary": "Thread on \"Tried vibecoding tools for a few months... on 8 subscriptions ($131/month)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1ryuz61/tried_vibecoding_tools_for_a_few_months_on_8/",
+      "summary": "Thread on \"I’m not sure how to feel about Claudeai essentially copying all the functionality of openclaw. I still use my own opencl\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rz43qx/im_not_sure_how_to_feel_about_claudeai/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "OpenClaw with Suno",
+      "score": 0.52,
+      "summary": "Thread on \"OpenClaw with Suno\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rz3m0p/openclaw_with_suno/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "I just installed OpenClaw, what should i do?",
+      "score": 0.51,
+      "summary": "Thread on \"I just installed OpenClaw, what should i do?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rz2yn5/i_just_installed_openclaw_what_should_i_do/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Another massive codex W",
+      "score": 0.51,
+      "summary": "Thread on \"Another massive codex W\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rz31qm/another_massive_codex_w/",
       "subreddit": "codex"
     },
     {
-      "title": "Codex pro usage unbelievably nerfed to the ground this week",
+      "title": "Anyone else noticing Codex getting harsher on Claude reviews lately?",
       "score": 0.51,
-      "summary": "Thread on \"Codex pro usage unbelievably nerfed to the ground this week\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rytspl/codex_pro_usage_unbelievably_nerfed_to_the_ground/",
+      "summary": "Thread on \"Anyone else noticing Codex getting harsher on Claude reviews lately?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rz3bgl/anyone_else_noticing_codex_getting_harsher_on/",
       "subreddit": "codex"
     },
     {
-      "title": "Supermicro’s co-founder was just accused of smuggling $2.5 billion in GPUs to China",
-      "score": 0.51,
-      "summary": "Thread on \"Supermicro’s co-founder was just accused of smuggling $2.5 billion in GPUs to China\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryt1nl/supermicros_cofounder_was_just_accused_of/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "When to put a boundary with using Ai",
-      "score": 0.51,
-      "summary": "Thread on \"When to put a boundary with using Ai\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryt0fe/when_to_put_a_boundary_with_using_ai/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "the edit button is gone",
+      "title": "Folding@home Agent / Community Aggregated Unused Tokens/GPU",
       "score": 0.5,
-      "summary": "Thread on \"the edit button is gone\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ryrtp9/the_edit_button_is_gone/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Folding@home Agent / Community Aggregated Unused Tokens/GPU\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rz0ulk/foldinghome_agent_community_aggregated_unused/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "I didn't believe it, but now I've been hit with massive usage limit leaks",
+      "title": "Agent's Concept of Time",
       "score": 0.5,
-      "summary": "Thread on \"I didn't believe it, but now I've been hit with massive usage limit leaks\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rysh57/i_didnt_believe_it_but_now_ive_been_hit_with/",
+      "summary": "Thread on \"Agent's Concept of Time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1ryzm5y/agents_concept_of_time/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Are we slowly becoming code reviewers instead of developers?",
+      "score": 0.5,
+      "summary": "Thread on \"Are we slowly becoming code reviewers instead of developers?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1ryzjfl/are_we_slowly_becoming_code_reviewers_instead_of/",
       "subreddit": "codex"
     },
     {
-      "title": "Can't edit past prompt?",
-      "score": 0.49,
-      "summary": "Thread on \"Can't edit past prompt?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryqsah/cant_edit_past_prompt/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "OpenAI is building desktop \"superapp\" to replace all of them",
-      "score": 0.49,
-      "summary": "Thread on \"OpenAI is building desktop \"superapp\" to replace all of them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryr2m3/openai_is_building_desktop_superapp_to_replace/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Chat gpt vs ollama cloud for coding",
-      "score": 0.48,
-      "summary": "Thread on \"Chat gpt vs ollama cloud for coding\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rypvf0/chat_gpt_vs_ollama_cloud_for_coding/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
-      "title": "Does anyone genuinely use Spark?",
-      "score": 0.48,
-      "summary": "Thread on \"Does anyone genuinely use Spark?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rypwl1/does_anyone_genuinely_use_spark/",
+      "title": "Queueing prompts in Codex is seriously awesome. Here is my \"autopilot\" workflow.",
+      "score": 0.5,
+      "summary": "Thread on \"Queueing prompts in Codex is seriously awesome. Here is my \"autopilot\" workflow.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1ryzfzk/queueing_prompts_in_codex_is_seriously_awesome/",
       "subreddit": "codex"
+    },
+    {
+      "title": "locked for last 10 days, today was supposed to be unlocked then got locked again for 7 days more without using!",
+      "score": 0.47,
+      "summary": "Thread on \"locked for last 10 days, today was supposed to be unlocked then got locked again for 7 days more without using!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1rytl0f/locked_for_last_10_days_today_was_supposed_to_be/",
+      "subreddit": "GoogleAntigravityIDE"
+    },
+    {
+      "title": "Can't Auth into Antigravity app",
+      "score": 0.45,
+      "summary": "Thread on \"Can't Auth into Antigravity app\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ryr1n4/cant_auth_into_antigravity_app/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-20T12:44:26.108Z",
-    "refresh_finished_at": "2026-03-20T12:44:30.143Z",
+    "refresh_started_at": "2026-03-20T18:39:34.583Z",
+    "refresh_finished_at": "2026-03-20T18:39:56.911Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1467
+        "duration_ms": 2324
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3971
+        "duration_ms": 22293
       }
     },
     "warnings": []
