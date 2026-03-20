@@ -1,202 +1,197 @@
 {
-  "generated_at": "2026-03-20T06:47:26.580Z",
+  "generated_at": "2026-03-20T12:44:30.143Z",
   "news_summary": [
     {
-      "headline": "As Attacks Shake Markets, Trump Seeks to Reassure Americans",
+      "headline": "Iran War Live Updates: Oil Prices Remain High as More Attacks Are Reported",
       "region": "world",
-      "summary": "As Attacks Shake Markets, Trump Seeks to Reassure Americans. President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
+      "summary": "Iran War Live Updates: Oil Prices Remain High as More Attacks Are Reported. The price of oil eased only slightly after the Trump administration sought to calm markets. A drone attack caused fires at a major Kuwaiti oil refinery for a second straight day.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-20T06:45:56.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
+          "published_at": "2026-03-20T12:41:29.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
+      "headline": "He's one reason why aid cuts weren't as dire for the HIV population as predicted",
       "region": "us",
-      "summary": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks. What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment.",
+      "summary": "He's one reason why aid cuts weren't as dire for the HIV population as predicted. Harerimana Ismail of Uganda is a community health worker who checks on kids with HIV. He lost his salary after the Trump administration's aid cuts but he keeps doing his job.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-19T23:19:00.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5746630/hiv-aids-trump-administration-aid-cuts",
+          "published_at": "2026-03-20T12:10:44.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "(LEAD) Downtown Seoul braces for massive crowd at BTS comeback concert",
+      "headline": "Korea closes loophole on synthetic nicotine to curb youth vaping",
       "region": "korea",
-      "summary": "(LEAD) Downtown Seoul braces for massive crowd at BTS comeback concert. SEOUL, March 20 (Yonhap) -- Hundreds of thousands are expected to gather in down..",
+      "summary": "Korea closes loophole on synthetic nicotine to curb youth vaping. South Korea will strictly regulate synthetic nicotine e-cigarettes under conventional tobacco laws starting next month, closing a long-standing loophole to combat a surge in youth vaping. The Ministry of Health and Welfare announced Thursday that the revised Tobacco Business Act takes effect April 24. The previous law defined tobacco based solely on tobacco-derived nicotine extracted from leaves, exempting synthetic nicotine products that carry virtually identical addictive properties. The revision brings synthetic nicotine under tobacco regulations. Authorities banned the use of these e-cigarettes in smoke-free zones, carrying fines of up to 100,000 won ($69) for violators. Sellers must register as authorized retailers, and the government banned online sales outright. Crackdown on youth marketing The law specifically targets marketing aimed at youths. Manufacturers must attach warning pictures and phrases to packaging. The government also banned flavor descriptors such as \"mango,\" \"mint\" and \"sweet\" — alongside related images — on e-liquid bottles. Violating this packaging rule carr.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260320001851315",
-          "published_at": "2026-03-20T06:31:10.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/society/20260320/korea-closes-loophole-on-synthetic-nicotine-to-curb-youth-vaping?utm_source=rss",
+          "published_at": "2026-03-20T12:42:04.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "The Iran War’s Economic Threat to Europe and Asia",
+      "headline": "Trump is dismantling democracy, reports find. And, Treasury to take over student loans",
+      "region": "us",
+      "summary": "Trump is dismantling democracy, reports find. And, Treasury to take over student loans. Recent studies show the U.S. is slipping further from democracy. And, the Trump administration plans to transfer federal student loans from the Education Department to the Treasury Department.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/g-s1-114547/up-first-newsletter-israel-iran-kharg-island-hamas-student-loans-education-department-treasury",
+          "published_at": "2026-03-20T11:29:59.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities",
+      "region": "us",
+      "summary": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities. The latest strikes come after Israeli Prime Minister Benjamin Netanyahu said Thursday that Israel would \"hold off on future attacks\" on Iran's energy infrastructure, following Trump's request.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5754550/israel-strikes-tehran-iran-attacks-gulf",
+          "published_at": "2026-03-20T10:21:36.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "From mall to torture site: The debate over El Helicoide's future in Venezuela",
+      "region": "us",
+      "summary": "From mall to torture site: The debate over El Helicoide's future in Venezuela. Once a futuristic shopping mall, El Helicoide became one of Venezuela's most feared prisons. Now, as the country changes, so does its fate — erase it, rebuild it, or remember what happened inside.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5745107/el-helicoides-venezuela-prison-torture",
+          "published_at": "2026-03-20T09:30:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "What president had the lowest approval rating of the 20th century? The quiz knows",
+      "region": "us",
+      "summary": "What president had the lowest approval rating of the 20th century? The quiz knows. What could be more delightful than cannibal invertebrates and food-related weather events? A lot of things.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/g-s1-114392/banksy-bat-oscars-postal-service-messi-war-news-quiz",
+          "published_at": "2026-03-20T09:01:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "10 tried-and-true methods to stay off your phone, according to our readers",
+      "region": "us",
+      "summary": "10 tried-and-true methods to stay off your phone, according to our readers. We asked our audience to share the creative ways they limit their own phone use. They range from the practical (keep your phone in another room) to the creative (pair your phone with a fun paperback).",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5752170/clever-effective-ways-to-stay-off-your-phone",
+          "published_at": "2026-03-20T09:00:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "An immigration court few have heard of is quietly shaping policy behind the scenes",
+      "region": "us",
+      "summary": "An immigration court few have heard of is quietly shaping policy behind the scenes. President Trump has slashed the number of people on the Board of Immigration Appeals and stacked it with his appointees, tightening the due process available for immigrants, an NPR analysis shows.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5707535/trump-immigration-detention-appeals-board-deportation",
+          "published_at": "2026-03-20T09:00:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Why it's so hard for world leaders to bring down oil and gasoline prices",
+      "region": "us",
+      "summary": "Why it's so hard for world leaders to bring down oil and gasoline prices. From waiving the Jones Act to rerouting oil through the Red Sea, governments are doing their best to make up for the crisis in the Strait of Hormuz, but prices are still rising.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5753985/oil-gasoline-prices-iran",
+          "published_at": "2026-03-20T09:00:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "FCC approves the merger of local television owners Nexstar and Tegna",
+      "region": "us",
+      "summary": "FCC approves the merger of local television owners Nexstar and Tegna. The FCC has approved the sale of Tegna television stations to rival Nexstar Media Group Thursday. The deal would create a company that owns 259 television stations in 44 states.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5754031/fcc-approves-the-merger-of-local-television-owners-nexstar-and-tegna",
+          "published_at": "2026-03-20T08:42:12.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Pittsburgh synagogue attack survivors talk about their friendship and healing journey",
+      "region": "us",
+      "summary": "Pittsburgh synagogue attack survivors talk about their friendship and healing journey. For StoryCorps, two survivors of the 2018 Synagogue attack in Pittsburgh talk about their friendship.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/20/nx-s1-5753050/pittsburgh-synagogue-attack-survivors-talk-about-their-friendship-and-healing-journey",
+          "published_at": "2026-03-20T08:41:51.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
       "region": "world",
-      "summary": "The Iran War’s Economic Threat to Europe and Asia. Inflation and its consequences for growth are a growing concern for countries where memories of the 2022 energy crisis are fresh.",
+      "summary": "On a Holiday of Renewal, Iranians Are Mourning and Fearful. As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html",
-          "published_at": "2026-03-19T06:06:09.000Z"
+          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
+          "published_at": "2026-03-20T09:02:56.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "How Immigration Became an Issue in Argentina",
+      "headline": "Iran War Underscores the Diverging Aims of U.S. and Israel",
       "region": "world",
-      "summary": "How Immigration Became an Issue in Argentina. Argentina has often stood out for its openness to immigration. Under President Javier Milei, it has started to crack down.",
+      "summary": "Iran War Underscores the Diverging Aims of U.S. and Israel. The United States views Iran through a prism of global responsibilities and strategic goals. Israel has a more regional approach. After nearly three weeks of war, their paths are diverging.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/americas/argentina-immigration-issue.html",
-          "published_at": "2026-03-19T09:00:15.000Z"
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/iran-us-israel-goals.html",
+          "published_at": "2026-03-20T10:18:54.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "The Soldier Who Came Back From the Dead",
+      "headline": "A Diary of War From an Unlikely Author: the Son of Iran’s President",
       "region": "world",
-      "summary": "The Soldier Who Came Back From the Dead. Told that Nazar Daletskyi had died, his Ukrainian family buried what they thought were his remains. He turned up three years later in a prisoner-of-war exchange.",
+      "summary": "A Diary of War From an Unlikely Author: the Son of Iran’s President. In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-soldier-dna-mistake-back-from-dead.html",
-          "published_at": "2026-03-19T09:22:53.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.",
-      "region": "world",
-      "summary": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.. A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East took front and center.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
-          "published_at": "2026-03-20T00:18:31.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban",
-      "region": "world",
-      "summary": "A Crucial Loan for Ukraine Becomes Election Leverage for Orban. European leaders are pushing Prime Minister Viktor Orban to stop blocking a €90 billion loan to Kyiv. But the issue is a rallying cry in elections in Hungary set for April 12.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
-          "published_at": "2026-03-19T15:48:42.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge",
-      "region": "world",
-      "summary": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge. The Trump administration made the move in exchange for Belarus’s freeing of 250 political prisoners, part of a rapprochement between the two countries.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html",
-          "published_at": "2026-03-19T19:02:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago",
-      "region": "world",
-      "summary": "How Japan’s Leader Sanae Takaichi Found Her Voice in D.C. Decades Ago. Prime Minister Sanae Takaichi got her start in politics as an intern for a trailblazing Colorado lawmaker. She returns to Washington this week to meet with President Trump.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
-          "published_at": "2026-03-19T20:36:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "In Swaths of Germany, the Far-Right AfD Is Part of the Fabric",
-      "region": "world",
-      "summary": "In Swaths of Germany, the Far-Right AfD Is Part of the Fabric. The Alternative for Germany party, or AfD, is shunned in federal politics but is a regional force. This fall, it could win broader power for the first time.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/germany-far-right-afd.html",
-          "published_at": "2026-03-19T04:01:10.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "2 Men Charged With Spying for Iran on Jewish Institutions in UK",
-      "region": "world",
-      "summary": "2 Men Charged With Spying for Iran on Jewish Institutions in UK. The men, both Iranian citizens, are accused of conducting surveillance on several Jewish institutions and community buildings in London.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/19/world/europe/iran-spy-charged-uk-jewish-london.html",
-          "published_at": "2026-03-19T14:26:32.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Lebanese Cafe on the Edge of Destruction",
-      "region": "world",
-      "summary": "A Lebanese Cafe on the Edge of Destruction. Near the center of Beirut, one image captures the aftermath of an Israeli strike.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/middleeast/lebanon-cafe-israel-strike-image.html",
-          "published_at": "2026-03-19T09:19:08.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How TrumpRx Drug Prices Compare With Those in Other Countries",
-      "region": "world",
-      "summary": "How TrumpRx Drug Prices Compare With Those in Other Countries. The TrumpRx website claims to offer the best prices for medications. Here’s where Americans still pay more — and much more.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html",
-          "published_at": "2026-03-18T04:01:07.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations",
-      "region": "world",
-      "summary": "Bachelorette's new season pulled after Taylor Frankie Paul abuse allegations. The decision comes after footage emerged appearing to show the reality star in an altercation with her ex-partner.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T01:41:58.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp9vryml4d1o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T01:41:58.000Z"
+          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
+          "published_at": "2026-03-20T11:39:37.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
-      "score": 0.41,
-      "summary": "Thread on \"ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ry4v2j/chatgpts_adult_mode_could_spark_a_new_era_of/",
+      "title": "What diagram/schema formats, Codex understands better?",
+      "score": 0.52,
+      "summary": "Thread on \"What diagram/schema formats, Codex understands better?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1ryuoi6/what_diagramschema_formats_codex_understands/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "SILENT UPDATE. You can edit only your most recent message in a conversation, and you can retry only the most recent ChatGPT response.",
+      "score": 0.5,
+      "summary": "Thread on \"SILENT UPDATE. You can edit only your most recent message in a conversation, and you can retry only the most recent Chat\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ryrvuw/silent_update_you_can_edit_only_your_most_recent/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Confirms OpenAI Will Go Public – Here’s the Timeline",
-      "score": 0.5,
-      "summary": "Thread on \"Nvidia CEO Jensen Huang Confirms OpenAI Will Go Public – Here’s the Timeline\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rym1pg/nvidia_ceo_jensen_huang_confirms_openai_will_go/",
+      "title": "ChatGPT is starting to affect how I see real life",
+      "score": 0.52,
+      "summary": "Thread on \"ChatGPT is starting to affect how I see real life\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryul09/chatgpt_is_starting_to_affect_how_i_see_real_life/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Not the AI slop we need but the one we deserve",
-      "score": 0.5,
-      "summary": "Thread on \"Not the AI slop we need but the one we deserve\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rymrpm/not_the_ai_slop_we_need_but_the_one_we_deserve/",
-      "subreddit": "singularity"
+      "title": "Triple-State Manifesto Protocol and AI-LLM self-awareness (Grok, Deepseek, Gemini) when prompted in a specific way:",
+      "score": 0.46,
+      "summary": "Thread on \"Triple-State Manifesto Protocol and AI-LLM self-awareness (Grok, Deepseek, Gemini) when prompted in a specific way:\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/DeepSeek/comments/1rymyq1/triplestate_manifesto_protocol_and_aillm/",
+      "subreddit": "DeepSeek"
     },
     {
-      "title": "A formal proof when and why \"Garbage in, Garbage out\" is wrong",
-      "score": 0.51,
-      "summary": "Thread on \"A formal proof when and why \"Garbage in, Garbage out\" is wrong\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryns35/a_formal_proof_when_and_why_garbage_in_garbage/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "I just discover the Gemini CLI and install it in AG, but how to drag my screenshot into the terminal CLI ?",
-      "score": 0.43,
-      "summary": "Thread on \"I just discover the Gemini CLI and install it in AG, but how to drag my screenshot into the terminal CLI ?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ry8uxj/i_just_discover_the_gemini_cli_and_install_it_in/",
-      "subreddit": "google_antigravity"
-    },
-    {
-      "title": "Why does every AI assistant feel like talking to someone who just met you?",
-      "score": 0.5,
-      "summary": "Thread on \"Why does every AI assistant feel like talking to someone who just met you?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rymdqs/why_does_every_ai_assistant_feel_like_talking_to/",
+      "title": "Self Promotion Thread",
+      "score": 0.49,
+      "summary": "Thread on \"Self Promotion Thread\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1ryqth6/self_promotion_thread/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "US Senator Bernie Sanders interviews Claude",
+      "title": "Tried vibecoding tools for a few months... on 8 subscriptions ($131/month)",
+      "score": 0.52,
+      "summary": "Thread on \"Tried vibecoding tools for a few months... on 8 subscriptions ($131/month)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1ryuz61/tried_vibecoding_tools_for_a_few_months_on_8/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Codex pro usage unbelievably nerfed to the ground this week",
+      "score": 0.51,
+      "summary": "Thread on \"Codex pro usage unbelievably nerfed to the ground this week\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rytspl/codex_pro_usage_unbelievably_nerfed_to_the_ground/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Supermicro’s co-founder was just accused of smuggling $2.5 billion in GPUs to China",
+      "score": 0.51,
+      "summary": "Thread on \"Supermicro’s co-founder was just accused of smuggling $2.5 billion in GPUs to China\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryt1nl/supermicros_cofounder_was_just_accused_of/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "When to put a boundary with using Ai",
+      "score": 0.51,
+      "summary": "Thread on \"When to put a boundary with using Ai\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryt0fe/when_to_put_a_boundary_with_using_ai/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "the edit button is gone",
       "score": 0.5,
-      "summary": "Thread on \"US Senator Bernie Sanders interviews Claude\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1rymmcu/us_senator_bernie_sanders_interviews_claude/",
-      "subreddit": "claude"
+      "summary": "Thread on \"the edit button is gone\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1ryrtp9/the_edit_button_is_gone/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "I built a Al library over 20k ais in it",
-      "score": 0.49,
-      "summary": "Thread on \"I built a Al library over 20k ais in it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryl3ma/i_built_a_al_library_over_20k_ais_in_it/",
-      "subreddit": "ArtificialInteligence"
+      "title": "I didn't believe it, but now I've been hit with massive usage limit leaks",
+      "score": 0.5,
+      "summary": "Thread on \"I didn't believe it, but now I've been hit with massive usage limit leaks\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rysh57/i_didnt_believe_it_but_now_ive_been_hit_with/",
+      "subreddit": "codex"
     },
     {
-      "title": "What's with Chat randomly using a Russian word in its response?",
+      "title": "Can't edit past prompt?",
       "score": 0.49,
-      "summary": "Thread on \"What's with Chat randomly using a Russian word in its response?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryl10h/whats_with_chat_randomly_using_a_russian_word_in/",
+      "summary": "Thread on \"Can't edit past prompt?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryqsah/cant_edit_past_prompt/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Lmao man",
+      "title": "OpenAI is building desktop \"superapp\" to replace all of them",
       "score": 0.49,
-      "summary": "Thread on \"Lmao man\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1ryk4sw/lmao_man/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"OpenAI is building desktop \"superapp\" to replace all of them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryr2m3/openai_is_building_desktop_superapp_to_replace/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "OpenClaw got 200K GitHub stars in 3 months. I wrote about why the architecture mattered more than the AI",
+      "title": "Chat gpt vs ollama cloud for coding",
       "score": 0.48,
-      "summary": "Thread on \"OpenClaw got 200K GitHub stars in 3 months. I wrote about why the architecture mattered more than the AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryhyql/openclaw_got_200k_github_stars_in_3_months_i/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Chat gpt vs ollama cloud for coding\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rypvf0/chat_gpt_vs_ollama_cloud_for_coding/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Chinese state media airs AI generated animation explaining US-Iran conflict. (Not sure of subtitle accuracy)",
+      "title": "Does anyone genuinely use Spark?",
       "score": 0.48,
-      "summary": "Thread on \"Chinese state media airs AI generated animation explaining US-Iran conflict. (Not sure of subtitle accuracy)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1ryjccp/chinese_state_media_airs_ai_generated_animation/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "How to Counter the GOP’s AI Psyops",
-      "score": 0.47,
-      "summary": "Thread on \"How to Counter the GOP’s AI Psyops\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryhhvi/how_to_counter_the_gops_ai_psyops/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "How many words do you think ChatGPT has generated across all users?",
-      "score": 0.47,
-      "summary": "Thread on \"How many words do you think ChatGPT has generated across all users?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ryhbf3/how_many_words_do_you_think_chatgpt_has_generated/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "I need a c.ai alternative",
-      "score": 0.47,
-      "summary": "Thread on \"I need a c.ai alternative\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rygeon/i_need_a_cai_alternative/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"Does anyone genuinely use Spark?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rypwl1/does_anyone_genuinely_use_spark/",
+      "subreddit": "codex"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-20T06:46:47.681Z",
-    "refresh_finished_at": "2026-03-20T06:47:26.580Z",
+    "refresh_started_at": "2026-03-20T12:44:26.108Z",
+    "refresh_finished_at": "2026-03-20T12:44:30.143Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1994
+        "duration_ms": 1467
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38868
+        "duration_ms": 3971
       }
     },
     "warnings": []
