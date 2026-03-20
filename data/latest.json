@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-19T18:49:43.914Z",
+  "generated_at": "2026-03-20T01:30:09.403Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans",
+      "headline": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans",
       "region": "world",
-      "summary": "Iran War Live Updates: As Attacks Rattle Markets, Trump Seeks to Reassure Americans. President Trump, speaking in the Oval Office, said he would do whatever was necessary to lower oil prices, even as new strikes on energy sites in the Gulf drove the price of oil up.",
+      "summary": "Iran War Live Updates: As Attacks Shake Markets, Trump Seeks to Reassure Americans. President Trump said he would do whatever was necessary to lower oil prices, and his Treasury secretary said the government might even take the paradoxical step of lifting sanctions on some Iranian oil.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/19/world/iran-war-news-trump-oil",
-          "published_at": "2026-03-19T18:44:15.000Z"
+          "published_at": "2026-03-20T00:58:36.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,19 +28,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "(LEAD) Trump calls on Japan to 'step up' as U.S. seeks to keep Strait of Hormuz open",
+      "headline": "DPK lawmaker says to leave party amid sexual harassment allegations",
       "region": "korea",
-      "summary": "(LEAD) Trump calls on Japan to 'step up' as U.S. seeks to keep Strait of Hormuz open. WASHINGTON, March 19 (Yonhap) -- U.S. President Donald Trump on Thursday express..",
+      "summary": "DPK lawmaker says to leave party amid sexual harassment allegations. Rep. Jang Kyung-tae of the ruling Democratic Party of Korea (DPK), who is facing sexual harassment allegations, said Friday he will leave the party and seek to prove his innocence. Jang made the announcement a day after a police review panel recommended that his case be referred to prosecutors over allegations that he sexually harassed a female aide. \"I will prove my innocence and return so as not to cause harm to the party,\" Jang wrote on his Facebook account. \"Although there were controversies during the investigative process, I will faithfully cooperate and prove my innocence,\" he added. The two-term lawmaker is accused of sexually harassing the aide during a staff dinner at a restaurant in October 2023. Authorities also allege that he caused \"secondary harm,\" including exposing the victim's identity.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260320000251315",
-          "published_at": "2026-03-19T18:03:24.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260320/dpk-lawmaker-says-to-leave-party-amid-sexual-harassment-allegations?utm_source=rss",
+          "published_at": "2026-03-20T01:27:03.000Z"
         },
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260320000200315",
-          "published_at": "2026-03-19T17:25:17.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260320002100315",
+          "published_at": "2026-03-20T00:42:47.000Z"
         }
       ],
       "reliability_score": 1
@@ -87,12 +87,12 @@
     {
       "headline": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.",
       "region": "world",
-      "summary": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.. A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East is front and center.",
+      "summary": "Trump and Iran Dominate the Agenda as Europe’s Leaders Meet. Here Are 4 Things to Know.. A gathering in Brussels was meant to concentrate on jump-starting the E.U. economy. Instead, the fallout of the war in the Middle East took front and center.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/19/world/europe/eu-leaders-summit-iran-gas.html",
-          "published_at": "2026-03-19T12:40:38.000Z"
+          "published_at": "2026-03-20T00:18:31.000Z"
         }
       ],
       "reliability_score": 1
@@ -105,7 +105,20 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/19/world/europe/ukraine-hungary-orban-elections.html",
-          "published_at": "2026-03-19T15:48:41.000Z"
+          "published_at": "2026-03-19T15:48:42.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge",
+      "region": "world",
+      "summary": "U.S. Lifts Fertilizer Sanctions on Belarus as Iran War Causes Price Surge. The Trump administration made the move in exchange for Belarus’s freeing of 250 political prisoners, part of a rapprochement between the two countries.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/19/world/europe/belarus-prisoners-fertilizer-potash-sanctions.html",
+          "published_at": "2026-03-19T19:02:20.000Z"
         }
       ],
       "reliability_score": 1
@@ -118,7 +131,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/19/world/asia/japan-takaichi-washington-internship.html",
-          "published_at": "2026-03-19T09:04:34.000Z"
+          "published_at": "2026-03-19T20:36:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -176,32 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Pakistan Pauses Afghanistan Airstrikes for Eid",
-      "region": "world",
-      "summary": "Pakistan Pauses Afghanistan Airstrikes for Eid. At least 143 people were killed in a Pakistani airstrike that hit a drug rehabilitation facility in Kabul on Monday, according to a top U.N. official.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/18/world/asia/pakistan-afghanistan-war-drug-rehabilitation-strikes.html",
-          "published_at": "2026-03-19T01:12:01.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
       "headline": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks",
-      "region": "world",
+      "region": "us",
       "summary": "Are US and Israel aligned on Iran war? Deciphering Trump's post after gas field attacks. What does Trump's Truth Social post after gas field attacks tell us about US-Israeli alignment.",
       "sources": [
         {
           "title": "BBC US & Canada",
           "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-19T14:07:28.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c8x7leknlywo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-19T14:07:28.000Z"
+          "published_at": "2026-03-19T23:19:00.000Z"
         }
       ],
       "reliability_score": 1
@@ -209,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance",
+      "title": "Introducing Claude Code Channels",
       "score": 0.5,
-      "summary": "Thread on \"ChatGPT’s ‘Adult Mode’ Could Spark a New Era of Intimate Surveillance\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ry4sf2/chatgpts_adult_mode_could_spark_a_new_era_of/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"Introducing Claude Code Channels\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1ryf2pd/introducing_claude_code_channels/",
+      "subreddit": "ClaudeCode"
     },
     {
-      "title": "Antigravity is basically useless right now. The Gemini CLI is the only thing slightly rescuing the Pro sub.",
-      "score": 0.39,
-      "summary": "Thread on \"Antigravity is basically useless right now. The Gemini CLI is the only thing slightly rescuing the Pro sub.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1rxmy0f/antigravity_is_basically_useless_right_now_the/",
-      "subreddit": "GoogleAntigravityIDE"
+      "title": "Bernie Sanders interviews Claude",
+      "score": 0.51,
+      "summary": "Thread on \"Bernie Sanders interviews Claude\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1ryhek6/bernie_sanders_interviews_claude/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Vibe coded application",
-      "score": 0.48,
-      "summary": "Thread on \"Vibe coded application\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ry0lqb/vibe_coded_application/",
-      "subreddit": "google_antigravity"
+      "title": "Most used claude code development workflows",
+      "score": 0.47,
+      "summary": "Thread on \"Most used claude code development workflows\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1ry9aqa/most_used_claude_code_development_workflows/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "What AI tools are actually worth trying beyond GitHub Copilot in 2026?",
+      "title": "How to Counter the GOP’s AI Psyops",
+      "score": 0.51,
+      "summary": "Thread on \"How to Counter the GOP’s AI Psyops\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryhhvi/how_to_counter_the_gops_ai_psyops/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Is it just me? Gemini is getting even basic things wrong",
+      "score": 0.52,
+      "summary": "Thread on \"Is it just me? Gemini is getting even basic things wrong\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ryiowx/is_it_just_me_gemini_is_getting_even_basic_things/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "OpenAI says there are now “1000x engineers” — what does that actually mean?",
       "score": 0.45,
-      "summary": "Thread on \"What AI tools are actually worth trying beyond GitHub Copilot in 2026?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rxw1gu/what_ai_tools_are_actually_worth_trying_beyond/",
-      "subreddit": "ChatGPTCoding"
+      "summary": "Thread on \"OpenAI says there are now “1000x engineers” — what does that actually mean?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1ry57yx/openai_says_there_are_now_1000x_engineers_what/",
+      "subreddit": "OpenaiCodex"
     },
     {
-      "title": "What happened to gemini",
-      "score": 0.52,
-      "summary": "Thread on \"What happened to gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry8aeu/what_happened_to_gemini/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "Any good extensions for easily creating multiline code snippets?",
-      "score": 0.52,
-      "summary": "Thread on \"Any good extensions for easily creating multiline code snippets?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1ry8cmp/any_good_extensions_for_easily_creating_multiline/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "Why is gemini becoming dumber?",
-      "score": 0.51,
-      "summary": "Thread on \"Why is gemini becoming dumber?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry7til/why_is_gemini_becoming_dumber/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "What is this about ???",
-      "score": 0.51,
-      "summary": "Thread on \"What is this about ???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry6gjc/what_is_this_about/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "Gemini not loading images",
-      "score": 0.5,
-      "summary": "Thread on \"Gemini not loading images\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry56mh/gemini_not_loading_images/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "Gemini hits the limit really quick",
-      "score": 0.5,
-      "summary": "Thread on \"Gemini hits the limit really quick\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1ry4kbv/gemini_hits_the_limit_really_quick/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "I built a VS Code extension to switch between AI models mid-conversation, here's how",
-      "score": 0.5,
-      "summary": "Thread on \"I built a VS Code extension to switch between AI models mid-conversation, here's how\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1ry3oo8/i_built_a_vs_code_extension_to_switch_between_ai/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "hello everyone ，ihave a question,I created an AI Sentinel prototype in VS Code, aiming to \"automatically detect whether the AI ​​deviates from the project constraints every 10 rounds,\" but it's difficult to automatically obtain the Copilot dialogue flow. Is there a more stable approach to this?",
-      "score": 0.49,
-      "summary": "Thread on \"hello everyone ，ihave a question,I created an AI Sentinel prototype in VS Code, aiming to \"automatically detect whether \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1ry2xjm/hello_everyone_ihave_a_questioni_created_an_ai/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "Open-source memory layer for OpenAI apps. Your chatbot can now remember things between sessions and say \"I don't know\" when it should.",
-      "score": 0.49,
-      "summary": "Thread on \"Open-source memory layer for OpenAI apps. Your chatbot can now remember things between sessions and say \"I don't know\" w\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1ry2nbd/opensource_memory_layer_for_openai_apps_your/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "I spent the weekend vibe-coding a VS Code extension for those who want their Markdown to look like premium folios.",
+      "title": "I built a real-time satellite tracker in a few days using Claude and open-source data.",
       "score": 0.48,
-      "summary": "Thread on \"I spent the weekend vibe-coding a VS Code extension for those who want their Markdown to look like premium folios.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rxzjrh/i_spent_the_weekend_vibecoding_a_vs_code/",
-      "subreddit": "google_antigravity"
+      "summary": "Thread on \"I built a real-time satellite tracker in a few days using Claude and open-source data.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/VibeCodeDevs/comments/1ryar0f/i_built_a_realtime_satellite_tracker_in_a_few/",
+      "subreddit": "VibeCodeDevs"
     },
     {
-      "title": "Workaround for Google login getting stuck after redirect in Antigravity",
+      "title": "CEO of Harvey: “You need to re-earn your job every six months",
+      "score": 0.51,
+      "summary": "Thread on \"CEO of Harvey: “You need to re-earn your job every six months\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1ryhxm0/ceo_of_harvey_you_need_to_reearn_your_job_every/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Claude Code 2x Usage is Insane..",
+      "score": 0.5,
+      "summary": "Thread on \"Claude Code 2x Usage is Insane..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1ryeymd/claude_code_2x_usage_is_insane/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "AAYYOOO wtf??",
+      "score": 0.49,
+      "summary": "Thread on \"AAYYOOO wtf??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1rycw59/aayyooo_wtf/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "Had an infinite AI money glitch… fumbled it over ego",
+      "score": 0.49,
+      "summary": "Thread on \"Had an infinite AI money glitch… fumbled it over ego\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rycy41/had_an_infinite_ai_money_glitch_fumbled_it_over/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "The Fundamental Limitation of Transformer Models Is Deeper Than “Hallucination”",
+      "score": 0.49,
+      "summary": "Thread on \"The Fundamental Limitation of Transformer Models Is Deeper Than “Hallucination”\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rycndw/the_fundamental_limitation_of_transformer_models/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Pretty underwhelmed by Openclaw",
+      "score": 0.49,
+      "summary": "Thread on \"Pretty underwhelmed by Openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryd6ex/pretty_underwhelmed_by_openclaw/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "100 years from now : the museum of human effort",
       "score": 0.48,
-      "summary": "Thread on \"Workaround for Google login getting stuck after redirect in Antigravity\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1ry05ve/workaround_for_google_login_getting_stuck_after/",
-      "subreddit": "google_antigravity"
+      "summary": "Thread on \"100 years from now : the museum of human effort\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1ryat88/100_years_from_now_the_museum_of_human_effort/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "I spent half a day with Claude Code to reorganize my 10+ years of working folder mess -- it changed my life!!",
+      "score": 0.47,
+      "summary": "Thread on \"I spent half a day with Claude Code to reorganize my 10+ years of working folder mess -- it changed my life!!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1ry8hnf/i_spent_half_a_day_with_claude_code_to_reorganize/",
+      "subreddit": "ClaudeCode"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-19T18:49:06.497Z",
-    "refresh_finished_at": "2026-03-19T18:49:43.915Z",
+    "refresh_started_at": "2026-03-20T01:29:33.094Z",
+    "refresh_finished_at": "2026-03-20T01:30:09.403Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -325,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1688
+        "duration_ms": 2005
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 37368
+        "duration_ms": 36278
       }
     },
     "warnings": []
