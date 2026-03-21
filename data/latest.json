@@ -1,46 +1,137 @@
 {
-  "generated_at": "2026-03-21T06:36:00.862Z",
+  "generated_at": "2026-03-21T12:35:40.701Z",
   "news_summary": [
     {
-      "headline": "​At Least 10 Killed in South Korean Factory Fire",
+      "headline": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing",
       "region": "world",
-      "summary": "​At Least 10 Killed in South Korean Factory Fire. Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.",
+      "summary": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing. Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html",
+          "published_at": "2026-03-21T09:00:20.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Opinion: Lessons from a bad weather forecast",
+      "region": "us",
+      "summary": "Opinion: Lessons from a bad weather forecast. Residents in and around Washington braced themselves for damaging storms earlier this week, but turns out it was a forecast flop. One local meteorologist apologized.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/21/nx-s1-5747945/opinion-lessons-from-a-bad-weather-forecast",
+          "published_at": "2026-03-21T12:00:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Nat'l Assembly passes bill on new serious crime investigation agency",
+      "region": "korea",
+      "summary": "Nat'l Assembly passes bill on new serious crime investigation agency. The National Assembly on Saturday passed a prosecution reform bill led by the ruling Democratic Party of Korea (DPK), laying the legal groundwork for a new serious crime investigation agency. The bill was approved in a 166-1 vote during a plenary session shortly after a 24-hour filibuster by the main opposition People Power Party (PPP) ended. PPP lawmakers boycotted the vote. Under the bill, the new investigative body will be established under the Ministry of the Interior and Safety and will be responsible for probing major crimes, including corruption, economic offenses, defense industry-related crimes, drug offenses, insurrection and cyber crimes. The latest move came a day after the DPK railroaded another bill aimed at stripping the prosecution of investigative authority and laying the legal groundwork for a new indictment agency. The two bills are set to take effect in October, when the current prosecution service structure will be abolished as part of the government's push to separate the powers of investigation and indictment. Under the new framework, the indictment agency will hand.",
+      "sources": [
+        {
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/20260321/natl-assembly-passes-bill-on-new-serious-crime-investigation-agency?utm_source=rss",
+          "published_at": "2026-03-21T12:32:03.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260321002600315",
+          "published_at": "2026-03-21T10:25:31.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week",
+      "region": "world",
+      "summary": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week. The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+          "published_at": "2026-03-21T12:31:52.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
+      "region": "world",
+      "summary": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks. The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
+          "published_at": "2026-03-21T09:01:33.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.",
+      "region": "world",
+      "summary": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.. New research suggests that a legendary 200-mile march by Harold Godwinson, the last Anglo-Saxon king of England, may have actually involved some ships.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/20/world/europe/harold-1066-forced-march-ship-hastings.html",
+          "published_at": "2026-03-21T08:06:59.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Live Updates: BTS’s Comeback Show Was Heavy on Their New Album",
+      "region": "world",
+      "summary": "Live Updates: BTS’s Comeback Show Was Heavy on Their New Album. Fans appeared to love the performance, during which RM, the group’s leader, was subdued because of an ankle injury. The concert was in Seoul and lasted about an hour.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
+          "published_at": "2026-03-21T12:26:28.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
+      "region": "world",
+      "summary": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo. Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
+          "published_at": "2026-03-21T09:08:44.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "​At Least 14 Killed in South Korean Factory Fire",
+      "region": "world",
+      "summary": "​At Least 14 Killed in South Korean Factory Fire. Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
-          "published_at": "2026-03-21T03:49:26.000Z"
+          "published_at": "2026-03-21T12:15:47.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Mexican teen dies while being held in US immigration custody",
-      "region": "us",
-      "summary": "Mexican teen dies while being held in US immigration custody. Royer Perez-Jimenez died amid a surge of migrant deaths under Donald Trump's immigration crackdown.",
+      "headline": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
+      "region": "world",
+      "summary": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram. Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cp84n0kn902o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T10:57:38.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "BTS comeback drives S. Korean newspapers to print special editions",
-      "region": "korea",
-      "summary": "BTS comeback drives S. Korean newspapers to print special editions. South Korean newspapers released special weekend editions on Saturday, targeting fans arriving for K-pop giant BTS's first full-group concert after nearly four years. Major publications, including the Chosun Ilbo and Donga Ilbo, printed dedicated issues featuring its seven members, details about its new album, information regarding the concert venue at Gwanghwamun Square, and global fan interviews. Several papers that do not normally run Saturday editions, such as the Kyunghyang Shinmun, Hankyoreh, Seoul Shinmun, and Segye Times, also joined the print run. The Kyunghyang Shinmun dedicated a page to the lyrics of \"Swim,\" the lead track from BTS's new album, and its fandom's own way of cheering for the group during concerts. The Seoul Shinmun began distributing copies of a special edition in the Gwanghwamun area Friday. Business dailies and English-language publications, including the Korea Herald, also produced similar BTS-themed editions. Publishers said the single-run papers were intended as collectible merchandise to appeal to a fanbase recognized for its enthusiasm and purchasing powe.",
-      "sources": [
-        {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/20260321/bts-comeback-drives-s-korean-newspapers-to-print-special-editions?utm_source=rss",
-          "published_at": "2026-03-21T06:32:04.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260321001900315",
-          "published_at": "2026-03-21T04:03:40.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
+          "published_at": "2026-03-21T09:01:04.000Z"
         }
       ],
       "reliability_score": 1
@@ -59,19 +150,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Trump Says U.S. Is Considering ‘Winding Down’ Iran War",
+      "headline": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating",
       "region": "world",
-      "summary": "Trump Says U.S. Is Considering ‘Winding Down’ Iran War. The president made the comment on social media a short time after telling reporters on the White House lawn that he wasn’t interested in a cease-fire because the U.S. was “obliterating the other side.” The Treasury Department lifted sanctions on some Iranian oil.",
+      "summary": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating. A former key aide to the Russian oligarch would face an investigation into her time overseeing the Premier League club should she return to soccer.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/20/world/iran-war-oil-trump",
-          "published_at": "2026-03-21T05:52:38.000Z"
-        },
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cpd5l00z7n6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-21T01:29:59.000Z"
+          "url": "https://www.nytimes.com/2026/03/21/world/europe/chelsea-premier-league-cheating-marina-granovskaia.html",
+          "published_at": "2026-03-21T04:01:05.000Z"
         }
       ],
       "reliability_score": 1
@@ -97,121 +183,20 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html",
-          "published_at": "2026-03-20T09:01:06.000Z"
+          "published_at": "2026-03-21T10:23:03.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
-      "region": "world",
-      "summary": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil. Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil. The South American country is less eager.",
+      "headline": "Meet the Dutch art detective who tracks down stolen masterpieces",
+      "region": "us",
+      "summary": "Meet the Dutch art detective who tracks down stolen masterpieces. For 20 years, Dutch art detective Arthur Brand has acted as an intermediary between the police and people who know where stolen artwork might be hiding. He says patience and trust are everything.",
       "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/americas/us-rare-earth-minerals-brazil-china.html",
-          "published_at": "2026-03-21T00:10:29.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Diary of War From an Unlikely Author: the Son of Iran’s President",
-      "region": "world",
-      "summary": "A Diary of War From an Unlikely Author: the Son of Iran’s President. In an online journal, Yousef Pezeshkian offers readers a mix of personal anecdotes and glimpses behind the scenes as Iranian leaders are picked off one after another.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-pezeshkian-son-diary.html",
-          "published_at": "2026-03-20T17:59:34.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes",
-      "region": "world",
-      "summary": "U.S. Asked to Keep Military Planes in Sri Lanka Before Iran Airstrikes. Sri Lanka did not agree to the request, officials said, and has tried to remain neutral in the U.S.-Israeli war in Iran.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/asia/sri-lanka-iran-war-ships-aircraft.html",
-          "published_at": "2026-03-20T09:34:53.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Hamas Considering Disarmament Plan From Trump’s Board of Peace, Officials Say",
-      "region": "world",
-      "summary": "Hamas Considering Disarmament Plan From Trump’s Board of Peace, Officials Say. The proposal envisions a phased process, in which the militant group would hand over its weapons and Israeli troops would withdraw. Hamas is expected to respond in the coming days.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/hamas-disarming-plan-board-of-peace-trump.html",
-          "published_at": "2026-03-20T18:10:57.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland",
-      "region": "world",
-      "summary": "Denmark Was Ready to Blow Up Airfields to Stop a U.S. Invasion of Greenland. The Danes brought blood supplies, explosives and live ammunition to Greenland as part of contingency plans in case President Trump acted on his threats to seize the island.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/denmark-blow-up-greenland-runways-us-invasion.html",
-          "published_at": "2026-03-20T19:09:17.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.",
-      "region": "world",
-      "summary": "BTS Leans Into Korean History With ‘Arirang.’ Here Are the Major References.. The group’s new album “Arirang” includes a nod to a beloved Korean folk song and other important historical references.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/asia/bts-arirang-korean-references.html",
-          "published_at": "2026-03-21T05:14:08.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices",
-      "region": "world",
-      "summary": "Iran War Fallout: Southeast Asia Hard Hit by Skyrocketing Fuel Prices. Across Southeast Asia, a region heavily dependent on energy exports brought via the Strait of Hormuz, lives are being upended by higher oil and gas prices.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/asia/iran-war-oil-thailand-vietnam-philippines.html",
-          "published_at": "2026-03-20T18:52:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Elon Musk misled Twitter investors, jury finds",
-      "region": "world",
-      "summary": "Elon Musk misled Twitter investors, jury finds. A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T23:44:09.000Z"
-        },
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/20/g-s1-114660/elon-musk-misled-investors-twitter-purchase",
-          "published_at": "2026-03-20T22:30:28.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T23:44:09.000Z"
+          "url": "https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
+          "published_at": "2026-03-21T11:00:00.000Z"
         }
       ],
       "reliability_score": 1
@@ -219,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Ai eating up all my tokens.",
-      "score": 0.52,
-      "summary": "Thread on \"Ai eating up all my tokens.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzjv1c/ai_eating_up_all_my_tokens/",
+      "title": "ChatGPT asked me a question that truly has me stumped",
+      "score": 0.48,
+      "summary": "Thread on \"ChatGPT asked me a question that truly has me stumped\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzlhv5/chatgpt_asked_me_a_question_that_truly_has_me/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "My first time seeing an ad on ChatGPT",
-      "score": 0.52,
-      "summary": "Thread on \"My first time seeing an ad on ChatGPT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rzjyp6/my_first_time_seeing_an_ad_on_chatgpt/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Why subagents help: a visual guide",
-      "score": 0.44,
-      "summary": "Thread on \"Why subagents help: a visual guide\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rzcsff/why_subagents_help_a_visual_guide/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Better Antigravity v0.8.0 — updated for AG v1.107, new SDK architecture",
+      "title": "CEO of NVIDIA: The “ChatGPT Moment” of Biology is Here",
       "score": 0.47,
-      "summary": "Thread on \"Better Antigravity v0.8.0 — updated for AG v1.107, new SDK architecture\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rzbb4k/better_antigravity_v080_updated_for_ag_v1107_new/",
-      "subreddit": "google_antigravity"
+      "summary": "Thread on \"CEO of NVIDIA: The “ChatGPT Moment” of Biology is Here\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Claude really does hit different, but how?",
+      "score": 0.5,
+      "summary": "Thread on \"Claude really does hit different, but how?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rznoc1/claude_really_does_hit_different_but_how/",
+      "subreddit": "ClaudeAI"
     },
     {
       "title": "Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?",
-      "score": 0.42,
+      "score": 0.38,
       "summary": "Thread on \"Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rz19z5/codex_or_claude_code_for_high_complexity_proximal/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Powershell infinite loop in terminal",
-      "score": 0.51,
-      "summary": "Thread on \"Powershell infinite loop in terminal\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rzjj3a/powershell_infinite_loop_in_terminal/",
-      "subreddit": "vscode"
+      "title": "Cursor’s ‘Composer 2’ model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got permission",
+      "score": 0.42,
+      "summary": "Thread on \"Cursor’s ‘Composer 2’ model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got pe\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1rzbsa4/cursors_composer_2_model_is_apparently_just_kimi/",
+      "subreddit": "kimi"
     },
     {
-      "title": "🌊🐴 mystery solved",
+      "title": "I built a persistent memory system for AI agents because I got tired of them forgetting everything over time",
+      "score": 0.52,
+      "summary": "Thread on \"I built a persistent memory system for AI agents because I got tired of them forgetting everything over time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzpvfd/i_built_a_persistent_memory_system_for_ai_agents/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "My first impressions of using MiniMax M2.7 as my new main agent",
       "score": 0.51,
-      "summary": "Thread on \"🌊🐴 mystery solved\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzihwq/mystery_solved/",
+      "summary": "Thread on \"My first impressions of using MiniMax M2.7 as my new main agent\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzp4jd/my_first_impressions_of_using_minimax_m27_as_my/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "StackOverflow-style/Public Knowledge Base site for coding agents",
+      "score": 0.51,
+      "summary": "Thread on \"StackOverflow-style/Public Knowledge Base site for coding agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzpb6q/stackoverflowstylepublic_knowledge_base_site_for/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Chiikawa Persona Engine for OpenClaw Agents",
+      "score": 0.51,
+      "summary": "Thread on \"Chiikawa Persona Engine for OpenClaw Agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzo9sl/chiikawa_persona_engine_for_openclaw_agents/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Looking for Claw Addicts (law firm)",
+      "score": 0.5,
+      "summary": "Thread on \"Looking for Claw Addicts (law firm)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rznxl9/looking_for_claw_addicts_law_firm/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Anthropic's research proves AI coding tools are secretly making developers worse.",
+      "score": 0.49,
+      "summary": "Thread on \"Anthropic's research proves AI coding tools are secretly making developers worse.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Sonnet 4.6 is something else",
+      "score": 0.48,
+      "summary": "Thread on \"Sonnet 4.6 is something else\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rzkpm1/sonnet_46_is_something_else/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%",
+      "score": 0.47,
+      "summary": "Thread on \"Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1rzjxr6/braininspired_nanoelectronic_device_could_cut_ai/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Ai eating up all my tokens.",
+      "score": 0.47,
+      "summary": "Thread on \"Ai eating up all my tokens.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzjv1c/ai_eating_up_all_my_tokens/",
       "subreddit": "ChatGPT"
     },
     {
       "title": "ChatGPT just roasted me",
-      "score": 0.51,
+      "score": 0.47,
       "summary": "Thread on \"ChatGPT just roasted me\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzj6sx/chatgpt_just_roasted_me/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Slopception",
-      "score": 0.5,
-      "summary": "Thread on \"Slopception\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzi6i1/slopception/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "annoying password popup",
-      "score": 0.48,
-      "summary": "Thread on \"annoying password popup\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rze8wf/annoying_password_popup/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "How the development of ChatGPT slowly killed Chegg. I watched it happen live as an employee",
-      "score": 0.47,
-      "summary": "Thread on \"How the development of ChatGPT slowly killed Chegg. I watched it happen live as an employee\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rzcikg/how_the_development_of_chatgpt_slowly_killed/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Designing delightful frontends with GPT-5.4",
-      "score": 0.46,
-      "summary": "Thread on \"Designing delightful frontends with GPT-5.4\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rz9snl/designing_delightful_frontends_with_gpt54/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Would you pay for an extension that bakes BMAD into Cline and cuts token use by 90%?",
-      "score": 0.44,
-      "summary": "Thread on \"Would you pay for an extension that bakes BMAD into Cline and cuts token use by 90%?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1rz5a0w/would_you_pay_for_an_extension_that_bakes_bmad/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "Markdown files, rules and workflows???",
-      "score": 0.44,
-      "summary": "Thread on \"Markdown files, rules and workflows???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1rz5r8h/markdown_files_rules_and_workflows/",
-      "subreddit": "google_antigravity"
-    },
-    {
-      "title": "What’s your darkest secret 🤫",
-      "score": 0.44,
-      "summary": "Thread on \"What’s your darkest secret 🤫\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rz5hxn/whats_your_darkest_secret/",
       "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-21T06:35:56.187Z",
-    "refresh_finished_at": "2026-03-21T06:36:00.862Z",
+    "refresh_started_at": "2026-03-21T12:35:37.004Z",
+    "refresh_finished_at": "2026-03-21T12:35:40.701Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -335,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1891
+        "duration_ms": 1894
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4619
+        "duration_ms": 3651
       }
     },
     "warnings": []
