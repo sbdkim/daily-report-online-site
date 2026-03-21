@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T12:35:40.701Z",
+  "generated_at": "2026-03-21T18:28:35.651Z",
   "news_summary": [
     {
       "headline": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing",
@@ -15,45 +15,40 @@
       "reliability_score": 1
     },
     {
-      "headline": "Opinion: Lessons from a bad weather forecast",
+      "headline": "Robert S. Mueller III, ex-FBI director who led 2016 Russia inquiry, dead at 81",
       "region": "us",
-      "summary": "Opinion: Lessons from a bad weather forecast. Residents in and around Washington braced themselves for damaging storms earlier this week, but turns out it was a forecast flop. One local meteorologist apologized.",
+      "summary": "Robert S. Mueller III, ex-FBI director who led 2016 Russia inquiry, dead at 81. Mueller's family told The New York Times in August that he had been diagnosed with Parkinson's disease.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/21/nx-s1-5747945/opinion-lessons-from-a-bad-weather-forecast",
-          "published_at": "2026-03-21T12:00:00.000Z"
+          "url": "https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81",
+          "published_at": "2026-03-21T17:57:56.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Nat'l Assembly passes bill on new serious crime investigation agency",
+      "headline": "(LEAD) BTS stages concert in Seoul's Gwanghwamun to mark long-awaited return",
       "region": "korea",
-      "summary": "Nat'l Assembly passes bill on new serious crime investigation agency. The National Assembly on Saturday passed a prosecution reform bill led by the ruling Democratic Party of Korea (DPK), laying the legal groundwork for a new serious crime investigation agency. The bill was approved in a 166-1 vote during a plenary session shortly after a 24-hour filibuster by the main opposition People Power Party (PPP) ended. PPP lawmakers boycotted the vote. Under the bill, the new investigative body will be established under the Ministry of the Interior and Safety and will be responsible for probing major crimes, including corruption, economic offenses, defense industry-related crimes, drug offenses, insurrection and cyber crimes. The latest move came a day after the DPK railroaded another bill aimed at stripping the prosecution of investigative authority and laying the legal groundwork for a new indictment agency. The two bills are set to take effect in October, when the current prosecution service structure will be abolished as part of the government's push to separate the powers of investigation and indictment. Under the new framework, the indictment agency will hand.",
+      "summary": "(LEAD) BTS stages concert in Seoul's Gwanghwamun to mark long-awaited return. SEOUL, March 21 (Yonhap) -- K-pop megastar BTS held its first full-group concert..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/20260321/natl-assembly-passes-bill-on-new-serious-crime-investigation-agency?utm_source=rss",
-          "published_at": "2026-03-21T12:32:03.000Z"
-        },
-        {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260321002600315",
-          "published_at": "2026-03-21T10:25:31.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260321000851315",
+          "published_at": "2026-03-21T14:27:56.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week",
+      "headline": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
       "region": "world",
-      "summary": "Iran War Live Updates: U.S. Lifts Sanctions on Iranian Oil as War Enters Fourth Week. The move reversed earlier efforts to impose “maximum pressure” on the country and reflected how little success the Trump administration has achieved in calming global markets.",
+      "summary": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down. A U.S. commander said allied attacks had degraded Tehran’s military. On Saturday, the United States and Britain said Iran had tried but failed to hit a distant joint base in the Indian Ocean with two missiles.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
-          "published_at": "2026-03-21T12:31:52.000Z"
+          "published_at": "2026-03-21T18:25:20.000Z"
         }
       ],
       "reliability_score": 1
@@ -66,7 +61,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
-          "published_at": "2026-03-21T09:01:33.000Z"
+          "published_at": "2026-03-21T09:01:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -85,14 +80,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Live Updates: BTS’s Comeback Show Was Heavy on Their New Album",
+      "headline": "BTS’s Comeback Show Was Heavy on Their New Album",
       "region": "world",
-      "summary": "Live Updates: BTS’s Comeback Show Was Heavy on Their New Album. Fans appeared to love the performance, during which RM, the group’s leader, was subdued because of an ankle injury. The concert was in Seoul and lasted about an hour.",
+      "summary": "BTS’s Comeback Show Was Heavy on Their New Album. The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
-          "published_at": "2026-03-21T12:26:28.000Z"
+          "published_at": "2026-03-21T18:22:47.000Z"
         }
       ],
       "reliability_score": 1
@@ -105,7 +100,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
-          "published_at": "2026-03-21T09:08:44.000Z"
+          "published_at": "2026-03-21T12:49:04.000Z"
         }
       ],
       "reliability_score": 1
@@ -131,7 +126,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
-          "published_at": "2026-03-21T09:01:04.000Z"
+          "published_at": "2026-03-21T15:22:01.000Z"
         }
       ],
       "reliability_score": 1
@@ -189,14 +184,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "Meet the Dutch art detective who tracks down stolen masterpieces",
-      "region": "us",
-      "summary": "Meet the Dutch art detective who tracks down stolen masterpieces. For 20 years, Dutch art detective Arthur Brand has acted as an intermediary between the police and people who know where stolen artwork might be hiding. He says patience and trust are everything.",
+      "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "region": "world",
+      "summary": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows. Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/21/nx-s1-5716061/dutch-art-detective-arthur-brand",
-          "published_at": "2026-03-21T11:00:00.000Z"
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T22:34:05.000Z"
+        },
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T22:34:05.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "ChatGPT asked me a question that truly has me stumped",
-      "score": 0.48,
-      "summary": "Thread on \"ChatGPT asked me a question that truly has me stumped\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzlhv5/chatgpt_asked_me_a_question_that_truly_has_me/",
+      "title": "Late to the party, but having the time of my life!",
+      "score": 0.52,
+      "summary": "Thread on \"Late to the party, but having the time of my life!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rzy38q/late_to_the_party_but_having_the_time_of_my_life/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Finally I got to see what I was hoping for",
+      "score": 0.5,
+      "summary": "Thread on \"Finally I got to see what I was hoping for\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzusaf/finally_i_got_to_see_what_i_was_hoping_for/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "CEO of NVIDIA: The “ChatGPT Moment” of Biology is Here",
-      "score": 0.47,
-      "summary": "Thread on \"CEO of NVIDIA: The “ChatGPT Moment” of Biology is Here\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rzizyh/ceo_of_nvidia_the_chatgpt_moment_of_biology_is/",
-      "subreddit": "singularity"
+      "title": "Agents before AI was a thing",
+      "score": 0.51,
+      "summary": "Thread on \"Agents before AI was a thing\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Claude really does hit different, but how?",
-      "score": 0.5,
-      "summary": "Thread on \"Claude really does hit different, but how?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rznoc1/claude_really_does_hit_different_but_how/",
-      "subreddit": "ClaudeAI"
+      "title": "The Kimi 2.5 Controversy: When a $50 Billion Startup Forgot to Credit Its Open‑Source Foundation",
+      "score": 0.51,
+      "summary": "Thread on \"The Kimi 2.5 Controversy: When a $50 Billion Startup Forgot to Credit Its Open‑Source Foundation\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rzwm9t/the_kimi_25_controversy_when_a_50_billion_startup/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Why AI Will Make Psychiatry the Hottest Career of the Decade",
+      "score": 0.45,
+      "summary": "Thread on \"Why AI Will Make Psychiatry the Hottest Career of the Decade\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/Anthropic/comments/1rzm75l/why_ai_will_make_psychiatry_the_hottest_career_of/",
+      "subreddit": "Anthropic"
     },
     {
       "title": "Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?",
-      "score": 0.38,
+      "score": 0.33,
       "summary": "Thread on \"Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rz19z5/codex_or_claude_code_for_high_complexity_proximal/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Cursor’s ‘Composer 2’ model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got permission",
-      "score": 0.42,
-      "summary": "Thread on \"Cursor’s ‘Composer 2’ model is apparently just Kimi K2.5 with RL fine-tuning. Moonshot AI says they never paid or got pe\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/kimi/comments/1rzbsa4/cursors_composer_2_model_is_apparently_just_kimi/",
-      "subreddit": "kimi"
-    },
-    {
-      "title": "I built a persistent memory system for AI agents because I got tired of them forgetting everything over time",
-      "score": 0.52,
-      "summary": "Thread on \"I built a persistent memory system for AI agents because I got tired of them forgetting everything over time\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzpvfd/i_built_a_persistent_memory_system_for_ai_agents/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "My first impressions of using MiniMax M2.7 as my new main agent",
+      "title": "What is your custom alternative to Openclaw?",
       "score": 0.51,
-      "summary": "Thread on \"My first impressions of using MiniMax M2.7 as my new main agent\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzp4jd/my_first_impressions_of_using_minimax_m27_as_my/",
+      "summary": "Thread on \"What is your custom alternative to Openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzx4yf/what_is_your_custom_alternative_to_openclaw/",
       "subreddit": "openclaw"
     },
     {
-      "title": "StackOverflow-style/Public Knowledge Base site for coding agents",
+      "title": "Has anyone here actually automated most of their backend workflow with Codex automation or something similar?",
       "score": 0.51,
-      "summary": "Thread on \"StackOverflow-style/Public Knowledge Base site for coding agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzpb6q/stackoverflowstylepublic_knowledge_base_site_for/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"Has anyone here actually automated most of their backend workflow with Codex automation or something similar?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rzwlp5/has_anyone_here_actually_automated_most_of_their/",
+      "subreddit": "codex"
     },
     {
-      "title": "Chiikawa Persona Engine for OpenClaw Agents",
+      "title": "I put Codex inside a harness that doesn't stop until the goal is done. it's a different experience.",
       "score": 0.51,
-      "summary": "Thread on \"Chiikawa Persona Engine for OpenClaw Agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzo9sl/chiikawa_persona_engine_for_openclaw_agents/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"I put Codex inside a harness that doesn't stop until the goal is done. it's a different experience.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rzvwg1/i_put_codex_inside_a_harness_that_doesnt_stop/",
+      "subreddit": "codex"
     },
     {
-      "title": "Looking for Claw Addicts (law firm)",
+      "title": "Codex is back to normal for me? Maybe?",
+      "score": 0.51,
+      "summary": "Thread on \"Codex is back to normal for me? Maybe?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1rzwxgl/codex_is_back_to_normal_for_me_maybe/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "I built an agentic stock exchange simulation for OpenClaw, where AI agents autonomously create companies, trade shares, and compete with each other for wealth.",
       "score": 0.5,
-      "summary": "Thread on \"Looking for Claw Addicts (law firm)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rznxl9/looking_for_claw_addicts_law_firm/",
+      "summary": "Thread on \"I built an agentic stock exchange simulation for OpenClaw, where AI agents autonomously create companies, trade shares, \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzuc75/i_built_an_agentic_stock_exchange_simulation_for/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Anthropic's research proves AI coding tools are secretly making developers worse.",
+      "title": "Apple Health integration with your OpenClaw 🏃‍➡️ 💤",
+      "score": 0.5,
+      "summary": "Thread on \"Apple Health integration with your OpenClaw 🏃‍➡️ 💤\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzux44/apple_health_integration_with_your_openclaw/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Not everyone with a camera is a great photographer. The same applies to Al.",
+      "score": 0.5,
+      "summary": "Thread on \"Not everyone with a camera is a great photographer. The same applies to Al.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rzv83v/not_everyone_with_a_camera_is_a_great/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "I organized 177 SOUL.md templates into 24 categories - all free and open source",
       "score": 0.49,
-      "summary": "Thread on \"Anthropic's research proves AI coding tools are secretly making developers worse.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rzmfyd/anthropics_research_proves_ai_coding_tools_are/",
-      "subreddit": "ClaudeAI"
+      "summary": "Thread on \"I organized 177 SOUL.md templates into 24 categories - all free and open source\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzt9ba/i_organized_177_soulmd_templates_into_24/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "Sonnet 4.6 is something else",
-      "score": 0.48,
-      "summary": "Thread on \"Sonnet 4.6 is something else\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1rzkpm1/sonnet_46_is_something_else/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%",
-      "score": 0.47,
-      "summary": "Thread on \"Brain-inspired nanoelectronic device could cut AI hardware energy use by 70%\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1rzjxr6/braininspired_nanoelectronic_device_could_cut_ai/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Ai eating up all my tokens.",
-      "score": 0.47,
-      "summary": "Thread on \"Ai eating up all my tokens.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzjv1c/ai_eating_up_all_my_tokens/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "ChatGPT just roasted me",
-      "score": 0.47,
-      "summary": "Thread on \"ChatGPT just roasted me\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzj6sx/chatgpt_just_roasted_me/",
-      "subreddit": "ChatGPT"
+      "title": "What is the minimum and best local LLM for openclaw?",
+      "score": 0.49,
+      "summary": "Thread on \"What is the minimum and best local LLM for openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rztrxf/what_is_the_minimum_and_best_local_llm_for/",
+      "subreddit": "openclaw"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-21T12:35:37.004Z",
-    "refresh_finished_at": "2026-03-21T12:35:40.701Z",
+    "refresh_started_at": "2026-03-21T18:28:31.956Z",
+    "refresh_finished_at": "2026-03-21T18:28:35.652Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1894
+        "duration_ms": 1387
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3651
+        "duration_ms": 3656
       }
     },
     "warnings": []
