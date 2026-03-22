@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-03-22T12:37:28.341Z",
+  "generated_at": "2026-03-22T18:29:04.376Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Trump Threatens to Hit Power Plants Unless Strait Is Reopened, as Tehran Remains Defiant",
+      "headline": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
       "region": "world",
-      "summary": "Iran War Live Updates: Trump Threatens to Hit Power Plants Unless Strait Is Reopened, as Tehran Remains Defiant. President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
+      "summary": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants. President Trump said that he would “obliterate” Iran’s electricity plants if it did not open the Strait of Hormuz within 48 hours. Iran dismissed the ultimatum as its missiles hit southern Israel, including near the country’s main nuclear research center.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
-          "published_at": "2026-03-22T12:33:44.000Z"
+          "published_at": "2026-03-22T18:19:17.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
+      "headline": "Trump at a crossroads as US weighs tough options in Iran",
       "region": "us",
-      "summary": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities. Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
+      "summary": "Trump at a crossroads as US weighs tough options in Iran. Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
-          "published_at": "2026-03-22T11:22:57.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T00:50:43.000Z"
         }
       ],
       "reliability_score": 1
@@ -66,7 +66,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
-          "published_at": "2026-03-22T11:35:09.000Z"
+          "published_at": "2026-03-22T13:52:14.000Z"
         }
       ],
       "reliability_score": 1
@@ -85,6 +85,19 @@
       "reliability_score": 1
     },
     {
+      "headline": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says",
+      "region": "world",
+      "summary": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says. The group’s director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html",
+          "published_at": "2026-03-22T15:47:02.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
       "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
       "region": "world",
       "summary": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.. Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.",
@@ -92,7 +105,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
-          "published_at": "2026-03-22T04:01:07.000Z"
+          "published_at": "2026-03-22T15:18:19.000Z"
         }
       ],
       "reliability_score": 1
@@ -105,7 +118,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
-          "published_at": "2026-03-22T11:29:18.000Z"
+          "published_at": "2026-03-22T15:28:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -118,7 +131,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
-          "published_at": "2026-03-22T04:01:29.000Z"
+          "published_at": "2026-03-22T17:59:23.000Z"
         }
       ],
       "reliability_score": 1
@@ -176,27 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.",
-      "region": "world",
-      "summary": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.. New research suggests that a legendary 200-mile march by Harold Godwinson, the last Anglo-Saxon king of England, may have actually involved some ships.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/harold-1066-forced-march-ship-hastings.html",
-          "published_at": "2026-03-21T08:06:59.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
+      "headline": "Trump says ICE agents will assist airport security as DHS shutdown continues",
       "region": "us",
-      "summary": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour. Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
+      "summary": "Trump says ICE agents will assist airport security as DHS shutdown continues. Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
-          "published_at": "2026-03-22T10:00:00.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T18:15:59.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Remote Development in Codex Desktop App coming very soon 👀!",
-      "score": 0.51,
-      "summary": "Thread on \"Remote Development in Codex Desktop App coming very soon 👀!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1s0jpjm/remote_development_in_codex_desktop_app_coming/",
+      "title": "Unlimited credits - how to take advantage of my situation?",
+      "score": 0.52,
+      "summary": "Thread on \"Unlimited credits - how to take advantage of my situation?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s0sr6e/unlimited_credits_how_to_take_advantage_of_my/",
       "subreddit": "codex"
     },
     {
-      "title": "Where’s the Chat in ChatGPT?",
+      "title": "Not very fancy, actually kinda cursed",
+      "score": 0.5,
+      "summary": "Thread on \"Not very fancy, actually kinda cursed\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s0omvb/not_very_fancy_actually_kinda_cursed/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Neil DeGrasse Tyson calls for an international treaty to ban superintelligence: \"That branch of AI is lethal. We've got do something about that. Nobody should build it. And everyone needs to agree to that by treaty. Treaties are not perfect, but they are the best we have as humans.\"",
       "score": 0.52,
-      "summary": "Thread on \"Where’s the Chat in ChatGPT?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0kahq/wheres_the_chat_in_chatgpt/",
+      "summary": "Thread on \"Neil DeGrasse Tyson calls for an international treaty to ban superintelligence: \"That branch of AI is lethal. We've got \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0sjty/neil_degrasse_tyson_calls_for_an_international/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "5 Contrarian Theses On Where AI Is Going",
-      "score": 0.52,
-      "summary": "Thread on \"5 Contrarian Theses On Where AI Is Going\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s0k3w7/5_contrarian_theses_on_where_ai_is_going/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?",
-      "score": 0.26,
-      "summary": "Thread on \"Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rz19z5/codex_or_claude_code_for_high_complexity_proximal/",
+      "title": "How much usage is the 20€ Pro subscription?",
+      "score": 0.49,
+      "summary": "Thread on \"How much usage is the 20€ Pro subscription?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s0mpxa/how_much_usage_is_the_20_pro_subscription/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "A lawyer won Anthropic's hackathon. It makes sense when you think about what AI actually changed about coding.",
-      "score": 0.39,
-      "summary": "Thread on \"A lawyer won Anthropic's hackathon. It makes sense when you think about what AI actually changed about coding.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1rzyg5k/a_lawyer_won_anthropics_hackathon_it_makes_sense/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "I spend the last 6 month Learning How to automate my boring Tasks with",
-      "score": 0.52,
-      "summary": "Thread on \"I spend the last 6 month Learning How to automate my boring Tasks with\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0k8nf/i_spend_the_last_6_month_learning_how_to_automate/",
+      "title": "Integrating company document database with AI",
+      "score": 0.47,
+      "summary": "Thread on \"Integrating company document database with AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0qpkm/integrating_company_document_database_with_ai/",
       "subreddit": "AI_Agents"
     },
     {
-      "title": "Which Countries Use Claude AI the Most",
-      "score": 0.51,
-      "summary": "Thread on \"Which Countries Use Claude AI the Most\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s0ipco/which_countries_use_claude_ai_the_most/",
-      "subreddit": "claude"
+      "title": "why most ai agents suck (and how i fixed mine without using better models)",
+      "score": 0.52,
+      "summary": "Thread on \"why most ai agents suck (and how i fixed mine without using better models)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s0t75a/why_most_ai_agents_suck_and_how_i_fixed_mine/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "Catch it once, catch it twice, catch it with your \"love device\" (5.4 XT)",
+      "title": "Tech in Asia - Connecting Asia's startup ecosystem",
       "score": 0.52,
-      "summary": "Thread on \"Catch it once, catch it twice, catch it with your \"love device\" (5.4 XT)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0k088/catch_it_once_catch_it_twice_catch_it_with_your/",
+      "summary": "Thread on \"Tech in Asia - Connecting Asia's startup ecosystem\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0sqa2/tech_in_asia_connecting_asias_startup_ecosystem/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "OpenAI's Latest AI Was Created Using \"Itself,\" Company Claims",
-      "score": 0.51,
-      "summary": "Thread on \"OpenAI's Latest AI Was Created Using \"Itself,\" Company Claims\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0ie7k/openais_latest_ai_was_created_using_itself/",
-      "subreddit": "OpenAI"
+      "title": "How do you handle distribution and talking to users?",
+      "score": 0.52,
+      "summary": "Thread on \"How do you handle distribution and talking to users?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s0sauc/how_do_you_handle_distribution_and_talking_to/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "Is a serious AI automation agency still worth building in 2026 — honest answers only",
-      "score": 0.51,
-      "summary": "Thread on \"Is a serious AI automation agency still worth building in 2026 — honest answers only\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0j357/is_a_serious_ai_automation_agency_still_worth/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "Research help for my project idea..",
-      "score": 0.51,
-      "summary": "Thread on \"Research help for my project idea..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0jjll/research_help_for_my_project_idea/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "What if we let LLMs modify their own system prompts?",
-      "score": 0.51,
-      "summary": "Thread on \"What if we let LLMs modify their own system prompts?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0iha6/what_if_we_let_llms_modify_their_own_system/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "god bless ai wars, and openai for this $200/mo sub",
-      "score": 0.51,
-      "summary": "Thread on \"god bless ai wars, and openai for this $200/mo sub\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1s0ikjh/god_bless_ai_wars_and_openai_for_this_200mo_sub/",
+      "title": "When is GPT Pro finally getting direct Codex integration?!",
+      "score": 0.52,
+      "summary": "Thread on \"When is GPT Pro finally getting direct Codex integration?!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s0ssax/when_is_gpt_pro_finally_getting_direct_codex/",
       "subreddit": "codex"
     },
     {
-      "title": "AI isn't making us dumber. It's just exposing how little most jobs required us to think.",
+      "title": "Quick question",
+      "score": 0.51,
+      "summary": "Thread on \"Quick question\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s0r732/quick_question/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "I built an AI-powered WhatsApp Helpdesk that handles 150+ IT categories, RAG document search, and manager approvals (n8n + Supabase + OpenAI)",
+      "score": 0.51,
+      "summary": "Thread on \"I built an AI-powered WhatsApp Helpdesk that handles 150+ IT categories, RAG document search, and manager approvals (n8n\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s0ql8i/i_built_an_aipowered_whatsapp_helpdesk_that/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Plan revisions are hit-and-miss",
+      "score": 0.51,
+      "summary": "Thread on \"Plan revisions are hit-and-miss\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s0rcy3/plan_revisions_are_hitandmiss/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Just made smth that tries to beat ROBLOX",
       "score": 0.5,
-      "summary": "Thread on \"AI isn't making us dumber. It's just exposing how little most jobs required us to think.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0i80g/ai_isnt_making_us_dumber_its_just_exposing_how/",
+      "summary": "Thread on \"Just made smth that tries to beat ROBLOX\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s0pmdv/just_made_smth_that_tries_to_beat_roblox/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Do people like this about Codex?",
+      "score": 0.49,
+      "summary": "Thread on \"Do people like this about Codex?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0mbak/do_people_like_this_about_codex/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "We built an open-source memory layer for AI coding agents — 80% F1 on LoCoMo, 2x standard RAG",
-      "score": 0.5,
-      "summary": "Thread on \"We built an open-source memory layer for AI coding agents — 80% F1 on LoCoMo, 2x standard RAG\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0hqqz/we_built_an_opensource_memory_layer_for_ai_coding/",
-      "subreddit": "OpenAI"
+      "title": "ChatGPT is great but all the love for Claude is not bot hype",
+      "score": 0.49,
+      "summary": "Thread on \"ChatGPT is great but all the love for Claude is not bot hype\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s0nj96/chatgpt_is_great_but_all_the_love_for_claude_is/",
+      "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-22T12:37:24.815Z",
-    "refresh_finished_at": "2026-03-22T12:37:28.341Z",
+    "refresh_started_at": "2026-03-22T18:28:59.537Z",
+    "refresh_finished_at": "2026-03-22T18:29:04.376Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2046
+        "duration_ms": 4838
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3490
+        "duration_ms": 4749
       }
     },
     "warnings": []
