@@ -1,6 +1,210 @@
 {
-  "generated_at": "2026-03-21T18:28:35.651Z",
+  "generated_at": "2026-03-22T01:46:34.651Z",
   "news_summary": [
+    {
+      "headline": "Trump at a crossroads as US weighs tough options in Iran",
+      "region": "world",
+      "summary": "Trump at a crossroads as US weighs tough options in Iran. Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T00:50:43.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T00:50:43.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
+      "region": "us",
+      "summary": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81. A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T01:04:57.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "SKT's Adot, Naver's Papago included among top 50 most used generative AI",
+      "region": "korea",
+      "summary": "SKT's Adot, Naver's Papago included among top 50 most used generative AI. SEOUL, March 22 (Yonhap) -- Two South Korean artificial intelligence services ha..",
+      "sources": [
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260322000600320",
+          "published_at": "2026-03-22T01:28:15.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul",
+      "region": "us",
+      "summary": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul. The TikTok and reality TV star was a risky choice for the squeaky clean franchise -and ended up being a wrong one.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T23:03:15.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Bodycam footage of Justin Timberlake's 2024 drink-driving arrest released",
+      "region": "us",
+      "summary": "Bodycam footage of Justin Timberlake's 2024 drink-driving arrest released. The pop star's legal team had tried to prevent the release of footage from his arrest, but reached an agreement.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cx2v4q12yzdo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T18:33:58.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "A secularism law some women say makes them feel like 'outsiders' heads to Canada's top court",
+      "region": "us",
+      "summary": "A secularism law some women say makes them feel like 'outsiders' heads to Canada's top court. Canada's Supreme Court will hear a challenge to Quebec's Bill 21, which bars some public sector workers, including teachers, from wearing religious symbols.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/ceqw5j5lx32o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T00:17:02.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump threatens to send ICE into airports unless funding deal reached",
+      "region": "world",
+      "summary": "Trump threatens to send ICE into airports unless funding deal reached. The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T20:22:10.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T20:22:10.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
+      "region": "world",
+      "summary": "Thousands evacuated as Hawaii faces worst flooding in 20 years. \"Don't take this storm lightly,\" Hawaii Governor Josh Green warned on Saturday, as more rain is expected on Oahu and Maui.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T22:01:45.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T22:01:45.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Pentagon restrictions on press violate First Amendment, judge rules",
+      "region": "world",
+      "summary": "Pentagon restrictions on press violate First Amendment, judge rules. The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T16:11:58.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T16:11:58.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54",
+      "region": "world",
+      "summary": "Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54. Brendon died of \"natural causes\", his family said in a statement, remembering him as \"passionate\" and \"sensitive\".",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T11:26:16.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckg9wgj9y5no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-21T11:26:16.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+      "region": "world",
+      "summary": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows. Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T22:34:05.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T22:34:05.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Elon Musk misled Twitter investors, jury finds",
+      "region": "world",
+      "summary": "Elon Musk misled Twitter investors, jury finds. A San Francisco jury concludes Musk’s claims in 2022 were damaging to a group of Twitter investors.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T23:44:09.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c62j3yl842eo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T23:44:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "CBS News shuts down radio service after nearly 100 years",
+      "region": "us",
+      "summary": "CBS News shuts down radio service after nearly 100 years. In a memo to staff, editor-in-chief Barri Weiss and president Tom Cibrowski say the decision is \"necessary\" but \"not an easy one\".",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cn439d9pqpvo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-20T18:27:48.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
     {
       "headline": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing",
       "region": "world",
@@ -15,188 +219,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Robert S. Mueller III, ex-FBI director who led 2016 Russia inquiry, dead at 81",
-      "region": "us",
-      "summary": "Robert S. Mueller III, ex-FBI director who led 2016 Russia inquiry, dead at 81. Mueller's family told The New York Times in August that he had been diagnosed with Parkinson's disease.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/21/nx-s1-5755800/robert-s-mueller-iii-ex-fbi-director-who-led-2016-russia-inquiry-dead-at-81",
-          "published_at": "2026-03-21T17:57:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "(LEAD) BTS stages concert in Seoul's Gwanghwamun to mark long-awaited return",
-      "region": "korea",
-      "summary": "(LEAD) BTS stages concert in Seoul's Gwanghwamun to mark long-awaited return. SEOUL, March 21 (Yonhap) -- K-pop megastar BTS held its first full-group concert..",
-      "sources": [
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260321000851315",
-          "published_at": "2026-03-21T14:27:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down",
+      "headline": "Iran War Live Updates: Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities",
       "region": "world",
-      "summary": "Iran War Live Updates: U.S. Bombed Thousands of Iranian Targets, but Iran Shows No Sign of Backing Down. A U.S. commander said allied attacks had degraded Tehran’s military. On Saturday, the United States and Britain said Iran had tried but failed to hit a distant joint base in the Indian Ocean with two missiles.",
+      "summary": "Iran War Live Updates: Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities. At least a dozen people were seriously injured as Iranian missiles struck Dimona and Arad, in one of the worst days for Israel in the war. The attacks showed Iran could still inflict damage despite three weeks of being bombed.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
-          "published_at": "2026-03-21T18:25:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
-      "region": "world",
-      "summary": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks. The Ukrainian president has said he has a “very bad feeling” about the effects of the Iran conflict on Ukraine’s own war.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
-          "published_at": "2026-03-21T09:01:34.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.",
-      "region": "world",
-      "summary": "The Road to the Battle of Hastings in 1066? Maybe Not a Road After All.. New research suggests that a legendary 200-mile march by Harold Godwinson, the last Anglo-Saxon king of England, may have actually involved some ships.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/harold-1066-forced-march-ship-hastings.html",
-          "published_at": "2026-03-21T08:06:59.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "BTS’s Comeback Show Was Heavy on Their New Album",
-      "region": "world",
-      "summary": "BTS’s Comeback Show Was Heavy on Their New Album. The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
-          "published_at": "2026-03-21T18:22:47.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
-      "region": "world",
-      "summary": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo. Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
-          "published_at": "2026-03-21T12:49:04.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "​At Least 14 Killed in South Korean Factory Fire",
-      "region": "world",
-      "summary": "​At Least 14 Killed in South Korean Factory Fire. Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
-          "published_at": "2026-03-21T12:15:47.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
-      "region": "world",
-      "summary": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram. Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
-          "published_at": "2026-03-21T15:22:01.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.",
-      "region": "world",
-      "summary": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.. The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html",
-          "published_at": "2026-03-21T04:00:14.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating",
-      "region": "world",
-      "summary": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating. A former key aide to the Russian oligarch would face an investigation into her time overseeing the Premier League club should she return to soccer.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/europe/chelsea-premier-league-cheating-marina-granovskaia.html",
-          "published_at": "2026-03-21T04:01:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
-      "region": "world",
-      "summary": "On a Holiday of Renewal, Iranians Are Mourning and Fearful. As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
-          "published_at": "2026-03-20T19:42:50.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump Organization Eyes Transylvania Golf Course Deal",
-      "region": "world",
-      "summary": "Trump Organization Eyes Transylvania Golf Course Deal. The president’s company is eyeing a site for a golf course and luxury apartments. Will a huge landfill and a troubled project history stand in the way.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html",
-          "published_at": "2026-03-21T10:23:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-      "region": "world",
-      "summary": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows. Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-      "sources": [
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T22:34:05.000Z"
-        },
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-20T22:34:05.000Z"
+          "published_at": "2026-03-22T01:44:51.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +234,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Late to the party, but having the time of my life!",
+      "title": "Any alternatives for nanobanana that produce almost same quality without restrictions?",
       "score": 0.52,
-      "summary": "Thread on \"Late to the party, but having the time of my life!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rzy38q/late_to_the_party_but_having_the_time_of_my_life/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Finally I got to see what I was hoping for",
-      "score": 0.5,
-      "summary": "Thread on \"Finally I got to see what I was hoping for\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1rzusaf/finally_i_got_to_see_what_i_was_hoping_for/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Agents before AI was a thing",
-      "score": 0.51,
-      "summary": "Thread on \"Agents before AI was a thing\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rzxcw5/agents_before_ai_was_a_thing/",
+      "summary": "Thread on \"Any alternatives for nanobanana that produce almost same quality without restrictions?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s092iq/any_alternatives_for_nanobanana_that_produce/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "The Kimi 2.5 Controversy: When a $50 Billion Startup Forgot to Credit Its Open‑Source Foundation",
-      "score": 0.51,
-      "summary": "Thread on \"The Kimi 2.5 Controversy: When a $50 Billion Startup Forgot to Credit Its Open‑Source Foundation\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rzwm9t/the_kimi_25_controversy_when_a_50_billion_startup/",
-      "subreddit": "ArtificialInteligence"
+      "title": "The drastic difference in attitude toward AI video in China compared to the west",
+      "score": 0.48,
+      "summary": "Thread on \"The drastic difference in attitude toward AI video in China compared to the west\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s00wvj/the_drastic_difference_in_attitude_toward_ai/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Why AI Will Make Psychiatry the Hottest Career of the Decade",
-      "score": 0.45,
-      "summary": "Thread on \"Why AI Will Make Psychiatry the Hottest Career of the Decade\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/Anthropic/comments/1rzm75l/why_ai_will_make_psychiatry_the_hottest_career_of/",
-      "subreddit": "Anthropic"
+      "title": "This must be a joke.",
+      "score": 0.48,
+      "summary": "Thread on \"This must be a joke.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GoogleAntigravityIDE/comments/1s00z14/this_must_be_a_joke/",
+      "subreddit": "GoogleAntigravityIDE"
     },
     {
-      "title": "Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?",
-      "score": 0.33,
-      "summary": "Thread on \"Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rz19z5/codex_or_claude_code_for_high_complexity_proximal/",
-      "subreddit": "ChatGPTCoding"
+      "title": "I built a mathematical framework for prompt engineering based on the Nyquist-Shannon theorem. The #1 finding: CONSTRAINTS carry 42.7% of quality, and most prompts have zero.",
+      "score": 0.52,
+      "summary": "Thread on \"I built a mathematical framework for prompt engineering based on the Nyquist-Shannon theorem. The #1 finding: CONSTRAINT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s08zej/i_built_a_mathematical_framework_for_prompt/",
+      "subreddit": "PromptEngineering"
     },
     {
-      "title": "What is your custom alternative to Openclaw?",
-      "score": 0.51,
-      "summary": "Thread on \"What is your custom alternative to Openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzx4yf/what_is_your_custom_alternative_to_openclaw/",
+      "title": "DELIGHT. no tokens, no gpu, fast work, connect to openclaw",
+      "score": 0.47,
+      "summary": "Thread on \"DELIGHT. no tokens, no gpu, fast work, connect to openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzz4q7/delight_no_tokens_no_gpu_fast_work_connect_to/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Has anyone here actually automated most of their backend workflow with Codex automation or something similar?",
+      "title": "Asking Psychology to GPT",
+      "score": 0.52,
+      "summary": "Thread on \"Asking Psychology to GPT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s08o85/asking_psychology_to_gpt/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "ChatGPT vs Anthropic - enterprise market",
       "score": 0.51,
-      "summary": "Thread on \"Has anyone here actually automated most of their backend workflow with Codex automation or something similar?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rzwlp5/has_anyone_here_actually_automated_most_of_their/",
-      "subreddit": "codex"
+      "summary": "Thread on \"ChatGPT vs Anthropic - enterprise market\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s08bsh/chatgpt_vs_anthropic_enterprise_market/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "I put Codex inside a harness that doesn't stop until the goal is done. it's a different experience.",
-      "score": 0.51,
-      "summary": "Thread on \"I put Codex inside a harness that doesn't stop until the goal is done. it's a different experience.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rzvwg1/i_put_codex_inside_a_harness_that_doesnt_stop/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Codex is back to normal for me? Maybe?",
-      "score": 0.51,
-      "summary": "Thread on \"Codex is back to normal for me? Maybe?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1rzwxgl/codex_is_back_to_normal_for_me_maybe/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "I built an agentic stock exchange simulation for OpenClaw, where AI agents autonomously create companies, trade shares, and compete with each other for wealth.",
+      "title": "AWS's prompt engineering guide is a good read",
       "score": 0.5,
-      "summary": "Thread on \"I built an agentic stock exchange simulation for OpenClaw, where AI agents autonomously create companies, trade shares, \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzuc75/i_built_an_agentic_stock_exchange_simulation_for/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"AWS's prompt engineering guide is a good read\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s069x9/awss_prompt_engineering_guide_is_a_good_read/",
+      "subreddit": "PromptEngineering"
     },
     {
-      "title": "Apple Health integration with your OpenClaw 🏃‍➡️ 💤",
+      "title": "Way to get rid of prompt chaos",
       "score": 0.5,
-      "summary": "Thread on \"Apple Health integration with your OpenClaw 🏃‍➡️ 💤\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzux44/apple_health_integration_with_your_openclaw/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"Way to get rid of prompt chaos\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s0612b/way_to_get_rid_of_prompt_chaos/",
+      "subreddit": "PromptEngineering"
     },
     {
-      "title": "Not everyone with a camera is a great photographer. The same applies to Al.",
+      "title": "The 'Recursive Critique' 10/10 Loop.",
       "score": 0.5,
-      "summary": "Thread on \"Not everyone with a camera is a great photographer. The same applies to Al.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1rzv83v/not_everyone_with_a_camera_is_a_great/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"The 'Recursive Critique' 10/10 Loop.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s04sun/the_recursive_critique_1010_loop/",
+      "subreddit": "PromptEngineering"
     },
     {
-      "title": "I organized 177 SOUL.md templates into 24 categories - all free and open source",
+      "title": "I built this Framework , can you pls have a look on it and tell me what you think pls? ...im happy for any hoenst Feedback.",
       "score": 0.49,
-      "summary": "Thread on \"I organized 177 SOUL.md templates into 24 categories - all free and open source\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rzt9ba/i_organized_177_soulmd_templates_into_24/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"I built this Framework , can you pls have a look on it and tell me what you think pls? ...im happy for any hoenst Feedba\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s03amh/i_built_this_framework_can_you_pls_have_a_look_on/",
+      "subreddit": "PromptEngineering"
     },
     {
-      "title": "What is the minimum and best local LLM for openclaw?",
-      "score": 0.49,
-      "summary": "Thread on \"What is the minimum and best local LLM for openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1rztrxf/what_is_the_minimum_and_best_local_llm_for/",
-      "subreddit": "openclaw"
+      "title": "Palantir and NVIDIA Team to Deliver Sovereign AI Operating System Reference Architecture",
+      "score": 0.48,
+      "summary": "Thread on \"Palantir and NVIDIA Team to Deliver Sovereign AI Operating System Reference Architecture\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s01myt/palantir_and_nvidia_team_to_deliver_sovereign_ai/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "ChatGPT is the Yahoo of AI",
+      "score": 0.48,
+      "summary": "Thread on \"ChatGPT is the Yahoo of AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s02elh/chatgpt_is_the_yahoo_of_ai/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Does Gemini auto deletes Chats which has some sensitive topics?",
+      "score": 0.47,
+      "summary": "Thread on \"Does Gemini auto deletes Chats which has some sensitive topics?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1rzynyq/does_gemini_auto_deletes_chats_which_has_some/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "For the First Time, Scientists May Have Found a Way to Regenerate Cartilage",
+      "score": 0.47,
+      "summary": "Thread on \"For the First Time, Scientists May Have Found a Way to Regenerate Cartilage\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s00l95/for_the_first_time_scientists_may_have_found_a/",
+      "subreddit": "singularity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-21T18:28:31.956Z",
-    "refresh_finished_at": "2026-03-21T18:28:35.652Z",
+    "refresh_started_at": "2026-03-22T01:46:29.996Z",
+    "refresh_finished_at": "2026-03-22T01:46:34.651Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +350,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1387
+        "duration_ms": 1932
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3656
+        "duration_ms": 4614
       }
     },
     "warnings": []
