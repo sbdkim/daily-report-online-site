@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-03-22T06:43:39.638Z",
+  "generated_at": "2026-03-22T12:37:28.341Z",
   "news_summary": [
+    {
+      "headline": "Iran War Live Updates: Trump Threatens to Hit Power Plants Unless Strait Is Reopened, as Tehran Remains Defiant",
+      "region": "world",
+      "summary": "Iran War Live Updates: Trump Threatens to Hit Power Plants Unless Strait Is Reopened, as Tehran Remains Defiant. President Trump issued an ultimatum after Iranian missiles struck cities in southern Israel, including one near the country’s main nuclear research center.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
+          "published_at": "2026-03-22T12:33:44.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
+      "region": "us",
+      "summary": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities. Iran launched missiles at two southern Israeli cities that lie close to the country's main nuclear research center, while President Trump gave Iran 48 hours to reopen the Strait of Hormuz.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/22/nx-s1-5756308/trump-threatens-obliterate-irans-power-plants-iran-strikes-2-israeli-cities",
+          "published_at": "2026-03-22T11:22:57.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "(LEAD) (profile) BOK chief nominee known for expertise in int'l finance, macroeconomics with practical insight",
+      "region": "korea",
+      "summary": "(LEAD) (profile) BOK chief nominee known for expertise in int'l finance, macroeconomics with practical insight. SEOUL, March 22 (Yonhap) -- Bank of Korea (BOK) Gov. nominee Shin Hyun-song is a..",
+      "sources": [
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260322002451320",
+          "published_at": "2026-03-22T11:21:53.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260322002400320",
+          "published_at": "2026-03-22T08:45:15.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "France Is Voting for Thousands of New Mayors. Here’s Why It Matters.",
+      "region": "world",
+      "summary": "France Is Voting for Thousands of New Mayors. Here’s Why It Matters.. The far-right party had first-round successes in several cities, but so did the far left. Sunday’s second round may clarify who has real momentum.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayors-elections-far-right.html",
+          "published_at": "2026-03-22T04:01:22.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Billionaire Funding France’s Far Right",
+      "region": "world",
+      "summary": "The Billionaire Funding France’s Far Right. Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
+          "published_at": "2026-03-22T11:35:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+      "region": "world",
+      "summary": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War. Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "published_at": "2026-03-22T09:01:08.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
+      "region": "world",
+      "summary": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.. Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
+          "published_at": "2026-03-22T04:01:07.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Terror Attacks Haunted This Brussels Community. Now It’s Trying to Move On.",
+      "region": "world",
+      "summary": "Terror Attacks Haunted This Brussels Community. Now It’s Trying to Move On.. Molenbeek was branded a hotbed of radicalization after terrorists hit Brussels and Paris a decade ago, but new challenges show that reinvention doesn’t come easy.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
+          "published_at": "2026-03-22T11:29:18.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Election in Slovenia Will Test Europe’s Political Mood",
+      "region": "world",
+      "summary": "Election in Slovenia Will Test Europe’s Political Mood. The center-left government is being challenged by a right-wing populist accused of launching a smear campaign in the final days of a close race.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
+          "published_at": "2026-03-22T04:01:29.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
+      "region": "world",
+      "summary": "With Fire and Song, Kurds in Turkey Hail the Start of Spring. The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
+          "published_at": "2026-03-21T21:32:18.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
+      "region": "world",
+      "summary": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says. Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/21/world/europe/patriarch-filaret-dead.html",
+          "published_at": "2026-03-21T17:54:04.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
     {
       "headline": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing",
       "region": "world",
@@ -10,50 +158,6 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html",
           "published_at": "2026-03-21T09:00:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul",
-      "region": "us",
-      "summary": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul. The TikTok and reality TV star was a risky choice for the squeaky clean franchise -and ended up being a wrong one.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-21T23:03:15.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "US soldier booked for assaulting Korean man at club",
-      "region": "korea",
-      "summary": "US soldier booked for assaulting Korean man at club. An American soldier was booked Sunday for allegedly assaulting a Korean man at a nightclub in Seoul's Hongdae district, police said. The 20-something member of the U.S. Forces Korea (USFK) was apprehended at the scene after allegedly assaulting the man around 3 a.m. on Saturday, according to the Mapo Police Station. The altercation reportedly began after the victim bumped shoulders with the soldier's party and resulted in him sustaining a fractured nose. The soldier was transferred to the USFK in accordance with the Status of Forces Agreement, which governs the legal status of the 28,500 troops stationed in South Korea. Police said they will decide on the next steps after determining the details of the incident.",
-      "sources": [
-        {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260322/us-soldier-booked-for-assaulting-korean-man-at-club?utm_source=rss",
-          "published_at": "2026-03-22T06:42:03.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260322001500315",
-          "published_at": "2026-03-22T05:53:52.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities",
-      "region": "world",
-      "summary": "Iranian Missiles Evade Israel’s Formidable Defenses, Hitting 2 Cities. Iranian missiles struck Dimona and Arad in southern Israel, injuring dozens of people. Iran’s state media said the attack on Dimona was aimed at Israel’s nuclear facilities, which U.N. officials said were not hit.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
-          "published_at": "2026-03-22T06:21:14.000Z"
         }
       ],
       "reliability_score": 1
@@ -85,123 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "BTS’s Comeback Show Was Heavy on Their New Album",
-      "region": "world",
-      "summary": "BTS’s Comeback Show Was Heavy on Their New Album. The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury.",
+      "headline": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour",
+      "region": "us",
+      "summary": "Cortina d'Ampezzo mixes Olympic legacy with Alpine glamour. Cortina d'Ampezzo, the \"Pearl of the Dolomites,\" is a blend of Olympic heritage with celebrity chic, fine dining and Alpine tradition, even as climate change and new tourism reshape the area.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
-          "published_at": "2026-03-22T06:25:50.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo",
-      "region": "world",
-      "summary": "Iranian Sailors, Including Survivors of Torpedoed Ship, Remain in Limbo. Sri Lanka has kept more than 250 sailors in protective custody since the early days of the war. Iran wants them back, but Sri Lanka is unsure what to do with them.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/asia/iran-sri-lanka-sailors.html",
-          "published_at": "2026-03-21T12:49:04.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "​At Least 14 Killed in South Korean Factory Fire",
-      "region": "world",
-      "summary": "​At Least 14 Killed in South Korean Factory Fire. Survivors jumped from windows to escape the blaze, the deadliest at a factory in South Korea in two years. Four people are still missing.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/asia/south-korea-factory-fire-deaths.html",
-          "published_at": "2026-03-21T12:15:47.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram",
-      "region": "world",
-      "summary": "Fidel Castro’s Grandson Flaunts Beer, Nikes and Trump Jokes on Instagram. Sandro Castro has drawn scrutiny for his Instagram posts in which he flaunts a life of luxury while using satire to point out the very deterioration his family’s leadership helped create.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/americas/fidel-castro-grandson-instagram.html",
-          "published_at": "2026-03-21T15:22:02.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.",
-      "region": "world",
-      "summary": "A Public Holiday Every Week? Sri Lankans Bemoan the Enforced Day Off.. The island’s government, rationing fuel amid shortages from the Iran war, surprised residents by imposing an unusual four-day week.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/asia/sri-lanka-public-holiday-oil-war.html",
-          "published_at": "2026-03-21T04:00:14.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating",
-      "region": "world",
-      "summary": "Chelsea Chief Under Abramovich Could Face Scrutiny Over Soccer Cheating. A former key aide to the Russian oligarch would face an investigation into her time overseeing the Premier League club should she return to soccer.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/europe/chelsea-premier-league-cheating-marina-granovskaia.html",
-          "published_at": "2026-03-21T04:01:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "On a Holiday of Renewal, Iranians Are Mourning and Fearful",
-      "region": "world",
-      "summary": "On a Holiday of Renewal, Iranians Are Mourning and Fearful. As they start a new year, Iranians are reckoning with bombardment, repression and economic misery. Still, many are holding fast to ancient traditions.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/middleeast/iran-nowruz-new-year.html",
-          "published_at": "2026-03-20T19:42:50.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump Organization Eyes Transylvania Golf Course Deal",
-      "region": "world",
-      "summary": "Trump Organization Eyes Transylvania Golf Course Deal. The president’s company is eyeing a site for a golf course and luxury apartments. Will a huge landfill and a troubled project history stand in the way.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/20/world/europe/trump-romania-transylvania-apartments-golf-course.html",
-          "published_at": "2026-03-21T10:23:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump at a crossroads as US weighs tough options in Iran",
-      "region": "world",
-      "summary": "Trump at a crossroads as US weighs tough options in Iran. Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T00:50:43.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T00:50:43.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/22/nx-s1-5726237/cortina-olympic-legacy-alpine-glamour",
+          "published_at": "2026-03-22T10:00:00.000Z"
         }
       ],
       "reliability_score": 1
@@ -209,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Never use ChatGPT to help with crossword puzzles",
-      "score": 0.49,
-      "summary": "Thread on \"Never use ChatGPT to help with crossword puzzles\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s09pyy/never_use_chatgpt_to_help_with_crossword_puzzles/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "What the actual hell is this!!!",
+      "title": "Remote Development in Codex Desktop App coming very soon 👀!",
       "score": 0.51,
-      "summary": "Thread on \"What the actual hell is this!!!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0dvec/what_the_actual_hell_is_this/",
-      "subreddit": "OpenAI"
+      "summary": "Thread on \"Remote Development in Codex Desktop App coming very soon 👀!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s0jpjm/remote_development_in_codex_desktop_app_coming/",
+      "subreddit": "codex"
     },
     {
-      "title": "Karpathy: \"Code's not even the right verb anymore, right? But I have to express my will to my agents for sixteen hours a day..\"",
-      "score": 0.49,
-      "summary": "Thread on \"Karpathy: \"Code's not even the right verb anymore, right? But I have to express my will to my agents for sixteen hours a\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s0acnh/karpathy_codes_not_even_the_right_verb_anymore/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "The 'Syntactic Sugar' Auditor for API Efficiency.",
+      "title": "Where’s the Chat in ChatGPT?",
       "score": 0.52,
-      "summary": "Thread on \"The 'Syntactic Sugar' Auditor for API Efficiency.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s0egyx/the_syntactic_sugar_auditor_for_api_efficiency/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "How do you utilize heartbeat, and I kinda wish the intervals could be dynamic based on a range.",
-      "score": 0.51,
-      "summary": "Thread on \"How do you utilize heartbeat, and I kinda wish the intervals could be dynamic based on a range.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s0e0we/how_do_you_utilize_heartbeat_and_i_kinda_wish_the/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "[ Up to 90% OFF] Perplexity Pro, Gemini, ChatGPT, Canva, Youtube, Wispr Flow, Granola, N8N, Coursera, Notion + Other premiums.",
-      "score": 0.51,
-      "summary": "Thread on \"[ Up to 90% OFF] Perplexity Pro, Gemini, ChatGPT, Canva, Youtube, Wispr Flow, Granola, N8N, Coursera, Notion + Other pre\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s0cv3z/up_to_90_off_perplexity_pro_gemini_chatgpt_canva/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "Lessons from running 3+ OpenClaw gateways 24/7",
-      "score": 0.51,
-      "summary": "Thread on \"Lessons from running 3+ OpenClaw gateways 24/7\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s0d1nk/lessons_from_running_3_openclaw_gateways_247/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Built a free prompt builder thing, curious what you think",
-      "score": 0.5,
-      "summary": "Thread on \"Built a free prompt builder thing, curious what you think\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s0c10m/built_a_free_prompt_builder_thing_curious_what/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "I tested ChatGPT, Claude and Gemini with the same prompt. All three wrote \"I hope this email finds you well.",
-      "score": 0.5,
-      "summary": "Thread on \"I tested ChatGPT, Claude and Gemini with the same prompt. All three wrote \"I hope this email finds you well.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s0br56/i_tested_chatgpt_claude_and_gemini_with_the_same/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "what do you hate the most about openclaw",
-      "score": 0.5,
-      "summary": "Thread on \"what do you hate the most about openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s0c41f/what_do_you_hate_the_most_about_openclaw/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Sam Altman called ads in AI “uniquely unsettling” and a “last resort”… well, here we are.",
-      "score": 0.5,
-      "summary": "Thread on \"Sam Altman called ads in AI “uniquely unsettling” and a “last resort”… well, here we are.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0ble9/sam_altman_called_ads_in_ai_uniquely_unsettling/",
+      "summary": "Thread on \"Where’s the Chat in ChatGPT?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0kahq/wheres_the_chat_in_chatgpt/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Prompt Engineering Is Not Dead (Despite What They Say)",
-      "score": 0.49,
-      "summary": "Thread on \"Prompt Engineering Is Not Dead (Despite What They Say)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s09pm4/prompt_engineering_is_not_dead_despite_what_they/",
+      "title": "5 Contrarian Theses On Where AI Is Going",
+      "score": 0.52,
+      "summary": "Thread on \"5 Contrarian Theses On Where AI Is Going\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s0k3w7/5_contrarian_theses_on_where_ai_is_going/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?",
+      "score": 0.26,
+      "summary": "Thread on \"Codex or Claude Code for high complexity Proximal Policy Optimization (PPO)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1rz19z5/codex_or_claude_code_for_high_complexity_proximal/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "A lawyer won Anthropic's hackathon. It makes sense when you think about what AI actually changed about coding.",
+      "score": 0.39,
+      "summary": "Thread on \"A lawyer won Anthropic's hackathon. It makes sense when you think about what AI actually changed about coding.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1rzyg5k/a_lawyer_won_anthropics_hackathon_it_makes_sense/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "Why can't openclaw cron jobs only conditionally involve an agent?",
-      "score": 0.49,
-      "summary": "Thread on \"Why can't openclaw cron jobs only conditionally involve an agent?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s0aoxk/why_cant_openclaw_cron_jobs_only_conditionally/",
-      "subreddit": "openclaw"
+      "title": "I spend the last 6 month Learning How to automate my boring Tasks with",
+      "score": 0.52,
+      "summary": "Thread on \"I spend the last 6 month Learning How to automate my boring Tasks with\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0k8nf/i_spend_the_last_6_month_learning_how_to_automate/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "How much mileage do you get with Claude pro subscription?",
-      "score": 0.47,
-      "summary": "Thread on \"How much mileage do you get with Claude pro subscription?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s06uao/how_much_mileage_do_you_get_with_claude_pro/",
-      "subreddit": "singularity"
+      "title": "Which Countries Use Claude AI the Most",
+      "score": 0.51,
+      "summary": "Thread on \"Which Countries Use Claude AI the Most\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s0ipco/which_countries_use_claude_ai_the_most/",
+      "subreddit": "claude"
     },
     {
-      "title": "ChatGPT: \"I don't have 7zip installed? Fine, I’ll reverse-engineer the entire 7z specification and write a bitwise parser in Python.\"",
-      "score": 0.47,
-      "summary": "Thread on \"ChatGPT: \"I don't have 7zip installed? Fine, I’ll reverse-engineer the entire 7z specification and write a bitwise parse\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s06mg7/chatgpt_i_dont_have_7zip_installed_fine_ill/",
-      "subreddit": "ChatGPT"
+      "title": "Catch it once, catch it twice, catch it with your \"love device\" (5.4 XT)",
+      "score": 0.52,
+      "summary": "Thread on \"Catch it once, catch it twice, catch it with your \"love device\" (5.4 XT)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0k088/catch_it_once_catch_it_twice_catch_it_with_your/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "OpenAI's Latest AI Was Created Using \"Itself,\" Company Claims",
+      "score": 0.51,
+      "summary": "Thread on \"OpenAI's Latest AI Was Created Using \"Itself,\" Company Claims\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0ie7k/openais_latest_ai_was_created_using_itself/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Is a serious AI automation agency still worth building in 2026 — honest answers only",
+      "score": 0.51,
+      "summary": "Thread on \"Is a serious AI automation agency still worth building in 2026 — honest answers only\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0j357/is_a_serious_ai_automation_agency_still_worth/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "Research help for my project idea..",
+      "score": 0.51,
+      "summary": "Thread on \"Research help for my project idea..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0jjll/research_help_for_my_project_idea/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "What if we let LLMs modify their own system prompts?",
+      "score": 0.51,
+      "summary": "Thread on \"What if we let LLMs modify their own system prompts?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s0iha6/what_if_we_let_llms_modify_their_own_system/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "god bless ai wars, and openai for this $200/mo sub",
+      "score": 0.51,
+      "summary": "Thread on \"god bless ai wars, and openai for this $200/mo sub\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s0ikjh/god_bless_ai_wars_and_openai_for_this_200mo_sub/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "AI isn't making us dumber. It's just exposing how little most jobs required us to think.",
+      "score": 0.5,
+      "summary": "Thread on \"AI isn't making us dumber. It's just exposing how little most jobs required us to think.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0i80g/ai_isnt_making_us_dumber_its_just_exposing_how/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "We built an open-source memory layer for AI coding agents — 80% F1 on LoCoMo, 2x standard RAG",
+      "score": 0.5,
+      "summary": "Thread on \"We built an open-source memory layer for AI coding agents — 80% F1 on LoCoMo, 2x standard RAG\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s0hqqz/we_built_an_opensource_memory_layer_for_ai_coding/",
+      "subreddit": "OpenAI"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-22T06:43:02.214Z",
-    "refresh_finished_at": "2026-03-22T06:43:39.639Z",
+    "refresh_started_at": "2026-03-22T12:37:24.815Z",
+    "refresh_finished_at": "2026-03-22T12:37:28.341Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -325,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1784
+        "duration_ms": 2046
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 37367
+        "duration_ms": 3490
       }
     },
     "warnings": []
