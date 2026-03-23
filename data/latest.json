@@ -1,41 +1,150 @@
 {
-  "generated_at": "2026-03-23T07:03:05.022Z",
+  "generated_at": "2026-03-23T12:54:00.515Z",
   "news_summary": [
     {
-      "headline": "Tehran Is Defiant After Trump Threatens Power Plants",
+      "headline": "Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict",
       "region": "world",
-      "summary": "Tehran Is Defiant After Trump Threatens Power Plants. Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.",
+      "summary": "Iran War Live Updates: Trump Says U.S. and Iran Held ‘Very Good’ Talks on Ending Conflict. President Trump said he would postpone a deadline for striking Iran’s energy infrastructure after “productive” talks to resolve hostilities. Iranian state media said he was “backing down” after threats of retaliation.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
-          "published_at": "2026-03-23T06:47:48.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
+          "published_at": "2026-03-23T12:42:58.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump at a crossroads as US weighs tough options in Iran",
+      "headline": "Trump delays strikes on Iran's power plants for 5 days. And, ICE deploys to airports",
       "region": "us",
-      "summary": "Trump at a crossroads as US weighs tough options in Iran. Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
+      "summary": "Trump delays strikes on Iran's power plants for 5 days. And, ICE deploys to airports. Trump says he will deploy ICE agents to U.S. airports to help address delays. And, the president said he would delay strikes on Iranian power plants for five days.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T00:50:43.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/23/g-s1-114792/up-first-newsletter-trump-iran-strait-of-hormuz-dhs-funding-tsa-ice-agents-immigration",
+          "published_at": "2026-03-23T12:02:59.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "President’s approval rises in conservative strongholds ahead of local elections",
+      "headline": "(LEAD) Trump says U.S., Iran had 'productive' talks over war resolution, delays strikes on Iran power plants for 5 days",
       "region": "korea",
-      "summary": "President’s approval rises in conservative strongholds ahead of local elections. President Lee Jae Myung is securing higher approval ratings nationwide with atypical backing from conservative strongholds — a trend analysts say is increasing pressure on the main opposition party as the June 3 local elections approach. Multiple polls this month have highlighted this momentum, with Realmeter reporting ratings steadily rising over three consecutive weeks and Gallup Korea showing support for the president breaking records two weeks in a row. These results reveal attention-grabbing support from the conservative strongholds of Daegu and North Gyeongsang Province in southeastern Korea, where Realmeter reported a faster week-to-week increase in approval ratings than in any other region, while Gallup Korea indicated an approval level equal to that of the more politically diverse Seoul metropolitan area. Analysts say this pattern could produce a spillover effect benefiting the ruling Democratic Party of Korea (DPK) while pushing the main opposition People Power Party (PPP) further into a corner, as it already struggles with internal divisions and difficulties in fielding com.",
+      "summary": "(LEAD) Trump says U.S., Iran had 'productive' talks over war resolution, delays strikes on Iran power plants for 5 days. WASHINGTON, March 23 (Yonhap) -- U.S. President Donald Trump said Monday that th..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260323/presidents-approval-rises-in-conservative-strongholds-ahead-of-local-elections?utm_source=rss",
-          "published_at": "2026-03-23T06:57:03.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260323011851315",
+          "published_at": "2026-03-23T12:45:06.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260323011800315",
+          "published_at": "2026-03-23T12:11:44.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
+      "region": "world",
+      "summary": "Canada’s Military Wants to Prove It Can Defend the High Arctic. Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
+          "published_at": "2026-03-23T09:00:46.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Sidelined by War With Iran, Gaza Residents Remain in Limbo",
+      "region": "world",
+      "summary": "Sidelined by War With Iran, Gaza Residents Remain in Limbo. The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html",
+          "published_at": "2026-03-23T09:59:24.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Caught Between Two Conflicts, Afghans Flee Iran",
+      "region": "world",
+      "summary": "Caught Between Two Conflicts, Afghans Flee Iran. The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html",
+          "published_at": "2026-03-23T04:42:04.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise",
+      "region": "world",
+      "summary": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise. For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html",
+          "published_at": "2026-03-23T09:02:11.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "region": "world",
+      "summary": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops. Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+          "published_at": "2026-03-23T09:34:28.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
+      "region": "world",
+      "summary": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses. The turnout for the K-pop titans’ show was much lower than projected by officials, hitting the bottom line of some restaurants. Shares in the group’s management company also fell.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
+          "published_at": "2026-03-23T12:33:42.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+      "region": "world",
+      "summary": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom. Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
+          "published_at": "2026-03-23T10:29:21.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
+      "region": "world",
+      "summary": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?. Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
+          "published_at": "2026-03-23T04:01:14.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +157,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/france-mayor-elections.html",
-          "published_at": "2026-03-22T23:53:08.000Z"
+          "published_at": "2026-03-23T09:08:20.000Z"
         }
       ],
       "reliability_score": 1
@@ -80,123 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "The Billionaire Funding France’s Far Right",
-      "region": "world",
-      "summary": "The Billionaire Funding France’s Far Right. Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.",
+      "headline": "Trump delays striking Iran's power plants, saying U.S. is having 'productive' talks",
+      "region": "us",
+      "summary": "Trump delays striking Iran's power plants, saying U.S. is having 'productive' talks. Trump said the U.S. will postpone any strikes on Iranian energy infrastructure for five days, even as Israel continued hitting Tehran and Iran warned it could retaliate across the Gulf.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html",
-          "published_at": "2026-03-22T19:29:11.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says",
-      "region": "world",
-      "summary": "Attack on a Sudan Hospital Kills Dozens, Head of W.H.O. Says. The group’s director general said 13 children were among those killed in the latest violence in the Darfur region, and he decried the targeting of health care facilities in the civil war.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/africa/sudan-hospital-darfur-attack.html",
-          "published_at": "2026-03-22T15:47:02.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.",
-      "region": "world",
-      "summary": "Italy’s Leader Wants to Change the Constitution. Italians Don’t Get It.. Voting starts Sunday on a referendum to overhaul Italy’s judiciary. Many people don’t understand the complex proposal — and it could hurt Prime Minister Giorgia Meloni.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/europe/italy-referendum-judiciary-meloni.html",
-          "published_at": "2026-03-22T15:18:19.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Terror Attacks Haunted This Brussels Community. Now It’s Trying to Move On.",
-      "region": "world",
-      "summary": "Terror Attacks Haunted This Brussels Community. Now It’s Trying to Move On.. Molenbeek was branded a hotbed of radicalization after terrorists hit Brussels and Paris a decade ago, but new challenges show that reinvention doesn’t come easy.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
-          "published_at": "2026-03-22T15:28:11.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Election in Slovenia Is a Near Tie",
-      "region": "world",
-      "summary": "Election in Slovenia Is a Near Tie. The center-left and the right-wing populists got about equal support. The next government will be led by the one who can build a coalition with smaller parties.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
-          "published_at": "2026-03-22T22:20:33.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
-      "region": "world",
-      "summary": "With Fire and Song, Kurds in Turkey Hail the Start of Spring. The Newroz holiday comes at a critical time, as Kurds in Turkey push for peace while their brethren in Syria and Iran fear further conflict.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
-          "published_at": "2026-03-21T21:32:18.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says",
-      "region": "world",
-      "summary": "Patriarch Filaret Dies at 97, Orthodox Church of Ukraine Says. Filaret led a movement in Ukraine that created a schism among Orthodox believers and, ultimately, a church independent of Moscow.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/europe/patriarch-filaret-dead.html",
-          "published_at": "2026-03-21T17:54:04.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing",
-      "region": "world",
-      "summary": "No Pills or Needles, Just Paper: How Deadly Drugs Are Changing. Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html",
-          "published_at": "2026-03-21T09:00:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump says ICE agents will assist airport security as DHS shutdown continues",
-      "region": "world",
-      "summary": "Trump says ICE agents will assist airport security as DHS shutdown continues. Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T23:08:10.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T23:08:10.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz",
+          "published_at": "2026-03-23T10:37:23.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation",
+      "title": "Benchmark indicates that GPT-5.4 Nano outperforms GPT-5.4 Mini on xHigh reasoning",
       "score": 0.51,
-      "summary": "Thread on \"Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big lit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s182lu/over_a_dozen_chatbot_harm_suicide_cases_in/",
+      "summary": "Thread on \"Benchmark indicates that GPT-5.4 Nano outperforms GPT-5.4 Mini on xHigh reasoning\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s1ejl0/benchmark_indicates_that_gpt54_nano_outperforms/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Built a tracker of every company that cited AI as the reason for layoffs in 2026",
-      "score": 0.5,
-      "summary": "Thread on \"Built a tracker of every company that cited AI as the reason for layoffs in 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s17k43/built_a_tracker_of_every_company_that_cited_ai_as/",
+      "title": "Is Trump’s New AI Framework a Bid to Consolidate Power? | Rolling Stone",
+      "score": 0.51,
+      "summary": "Thread on \"Is Trump’s New AI Framework a Bid to Consolidate Power? | Rolling Stone\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s1enen/is_trumps_new_ai_framework_a_bid_to_consolidate/",
       "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "How much usage is the 20€ Pro subscription?",
-      "score": 0.4,
-      "summary": "Thread on \"How much usage is the 20€ Pro subscription?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s0mpxa/how_much_usage_is_the_20_pro_subscription/",
+      "title": "The new guy on the team rewrote the entire application using automated AI tooling.",
+      "score": 0.52,
+      "summary": "Thread on \"The new guy on the team rewrote the entire application using automated AI tooling.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s1flwj/the_new_guy_on_the_team_rewrote_the_entire/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "5 ChatGPT Prompts I Use to Handle \"Annoying\" Emails Without Getting Mad",
+      "title": "How \"Environment Context\" saves you 30% in Token costs",
       "score": 0.52,
-      "summary": "Thread on \"5 ChatGPT Prompts I Use to Handle \"Annoying\" Emails Without Getting Mad\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s19c4e/5_chatgpt_prompts_i_use_to_handle_annoying_emails/",
+      "summary": "Thread on \"How \"Environment Context\" saves you 30% in Token costs\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1fqt2/how_environment_context_saves_you_30_in_token/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "I'm sending my Openclaw bot to university. Kind of.",
+      "title": "AI won't reduce the need for developers. It's going to explode it.",
       "score": 0.52,
-      "summary": "Thread on \"I'm sending my Openclaw bot to university. Kind of.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s19ka1/im_sending_my_openclaw_bot_to_university_kind_of/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"AI won't reduce the need for developers. It's going to explode it.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s1flre/ai_wont_reduce_the_need_for_developers_its_going/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "Just curious do you spend more or less time typing with ai?",
+      "title": "Microsoft Copilot Studio - what am I missing?",
       "score": 0.51,
-      "summary": "Thread on \"Just curious do you spend more or less time typing with ai?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s18x4x/just_curious_do_you_spend_more_or_less_time/",
+      "summary": "Thread on \"Microsoft Copilot Studio - what am I missing?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s1dwpm/microsoft_copilot_studio_what_am_i_missing/",
+      "subreddit": "claude"
+    },
+    {
+      "title": "No need for prompt engineering anymore",
+      "score": 0.52,
+      "summary": "Thread on \"No need for prompt engineering anymore\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1fil0/no_need_for_prompt_engineering_anymore/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "PROBLEM HERE GUYS",
+      "title": "Ollama Cloud Max vs Claude Max for heavy AI-assisted coding?",
+      "score": 0.51,
+      "summary": "Thread on \"Ollama Cloud Max vs Claude Max for heavy AI-assisted coding?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s1en50/ollama_cloud_max_vs_claude_max_for_heavy/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "If you’re paying $20+/mo for premium AI voices (like ElevenLabs) to build workflows, check out this new open-source alternative.",
+      "score": 0.51,
+      "summary": "Thread on \"If you’re paying $20+/mo for premium AI voices (like ElevenLabs) to build workflows, check out this new open-source alte\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1eo3u/if_youre_paying_20mo_for_premium_ai_voices_like/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "👋Welcome to r/PromptZenith - Introduce Yourself and Read First!",
+      "score": 0.51,
+      "summary": "Thread on \"👋Welcome to r/PromptZenith - Introduce Yourself and Read First!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1dpql/welcome_to_rpromptzenith_introduce_yourself_and/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "OpenAI pioneered the LLM era. is Arda about to do the same thing for manufacturing?",
+      "score": 0.51,
+      "summary": "Thread on \"OpenAI pioneered the LLM era. is Arda about to do the same thing for manufacturing?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s1elak/openai_pioneered_the_llm_era_is_arda_about_to_do/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "I built a local-first memory/skill system for AI agents — no API keys, works with any MCP agent",
+      "score": 0.51,
+      "summary": "Thread on \"I built a local-first memory/skill system for AI agents — no API keys, works with any MCP agent\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s1eoa5/i_built_a_localfirst_memoryskill_system_for_ai/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "OpenClaw got me thinking: what actually faces the customer?",
+      "score": 0.51,
+      "summary": "Thread on \"OpenClaw got me thinking: what actually faces the customer?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s1edfz/openclaw_got_me_thinking_what_actually_faces_the/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "Tell me your shortest prompt lines that literally 10x your results",
       "score": 0.5,
-      "summary": "Thread on \"PROBLEM HERE GUYS\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s16jwx/problem_here_guys/",
+      "summary": "Thread on \"Tell me your shortest prompt lines that literally 10x your results\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1diik/tell_me_your_shortest_prompt_lines_that_literally/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "Looking for uses? Openclaw is an excellent web surfer..",
+      "title": "You get 1 Month for free on ChatGPT Plus when clicking \"Cancel\" on your subscription",
       "score": 0.5,
-      "summary": "Thread on \"Looking for uses? Openclaw is an excellent web surfer..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s16flw/looking_for_uses_openclaw_is_an_excellent_web/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "If you can help everyone build a cheap Ki mi GLM Mini max model API",
-      "score": 0.5,
-      "summary": "Thread on \"If you can help everyone build a cheap Ki mi GLM Mini max model API\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s17ck8/if_you_can_help_everyone_build_a_cheap_ki_mi_glm/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.",
-      "score": 0.49,
-      "summary": "Thread on \"Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s154ig/wharton_researchers_just_proved_why_just_review/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Gordon Pask: The Mad Scientist of Early AI",
-      "score": 0.49,
-      "summary": "Thread on \"Gordon Pask: The Mad Scientist of Early AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s15si0/gordon_pask_the_mad_scientist_of_early_ai/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "I used ChatGPT on my contract before sending it and dodged a really bad scope trap.",
-      "score": 0.48,
-      "summary": "Thread on \"I used ChatGPT on my contract before sending it and dodged a really bad scope trap.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s12vy2/i_used_chatgpt_on_my_contract_before_sending_it/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "How do you get the model to write something that's written to be model facing rather than optimize for legibility for the user?",
-      "score": 0.48,
-      "summary": "Thread on \"How do you get the model to write something that's written to be model facing rather than optimize for legibility for th\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s12xe6/how_do_you_get_the_model_to_write_something_thats/",
-      "subreddit": "PromptEngineering"
-    },
-    {
-      "title": "Any of you weirdos put your openclaw in a drone yet?",
-      "score": 0.48,
-      "summary": "Thread on \"Any of you weirdos put your openclaw in a drone yet?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s13roi/any_of_you_weirdos_put_your_openclaw_in_a_drone/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Between Base44 and Cursor you really can build almost anything. This really is the time to be building new things.",
-      "score": 0.48,
-      "summary": "Thread on \"Between Base44 and Cursor you really can build almost anything. This really is the time to be building new things.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s148pk/between_base44_and_cursor_you_really_can_build/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"You get 1 Month for free on ChatGPT Plus when clicking \"Cancel\" on your subscription\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s1cofs/you_get_1_month_for_free_on_chatgpt_plus_when/",
+      "subreddit": "OpenAI"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-23T07:03:00.897Z",
-    "refresh_finished_at": "2026-03-23T07:03:05.024Z",
+    "refresh_started_at": "2026-03-23T12:53:56.656Z",
+    "refresh_finished_at": "2026-03-23T12:54:00.515Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1927
+        "duration_ms": 2011
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4080
+        "duration_ms": 3824
       }
     },
     "warnings": []
