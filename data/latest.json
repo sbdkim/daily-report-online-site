@@ -1,46 +1,41 @@
 {
-  "generated_at": "2026-03-23T01:48:26.596Z",
+  "generated_at": "2026-03-23T07:03:05.022Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants",
+      "headline": "Tehran Is Defiant After Trump Threatens Power Plants",
       "region": "world",
-      "summary": "Iran War Live Updates: Tehran Is Defiant After Trump Threatens Power Plants. Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.",
+      "summary": "Tehran Is Defiant After Trump Threatens Power Plants. Iran dismissed President Trump’s ultimatum to fully reopen the Strait of Hormuz, saying it would consider electric plants and water facilities “legitimate targets” if its electrical grid were struck.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
-          "published_at": "2026-03-23T01:38:02.000Z"
+          "published_at": "2026-03-23T06:47:48.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms",
+      "headline": "Trump at a crossroads as US weighs tough options in Iran",
       "region": "us",
-      "summary": "ICE officers set to deploy to airports as delays mount, border czar Homan confirms. Border czar Tom Homan says ICE agents will help the Transportation Security Administration \"move those lines\" while also enforcing immigration law.",
+      "summary": "Trump at a crossroads as US weighs tough options in Iran. Statements from President Trump that the war is almost over are not matching up with the reality on the ground.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/22/g-s1-114745/ice-tsa-airports-deployment-homan",
-          "published_at": "2026-03-22T17:30:42.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/clyxv87zwwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T00:50:43.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Investigators raid Daejeon auto parts maker over deadly plant fire",
+      "headline": "President’s approval rises in conservative strongholds ahead of local elections",
       "region": "korea",
-      "summary": "Investigators raid Daejeon auto parts maker over deadly plant fire. Police and labor authorities on Monday raided auto parts manufacturer Anjun Industrial in the central city of Daejeon in connection with last week's large-scale factory fire that claimed the lives of 14 workers. About 60 investigators from the Daejeon Metropolitan Police Agency and the Daejeon Regional Employment and Labor Office began to search the company's headquarters and plant and the chief executive officer's residence in the morning to seize safety-related records. The fire broke out at the company's plant in the city's Munpyeong-dong district, Daejeon, on Friday afternoon, leaving 14 workers dead and 60 others injured. The investigators plan to secure computers of relevant company officials to see whether safety measures for accident prevention, such as fire prevention and evacuation, were properly implemented. They also plan to seize documents that can determine the cause of the fire, as well as mobile phones of the concerned officials. In addition, they are expected to investigate whether there were any unauthorized structural changes in the plant's fitness room, where nine peo.",
+      "summary": "President’s approval rises in conservative strongholds ahead of local elections. President Lee Jae Myung is securing higher approval ratings nationwide with atypical backing from conservative strongholds — a trend analysts say is increasing pressure on the main opposition party as the June 3 local elections approach. Multiple polls this month have highlighted this momentum, with Realmeter reporting ratings steadily rising over three consecutive weeks and Gallup Korea showing support for the president breaking records two weeks in a row. These results reveal attention-grabbing support from the conservative strongholds of Daegu and North Gyeongsang Province in southeastern Korea, where Realmeter reported a faster week-to-week increase in approval ratings than in any other region, while Gallup Korea indicated an approval level equal to that of the more politically diverse Seoul metropolitan area. Analysts say this pattern could produce a spillover effect benefiting the ruling Democratic Party of Korea (DPK) while pushing the main opposition People Power Party (PPP) further into a corner, as it already struggles with internal divisions and difficulties in fielding com.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/20260323/investigators-raid-daejeon-auto-parts-maker-over-deadly-plant-fire?utm_source=rss",
-          "published_at": "2026-03-23T01:47:03.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260323004800315",
-          "published_at": "2026-03-23T01:25:47.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260323/presidents-approval-rises-in-conservative-strongholds-ahead-of-local-elections?utm_source=rss",
+          "published_at": "2026-03-23T06:57:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -66,7 +61,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/middleeast/israel-missile-defense-iran.html",
-          "published_at": "2026-03-22T23:52:07.000Z"
+          "published_at": "2026-03-23T03:34:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -131,7 +126,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/brussels-terror-molenbeek.html",
-          "published_at": "2026-03-22T15:28:10.000Z"
+          "published_at": "2026-03-22T15:28:11.000Z"
         }
       ],
       "reliability_score": 1
@@ -144,7 +139,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/22/world/europe/election-in-slovenia-will-test-europes-political-mood.html",
-          "published_at": "2026-03-22T22:20:32.000Z"
+          "published_at": "2026-03-22T22:20:33.000Z"
         }
       ],
       "reliability_score": 1
@@ -189,14 +184,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "This lab that's determined to discover new drugs isn't where you might expect",
-      "region": "us",
-      "summary": "This lab that's determined to discover new drugs isn't where you might expect. A scientist from Zambia who loves — LOVES! — chemistry runs a lab in South Africa that is being hailed for \"extraordinary\" work.",
+      "headline": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "region": "world",
+      "summary": "Trump says ICE agents will assist airport security as DHS shutdown continues. Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/22/g-s1-114038/new-drugs-health-medicine-africa-tuberculosis-measles",
-          "published_at": "2026-03-22T13:25:30.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T23:08:10.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-22T23:08:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "PSA for heavy daily use Claude Code users: give yourself a gift and get 'claude-devtools'",
+      "title": "Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big litigation",
       "score": 0.51,
-      "summary": "Thread on \"PSA for heavy daily use Claude Code users: give yourself a gift and get 'claude-devtools'\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s132j8/psa_for_heavy_daily_use_claude_code_users_give/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Asked ChatGPT for an Image that Will Never Go Viral",
-      "score": 0.51,
-      "summary": "Thread on \"Asked ChatGPT for an Image that Will Never Go Viral\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s1224n/asked_chatgpt_for_an_image_that_will_never_go/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "I tested 10 prompt formats head-to-head on the same tasks — structured JSON won 8/10 on specificity",
-      "score": 0.5,
-      "summary": "Thread on \"I tested 10 prompt formats head-to-head on the same tasks — structured JSON won 8/10 on specificity\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s10fb3/i_tested_10_prompt_formats_headtohead_on_the_same/",
+      "summary": "Thread on \"Over a dozen chatbot harm & suicide cases in California against OpenAI / ChatGPT have been consolidated into one big lit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s182lu/over_a_dozen_chatbot_harm_suicide_cases_in/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "LLM failure modes map surprisingly well onto ADHD cognitive science. Six parallels from independent research.",
-      "score": 0.48,
-      "summary": "Thread on \"LLM failure modes map surprisingly well onto ADHD cognitive science. Six parallels from independent research.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s0x7va/llm_failure_modes_map_surprisingly_well_onto_adhd/",
-      "subreddit": "ClaudeAI"
+      "title": "Built a tracker of every company that cited AI as the reason for layoffs in 2026",
+      "score": 0.5,
+      "summary": "Thread on \"Built a tracker of every company that cited AI as the reason for layoffs in 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s17k43/built_a_tracker_of_every_company_that_cited_ai_as/",
+      "subreddit": "ArtificialInteligence"
     },
     {
       "title": "How much usage is the 20€ Pro subscription?",
-      "score": 0.44,
+      "score": 0.4,
       "summary": "Thread on \"How much usage is the 20€ Pro subscription?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s0mpxa/how_much_usage_is_the_20_pro_subscription/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Any of you weirdos put your openclaw in a drone yet?",
+      "title": "5 ChatGPT Prompts I Use to Handle \"Annoying\" Emails Without Getting Mad",
       "score": 0.52,
+      "summary": "Thread on \"5 ChatGPT Prompts I Use to Handle \"Annoying\" Emails Without Getting Mad\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s19c4e/5_chatgpt_prompts_i_use_to_handle_annoying_emails/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "I'm sending my Openclaw bot to university. Kind of.",
+      "score": 0.52,
+      "summary": "Thread on \"I'm sending my Openclaw bot to university. Kind of.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s19ka1/im_sending_my_openclaw_bot_to_university_kind_of/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Just curious do you spend more or less time typing with ai?",
+      "score": 0.51,
+      "summary": "Thread on \"Just curious do you spend more or less time typing with ai?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s18x4x/just_curious_do_you_spend_more_or_less_time/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "PROBLEM HERE GUYS",
+      "score": 0.5,
+      "summary": "Thread on \"PROBLEM HERE GUYS\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s16jwx/problem_here_guys/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "Looking for uses? Openclaw is an excellent web surfer..",
+      "score": 0.5,
+      "summary": "Thread on \"Looking for uses? Openclaw is an excellent web surfer..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s16flw/looking_for_uses_openclaw_is_an_excellent_web/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "If you can help everyone build a cheap Ki mi GLM Mini max model API",
+      "score": 0.5,
+      "summary": "Thread on \"If you can help everyone build a cheap Ki mi GLM Mini max model API\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s17ck8/if_you_can_help_everyone_build_a_cheap_ki_mi_glm/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.",
+      "score": 0.49,
+      "summary": "Thread on \"Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s154ig/wharton_researchers_just_proved_why_just_review/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Gordon Pask: The Mad Scientist of Early AI",
+      "score": 0.49,
+      "summary": "Thread on \"Gordon Pask: The Mad Scientist of Early AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s15si0/gordon_pask_the_mad_scientist_of_early_ai/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "I used ChatGPT on my contract before sending it and dodged a really bad scope trap.",
+      "score": 0.48,
+      "summary": "Thread on \"I used ChatGPT on my contract before sending it and dodged a really bad scope trap.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s12vy2/i_used_chatgpt_on_my_contract_before_sending_it/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "How do you get the model to write something that's written to be model facing rather than optimize for legibility for the user?",
+      "score": 0.48,
+      "summary": "Thread on \"How do you get the model to write something that's written to be model facing rather than optimize for legibility for th\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s12xe6/how_do_you_get_the_model_to_write_something_thats/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "Any of you weirdos put your openclaw in a drone yet?",
+      "score": 0.48,
       "summary": "Thread on \"Any of you weirdos put your openclaw in a drone yet?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/openclaw/comments/1s13roi/any_of_you_weirdos_put_your_openclaw_in_a_drone/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Skill Analyzer is now on ClawHub — one command install",
-      "score": 0.51,
-      "summary": "Thread on \"Skill Analyzer is now on ClawHub — one command install\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s11u21/skill_analyzer_is_now_on_clawhub_one_command/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "If you are PM and knows tool stack openclaw is a beast",
-      "score": 0.51,
-      "summary": "Thread on \"If you are PM and knows tool stack openclaw is a beast\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s131u2/if_you_are_pm_and_knows_tool_stack_openclaw_is_a/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Inspired by the Will Smith eating spaghetti post",
-      "score": 0.5,
-      "summary": "Thread on \"Inspired by the Will Smith eating spaghetti post\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s0zkky/inspired_by_the_will_smith_eating_spaghetti_post/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Spaghetti Eating Will Smith",
-      "score": 0.5,
-      "summary": "Thread on \"Spaghetti Eating Will Smith\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s10adj/spaghetti_eating_will_smith/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Claude code struggling with Windows warms my heart.",
-      "score": 0.5,
-      "summary": "Thread on \"Claude code struggling with Windows warms my heart.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s114il/claude_code_struggling_with_windows_warms_my_heart/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "How to fix a Lazy Claw",
-      "score": 0.5,
-      "summary": "Thread on \"How to fix a Lazy Claw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s10b4q/how_to_fix_a_lazy_claw/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Well i guess you learn something new everyday",
-      "score": 0.49,
-      "summary": "Thread on \"Well i guess you learn something new everyday\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s0xcw3/well_i_guess_you_learn_something_new_everyday/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "Sounds like chatting with GPT sometimes eh",
-      "score": 0.49,
-      "summary": "Thread on \"Sounds like chatting with GPT sometimes eh\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s0xx5p/sounds_like_chatting_with_gpt_sometimes_eh/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "CC now streams answers? Or more at least?",
-      "score": 0.49,
-      "summary": "Thread on \"CC now streams answers? Or more at least?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s0y7sn/cc_now_streams_answers_or_more_at_least/",
-      "subreddit": "ClaudeCode"
+      "title": "Between Base44 and Cursor you really can build almost anything. This really is the time to be building new things.",
+      "score": 0.48,
+      "summary": "Thread on \"Between Base44 and Cursor you really can build almost anything. This really is the time to be building new things.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s148pk/between_base44_and_cursor_you_really_can_build/",
+      "subreddit": "ArtificialInteligence"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-23T01:47:49.656Z",
-    "refresh_finished_at": "2026-03-23T01:48:26.596Z",
+    "refresh_started_at": "2026-03-23T07:03:00.897Z",
+    "refresh_finished_at": "2026-03-23T07:03:05.024Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2417
+        "duration_ms": 1927
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 36909
+        "duration_ms": 4080
       }
     },
     "warnings": []
