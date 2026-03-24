@@ -1,176 +1,46 @@
 {
-  "generated_at": "2026-03-23T18:45:05.959Z",
+  "generated_at": "2026-03-24T01:27:56.392Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Iran Disputes Trump’s Assertion of ‘Very Strong Talks’",
+      "headline": "Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects",
       "region": "world",
-      "summary": "Iran War Live Updates: Iran Disputes Trump’s Assertion of ‘Very Strong Talks’. President Trump said he was postponing strikes on Iran’s power plants until at least Friday to allow for negotiations, but Iran cast the claim as a ploy to soothe markets and to buy time for more military action.",
+      "summary": "Iran War Live Updates: U.S. and Iran Send Conflicting Signals on Peace Prospects. President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
-          "published_at": "2026-03-23T18:44:25.000Z"
+          "published_at": "2026-03-24T01:22:06.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump says 'good' talks ongoing with Iran - but offers few details",
+      "headline": "Markwayne Mullin confirmed as the next secretary of Homeland Security",
       "region": "us",
-      "summary": "Trump says 'good' talks ongoing with Iran - but offers few details. An early morning post from Trump soothed panicked markets, but the extent of any talks remains unclear.",
+      "summary": "Markwayne Mullin confirmed as the next secretary of Homeland Security. The Oklahoma Republican comes to the helm in the midst of a shutdown that has left some 100,000 of the department's more than a quarter-million employees working without pay.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c75kl47zez3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-23T18:06:50.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/23/g-s1-114813/markwayne-mullin-confirmed-homeland-security",
+          "published_at": "2026-03-24T00:26:08.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "(4th LD) Trump puts off strikes on Iran power plants, says U.S., Iran want to make deal",
+      "headline": "7 of 37 generals punished over martial law file suits against defense ministry",
       "region": "korea",
-      "summary": "(4th LD) Trump puts off strikes on Iran power plants, says U.S., Iran want to make deal. WASHINGTON, March 23 (Yonhap) -- U.S. President Donald Trump said Monday that he..",
+      "summary": "7 of 37 generals punished over martial law file suits against defense ministry. Seven of 37 general-level officers who were slapped with disciplinary actions over their alleged role in the 2024 botched martial law bid have filed lawsuits against the defense ministry seeking to revoke the punishment, a document showed Tuesday. Among those who have filed lawsuits seeking to cancel the punishment, ranging from expulsions to suspension from duties, were former defense intelligence commander Moon Sang-ho and former drone operations commander Kim Yong-dae, according to the document submitted by the ministry to Rep. Choo Mi-ae of the ruling Democratic Party. Another 29 military generals have appealed against the decisions made by the ministry's disciplinary committee, although they have yet to file lawsuits seeking to cancel the disciplinary measures, the document showed. Of the generals who have been severely punished over allegations linked to former President Yoon Suk Yeol's martial law imposition, only Kwak Jong-keun, former commander of the Army Special Warfare Command, have accepted the measure without taking additional measures. Kwak was dismissed from office instea.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260323011854315",
-          "published_at": "2026-03-23T18:07:21.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20260324/7-of-37-generals-punished-over-martial-law-file-suits-against-defense-ministry?utm_source=rss",
+          "published_at": "2026-03-24T01:27:03.000Z"
         },
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260323011853315",
-          "published_at": "2026-03-23T15:55:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision",
-      "region": "us",
-      "summary": "'Stop, stop, stop': Listen to LaGuardia control tower audio during collision. An Air Canada plane carrying 72 passengers and four crew initially landed safely from Montreal on Sunday evening before colliding with a firefighting vehicle.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/videos/clyer72wn85o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-23T15:04:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash",
-      "region": "us",
-      "summary": "'Like the plane got cut in half': Eyewitnesses describe chaos of LaGuardia crash. Eyewitnesses have described the moment Air Canada flight AC8646 crashed into a fire truck on the runway of New York's LaGuardia airport.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-23T17:31:32.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "What we know about the LaGuardia Airport crash",
-      "region": "us",
-      "summary": "What we know about the LaGuardia Airport crash. Two pilots have died after a passenger plane collided with a fire truck at New York's LaGuardia Airport.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c4gvpmz18e0o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-23T15:32:35.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How a ban on religious symbols has triggered a Canadian constitutional debate",
-      "region": "us",
-      "summary": "How a ban on religious symbols has triggered a Canadian constitutional debate. Quebec's law to regulate religious symbols goes to the Supreme Court in a constitutional test case.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c78j8vk3r50o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-23T00:21:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump says ICE agents will assist airport security as DHS shutdown continues",
-      "region": "us",
-      "summary": "Trump says ICE agents will assist airport security as DHS shutdown continues. Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T23:08:10.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Hawaii storms have caused $1bn in damage, governor says",
-      "region": "us",
-      "summary": "Hawaii storms have caused $1bn in damage, governor says. The full scale of the damages to roads and other infrastructure from rain and flooding in the state must still be assessed, Gov Josh Green says.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/czxrdxn6qwqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T20:24:27.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother",
-      "region": "us",
-      "summary": "'We cannot be in peace', say Guthrie family as they renew appeal over missing mother. A seven-week nationwide search for 84-year-old Nancy Guthrie, the mother of TV anchor Savannah Guthrie has not identified any suspects.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c0q9zx4g1w9o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T14:45:34.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul",
-      "region": "us",
-      "summary": "The Bachelorette's messy break-up with its unlikely star Taylor Frankie Paul. The TikTok and reality TV star was a risky choice for the squeaky clean franchise - and ended up being a wrong one.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cd9vd35jgqqo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-21T23:03:15.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81",
-      "region": "us",
-      "summary": "Robert Mueller, ex-FBI chief who led Trump-Russia investigation, dies at 81. A former FBI director, Mueller led the high-profile inquiry into alleged Russian interference in the 2016 US election.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c8dlj6gv0q6o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-22T01:04:57.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Bodycam footage of Justin Timberlake's 2024 drink-driving arrest released",
-      "region": "us",
-      "summary": "Bodycam footage of Justin Timberlake's 2024 drink-driving arrest released. The pop star's legal team had tried to prevent the release of footage from his arrest, but reached an agreement.",
-      "sources": [
-        {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cx2v4q12yzdo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-21T18:33:58.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260324001600315",
+          "published_at": "2026-03-24T00:11:59.000Z"
         }
       ],
       "reliability_score": 1
@@ -183,7 +53,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
-          "published_at": "2026-03-23T09:00:46.000Z"
+          "published_at": "2026-03-23T19:31:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -200,119 +70,249 @@
         }
       ],
       "reliability_score": 1
+    },
+    {
+      "headline": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
+      "region": "world",
+      "summary": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops. Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
+          "published_at": "2026-03-23T17:41:49.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Caught Between Two Conflicts, Afghans Flee Iran",
+      "region": "world",
+      "summary": "Caught Between Two Conflicts, Afghans Flee Iran. The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html",
+          "published_at": "2026-03-23T18:52:15.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
+      "region": "world",
+      "summary": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses. The turnout for the K-pop titans’ show was much lower than projected by officials, hitting the bottom line of some restaurants. Shares in the group’s management company also fell.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
+          "published_at": "2026-03-23T15:58:36.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Italians Reject Judicial Overhaul, Undermining Meloni",
+      "region": "world",
+      "summary": "Italians Reject Judicial Overhaul, Undermining Meloni. Some 54 percent of voters spurned a government plan to change how jurists are supervised. It presented Prime Minister Giorgia Meloni with her biggest domestic challenge since her election in 2022.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/europe/italy-referendum-judiciary-meloni.html",
+          "published_at": "2026-03-23T18:46:53.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
+      "region": "world",
+      "summary": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom. Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
+          "published_at": "2026-03-23T18:53:26.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Colombian Military Plane Crash Kills 34 and Injures Dozens",
+      "region": "world",
+      "summary": "Colombian Military Plane Crash Kills 34 and Injures Dozens. A military aircraft transporting 125 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
+          "published_at": "2026-03-24T00:05:18.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
+      "region": "world",
+      "summary": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?. Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
+          "published_at": "2026-03-23T04:01:14.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise",
+      "region": "world",
+      "summary": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise. For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html",
+          "published_at": "2026-03-23T09:02:11.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
+      "region": "world",
+      "summary": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War. Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
+          "published_at": "2026-03-22T09:01:08.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump administration places Christopher Columbus statue on White House grounds",
+      "region": "us",
+      "summary": "Trump administration places Christopher Columbus statue on White House grounds. The Trump administration placed a statue of Christopher Columbus on the White House grounds. Some people are not happy about it.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/23/nx-s1-5757281/christopher-columbus-trump-white-house",
+          "published_at": "2026-03-23T21:05:36.000Z"
+        }
+      ],
+      "reliability_score": 1
     }
   ],
   "reddit_ai_summary": [
     {
-      "title": "Usage Limit Bug",
-      "score": 0.5,
-      "summary": "Thread on \"Usage Limit Bug\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1l8a7/usage_limit_bug/",
+      "title": "Claude now can control your computer (any app) + Dispatch - you can control your PC from your phone",
+      "score": 0.49,
+      "summary": "Thread on \"Claude now can control your computer (any app) + Dispatch - you can control your PC from your phone\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1uw7u/claude_now_can_control_your_computer_any_app/",
       "subreddit": "ClaudeCode"
     },
     {
-      "title": "Has it become more contrarian lately?",
+      "title": "Anthropic announces Dispatch. Control your Claude cowork from your mobile device.",
       "score": 0.5,
-      "summary": "Thread on \"Has it become more contrarian lately?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s1m410/has_it_become_more_contrarian_lately/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Anthropic announces Dispatch. Control your Claude cowork from your mobile device.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s1wnys/anthropic_announces_dispatch_control_your_claude/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.",
-      "score": 0.4,
-      "summary": "Thread on \"Wharton researchers just proved why \"just review the AI output\" doesn't work. Our brains literally give up.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s154ig/wharton_researchers_just_proved_why_just_review/",
-      "subreddit": "ArtificialInteligence"
+      "title": "Ollama Cloud Max vs Claude Max for heavy AI-assisted coding?",
+      "score": 0.42,
+      "summary": "Thread on \"Ollama Cloud Max vs Claude Max for heavy AI-assisted coding?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s1en50/ollama_cloud_max_vs_claude_max_for_heavy/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Opus used session limit in 15 minutes?",
-      "score": 0.5,
-      "summary": "Thread on \"Opus used session limit in 15 minutes?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/Anthropic/comments/1s1l40t/opus_used_session_limit_in_15_minutes/",
-      "subreddit": "Anthropic"
-    },
-    {
-      "title": "4 Prompts to Turn Your Messy Brain Dumps into Actual Plans",
-      "score": 0.52,
-      "summary": "Thread on \"4 Prompts to Turn Your Messy Brain Dumps into Actual Plans\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1p8sz/4_prompts_to_turn_your_messy_brain_dumps_into/",
+      "title": "AI Prompt That Helps You Increase Your Income",
+      "score": 0.51,
+      "summary": "Thread on \"AI Prompt That Helps You Increase Your Income\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1z419/ai_prompt_that_helps_you_increase_your_income/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "Usage limit - What's up, Anthropic?!",
-      "score": 0.49,
-      "summary": "Thread on \"Usage limit - What's up, Anthropic?!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s1jsol/usage_limit_whats_up_anthropic/",
+      "title": "Introducing Claude computer use.",
+      "score": 0.5,
+      "summary": "Thread on \"Introducing Claude computer use.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s1w0qj/introducing_claude_computer_use/",
       "subreddit": "claude"
     },
     {
-      "title": "Kimi k2.5, Minimax 2.7 for daily usage",
-      "score": 0.51,
-      "summary": "Thread on \"Kimi k2.5, Minimax 2.7 for daily usage\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s1nu8b/kimi_k25_minimax_27_for_daily_usage/",
+      "title": "Anyone just using the OpenAI subscription (OAuth) to run open claw?",
+      "score": 0.5,
+      "summary": "Thread on \"Anyone just using the OpenAI subscription (OAuth) to run open claw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s1vdwm/anyone_just_using_the_openai_subscription_oauth/",
       "subreddit": "openclaw"
     },
     {
-      "title": "StackOverflow-style site for coding agents",
-      "score": 0.51,
-      "summary": "Thread on \"StackOverflow-style site for coding agents\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/moltbot/comments/1s1o3yi/stackoverflowstyle_site_for_coding_agents/",
-      "subreddit": "moltbot"
+      "title": "The new .23 update demolished my Openclaw",
+      "score": 0.5,
+      "summary": "Thread on \"The new .23 update demolished my Openclaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s1vm7m/the_new_23_update_demolished_my_openclaw/",
+      "subreddit": "openclaw"
     },
     {
-      "title": "I have the text and images; what's a GPT that will assemble it into a report?",
-      "score": 0.51,
-      "summary": "Thread on \"I have the text and images; what's a GPT that will assemble it into a report?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1ocg2/i_have_the_text_and_images_whats_a_gpt_that_will/",
+      "title": "telegram topics gave all my agents unlimited parallel conversations",
+      "score": 0.5,
+      "summary": "Thread on \"telegram topics gave all my agents unlimited parallel conversations\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s1wtqt/telegram_topics_gave_all_my_agents_unlimited/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "Hey guys, kind a new to this. Was wondering if anyone has any good/effective blanket prompts for just.. generally unique behavior?",
+      "score": 0.5,
+      "summary": "Thread on \"Hey guys, kind a new to this. Was wondering if anyone has any good/effective blanket prompts for just.. generally unique\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1w891/hey_guys_kind_a_new_to_this_was_wondering_if/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "Most prompt engineering advice stops at \"be specific.\" The real skill gap starts at chaining.",
-      "score": 0.51,
-      "summary": "Thread on \"Most prompt engineering advice stops at \"be specific.\" The real skill gap starts at chaining.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1nqm1/most_prompt_engineering_advice_stops_at_be/",
+      "title": "IBM thinks prompt engineering is the new coding... thoughts?",
+      "score": 0.5,
+      "summary": "Thread on \"IBM thinks prompt engineering is the new coding... thoughts?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1w3ct/ibm_thinks_prompt_engineering_is_the_new_coding/",
       "subreddit": "PromptEngineering"
     },
     {
-      "title": "Are you burning through tokens when its normal usage?",
-      "score": 0.5,
-      "summary": "Thread on \"Are you burning through tokens when its normal usage?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1lbn4/are_you_burning_through_tokens_when_its_normal/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Claude code limits bug",
-      "score": 0.5,
-      "summary": "Thread on \"Claude code limits bug\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1lszx/claude_code_limits_bug/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Does anyone actually think about their digital exposure when using Claude?",
-      "score": 0.5,
-      "summary": "Thread on \"Does anyone actually think about their digital exposure when using Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1ka56/does_anyone_actually_think_about_their_digital/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "ChatGPT just took out the ability to edit individual messages in a thread.",
+      "title": "New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controversial and relevant topics. Sonnet 4.6 (high) wins. GLM-5 is the open weights leader.",
       "score": 0.49,
-      "summary": "Thread on \"ChatGPT just took out the ability to edit individual messages in a thread.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s1j5hb/chatgpt_just_took_out_the_ability_to_edit/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"New LLM Debate Benchmark: models debate the same motion twice with sides swapped in 10 turns. A wide variety of controve\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s1t0oj/new_llm_debate_benchmark_models_debate_the_same/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Kisi ko aisi video banane ka prompt pta hain Agr haa to please yaar bta do 😭 Gareeb ki Dua Lagegi 🥲",
+      "title": "How are you actually running OpenClaw without burning money?",
       "score": 0.49,
-      "summary": "Thread on \"Kisi ko aisi video banane ka prompt pta hain Agr haa to please yaar bta do 😭 Gareeb ki Dua Lagegi 🥲\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1in2f/kisi_ko_aisi_video_banane_ka_prompt_pta_hain_agr/",
+      "summary": "Thread on \"How are you actually running OpenClaw without burning money?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s1t8d0/how_are_you_actually_running_openclaw_without/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "KePrompt – A DSL for prompt engineering across LLM providers",
+      "score": 0.49,
+      "summary": "Thread on \"KePrompt – A DSL for prompt engineering across LLM providers\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1v13z/keprompt_a_dsl_for_prompt_engineering_across_llm/",
       "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "Hear me out: lots of context sometimes makes better prompts.",
+      "score": 0.49,
+      "summary": "Thread on \"Hear me out: lots of context sometimes makes better prompts.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/PromptEngineering/comments/1s1uwcx/hear_me_out_lots_of_context_sometimes_makes/",
+      "subreddit": "PromptEngineering"
+    },
+    {
+      "title": "Claude, when your instruction architecture is a mess",
+      "score": 0.48,
+      "summary": "Thread on \"Claude, when your instruction architecture is a mess\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1s2zx/claude_when_your_instruction_architecture_is_a/",
+      "subreddit": "ClaudeCode"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-23T18:44:45.021Z",
-    "refresh_finished_at": "2026-03-23T18:45:05.959Z",
+    "refresh_started_at": "2026-03-24T01:27:51.367Z",
+    "refresh_finished_at": "2026-03-24T01:27:56.392Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1815
+        "duration_ms": 1972
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 20903
+        "duration_ms": 4990
       }
     },
     "warnings": []
