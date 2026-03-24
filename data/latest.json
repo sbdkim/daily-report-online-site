@@ -1,59 +1,106 @@
 {
-  "generated_at": "2026-03-24T12:58:38.300Z",
+  "generated_at": "2026-03-24T18:55:45.905Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks",
+      "headline": "Iran War Live Updates: Tehran Fires New Barrages After U.S. Claims Progress on Talks",
       "region": "world",
-      "summary": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks. Israeli officials said missiles launched from Iran had hit Tel Aviv and other parts of the country. President Trump said there had been “very strong talks” with Iran to end the war, though Iranian officials did not confirm that.",
+      "summary": "Iran War Live Updates: Tehran Fires New Barrages After U.S. Claims Progress on Talks. Israeli officials said missiles launched from Iran had hit Tel Aviv and other parts of the country, and the Kurdish region of Iraq was also struck. In Bahrain, an Iranian missile hit Emirati military forces.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "published_at": "2026-03-24T12:52:11.000Z"
+          "published_at": "2026-03-24T18:49:05.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
+      "headline": "Pilots killed in LaGuardia plane crash named",
       "region": "us",
-      "summary": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war. The Senate has confirmed Markwayne Mullin as the next Department of Homeland Security secretary. And, Iran has denied that it's in talks with the U.S. to end the war, which is now in its fourth week.",
+      "summary": "Pilots killed in LaGuardia plane crash named. An Air Canada plane, carrying 73 passengers and four crew, collided with a firefighting vehicle shortly after landing at LaGuardia airport.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
-          "published_at": "2026-03-24T11:13:38.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-24T16:20:31.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Lee appoints budget, oceans ministers after parliamentary confirmations",
+      "headline": "Korea repatriates drug kingpin from Philippines",
       "region": "korea",
-      "summary": "Lee appoints budget, oceans ministers after parliamentary confirmations. President Lee Jae Myung approved Tuesday the appointments of Rep. Park Hong-keun as budget minister and Hwang Jong-woo as oceans minister after their parliamentary confirmation reports were adopted through bipartisan agreements, the presidential office said. With the approval, Park, a three-term lawmaker of the ruling Democratic Party of Korea, became the first head of the newly established Ministry of Planning and Budget, which was separated and launched under the Lee administration's government restructuring. The ministry has ended its acting leadership system 81 days after its official launch on Jan. 2. The Ministry of Oceans and Fisheries has filled its top post 103 days after former Minister Chun Jae-soo stepped down in December.",
+      "summary": "Korea repatriates drug kingpin from Philippines. Cheong Wa Dae said Korea repatriated an imprisoned drug lord from the Philippines, Wednesday, less than a month after President Lee Jae Myung requested temporary custody for him during a summit between the leaders of the two countries. Presidential spokesperson Kang Yu-jung said the repatriation of the Korean national, surnamed Park, reflects Lee’s firm resolve and diplomatic efforts to eradicate transnational crime after more than nine years of stalemate in extradition proceedings. Although the government did not disclose his full name, the individual is widely understood to be Park Wang-yeol. The spokesperson's references to the 2016 \"sugarcane field murder,\" the large-scale drug trafficking he allegedly continued from prison and his Telegram alias \"Worldwide\" all point to Park. “The government swiftly repatriated Park, known as the ‘Worldwide,’ early this morning,” Kang said in a written briefing. “This outcome reflects the president’s strong commitment and diplomatic endeavors to combat crime across the border,” she said, explaining that his repatriation had faced dif.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260324/lee-appoints-budget-oceans-ministers-after-parliamentary-confirmations?utm_source=rss",
-          "published_at": "2026-03-24T12:57:04.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260324011700320",
-          "published_at": "2026-03-24T11:25:29.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260325/korea-repatriates-drug-kingpin-from-philippines?utm_source=rss",
+          "published_at": "2026-03-24T18:52:03.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
+      "headline": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.",
       "region": "world",
-      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal. He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.",
+      "summary": "The U.S. Military Said It Helped Bomb a Drug Camp in Ecuador. It Was a Dairy Farm.. The Times visited a village where the United States and Ecuador said they destroyed an armed group’s training camp. Residents said it was actually a dairy farm.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html",
-          "published_at": "2026-03-24T03:44:07.000Z"
+          "url": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
+          "published_at": "2026-03-24T18:43:38.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How Pakistan Is Trying to Reshape Its Image Abroad",
+      "region": "world",
+      "summary": "How Pakistan Is Trying to Reshape Its Image Abroad. New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
+          "published_at": "2026-03-24T13:15:56.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Government Cuts Gut the Memory of Argentina’s Dirty War",
+      "region": "world",
+      "summary": "Government Cuts Gut the Memory of Argentina’s Dirty War. Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
+          "published_at": "2026-03-24T14:51:30.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
+      "region": "world",
+      "summary": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran. President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
+          "published_at": "2026-03-24T15:38:43.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Afghanistan Frees American Dennis Coyle from Detention",
+      "region": "world",
+      "summary": "Afghanistan Frees American Dennis Coyle from Detention. Dennis Walter Coyle, a researcher from Colorado, had been held since last year by the Taliban government.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html",
+          "published_at": "2026-03-24T16:07:04.000Z"
         }
       ],
       "reliability_score": 1
@@ -72,40 +119,40 @@
       "reliability_score": 1
     },
     {
-      "headline": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
+      "headline": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues",
       "region": "world",
-      "summary": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran. President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
+      "summary": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues. President Trump’s threats to take Greenland away from Denmark have lifted Prime Minister Mette Frederiksen, who appeared the front-runner as polls opened.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
-          "published_at": "2026-03-24T12:48:31.000Z"
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/denmark-election-mette-frederiksen-greenland.html",
+          "published_at": "2026-03-24T11:02:41.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Pakistan Dials Up Its Information War",
+      "headline": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
       "region": "world",
-      "summary": "Pakistan Dials Up Its Information War. New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
+      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal. He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
-          "published_at": "2026-03-24T04:00:11.000Z"
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html",
+          "published_at": "2026-03-24T03:44:07.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Government Cuts Gut the Memory of Argentina’s Dirty War",
+      "headline": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive",
       "region": "world",
-      "summary": "Government Cuts Gut the Memory of Argentina’s Dirty War. Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.",
+      "summary": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive. President Lee Jae Myung called on the public to cooperate, likening the energy supply disruption caused by the Iran war to the Asian financial crisis and the pandemic.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
-          "published_at": "2026-03-24T09:01:04.000Z"
+          "url": "https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html",
+          "published_at": "2026-03-24T18:46:06.000Z"
         }
       ],
       "reliability_score": 1
@@ -124,79 +171,27 @@
       "reliability_score": 1
     },
     {
-      "headline": "Canada’s Military Wants to Prove It Can Defend the High Arctic",
+      "headline": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
       "region": "world",
-      "summary": "Canada’s Military Wants to Prove It Can Defend the High Arctic. Canadian soldiers transported M777 howitzers to the High Arctic to show their ability to fight in an increasingly contested part of the world. It did not go as planned.",
+      "summary": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba. He helped bring attention to a group delivering humanitarian aid to Cuba, which was criticized for staying in an upscale hotel as Cubans faced another blackout.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
-          "published_at": "2026-03-24T12:31:41.000Z"
+          "url": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html",
+          "published_at": "2026-03-24T04:27:33.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Sidelined by War With Iran, Gaza Residents Remain in Limbo",
-      "region": "world",
-      "summary": "Sidelined by War With Iran, Gaza Residents Remain in Limbo. The new war has led to panic buying and a surge in food prices for Gazans as they try to recover from Israel’s two-year offensive against Hamas.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/middleeast/gaza-israel-mood.html",
-          "published_at": "2026-03-23T09:59:24.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops",
-      "region": "world",
-      "summary": "A Choice of Deadly Drones Is Only a Few Clicks Away for Ukrainian Troops. Ukraine has created online marketplaces to let units select their own drones, a break from generations of standardized and centralized weapons procurement.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/europe/ukraine-drones-marketplace-military-russia.html",
-          "published_at": "2026-03-24T03:59:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Caught Between Two Conflicts, Afghans Flee Iran",
-      "region": "world",
-      "summary": "Caught Between Two Conflicts, Afghans Flee Iran. The war in Iran is choking off Afghanistan’s main economic lifeline and has forced at least 70,000 Afghan workers and students there back home to a nation embroiled in another conflict.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/iran-afghanistan-border-refugees.html",
-          "published_at": "2026-03-23T18:52:15.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses",
-      "region": "world",
-      "summary": "Why the BTS Comeback Concert Was a ‘Disaster’ for Some Businesses. The turnout for the K-pop titans’ show was much lower than projected by officials, hitting the bottom line of some restaurants. Shares in the group’s management company also fell.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/bts-concert-seoul-turnout-hybe-shares.html",
-          "published_at": "2026-03-24T05:29:41.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets",
+      "headline": "US detainee Dennis Coyle released by Taliban after more than a year",
       "region": "us",
-      "summary": "Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets. Israeli health officials said Iranian missiles struck four sites across Israel Tuesday, including central Tel Aviv, injuring at least six people. Iranian authorities also said a gas supply line in southwest Iran was struck overnight.",
+      "summary": "US detainee Dennis Coyle released by Taliban after more than a year. Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
-          "published_at": "2026-03-24T11:08:10.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-24T15:50:42.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "$200/mo for Codex is insane. OpenAI, please add a $100 tier.",
+      "title": "The Math ain't Mathing 🧐",
       "score": 0.5,
-      "summary": "Thread on \"$200/mo for Codex is insane. OpenAI, please add a $100 tier.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1s2ae1p/200mo_for_codex_is_insane_openai_please_add_a_100/",
-      "subreddit": "codex"
+      "summary": "Thread on \"The Math ain't Mathing 🧐\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2i8d5/the_math_aint_mathing/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Anyone else relying on ChatGPT a bit too much lately?",
+      "title": "Session context usage shrinking???",
       "score": 0.51,
-      "summary": "Thread on \"Anyone else relying on ChatGPT a bit too much lately?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2aqo2/anyone_else_relying_on_chatgpt_a_bit_too_much/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Session context usage shrinking???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2jw1c/session_context_usage_shrinking/",
+      "subreddit": "ClaudeAI"
     },
     {
-      "title": "The man who originally coined the acronym \"AGI\" now says that we’ve achieved it exactly as he envisioned.",
-      "score": 0.52,
-      "summary": "Thread on \"The man who originally coined the acronym \"AGI\" now says that we’ve achieved it exactly as he envisioned.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2cfrb/the_man_who_originally_coined_the_acronym_agi_now/",
-      "subreddit": "singularity"
+      "title": "Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it does something you didn't expect? Do you have any way to stop it mid execution or roll back what it did? Or do you just hope for the best?",
+      "score": 0.43,
+      "summary": "Thread on \"Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s26fiu/those_of_you_using_claude_code_or_cursor_on_real/",
+      "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "I gave Gemini access to my Gmail, Drive, and Calendar. It found something I completely forgot about.",
-      "score": 0.52,
-      "summary": "Thread on \"I gave Gemini access to my Gmail, Drive, and Calendar. It found something I completely forgot about.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2cbaj/i_gave_gemini_access_to_my_gmail_drive_and/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "Opus chomping through usage limits",
-      "score": 0.52,
-      "summary": "Thread on \"Opus chomping through usage limits\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s2cm45/opus_chomping_through_usage_limits/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "There are levels to this game...",
-      "score": 0.51,
-      "summary": "Thread on \"There are levels to this game...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s2bqex/there_are_levels_to_this_game/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Nvidia CEO thinks that humanity reached the AGI.",
-      "score": 0.51,
-      "summary": "Thread on \"Nvidia CEO thinks that humanity reached the AGI.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "If brutalism was painted and decorated",
+      "title": "Best API for image-to-image editing (room + marble texture)?",
       "score": 0.5,
-      "summary": "Thread on \"If brutalism was painted and decorated\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s29gtk/if_brutalism_was_painted_and_decorated/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Best API for image-to-image editing (room + marble texture)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2jci6/best_api_for_imagetoimage_editing_room_marble/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "New Normal for Claude?",
-      "score": 0.49,
-      "summary": "Thread on \"New Normal for Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s283cg/new_normal_for_claude/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Usage limit bug is measurable, widespread, and Anthropic's silence is unacceptable",
-      "score": 0.49,
-      "summary": "Thread on \"Usage limit bug is measurable, widespread, and Anthropic's silence is unacceptable\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s27uyz/usage_limit_bug_is_measurable_widespread_and/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "A tool found the exact location of a building from the reflection of a car window",
-      "score": 0.49,
-      "summary": "Thread on \"A tool found the exact location of a building from the reflection of a car window\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s28buh/a_tool_found_the_exact_location_of_a_building/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "What the hell is happening with Gemini??",
-      "score": 0.49,
-      "summary": "Thread on \"What the hell is happening with Gemini??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s27xx6/what_the_hell_is_happening_with_gemini/",
+      "title": "I am being ragebaited by Gemini",
+      "score": 0.5,
+      "summary": "Thread on \"I am being ragebaited by Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2huhs/i_am_being_ragebaited_by_gemini/",
       "subreddit": "GeminiAI"
     },
     {
-      "title": "Aw man, it knows :/",
+      "title": "I made a deception LLM benchmark: AIs play Secret Hitler against each other, it's unbelievably funny",
+      "score": 0.5,
+      "summary": "Thread on \"I made a deception LLM benchmark: AIs play Secret Hitler against each other, it's unbelievably funny\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2hyrr/i_made_a_deception_llm_benchmark_ais_play_secret/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Devs are worried about the wrong thing",
+      "score": 0.5,
+      "summary": "Thread on \"Devs are worried about the wrong thing\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2j176/devs_are_worried_about_the_wrong_thing/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "73 years old, no coding experience, cardiac patient — I built a real health app with Claude after a hospitalization. Here's what happened.",
+      "score": 0.5,
+      "summary": "Thread on \"73 years old, no coding experience, cardiac patient — I built a real health app with Claude after a hospitalization. Her\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2hf5f/73_years_old_no_coding_experience_cardiac_patient/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Coming Soon - AgentGuard360: Free Open Source AI Agent Security Python App",
+      "score": 0.5,
+      "summary": "Thread on \"Coming Soon - AgentGuard360: Free Open Source AI Agent Security Python App\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2ipte/coming_soon_agentguard360_free_open_source_ai/",
+      "subreddit": "AI_Agents"
+    },
+    {
+      "title": "Gemini is stupid",
       "score": 0.49,
-      "summary": "Thread on \"Aw man, it knows :/\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s286j3/aw_man_it_knows/",
+      "summary": "Thread on \"Gemini is stupid\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2f6i7/gemini_is_stupid/",
       "subreddit": "GeminiAI"
     },
     {
-      "title": "Thinking of switching from ChatGPT to Gemini — is Gemini better value for the money?",
-      "score": 0.49,
-      "summary": "Thread on \"Thinking of switching from ChatGPT to Gemini — is Gemini better value for the money?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s28k33/thinking_of_switching_from_chatgpt_to_gemini_is/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "😭",
+      "title": "Codex is so discouraging",
       "score": 0.48,
-      "summary": "Thread on \"😭\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s274bn/_/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Codex is so discouraging\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2e2v4/codex_is_so_discouraging/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Interesting thought: the AI applications that will matter most probably look nothing like the ones we use daily",
+      "score": 0.48,
+      "summary": "Thread on \"Interesting thought: the AI applications that will matter most probably look nothing like the ones we use daily\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2e38m/interesting_thought_the_ai_applications_that_will/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "How safe (Security-Wise) do you guys think is Claude's new feature on long-term?",
+      "score": 0.48,
+      "summary": "Thread on \"How safe (Security-Wise) do you guys think is Claude's new feature on long-term?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2e50x/how_safe_securitywise_do_you_guys_think_is/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "Use for academia - not coding.",
+      "score": 0.48,
+      "summary": "Thread on \"Use for academia - not coding.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2dga1/use_for_academia_not_coding/",
+      "subreddit": "ClaudeAI"
+    },
+    {
+      "title": "What’s the best AI personal assistant right now?",
+      "score": 0.48,
+      "summary": "Thread on \"What’s the best AI personal assistant right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2dssk/whats_the_best_ai_personal_assistant_right_now/",
+      "subreddit": "AI_Agents"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-24T12:58:34.629Z",
-    "refresh_finished_at": "2026-03-24T12:58:38.300Z",
+    "refresh_started_at": "2026-03-24T18:55:06.689Z",
+    "refresh_finished_at": "2026-03-24T18:55:45.905Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1179
+        "duration_ms": 1850
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3620
+        "duration_ms": 39182
       }
     },
     "warnings": []
