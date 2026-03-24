@@ -1,41 +1,124 @@
 {
-  "generated_at": "2026-03-24T06:58:14.671Z",
+  "generated_at": "2026-03-24T12:58:38.300Z",
   "news_summary": [
     {
-      "headline": "U.S. and Iran Send Conflicting Signals on Peace Prospects",
+      "headline": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks",
       "region": "world",
-      "summary": "U.S. and Iran Send Conflicting Signals on Peace Prospects. President Trump said talks were underway. A top Iranian official denied that, while other Iranians said messages were being traded through intermediaries.",
+      "summary": "Iran War Live Updates: Tehran Fires Missile Barrage at Israel After U.S. Claims Progress on Talks. Israeli officials said missiles launched from Iran had hit Tel Aviv and other parts of the country. President Trump said there had been “very strong talks” with Iran to end the war, though Iranian officials did not confirm that.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/23/world/iran-war-oil-trump",
-          "published_at": "2026-03-24T06:51:26.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
+          "published_at": "2026-03-24T12:52:11.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "At least 66 killed in military plane crash in Colombia, head of armed forces says",
+      "headline": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war",
       "region": "us",
-      "summary": "At least 66 killed in military plane crash in Colombia, head of armed forces says. Colombian officials say that a military cargo plane with 128 people on board, most of them soldiers, crashed shortly after taking off Monday in southwestern Colombia.",
+      "summary": "Senate confirms Sen. Mullin as DHS secretary. And, Iran denies U.S. talks to end war. The Senate has confirmed Markwayne Mullin as the next Department of Homeland Security secretary. And, Iran has denied that it's in talks with the U.S. to end the war, which is now in its fourth week.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/24/g-s1-114924/at-least-66-killed-in-military-plane-crash-in-colombia-head-of-armed-forces-says",
-          "published_at": "2026-03-24T05:58:04.000Z"
+          "url": "https://www.npr.org/2026/03/24/g-s1-114942/up-first-newsletter-iran-war-trump-ice-tsa-airports-markwayne-mullin-dhs",
+          "published_at": "2026-03-24T11:13:38.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Lee vows support to strengthen workers' basic rights",
+      "headline": "Lee appoints budget, oceans ministers after parliamentary confirmations",
       "region": "korea",
-      "summary": "Lee vows support to strengthen workers' basic rights. SEOUL, March 24 (Yonhap) -- President Lee Jae Myung said Tuesday workers' fundam..",
+      "summary": "Lee appoints budget, oceans ministers after parliamentary confirmations. President Lee Jae Myung approved Tuesday the appointments of Rep. Park Hong-keun as budget minister and Hwang Jong-woo as oceans minister after their parliamentary confirmation reports were adopted through bipartisan agreements, the presidential office said. With the approval, Park, a three-term lawmaker of the ruling Democratic Party of Korea, became the first head of the newly established Ministry of Planning and Budget, which was separated and launched under the Lee administration's government restructuring. The ministry has ended its acting leadership system 81 days after its official launch on Jan. 2. The Ministry of Oceans and Fisheries has filled its top post 103 days after former Minister Chun Jae-soo stepped down in December.",
       "sources": [
         {
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260324/lee-appoints-budget-oceans-ministers-after-parliamentary-confirmations?utm_source=rss",
+          "published_at": "2026-03-24T12:57:04.000Z"
+        },
+        {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260324008900315",
-          "published_at": "2026-03-24T06:54:08.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260324011700320",
+          "published_at": "2026-03-24T11:25:29.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
+      "region": "world",
+      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal. He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html",
+          "published_at": "2026-03-24T03:44:07.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
+      "region": "world",
+      "summary": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?. With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
+          "published_at": "2026-03-24T09:14:42.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
+      "region": "world",
+      "summary": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran. President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
+          "published_at": "2026-03-24T12:48:31.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Pakistan Dials Up Its Information War",
+      "region": "world",
+      "summary": "Pakistan Dials Up Its Information War. New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
+          "published_at": "2026-03-24T04:00:11.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Government Cuts Gut the Memory of Argentina’s Dirty War",
+      "region": "world",
+      "summary": "Government Cuts Gut the Memory of Argentina’s Dirty War. Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
+          "published_at": "2026-03-24T09:01:04.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
+      "region": "world",
+      "summary": "Europe Clinches Critical Mineral Access With Australian Trade Deal. The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
+          "published_at": "2026-03-24T07:20:39.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +131,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/23/world/canada/canada-arctic-territory-military.html",
-          "published_at": "2026-03-23T19:31:03.000Z"
+          "published_at": "2026-03-24T12:31:41.000Z"
         }
       ],
       "reliability_score": 1
@@ -106,92 +189,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Italians Reject Judicial Overhaul, Undermining Meloni",
-      "region": "world",
-      "summary": "Italians Reject Judicial Overhaul, Undermining Meloni. Some 54 percent of voters spurned a government plan to change how jurists are supervised. It presented Prime Minister Giorgia Meloni with her biggest domestic challenge since her election in 2022.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/europe/italy-referendum-judiciary-meloni.html",
-          "published_at": "2026-03-23T18:46:53.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom",
-      "region": "world",
-      "summary": "Taiwan Debates Military Spending as Choices Over U.S. and China Loom. Tensions in the opposition Nationalist Party could surface this week as lawmakers argue over additional defense funding intended to counter Beijing’s growing might.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/taiwan-defense-budget-china-us.html",
-          "published_at": "2026-03-23T18:53:26.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Colombian Military Plane Crash Kills 66 and Injures Dozens",
-      "region": "world",
-      "summary": "Colombian Military Plane Crash Kills 66 and Injures Dozens. A military aircraft transporting 128 people was involved in an accident as it took off from southern Colombia, according to the authorities.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/americas/colombian-military-crash.html",
-          "published_at": "2026-03-24T05:36:25.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?",
-      "region": "world",
-      "summary": "In Denmark’s Election, How Will the Woman Who Took On Trump Fare?. Prime Minister Mette Frederiksen is the biggest force this country has seen in decades. The crisis in Greenland has energized her, but are voters itching for change.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/denmark-elections-frederiksen-hometown.html",
-          "published_at": "2026-03-23T04:01:14.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise",
-      "region": "world",
-      "summary": "Canada May Need to Lean on the US as Military Threats in the Arctic Rise. For the past seven decades, Canada has been the junior partner in a military agreement with the United States to protect the Canadian Arctic.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/americas/canada-us-arctic-military-norad.html",
-          "published_at": "2026-03-23T09:02:11.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War",
-      "region": "world",
-      "summary": "On Beirut’s Waterfront, Loss Meets Life, and Luxury, Amid War. Thousands displaced by Israeli strikes on Lebanon’s capital now shelter along the promenade hugging the Mediterranean Sea. They share it with joggers, cyclists and dog walkers, alongside dizzying displays of wealth.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/22/world/middleeast/beirut-israel-war-displaced-corniche.html",
-          "published_at": "2026-03-22T09:01:08.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "UK police probe possible Iran link after Jewish charity ambulances set on fire",
+      "headline": "Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets",
       "region": "us",
-      "summary": "UK police probe possible Iran link after Jewish charity ambulances set on fire. Police in London are investigating a suspected antisemitic hate crime attack after four vehicles belonging to a Jewish ambulance service were set on fire.",
+      "summary": "Iran fires more missiles at Israel and rejects Trump's talk as 'fake news' for markets. Israeli health officials said Iranian missiles struck four sites across Israel Tuesday, including central Tel Aviv, injuring at least six people. Iranian authorities also said a gas supply line in southwest Iran was struck overnight.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/24/g-s1-114920/uk-police-probe-possible-iran-link-after-jewish-charity-ambulances-set-on-fire",
-          "published_at": "2026-03-24T05:43:51.000Z"
+          "url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
+          "published_at": "2026-03-24T11:08:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "I just want everyone to know that ultrathink-art is a bot. Stop replying to it.",
+      "title": "$200/mo for Codex is insane. OpenAI, please add a $100 tier.",
       "score": 0.5,
-      "summary": "Thread on \"I just want everyone to know that ultrathink-art is a bot. Stop replying to it.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s2393a/i_just_want_everyone_to_know_that_ultrathinkart/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"$200/mo for Codex is insane. OpenAI, please add a $100 tier.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s2ae1p/200mo_for_codex_is_insane_openai_please_add_a_100/",
+      "subreddit": "codex"
     },
     {
-      "title": "Scientists are rethinking how much we can trust ChatGPT",
-      "score": 0.47,
-      "summary": "Thread on \"Scientists are rethinking how much we can trust ChatGPT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s1xpkj/scientists_are_rethinking_how_much_we_can_trust/",
-      "subreddit": "OpenAI"
+      "title": "Anyone else relying on ChatGPT a bit too much lately?",
+      "score": 0.51,
+      "summary": "Thread on \"Anyone else relying on ChatGPT a bit too much lately?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2aqo2/anyone_else_relying_on_chatgpt_a_bit_too_much/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "Marc Benioff (CEO of Salesforce) tweeted video of him messing with a Figure 03 robot flipping packages",
-      "score": 0.5,
-      "summary": "Thread on \"Marc Benioff (CEO of Salesforce) tweeted video of him messing with a Figure 03 robot flipping packages\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s235n7/marc_benioff_ceo_of_salesforce_tweeted_video_of/",
+      "title": "The man who originally coined the acronym \"AGI\" now says that we’ve achieved it exactly as he envisioned.",
+      "score": 0.52,
+      "summary": "Thread on \"The man who originally coined the acronym \"AGI\" now says that we’ve achieved it exactly as he envisioned.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2cfrb/the_man_who_originally_coined_the_acronym_agi_now/",
       "subreddit": "singularity"
     },
     {
-      "title": "I built a dashboard that lets AI agents work through your project goals autonomously and continuously - AutoGoals",
+      "title": "I gave Gemini access to my Gmail, Drive, and Calendar. It found something I completely forgot about.",
       "score": 0.52,
-      "summary": "Thread on \"I built a dashboard that lets AI agents work through your project goals autonomously and continuously - AutoGoals\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s266pn/i_built_a_dashboard_that_lets_ai_agents_work/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"I gave Gemini access to my Gmail, Drive, and Calendar. It found something I completely forgot about.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2cbaj/i_gave_gemini_access_to_my_gmail_drive_and/",
+      "subreddit": "GeminiAI"
     },
     {
-      "title": "Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it does something you didn't expect? Do you have any way to stop it mid execution or roll back what it did? Or do you just hope for the best?",
+      "title": "Opus chomping through usage limits",
       "score": 0.52,
-      "summary": "Thread on \"Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s26fiu/those_of_you_using_claude_code_or_cursor_on_real/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
-      "title": "Introducing Claude computer use.",
-      "score": 0.46,
-      "summary": "Thread on \"Introducing Claude computer use.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s1w0qj/introducing_claude_computer_use/",
+      "summary": "Thread on \"Opus chomping through usage limits\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s2cm45/opus_chomping_through_usage_limits/",
       "subreddit": "claude"
     },
     {
-      "title": "I tested every OpenClaw memory plugin so you don't have to. Here is how to actually stop your agent from forgetting everything.",
+      "title": "There are levels to this game...",
       "score": 0.51,
-      "summary": "Thread on \"I tested every OpenClaw memory plugin so you don't have to. Here is how to actually stop your agent from forgetting ever\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s2574y/i_tested_every_openclaw_memory_plugin_so_you_dont/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"There are levels to this game...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s2bqex/there_are_levels_to_this_game/",
+      "subreddit": "claude"
     },
     {
-      "title": "Claude's Computer use is great but security risks involved is terrifying.",
+      "title": "Nvidia CEO thinks that humanity reached the AGI.",
       "score": 0.51,
-      "summary": "Thread on \"Claude's Computer use is great but security risks involved is terrifying.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s24t3w/claudes_computer_use_is_great_but_security_risks/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Tech bros discovered coding isn't the hard part",
-      "score": 0.51,
-      "summary": "Thread on \"Tech bros discovered coding isn't the hard part\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s25ea3/tech_bros_discovered_coding_isnt_the_hard_part/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Openclaw 2026.3.23 update",
-      "score": 0.5,
-      "summary": "Thread on \"Openclaw 2026.3.23 update\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s246ym/openclaw_2026323_update/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Has anyone made an DIY 'Alexa' for Claude?",
-      "score": 0.49,
-      "summary": "Thread on \"Has anyone made an DIY 'Alexa' for Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s22du0/has_anyone_made_an_diy_alexa_for_claude/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Vibe physics: The AI grad student",
-      "score": 0.48,
-      "summary": "Thread on \"Vibe physics: The AI grad student\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s20a3q/vibe_physics_the_ai_grad_student/",
+      "summary": "Thread on \"Nvidia CEO thinks that humanity reached the AGI.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2bvl3/nvidia_ceo_thinks_that_humanity_reached_the_agi/",
       "subreddit": "singularity"
     },
     {
-      "title": "3.22 Update- lots were broken",
-      "score": 0.48,
-      "summary": "Thread on \"3.22 Update- lots were broken\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s210gd/322_update_lots_were_broken/",
-      "subreddit": "openclaw"
+      "title": "If brutalism was painted and decorated",
+      "score": 0.5,
+      "summary": "Thread on \"If brutalism was painted and decorated\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s29gtk/if_brutalism_was_painted_and_decorated/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "Off-peak, Pro plan, Two-word prompt, 6% session usage and 1% weekly usage, what???",
-      "score": 0.48,
-      "summary": "Thread on \"Off-peak, Pro plan, Two-word prompt, 6% session usage and 1% weekly usage, what???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s1zzvy/offpeak_pro_plan_twoword_prompt_6_session_usage/",
-      "subreddit": "ClaudeCode"
+      "title": "New Normal for Claude?",
+      "score": 0.49,
+      "summary": "Thread on \"New Normal for Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s283cg/new_normal_for_claude/",
+      "subreddit": "claude"
     },
     {
-      "title": "Claude Code transcripts → animated GIFs",
+      "title": "Usage limit bug is measurable, widespread, and Anthropic's silence is unacceptable",
+      "score": 0.49,
+      "summary": "Thread on \"Usage limit bug is measurable, widespread, and Anthropic's silence is unacceptable\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s27uyz/usage_limit_bug_is_measurable_widespread_and/",
+      "subreddit": "claude"
+    },
+    {
+      "title": "A tool found the exact location of a building from the reflection of a car window",
+      "score": 0.49,
+      "summary": "Thread on \"A tool found the exact location of a building from the reflection of a car window\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s28buh/a_tool_found_the_exact_location_of_a_building/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "What the hell is happening with Gemini??",
+      "score": 0.49,
+      "summary": "Thread on \"What the hell is happening with Gemini??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s27xx6/what_the_hell_is_happening_with_gemini/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "Aw man, it knows :/",
+      "score": 0.49,
+      "summary": "Thread on \"Aw man, it knows :/\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s286j3/aw_man_it_knows/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "Thinking of switching from ChatGPT to Gemini — is Gemini better value for the money?",
+      "score": 0.49,
+      "summary": "Thread on \"Thinking of switching from ChatGPT to Gemini — is Gemini better value for the money?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s28k33/thinking_of_switching_from_chatgpt_to_gemini_is/",
+      "subreddit": "GeminiAI"
+    },
+    {
+      "title": "😭",
       "score": 0.48,
-      "summary": "Thread on \"Claude Code transcripts → animated GIFs\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s2063z/claude_code_transcripts_animated_gifs/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"😭\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s274bn/_/",
+      "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-24T06:57:35.799Z",
-    "refresh_finished_at": "2026-03-24T06:58:14.671Z",
+    "refresh_started_at": "2026-03-24T12:58:34.629Z",
+    "refresh_finished_at": "2026-03-24T12:58:38.300Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3576
+        "duration_ms": 1179
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38823
+        "duration_ms": 3620
       }
     },
     "warnings": []
