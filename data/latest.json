@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-03-24T18:55:45.905Z",
+  "generated_at": "2026-03-25T01:46:04.931Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Tehran Fires New Barrages After U.S. Claims Progress on Talks",
+      "headline": "Iran War Live Updates: Pentagon Orders 2,000 Airborne Troops to Middle East",
       "region": "world",
-      "summary": "Iran War Live Updates: Tehran Fires New Barrages After U.S. Claims Progress on Talks. Israeli officials said missiles launched from Iran had hit Tel Aviv and other parts of the country, and the Kurdish region of Iraq was also struck. In Bahrain, an Iranian missile hit Emirati military forces.",
+      "summary": "Iran War Live Updates: Pentagon Orders 2,000 Airborne Troops to Middle East. The deployment could give President Trump more military options after a 15-point proposal, delivered via Pakistan, was sent to the Iranians, according to two officials briefed on the diplomacy.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "published_at": "2026-03-24T18:49:05.000Z"
+          "published_at": "2026-03-25T01:14:05.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Pilots killed in LaGuardia plane crash named",
+      "headline": "Small window open for US-Iran talks, but swift end to war still unlikely",
       "region": "us",
-      "summary": "Pilots killed in LaGuardia plane crash named. An Air Canada plane, carrying 73 passengers and four crew, collided with a firefighting vehicle shortly after landing at LaGuardia airport.",
+      "summary": "Small window open for US-Iran talks, but swift end to war still unlikely. President Trump says the US is already dealing with a \"top person\" in Iran, but Tehran denies that any talks have begun.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-24T16:20:31.000Z"
+          "url": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-24T18:04:04.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Korea repatriates drug kingpin from Philippines",
+      "headline": "Samsung, LG clinch multiple awards at HVAC exhibition in Europe",
       "region": "korea",
-      "summary": "Korea repatriates drug kingpin from Philippines. Cheong Wa Dae said Korea repatriated an imprisoned drug lord from the Philippines, Wednesday, less than a month after President Lee Jae Myung requested temporary custody for him during a summit between the leaders of the two countries. Presidential spokesperson Kang Yu-jung said the repatriation of the Korean national, surnamed Park, reflects Lee’s firm resolve and diplomatic efforts to eradicate transnational crime after more than nine years of stalemate in extradition proceedings. Although the government did not disclose his full name, the individual is widely understood to be Park Wang-yeol. The spokesperson's references to the 2016 \"sugarcane field murder,\" the large-scale drug trafficking he allegedly continued from prison and his Telegram alias \"Worldwide\" all point to Park. “The government swiftly repatriated Park, known as the ‘Worldwide,’ early this morning,” Kang said in a written briefing. “This outcome reflects the president’s strong commitment and diplomatic endeavors to combat crime across the border,” she said, explaining that his repatriation had faced dif.",
+      "summary": "Samsung, LG clinch multiple awards at HVAC exhibition in Europe. SEOUL, March 25 (Yonhap) -- Samsung Electronics Co. and LG Electronics Inc. have..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/politics/20260325/korea-repatriates-drug-kingpin-from-philippines?utm_source=rss",
-          "published_at": "2026-03-24T18:52:03.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260325003900320",
+          "published_at": "2026-03-25T01:37:19.000Z"
         }
       ],
       "reliability_score": 1
@@ -48,7 +48,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/24/world/americas/us-ecuador-drug-camp-bombing-dairy-farm.html",
-          "published_at": "2026-03-24T18:43:38.000Z"
+          "published_at": "2026-03-24T22:51:56.000Z"
         }
       ],
       "reliability_score": 1
@@ -62,6 +62,45 @@
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
           "published_at": "2026-03-24T13:15:56.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
+      "region": "world",
+      "summary": "Investigators Seek Answers in Attacks on Jewish Sites in Europe. Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/attacks-jewish-sites-europe.html",
+          "published_at": "2026-03-24T20:41:13.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration",
+      "region": "world",
+      "summary": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration. The agreement is part of President Trump’s efforts to find governments willing to accept people who have been detained in the United States.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/americas/costa-rica-us-deportation-deal.html",
+          "published_at": "2026-03-24T19:54:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Italy’s Meloni Seemed Unbeatable. A Referendum Defeat Has Dented Her Aura.",
+      "region": "world",
+      "summary": "Italy’s Meloni Seemed Unbeatable. A Referendum Defeat Has Dented Her Aura.. Prime Minister Giorgia Meloni had led one of Italy’s most stable postwar governments. Now she’s under pressure after failing to convince Italians to back a judicial overhaul.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/24/world/europe/italy-meloni-referendum-defeat.html",
+          "published_at": "2026-03-24T18:57:41.000Z"
         }
       ],
       "reliability_score": 1
@@ -145,53 +184,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive",
+      "headline": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
       "region": "world",
-      "summary": "Take Shorter Showers: South Korea Kicks Off an Energy-Saving Drive. President Lee Jae Myung called on the public to cooperate, likening the energy supply disruption caused by the Iran war to the Asian financial crisis and the pandemic.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/asia/south-korea-energy-savings.html",
-          "published_at": "2026-03-24T18:46:06.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Europe Clinches Critical Mineral Access With Australian Trade Deal",
-      "region": "world",
-      "summary": "Europe Clinches Critical Mineral Access With Australian Trade Deal. The European Union and Australia have shaken hands on a trade deal that would improve access to aluminum, lithium and other critical minerals for the 27-nation bloc.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/europe-australian-trade-deal.html",
-          "published_at": "2026-03-24T07:20:39.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba",
-      "region": "world",
-      "summary": "Hasan Piker Defends Upscale Lodging During Humanitarian Mission in Cuba. He helped bring attention to a group delivering humanitarian aid to Cuba, which was criticized for staying in an upscale hotel as Cubans faced another blackout.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html",
-          "published_at": "2026-03-24T04:27:33.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "US detainee Dennis Coyle released by Taliban after more than a year",
-      "region": "us",
-      "summary": "US detainee Dennis Coyle released by Taliban after more than a year. Coyle, who was working as a language researcher, according to his family, was arrested in January 2025.",
+      "summary": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock. Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c79j1wj4495o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-24T15:50:42.000Z"
+          "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-25T00:00:20.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-25T00:00:20.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "The Math ain't Mathing 🧐",
+      "title": "Oh",
       "score": 0.5,
-      "summary": "Thread on \"The Math ain't Mathing 🧐\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2i8d5/the_math_aint_mathing/",
+      "summary": "Thread on \"Oh\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2ugqc/oh/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Less Ai Slop , for sure guys.",
+      "score": 0.5,
+      "summary": "Thread on \"Less Ai Slop , for sure guys.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2srx0/less_ai_slop_for_sure_guys/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Session context usage shrinking???",
-      "score": 0.51,
-      "summary": "Thread on \"Session context usage shrinking???\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2jw1c/session_context_usage_shrinking/",
-      "subreddit": "ClaudeAI"
+      "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
+      "score": 0.5,
+      "summary": "Thread on \"Sora shutdown is a good early example of what private AI companies will do when they achieve AGI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it does something you didn't expect? Do you have any way to stop it mid execution or roll back what it did? Or do you just hope for the best?",
-      "score": 0.43,
-      "summary": "Thread on \"Those of you using Claude Code or Cursor on real projects with actual file system or database access, what happens if it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s26fiu/those_of_you_using_claude_code_or_cursor_on_real/",
+      "title": "Are you still using an IDE?",
+      "score": 0.47,
+      "summary": "Thread on \"Are you still using an IDE?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s2no8h/are_you_still_using_an_ide/",
       "subreddit": "ChatGPTCoding"
     },
     {
-      "title": "Best API for image-to-image editing (room + marble texture)?",
-      "score": 0.5,
-      "summary": "Thread on \"Best API for image-to-image editing (room + marble texture)?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2jci6/best_api_for_imagetoimage_editing_room_marble/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "I am being ragebaited by Gemini",
-      "score": 0.5,
-      "summary": "Thread on \"I am being ragebaited by Gemini\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2huhs/i_am_being_ragebaited_by_gemini/",
-      "subreddit": "GeminiAI"
-    },
-    {
-      "title": "I made a deception LLM benchmark: AIs play Secret Hitler against each other, it's unbelievably funny",
-      "score": 0.5,
-      "summary": "Thread on \"I made a deception LLM benchmark: AIs play Secret Hitler against each other, it's unbelievably funny\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2hyrr/i_made_a_deception_llm_benchmark_ais_play_secret/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Devs are worried about the wrong thing",
-      "score": 0.5,
-      "summary": "Thread on \"Devs are worried about the wrong thing\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2j176/devs_are_worried_about_the_wrong_thing/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "73 years old, no coding experience, cardiac patient — I built a real health app with Claude after a hospitalization. Here's what happened.",
-      "score": 0.5,
-      "summary": "Thread on \"73 years old, no coding experience, cardiac patient — I built a real health app with Claude after a hospitalization. Her\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2hf5f/73_years_old_no_coding_experience_cardiac_patient/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "Coming Soon - AgentGuard360: Free Open Source AI Agent Security Python App",
-      "score": 0.5,
-      "summary": "Thread on \"Coming Soon - AgentGuard360: Free Open Source AI Agent Security Python App\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2ipte/coming_soon_agentguard360_free_open_source_ai/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "Gemini is stupid",
+      "title": "SORA IS SHUTTING DOWN??",
       "score": 0.49,
-      "summary": "Thread on \"Gemini is stupid\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GeminiAI/comments/1s2f6i7/gemini_is_stupid/",
-      "subreddit": "GeminiAI"
+      "summary": "Thread on \"SORA IS SHUTTING DOWN??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTPro/comments/1s2rse4/sora_is_shutting_down/",
+      "subreddit": "ChatGPTPro"
     },
     {
-      "title": "Codex is so discouraging",
-      "score": 0.48,
-      "summary": "Thread on \"Codex is so discouraging\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2e2v4/codex_is_so_discouraging/",
+      "title": "There are levels to this game...",
+      "score": 0.42,
+      "summary": "Thread on \"There are levels to this game...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s2bqex/there_are_levels_to_this_game/",
+      "subreddit": "claude"
+    },
+    {
+      "title": "Extension to track Copilot usage per commit",
+      "score": 0.5,
+      "summary": "Thread on \"Extension to track Copilot usage per commit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1s2tr9z/extension_to_track_copilot_usage_per_commit/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "well...that was faster than expected.",
+      "score": 0.49,
+      "summary": "Thread on \"well...that was faster than expected.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2rnrd/wellthat_was_faster_than_expected/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "I think this is the right path for OpenAI.",
+      "score": 0.49,
+      "summary": "Thread on \"I think this is the right path for OpenAI.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2qpm3/i_think_this_is_the_right_path_for_openai/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Interesting thought: the AI applications that will matter most probably look nothing like the ones we use daily",
+      "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
+      "score": 0.49,
+      "summary": "Thread on \"CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like huma\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Sora is officially shutting down.",
       "score": 0.48,
-      "summary": "Thread on \"Interesting thought: the AI applications that will matter most probably look nothing like the ones we use daily\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2e38m/interesting_thought_the_ai_applications_that_will/",
+      "summary": "Thread on \"Sora is officially shutting down.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2oyl3/sora_is_officially_shutting_down/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "How safe (Security-Wise) do you guys think is Claude's new feature on long-term?",
+      "title": "OPENAI TO DISCONTINUE SORA !!",
       "score": 0.48,
-      "summary": "Thread on \"How safe (Security-Wise) do you guys think is Claude's new feature on long-term?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2e50x/how_safe_securitywise_do_you_guys_think_is/",
-      "subreddit": "ClaudeAI"
+      "summary": "Thread on \"OPENAI TO DISCONTINUE SORA !!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2onhy/openai_to_discontinue_sora/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Use for academia - not coding.",
+      "title": "MIT Professor Max Tegmark - \"Racing to AGI and superintelligence with no regulation is just civilisational suicide\"",
       "score": 0.48,
-      "summary": "Thread on \"Use for academia - not coding.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2dga1/use_for_academia_not_coding/",
-      "subreddit": "ClaudeAI"
+      "summary": "Thread on \"MIT Professor Max Tegmark - \"Racing to AGI and superintelligence with no regulation is just civilisational suicide\"\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2pyiz/mit_professor_max_tegmark_racing_to_agi_and/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "What’s the best AI personal assistant right now?",
+      "title": "TheInformation reporting OAI finished pretraining new very strong model “Spud”, Altman notes things moving faster than many expected",
       "score": 0.48,
-      "summary": "Thread on \"What’s the best AI personal assistant right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s2dssk/whats_the_best_ai_personal_assistant_right_now/",
-      "subreddit": "AI_Agents"
+      "summary": "Thread on \"TheInformation reporting OAI finished pretraining new very strong model “Spud”, Altman notes things moving faster than m\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2q0yb/theinformation_reporting_oai_finished_pretraining/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Sora by OpenAI discontinued",
+      "score": 0.48,
+      "summary": "Thread on \"Sora by OpenAI discontinued\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s2pssb/sora_by_openai_discontinued/",
+      "subreddit": "singularity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-24T18:55:06.689Z",
-    "refresh_finished_at": "2026-03-24T18:55:45.905Z",
+    "refresh_started_at": "2026-03-25T01:45:42.866Z",
+    "refresh_finished_at": "2026-03-25T01:46:04.931Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1850
+        "duration_ms": 2316
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 39182
+        "duration_ms": 22027
       }
     },
     "warnings": []
