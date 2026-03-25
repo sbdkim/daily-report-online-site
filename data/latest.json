@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-03-25T01:46:04.931Z",
+  "generated_at": "2026-03-25T06:55:56.441Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Pentagon Orders 2,000 Airborne Troops to Middle East",
+      "headline": "Pentagon Orders 2,000 Airborne Troops to Middle East",
       "region": "world",
-      "summary": "Iran War Live Updates: Pentagon Orders 2,000 Airborne Troops to Middle East. The deployment could give President Trump more military options after a 15-point proposal, delivered via Pakistan, was sent to the Iranians, according to two officials briefed on the diplomacy.",
+      "summary": "Pentagon Orders 2,000 Airborne Troops to Middle East. The deployment could give President Trump more military options after a 15-point proposal, delivered via Pakistan, was sent to the Iranians, according to two officials briefed on the diplomacy.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "published_at": "2026-03-25T01:14:05.000Z"
+          "published_at": "2026-03-25T06:20:14.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Small window open for US-Iran talks, but swift end to war still unlikely",
+      "headline": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
       "region": "us",
-      "summary": "Small window open for US-Iran talks, but swift end to war still unlikely. President Trump says the US is already dealing with a \"top person\" in Iran, but Tehran denies that any talks have begun.",
+      "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns. OpenAI said Tuesday that it was \"saying goodbye to the Sora app\" and that it would share more soon about how to preserve what users already created on the app.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c895xljyzewo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-24T18:04:04.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
+          "published_at": "2026-03-25T05:34:01.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Samsung, LG clinch multiple awards at HVAC exhibition in Europe",
+      "headline": "[PHOTO] Korean-developed sub embarks on trans-Pacific journey",
       "region": "korea",
-      "summary": "Samsung, LG clinch multiple awards at HVAC exhibition in Europe. SEOUL, March 25 (Yonhap) -- Samsung Electronics Co. and LG Electronics Inc. have..",
+      "summary": "[PHOTO] Korean-developed sub embarks on trans-Pacific journey. Sailors aboard the ROKS Dosan Ahn Chang-ho, a 3,000-ton Korean-developed naval submarine, bid farewell to their families at a naval port in Changwon, South Gyeongsang Province, March 25, as the vessel departs for its first-ever trans-Pacific voyage to take part in joint drills with Canada in June. The deployment comes as Korea intensifies its bid for a Canadian submarine development contract valued at around 60 trillion won ($40 billion). Yonhap.",
       "sources": [
         {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260325003900320",
-          "published_at": "2026-03-25T01:37:19.000Z"
+          "title": "Korea Times",
+          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260325/photo-korean-developed-sub-embarks-on-trans-pacific-journey?utm_source=rss",
+          "published_at": "2026-03-25T06:52:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -184,19 +184,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
-      "region": "world",
-      "summary": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock. Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
+      "headline": "Rubio plans travel to France to sell Iran war to skeptical G7 allies",
+      "region": "us",
+      "summary": "Rubio plans travel to France to sell Iran war to skeptical G7 allies. Secretary of State Marco Rubio will travel to France this week to try to sell America's skeptical Group of Seven allies on the Iran war that has sent global fuel prices soaring.",
       "sources": [
         {
-          "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-25T00:00:20.000Z"
-        },
-        {
-          "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-25T00:00:20.000Z"
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/25/g-s1-115053/rubio-plans-travel-to-france-to-sell-iran-war-to-skeptical-g7-allies",
+          "published_at": "2026-03-25T05:23:03.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Oh",
+      "title": "Claude Code can now generate full UI designs with Google Stitch — Here's what you need to know",
+      "score": 0.51,
+      "summary": "Thread on \"Claude Code can now generate full UI designs with Google Stitch — Here's what you need to know\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s31vwq/claude_code_can_now_generate_full_ui_designs_with/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "I was waiting for Sora android app",
       "score": 0.5,
+      "summary": "Thread on \"I was waiting for Sora android app\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s30yxf/i_was_waiting_for_sora_android_app/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "well...that was faster than expected.",
+      "score": 0.45,
+      "summary": "Thread on \"well...that was faster than expected.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2rorg/wellthat_was_faster_than_expected/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
+      "score": 0.51,
+      "summary": "Thread on \"Every time someone is surprised when they find out AI is just a pattern identifier\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s31t9h/every_time_someone_is_surprised_when_they_find/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "I just checked my ChatGPT stats, i have chatted with ChatGPT more than the entire LOTR triology. Four times over.",
+      "score": 0.51,
+      "summary": "Thread on \"I just checked my ChatGPT stats, i have chatted with ChatGPT more than the entire LOTR triology. Four times over.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s31ucb/i_just_checked_my_chatgpt_stats_i_have_chatted/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Today is Wednesday. Are you pulling my leg, Claude?",
+      "score": 0.51,
+      "summary": "Thread on \"Today is Wednesday. Are you pulling my leg, Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s324t7/today_is_wednesday_are_you_pulling_my_leg_claude/",
+      "subreddit": "claude"
+    },
+    {
+      "title": "When did blindly trusting an AI actually ruin your day?",
+      "score": 0.51,
+      "summary": "Thread on \"When did blindly trusting an AI actually ruin your day?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s32vp4/when_did_blindly_trusting_an_ai_actually_ruin/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Are any Data Scientist here using AI to finally bridge the \"Engineering Gap\" ?",
+      "score": 0.51,
+      "summary": "Thread on \"Are any Data Scientist here using AI to finally bridge the \"Engineering Gap\" ?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s32k5i/are_any_data_scientist_here_using_ai_to_finally/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "LLMs are making everyone sound the same",
+      "score": 0.5,
+      "summary": "Thread on \"LLMs are making everyone sound the same\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s307cp/llms_are_making_everyone_sound_the_same/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "One-Minute Daily AI News 3/24/2026",
+      "score": 0.5,
+      "summary": "Thread on \"One-Minute Daily AI News 3/24/2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s31fes/oneminute_daily_ai_news_3242026/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Question to those who are hitting their usage limits",
+      "score": 0.5,
+      "summary": "Thread on \"Question to those who are hitting their usage limits\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s308mi/question_to_those_who_are_hitting_their_usage/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "No issue with usage, but a HUGE drop in quality.",
+      "score": 0.49,
+      "summary": "Thread on \"No issue with usage, but a HUGE drop in quality.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s2zeyg/no_issue_with_usage_but_a_huge_drop_in_quality/",
+      "subreddit": "ClaudeCode"
+    },
+    {
+      "title": "Oh",
+      "score": 0.47,
       "summary": "Thread on \"Oh\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2ugqc/oh/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Less Ai Slop , for sure guys.",
-      "score": 0.5,
-      "summary": "Thread on \"Less Ai Slop , for sure guys.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2srx0/less_ai_slop_for_sure_guys/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "Sora shutdown is a good early example of what private AI companies will do when they achieve AGI",
-      "score": 0.5,
-      "summary": "Thread on \"Sora shutdown is a good early example of what private AI companies will do when they achieve AGI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2tr80/sora_shutdown_is_a_good_early_example_of_what/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Are you still using an IDE?",
+      "title": "When you become successful using Claude code but you now can't fix anything because you've hit your limit.",
       "score": 0.47,
-      "summary": "Thread on \"Are you still using an IDE?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s2no8h/are_you_still_using_an_ide/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
-      "title": "SORA IS SHUTTING DOWN??",
-      "score": 0.49,
-      "summary": "Thread on \"SORA IS SHUTTING DOWN??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTPro/comments/1s2rse4/sora_is_shutting_down/",
-      "subreddit": "ChatGPTPro"
-    },
-    {
-      "title": "There are levels to this game...",
-      "score": 0.42,
-      "summary": "Thread on \"There are levels to this game...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s2bqex/there_are_levels_to_this_game/",
+      "summary": "Thread on \"When you become successful using Claude code but you now can't fix anything because you've hit your limit.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s2udta/when_you_become_successful_using_claude_code_but/",
       "subreddit": "claude"
     },
     {
-      "title": "Extension to track Copilot usage per commit",
-      "score": 0.5,
-      "summary": "Thread on \"Extension to track Copilot usage per commit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1s2tr9z/extension_to_track_copilot_usage_per_commit/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "well...that was faster than expected.",
-      "score": 0.49,
-      "summary": "Thread on \"well...that was faster than expected.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2rnrd/wellthat_was_faster_than_expected/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "I think this is the right path for OpenAI.",
-      "score": 0.49,
-      "summary": "Thread on \"I think this is the right path for OpenAI.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2qpm3/i_think_this_is_the_right_path_for_openai/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like humans - \"AGI, in the limit, should feel like a sci-fi movie\"",
-      "score": 0.49,
-      "summary": "Thread on \"CEO of Figure.AI teases Hark, an advanced AI lab that aims to develop an AI capable of sensing and interacting like huma\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2r74y/ceo_of_figureai_teases_hark_an_advanced_ai_lab/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Sora is officially shutting down.",
-      "score": 0.48,
-      "summary": "Thread on \"Sora is officially shutting down.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2oyl3/sora_is_officially_shutting_down/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "OPENAI TO DISCONTINUE SORA !!",
-      "score": 0.48,
-      "summary": "Thread on \"OPENAI TO DISCONTINUE SORA !!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2onhy/openai_to_discontinue_sora/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "MIT Professor Max Tegmark - \"Racing to AGI and superintelligence with no regulation is just civilisational suicide\"",
-      "score": 0.48,
-      "summary": "Thread on \"MIT Professor Max Tegmark - \"Racing to AGI and superintelligence with no regulation is just civilisational suicide\"\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2pyiz/mit_professor_max_tegmark_racing_to_agi_and/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "TheInformation reporting OAI finished pretraining new very strong model “Spud”, Altman notes things moving faster than many expected",
-      "score": 0.48,
-      "summary": "Thread on \"TheInformation reporting OAI finished pretraining new very strong model “Spud”, Altman notes things moving faster than m\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2q0yb/theinformation_reporting_oai_finished_pretraining/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Sora by OpenAI discontinued",
-      "score": 0.48,
-      "summary": "Thread on \"Sora by OpenAI discontinued\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s2pssb/sora_by_openai_discontinued/",
-      "subreddit": "singularity"
+      "title": "This thing might be sentient...",
+      "score": 0.46,
+      "summary": "Thread on \"This thing might be sentient...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s2t30j/this_thing_might_be_sentient/",
+      "subreddit": "claude"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-25T01:45:42.866Z",
-    "refresh_finished_at": "2026-03-25T01:46:04.931Z",
+    "refresh_started_at": "2026-03-25T06:55:52.855Z",
+    "refresh_finished_at": "2026-03-25T06:55:56.442Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2316
+        "duration_ms": 1801
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 22027
+        "duration_ms": 3547
       }
     },
     "warnings": []
