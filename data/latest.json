@@ -1,41 +1,158 @@
 {
-  "generated_at": "2026-03-25T06:55:56.441Z",
+  "generated_at": "2026-03-25T12:56:53.931Z",
   "news_summary": [
     {
-      "headline": "Pentagon Orders 2,000 Airborne Troops to Middle East",
+      "headline": "Iran War Live Updates: Israel Strikes Tehran After Pakistan Offers to Host U.S.-Iran Talks",
       "region": "world",
-      "summary": "Pentagon Orders 2,000 Airborne Troops to Middle East. The deployment could give President Trump more military options after a 15-point proposal, delivered via Pakistan, was sent to the Iranians, according to two officials briefed on the diplomacy.",
+      "summary": "Iran War Live Updates: Israel Strikes Tehran After Pakistan Offers to Host U.S.-Iran Talks. The Pentagon said it was sending 2,000 airborne troops to the Middle East, even as President Trump seemed to endorse Pakistan’s offer to broker negotiations. It was unclear whether Iran and Israel supported a U.S. peace plan.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil",
-          "published_at": "2026-03-25T06:20:14.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news",
+          "published_at": "2026-03-25T12:48:48.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+      "headline": "Yep, a mom's COVID shot during pregnancy protects her baby, a large study finds",
       "region": "us",
-      "summary": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns. OpenAI said Tuesday that it was \"saying goodbye to the Sora app\" and that it would share more soon about how to preserve what users already created on the app.",
+      "summary": "Yep, a mom's COVID shot during pregnancy protects her baby, a large study finds. A 3-year study published in Pediatrics examined newborns in Norway. It found a clear benefit for the baby when mom gets a COVID vaccination during pregnancy.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/g-s1-115055/openai-pulls-the-plug-on-sora-the-viral-ai-video-app-that-sparked-deepfake-concerns",
-          "published_at": "2026-03-25T05:34:01.000Z"
+          "url": "https://www.npr.org/2026/03/25/nx-s1-5759732/covid-vaccination-pregnancy-safety-efficacy",
+          "published_at": "2026-03-25T12:12:54.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "[PHOTO] Korean-developed sub embarks on trans-Pacific journey",
+      "headline": "(2nd LD) Belarusian president begins official visit to N. Korea: report",
       "region": "korea",
-      "summary": "[PHOTO] Korean-developed sub embarks on trans-Pacific journey. Sailors aboard the ROKS Dosan Ahn Chang-ho, a 3,000-ton Korean-developed naval submarine, bid farewell to their families at a naval port in Changwon, South Gyeongsang Province, March 25, as the vessel departs for its first-ever trans-Pacific voyage to take part in joint drills with Canada in June. The deployment comes as Korea intensifies its bid for a Canadian submarine development contract valued at around 60 trillion won ($40 billion). Yonhap.",
+      "summary": "(2nd LD) Belarusian president begins official visit to N. Korea: report. SEOUL, March 25 (Yonhap) -- Belarusian President Aleksandr Lukashenko has begun ..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/defense/20260325/photo-korean-developed-sub-embarks-on-trans-pacific-journey?utm_source=rss",
-          "published_at": "2026-03-25T06:52:03.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260325006852315",
+          "published_at": "2026-03-25T12:34:16.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Cheap Drones Remain Wild Card in Iran war",
+      "region": "world",
+      "summary": "Cheap Drones Remain Wild Card in Iran war. Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
+          "published_at": "2026-03-25T10:27:53.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
+      "region": "world",
+      "summary": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon. In Cameroon, the Trump administration found a partner it could pressure into accepting covertly deported migrants.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html",
+          "published_at": "2026-03-25T09:01:05.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Sarah Mullally, the First Female Archbishop of Canterbury, is About to Be Enthroned",
+      "region": "world",
+      "summary": "Sarah Mullally, the First Female Archbishop of Canterbury, is About to Be Enthroned. Sarah Mullally will be installed on Wednesday at Canterbury Cathedral. Her appointment to the role has been both celebrated, and denounced by some factions within the global Anglican Church.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html",
+          "published_at": "2026-03-25T04:01:06.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
+      "region": "world",
+      "summary": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.. Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
+          "published_at": "2026-03-25T09:41:18.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Four Takeaways From Denmark’s Election",
+      "region": "world",
+      "summary": "Four Takeaways From Denmark’s Election. A desire for change and a fractured political landscape left Prime Minister Mette Frederiksen ahead, but with a tough road to securing a new term.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/takeaways-denmark-election-frederiksen.html",
+          "published_at": "2026-03-25T09:55:04.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Gambia Says the Island Is Cursed. Migrants Saw an Opportunity.",
+      "region": "world",
+      "summary": "Gambia Says the Island Is Cursed. Migrants Saw an Opportunity.. Thousands of African migrants hoping to reach Europe have flocked to a remote island in Gambia that local villagers say is protected by a curse.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/africa/gambia-migrants-cursed-island.html",
+          "published_at": "2026-03-25T04:15:12.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "A Missile Fragment in a Schoolyard",
+      "region": "world",
+      "summary": "A Missile Fragment in a Schoolyard. Examining an image of children near a missile fragment, which landed near a school as several families were sheltering inside it.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html",
+          "published_at": "2026-03-25T04:01:12.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Two Men Arrested in Attack on Jewish Charity Ambulances in London",
+      "region": "world",
+      "summary": "Two Men Arrested in Attack on Jewish Charity Ambulances in London. The police said the men, aged 45 and 47, are accused of arson with intent to endanger life stemming from the arson attack on Monday in Golders Green.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/jewish-ambulances-arson-arrests.html",
+          "published_at": "2026-03-25T09:38:35.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "For Australia’s Farmers, Fuel Crisis Comes at ‘Worst Possible Time’",
+      "region": "world",
+      "summary": "For Australia’s Farmers, Fuel Crisis Comes at ‘Worst Possible Time’. Their troubles could cascade across Asia because they export a majority of their products.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/australia/australia-farm-fuel-oil-prices.html",
+          "published_at": "2026-03-25T09:40:15.000Z"
         }
       ],
       "reliability_score": 1
@@ -54,19 +171,6 @@
       "reliability_score": 1
     },
     {
-      "headline": "How Pakistan Is Trying to Reshape Its Image Abroad",
-      "region": "world",
-      "summary": "How Pakistan Is Trying to Reshape Its Image Abroad. New, friendly media operations and expanded state-run television are pushing Pakistan’s message while independent news outlets face repression.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/asia/pakistan-media-news-misinformation.html",
-          "published_at": "2026-03-24T13:15:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
       "headline": "Investigators Seek Answers in Attacks on Jewish Sites in Europe",
       "region": "world",
       "summary": "Investigators Seek Answers in Attacks on Jewish Sites in Europe. Attacks on schools and property in several countries have Jewish communities on edge, amid suspicions that Iran is behind the violence.",
@@ -80,118 +184,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration",
-      "region": "world",
-      "summary": "Costa Rica Agrees to Take Migrants Deported by the Trump Administration. The agreement is part of President Trump’s efforts to find governments willing to accept people who have been detained in the United States.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/americas/costa-rica-us-deportation-deal.html",
-          "published_at": "2026-03-24T19:54:09.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Italy’s Meloni Seemed Unbeatable. A Referendum Defeat Has Dented Her Aura.",
-      "region": "world",
-      "summary": "Italy’s Meloni Seemed Unbeatable. A Referendum Defeat Has Dented Her Aura.. Prime Minister Giorgia Meloni had led one of Italy’s most stable postwar governments. Now she’s under pressure after failing to convince Italians to back a judicial overhaul.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/italy-meloni-referendum-defeat.html",
-          "published_at": "2026-03-24T18:57:41.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Government Cuts Gut the Memory of Argentina’s Dirty War",
-      "region": "world",
-      "summary": "Government Cuts Gut the Memory of Argentina’s Dirty War. Fifty years after the military dictatorship, Argentina’s government is defunding human rights groups and promoting a revisionist account of the junta’s crimes.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/americas/government-cuts-argentina-dirty-war.html",
-          "published_at": "2026-03-24T14:51:30.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran",
-      "region": "world",
-      "summary": "Trump Sours on Keir Starmer Over UK’s Decision Not to Join Attacks on Iran. President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html",
-          "published_at": "2026-03-24T15:38:43.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Afghanistan Frees American Dennis Coyle from Detention",
-      "region": "world",
-      "summary": "Afghanistan Frees American Dennis Coyle from Detention. Dennis Walter Coyle, a researcher from Colorado, had been held since last year by the Taliban government.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/asia/afghanistan-releases-american-detainee.html",
-          "published_at": "2026-03-24T16:07:04.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?",
-      "region": "world",
-      "summary": "Ukraine Spent Big to Shield Energy Industry From Drones. Is the Mideast Next?. With the use of electronic jamming systems and interceptor drones, the Ukrainian national oil and gas company may be a model for others.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/ukraine-middle-east-oil-and-gas-drones.html",
-          "published_at": "2026-03-24T09:14:42.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues",
-      "region": "world",
-      "summary": "As Denmark Goes to the Polls, Here’s What to Know About the Election and Key Issues. President Trump’s threats to take Greenland away from Denmark have lifted Prime Minister Mette Frederiksen, who appeared the front-runner as polls opened.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/24/world/europe/denmark-election-mette-frederiksen-greenland.html",
-          "published_at": "2026-03-24T11:02:41.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal",
-      "region": "world",
-      "summary": "How North Korea’s Kim Jong-un Is Using the Iran War to Justify His Nuclear Arsenal. He delivered a lengthy speech at his country’s rubber-stamp Parliament, declaring that his nuclear power will shield his country from American hostility.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/23/world/asia/north-korea-kim-iran-nuclear.html",
-          "published_at": "2026-03-24T03:44:07.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Rubio plans travel to France to sell Iran war to skeptical G7 allies",
+      "headline": "Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks",
       "region": "us",
-      "summary": "Rubio plans travel to France to sell Iran war to skeptical G7 allies. Secretary of State Marco Rubio will travel to France this week to try to sell America's skeptical Group of Seven allies on the Iran war that has sent global fuel prices soaring.",
+      "summary": "Thousands of U.S. troops deploy to Middle East. And, the latest on DHS funding talks. The U.S. is sending thousands of paratroopers from the 82nd Airborne to the Middle East. And, congressional Republicans present Democrats with a new deal to fund the Department of Homeland Security.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/g-s1-115053/rubio-plans-travel-to-france-to-sell-iran-war-to-skeptical-g7-allies",
-          "published_at": "2026-03-25T05:23:03.000Z"
+          "url": "https://www.npr.org/2026/03/25/g-s1-115071/up-first-newsletter-trump-iran-israel-lebanon-dhs-funding-data-brokers",
+          "published_at": "2026-03-25T11:26:10.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +199,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Claude Code can now generate full UI designs with Google Stitch — Here's what you need to know",
-      "score": 0.51,
-      "summary": "Thread on \"Claude Code can now generate full UI designs with Google Stitch — Here's what you need to know\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s31vwq/claude_code_can_now_generate_full_ui_designs_with/",
-      "subreddit": "ClaudeCode"
+      "title": "Why aren't chats linked to projects? I am having a hard time finding old chats when opening old projects, is there a solution?",
+      "score": 0.47,
+      "summary": "Thread on \"Why aren't chats linked to projects? I am having a hard time finding old chats when opening old projects, is there a sol\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s388vo/why_arent_chats_linked_to_projects_i_am_having_a/",
+      "subreddit": "codex"
     },
     {
-      "title": "I was waiting for Sora android app",
-      "score": 0.5,
-      "summary": "Thread on \"I was waiting for Sora android app\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s30yxf/i_was_waiting_for_sora_android_app/",
+      "title": "Shutting down Sora",
+      "score": 0.49,
+      "summary": "Thread on \"Shutting down Sora\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s359mu/shutting_down_sora/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "well...that was faster than expected.",
-      "score": 0.45,
-      "summary": "Thread on \"well...that was faster than expected.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s2rorg/wellthat_was_faster_than_expected/",
+      "title": "OpenAI Raises Extra $10 Billion, Total Funding Now Exceeds $120 Billion",
+      "score": 0.51,
+      "summary": "Thread on \"OpenAI Raises Extra $10 Billion, Total Funding Now Exceeds $120 Billion\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s37v05/openai_raises_extra_10_billion_total_funding_now/",
       "subreddit": "OpenAI"
     },
     {
-      "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
+      "title": "First-ever American AI Jobs Risk Index released by Tufts University",
       "score": 0.51,
+      "summary": "Thread on \"First-ever American AI Jobs Risk Index released by Tufts University\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s38zik/firstever_american_ai_jobs_risk_index_released_by/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Experience coming from Claude and Codex",
+      "score": 0.47,
+      "summary": "Thread on \"Experience coming from Claude and Codex\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s337wg/experience_coming_from_claude_and_codex/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Are you still using an IDE?",
+      "score": 0.39,
+      "summary": "Thread on \"Are you still using an IDE?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s2no8h/are_you_still_using_an_ide/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "High CPU usage with open ai codex + vscode",
+      "score": 0.45,
+      "summary": "Thread on \"High CPU usage with open ai codex + vscode\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenaiCodex/comments/1s2yuue/high_cpu_usage_with_open_ai_codex_vscode/",
+      "subreddit": "OpenaiCodex"
+    },
+    {
+      "title": "Not worth it anymore",
+      "score": 0.49,
+      "summary": "Thread on \"Not worth it anymore\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/kimi/comments/1s35doi/not_worth_it_anymore/",
+      "subreddit": "kimi"
+    },
+    {
+      "title": "Persistent self-dialogue as a path to emergent consciousness.",
+      "score": 0.5,
+      "summary": "Thread on \"Persistent self-dialogue as a path to emergent consciousness.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s37cvm/persistent_selfdialogue_as_a_path_to_emergent/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "I will miss Sora",
+      "score": 0.49,
+      "summary": "Thread on \"I will miss Sora\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s35sea/i_will_miss_sora/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "China bars Manus co-founders from leaving country amid Meta deal review, FT reports",
+      "score": 0.49,
+      "summary": "Thread on \"China bars Manus co-founders from leaving country amid Meta deal review, FT reports\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s35jec/china_bars_manus_cofounders_from_leaving_country/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Witness Caught Using Smartglasses in Court Blames it all on ChatGPT",
+      "score": 0.48,
+      "summary": "Thread on \"Witness Caught Using Smartglasses in Court Blames it all on ChatGPT\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s342sl/witness_caught_using_smartglasses_in_court_blames/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "Google: Building superconducting and neutral atom quantum computers",
+      "score": 0.47,
+      "summary": "Thread on \"Google: Building superconducting and neutral atom quantum computers\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s332st/google_building_superconducting_and_neutral_atom/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Every time someone is surprised when they find out AI is just a pattern identifier",
+      "score": 0.46,
       "summary": "Thread on \"Every time someone is surprised when they find out AI is just a pattern identifier\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
       "source_link": "https://www.reddit.com/r/singularity/comments/1s31t9h/every_time_someone_is_surprised_when_they_find/",
       "subreddit": "singularity"
     },
     {
-      "title": "I just checked my ChatGPT stats, i have chatted with ChatGPT more than the entire LOTR triology. Four times over.",
-      "score": 0.51,
-      "summary": "Thread on \"I just checked my ChatGPT stats, i have chatted with ChatGPT more than the entire LOTR triology. Four times over.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s31ucb/i_just_checked_my_chatgpt_stats_i_have_chatted/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Today is Wednesday. Are you pulling my leg, Claude?",
-      "score": 0.51,
-      "summary": "Thread on \"Today is Wednesday. Are you pulling my leg, Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s324t7/today_is_wednesday_are_you_pulling_my_leg_claude/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "When did blindly trusting an AI actually ruin your day?",
-      "score": 0.51,
-      "summary": "Thread on \"When did blindly trusting an AI actually ruin your day?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s32vp4/when_did_blindly_trusting_an_ai_actually_ruin/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Are any Data Scientist here using AI to finally bridge the \"Engineering Gap\" ?",
-      "score": 0.51,
-      "summary": "Thread on \"Are any Data Scientist here using AI to finally bridge the \"Engineering Gap\" ?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s32k5i/are_any_data_scientist_here_using_ai_to_finally/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "LLMs are making everyone sound the same",
-      "score": 0.5,
-      "summary": "Thread on \"LLMs are making everyone sound the same\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s307cp/llms_are_making_everyone_sound_the_same/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "One-Minute Daily AI News 3/24/2026",
-      "score": 0.5,
-      "summary": "Thread on \"One-Minute Daily AI News 3/24/2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s31fes/oneminute_daily_ai_news_3242026/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Question to those who are hitting their usage limits",
-      "score": 0.5,
-      "summary": "Thread on \"Question to those who are hitting their usage limits\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s308mi/question_to_those_who_are_hitting_their_usage/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "No issue with usage, but a HUGE drop in quality.",
-      "score": 0.49,
-      "summary": "Thread on \"No issue with usage, but a HUGE drop in quality.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s2zeyg/no_issue_with_usage_but_a_huge_drop_in_quality/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Oh",
-      "score": 0.47,
-      "summary": "Thread on \"Oh\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s2ugqc/oh/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "When you become successful using Claude code but you now can't fix anything because you've hit your limit.",
-      "score": 0.47,
-      "summary": "Thread on \"When you become successful using Claude code but you now can't fix anything because you've hit your limit.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s2udta/when_you_become_successful_using_claude_code_but/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "This thing might be sentient...",
-      "score": 0.46,
-      "summary": "Thread on \"This thing might be sentient...\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s2t30j/this_thing_might_be_sentient/",
-      "subreddit": "claude"
+      "title": "Model Switch Advice (and why Antigravity doesn't like to run command it's self?)",
+      "score": 0.43,
+      "summary": "Thread on \"Model Switch Advice (and why Antigravity doesn't like to run command it's self?)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s2vv5f/model_switch_advice_and_why_antigravity_doesnt/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-25T06:55:52.855Z",
-    "refresh_finished_at": "2026-03-25T06:55:56.442Z",
+    "refresh_started_at": "2026-03-25T12:56:14.512Z",
+    "refresh_finished_at": "2026-03-25T12:56:53.931Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +315,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1801
+        "duration_ms": 1957
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3547
+        "duration_ms": 39378
       }
     },
     "warnings": []
