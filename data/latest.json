@@ -1,158 +1,124 @@
 {
-  "generated_at": "2026-03-26T07:01:08.626Z",
+  "generated_at": "2026-03-26T13:01:19.419Z",
   "news_summary": [
     {
-      "headline": "Tehran Dismisses U.S. Cease-Fire Conditions as Israel Steps Up Attacks",
+      "headline": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran",
       "region": "world",
-      "summary": "Tehran Dismisses U.S. Cease-Fire Conditions as Israel Steps Up Attacks. Tehran offered its own terms to end the fighting that include a demand for reparations. Israel, concerned that the war might end before it can dismantle Iran’s weapons programs, plans to ramp up its attacks.",
+      "summary": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran. Israel said that an airstrike had killed Alireza Tangsiri, a key player in Iran’s blockade of the Strait of Hormuz. President Trump warned Iranian officials to consider his peace proposal “before it is too late.”.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/25/world/iran-war-trump-oil-news",
-          "published_at": "2026-03-26T05:28:48.000Z"
+          "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
+          "published_at": "2026-03-26T12:57:24.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Melania Trump shares the spotlight with a robot at an education and technology event",
+      "headline": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies",
       "region": "us",
-      "summary": "Melania Trump shares the spotlight with a robot at an education and technology event. The robot accompanied the first lady to the White House East Room for the final day of a summit she had convened with counterparts from around the world through her Fostering the Future Together global initiative.",
+      "summary": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies. Analysts say the Iran war energy crisis is also adding momentum to nuclear interest and action in the region.",
       "sources": [
         {
           "title": "NPR",
-          "url": "https://www.npr.org/2026/03/26/nx-s1-5761898/melania-trump-robot-education-technology-ai",
-          "published_at": "2026-03-26T05:29:31.000Z"
+          "url": "https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
+          "published_at": "2026-03-26T11:30:48.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Kookmin University joins EU quantum security project",
+      "headline": "(LEAD) Gov't announces adjusted price ceilings for fuel products to take effect midnight",
       "region": "korea",
-      "summary": "Kookmin University joins EU quantum security project. Kookmin University has secured a place in one of Europe’s largest research programs, signaling a deepening of cross-border collaboration in quantum technology and digital security. Kookmin University said Thursday that professor Yoo Il-sun, a faculty member in the information security and cryptography department, had been selected for the European Union’s flagship Horizon Europe initiative, a multibillion-euro program aimed at advancing strategic technologies including artificial intelligence (AI), quantum computing and semiconductors. The selection marks a rare case for a Korean university joining a core European research consortium in a field that combines quantum technology with digital security, underscoring growing global cooperation in next-generation technologies. The project, titled “Quantum Computing European Union-Korea Working Team,” will run for three years with a budget of about 2.7 million euros ($2.9 million). It is led by Politecnico di Milano in Italy and includes partners such as Germany’s Fraunhofer Institute and Finland-based IQM Quantum Computers. Kookmin U.",
+      "summary": "(LEAD) Gov't announces adjusted price ceilings for fuel products to take effect midnight. SEOUL, March 26 (Yonhap) -- The government announced Thursday adjusted price cei..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/20260326/kookmin-university-joins-eu-quantum-security-project?utm_source=rss",
-          "published_at": "2026-03-26T06:57:03.000Z"
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260326009051320",
+          "published_at": "2026-03-26T11:33:20.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260326009000320",
+          "published_at": "2026-03-26T11:00:03.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans",
-      "region": "us",
-      "summary": "UN calls for reparations to remedy the 'historical wrongs' of trafficking enslaved Africans. The U.N. General Assembly adopted a resolution declaring the trafficking of enslaved Africans \"the gravest crime against humanity\" and calling for reparations.",
+      "headline": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
+      "region": "world",
+      "summary": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran. European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/26/nx-s1-5761896/un-reparations-slavery-africa",
-          "published_at": "2026-03-26T05:21:13.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
+          "published_at": "2026-03-26T04:01:13.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "War with Iran disrupts fertilizer exports as U.S. farmers prepare for planting season",
-      "region": "us",
-      "summary": "War with Iran disrupts fertilizer exports as U.S. farmers prepare for planting season. Gulf states are major fertilizer producers, and the war with Iran has triggered a 25% price hike just as struggling U.S. farmers are planting corn.",
+      "headline": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined",
+      "region": "world",
+      "summary": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined. The Trump administration had options for offloading contraceptives once destined for Africa, a newly obtained memo shows. Instead, it has let them collect dust and go bad.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/26/g-s1-115240/iran-war-strait-hormuz-fertilizer-exports-farmers-planting-season",
-          "published_at": "2026-03-26T04:01:00.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/usaid-contraception-birth-control-belgium-africa.html",
+          "published_at": "2026-03-26T04:01:06.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "OpenAI's Sora app may be going away, but its legacy will be the spread of AI video slop",
-      "region": "us",
-      "summary": "OpenAI's Sora app may be going away, but its legacy will be the spread of AI video slop. Barely six months after its launch, OpenAI is ending an app that could generate AI video at the click of a button.",
+      "headline": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection",
+      "region": "world",
+      "summary": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection. The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5759931/openais-sora-app-may-be-going-away-but-its-legacy-will-be-the-spread-ai-video-slop",
-          "published_at": "2026-03-25T21:05:01.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
+          "published_at": "2026-03-26T04:24:08.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Doctors worry about FDA scrutiny of RSV shots to protect babies",
-      "region": "us",
-      "summary": "Doctors worry about FDA scrutiny of RSV shots to protect babies. The antibody shots are about 80% effective at preventing babies from ending up in intensive care because of RSV. The drugmakers behind them maintain they're safe.",
+      "headline": "India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran",
+      "region": "world",
+      "summary": "India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran. Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5729092/fda-rsv-antibodies-shots-babies",
-          "published_at": "2026-03-25T20:26:59.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/asia/india-pakistan-iran-trump-modi.html",
+          "published_at": "2026-03-26T09:44:20.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Travelers are facing the longest TSA wait times in history",
-      "region": "us",
-      "summary": "Travelers are facing the longest TSA wait times in history. Wait times are exceeding four hours at some major airports, leading TSA officers to call out at rates of 40 to 50%, according to TSA Deputy Administrator Ha Nguyen McNeill.",
+      "headline": "In Rural Ukraine, Basic Health Care Is a Casualty of War",
+      "region": "world",
+      "summary": "In Rural Ukraine, Basic Health Care Is a Casualty of War. Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5760981/tsa-wait-times-lines",
-          "published_at": "2026-03-25T19:19:32.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html",
+          "published_at": "2026-03-26T09:01:16.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor",
-      "region": "us",
-      "summary": "Greetings from Turkey's border with Iran, where Iranians let loose on the dance floor. Iranians escaping hardship and war are shaking it off to Persian, Arabic and Turkish tunes in this disco in eastern Turkey.",
+      "headline": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+      "region": "world",
+      "summary": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say. Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5760830/iranian-disco-turkey-iran",
-          "published_at": "2026-03-25T18:27:54.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Jury finds Meta and Google negligent in social media harms trial",
-      "region": "us",
-      "summary": "Jury finds Meta and Google negligent in social media harms trial. The jury ordered the companies to pay $6 million in damages over defective design. The landmark verdict may influence the outcome of 2,000 other pending lawsuits.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
-          "published_at": "2026-03-25T17:32:39.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "For the first time in more than 1,400 years, Church of England gets a woman leader",
-      "region": "us",
-      "summary": "For the first time in more than 1,400 years, Church of England gets a woman leader. A new archbishop of Canterbury has been installed in a historic ceremony. Sarah Mullally is the 106th person to hold the job, and the first woman.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5753707/archbishop-canterbury-church-england-sarah-mullally",
-          "published_at": "2026-03-25T17:11:19.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Savannah Guthrie's first interview since mother Nancy vanished: 'I imagine her terror'",
-      "region": "us",
-      "summary": "Savannah Guthrie's first interview since mother Nancy vanished: 'I imagine her terror'. Nearly two months after Nancy Guthrie disappeared, her daughter Savannah discusses the toll on her family in an emotional interview with her Today show colleague Hoda Kotb.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/25/nx-s1-5760906/savannah-guthrie-interview-mother-nancy",
-          "published_at": "2026-03-25T16:37:20.000Z"
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+          "published_at": "2026-03-26T09:01:30.000Z"
         }
       ],
       "reliability_score": 1
@@ -195,119 +161,158 @@
         }
       ],
       "reliability_score": 1
+    },
+    {
+      "headline": "Sarah Mullally, the First Female Archbishop of Canterbury, Is Enthroned",
+      "region": "world",
+      "summary": "Sarah Mullally, the First Female Archbishop of Canterbury, Is Enthroned. Sarah Mullally was installed on Wednesday at Canterbury Cathedral. Her appointment to the role has been both celebrated and denounced by some factions within the global Anglican Church.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html",
+          "published_at": "2026-03-25T17:24:32.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Sexual Misconduct Report Leaves I.C.C.’s Path Ahead Unclear",
+      "region": "world",
+      "summary": "Sexual Misconduct Report Leaves I.C.C.’s Path Ahead Unclear. In a report obtained by The New York Times, a panel of judges found that evidence of sexual misconduct by the chief prosecutor of the International Criminal Court left room for “reasonable doubt.”.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/25/world/europe/sexual-harassment-international-criminal-court-khan.html",
+          "published_at": "2026-03-25T15:24:26.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial",
+      "region": "us",
+      "summary": "Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial. Iran rejects a U.S. proposal to end the war and counters with a different peace plan. And, a jury finds Meta and Google negligent in a trial over social media's harms.",
+      "sources": [
+        {
+          "title": "NPR",
+          "url": "https://www.npr.org/2026/03/26/g-s1-115289/up-first-newsletter-iran-israel-trump-meta-google-social-media-cdc-director",
+          "published_at": "2026-03-26T11:16:16.000Z"
+        }
+      ],
+      "reliability_score": 1
     }
   ],
   "reddit_ai_summary": [
     {
-      "title": "this is why they shut Sora down.",
-      "score": 0.37,
-      "summary": "Thread on \"this is why they shut Sora down.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s36zhh/this_is_why_they_shut_sora_down/",
-      "subreddit": "ClaudeCode"
+      "title": "Incoming utopia for the rich, and a crisis for the rest of us? Do you agree or disagree with this take?",
+      "score": 0.51,
+      "summary": "Thread on \"Incoming utopia for the rich, and a crisis for the rest of us? Do you agree or disagree with this take?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s44hud/incoming_utopia_for_the_rich_and_a_crisis_for_the/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Claude opus 4.6",
-      "score": 0.51,
-      "summary": "Thread on \"Claude opus 4.6\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s3zavk/claude_opus_46/",
+      "title": "Claude Code now has auto mode",
+      "score": 0.26,
+      "summary": "Thread on \"Claude Code now has auto mode\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2ok85/claude_code_now_has_auto_mode/",
       "subreddit": "ClaudeAI"
     },
     {
-      "title": "Anthropic broke your limits with the 1M context update",
-      "score": 0.49,
-      "summary": "Thread on \"Anthropic broke your limits with the 1M context update\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/Anthropic/comments/1s3vuh5/anthropic_broke_your_limits_with_the_1m_context/",
-      "subreddit": "Anthropic"
-    },
-    {
-      "title": "There will be no Usage Reset",
+      "title": "ELI5 for a layperson: how can I make a personal assistant?",
       "score": 0.5,
-      "summary": "Thread on \"There will be no Usage Reset\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s3xfd6/there_will_be_no_usage_reset/",
-      "subreddit": "claude"
+      "summary": "Thread on \"ELI5 for a layperson: how can I make a personal assistant?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s43ppg/eli5_for_a_layperson_how_can_i_make_a_personal/",
+      "subreddit": "AI_Agents"
     },
     {
-      "title": "Focus on Openclaw or Claude?",
+      "title": "Has Ai workflow automation for teams helped you stop chasing task?",
+      "score": 0.52,
+      "summary": "Thread on \"Has Ai workflow automation for teams helped you stop chasing task?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s46q3v/has_ai_workflow_automation_for_teams_helped_you/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "How do you secure your claw not to send sensitive data?",
       "score": 0.51,
-      "summary": "Thread on \"Focus on Openclaw or Claude?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s3yg6k/focus_on_openclaw_or_claude/",
+      "summary": "Thread on \"How do you secure your claw not to send sensitive data?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s45x92/how_do_you_secure_your_claw_not_to_send_sensitive/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Why openclaw?",
-      "score": 0.49,
-      "summary": "Thread on \"Why openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/clawdbot/comments/1s3w1ug/why_openclaw/",
-      "subreddit": "clawdbot"
+      "title": "Cold calling still works… but doing it manually is painful",
+      "score": 0.52,
+      "summary": "Thread on \"Cold calling still works… but doing it manually is painful\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s46nyq/cold_calling_still_works_but_doing_it_manually_is/",
+      "subreddit": "AiAutomations"
     },
     {
-      "title": "GitHub will now use data sent to copilot for training: Privacy Statement update on Copilot data use for model training (Free/Pro/Pro+)",
-      "score": 0.44,
-      "summary": "Thread on \"GitHub will now use data sent to copilot for training: Privacy Statement update on Copilot data use for model training (\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1s3lmhv/github_will_now_use_data_sent_to_copilot_for/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "How to publish your own version of OpenClaw?",
+      "title": "Built a semantic search-powered AI assistant with Drupal at its core",
       "score": 0.51,
-      "summary": "Thread on \"How to publish your own version of OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s3zmzh/how_to_publish_your_own_version_of_openclaw/",
+      "summary": "Thread on \"Built a semantic search-powered AI assistant with Drupal at its core\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s44wj5/built_a_semantic_searchpowered_ai_assistant_with/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Which model for linkedin / twitter growth?",
+      "score": 0.51,
+      "summary": "Thread on \"Which model for linkedin / twitter growth?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s44i7u/which_model_for_linkedin_twitter_growth/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Any good advice using openclaw?",
+      "title": "4090 24 VRAM + 64 RAM machine collecting dust. Any use as local inference for OpenClaw?",
       "score": 0.51,
-      "summary": "Thread on \"Any good advice using openclaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s3zkb3/any_good_advice_using_openclaw/",
+      "summary": "Thread on \"4090 24 VRAM + 64 RAM machine collecting dust. Any use as local inference for OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s45cl1/4090_24_vram_64_ram_machine_collecting_dust_any/",
       "subreddit": "openclaw"
     },
     {
-      "title": "How I cut my OpenClaw API costs by 50 percent with multi-model routing",
+      "title": "Reflex robotics places their humanoid robot into a pizzeria, other places",
       "score": 0.5,
-      "summary": "Thread on \"How I cut my OpenClaw API costs by 50 percent with multi-model routing\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s3xynz/how_i_cut_my_openclaw_api_costs_by_50_percent/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"Reflex robotics places their humanoid robot into a pizzeria, other places\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s440z7/reflex_robotics_places_their_humanoid_robot_into/",
+      "subreddit": "singularity"
     },
     {
-      "title": "RAG is a trap for Claude Code. I built a DAG-based context compiler that cut my Opus token usage by 12x.",
+      "title": "What ARC AGI-5 should be like (Behavior1k)",
       "score": 0.5,
-      "summary": "Thread on \"RAG is a trap for Claude Code. I built a DAG-based context compiler that cut my Opus token usage by 12x.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s3wt3n/rag_is_a_trap_for_claude_code_i_built_a_dagbased/",
-      "subreddit": "ClaudeAI"
+      "summary": "Thread on \"What ARC AGI-5 should be like (Behavior1k)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s42vyu/what_arc_agi5_should_be_like_behavior1k/",
+      "subreddit": "singularity"
     },
     {
-      "title": "Openclaw Procrastination",
-      "score": 0.49,
-      "summary": "Thread on \"Openclaw Procrastination\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s3voil/openclaw_procrastination/",
+      "title": "How are you handling alert fatigue in your SOC right now?",
+      "score": 0.5,
+      "summary": "Thread on \"How are you handling alert fatigue in your SOC right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s449rg/how_are_you_handling_alert_fatigue_in_your_soc/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Agents that generate their own code at runtime",
+      "score": 0.5,
+      "summary": "Thread on \"Agents that generate their own code at runtime\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s43ueb/agents_that_generate_their_own_code_at_runtime/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Has anyone here run Nemotron through OpenClaw?",
+      "score": 0.5,
+      "summary": "Thread on \"Has anyone here run Nemotron through OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s43idw/has_anyone_here_run_nemotron_through_openclaw/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Usage limit oddities",
-      "score": 0.49,
-      "summary": "Thread on \"Usage limit oddities\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s3wmmk/usage_limit_oddities/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Giving Claude access to my MacBook / macOS",
-      "score": 0.47,
-      "summary": "Thread on \"Giving Claude access to my MacBook / macOS\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s3ss8s/giving_claude_access_to_my_macbook_macos/",
-      "subreddit": "ClaudeAI"
-    },
-    {
-      "title": "Claude Alternatives?",
-      "score": 0.46,
-      "summary": "Thread on \"Claude Alternatives?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s3q1ns/claude_alternatives/",
-      "subreddit": "claude"
+      "title": "Building a Second Brain with OpenClaw + Obsidian - looking for setup advice",
+      "score": 0.5,
+      "summary": "Thread on \"Building a Second Brain with OpenClaw + Obsidian - looking for setup advice\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s43dpg/building_a_second_brain_with_openclaw_obsidian/",
+      "subreddit": "openclaw"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-26T07:01:04.052Z",
-    "refresh_finished_at": "2026-03-26T07:01:08.626Z",
+    "refresh_started_at": "2026-03-26T13:00:41.491Z",
+    "refresh_finished_at": "2026-03-26T13:01:19.419Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1638
+        "duration_ms": 2028
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 4537
+        "duration_ms": 37881
       }
     },
     "warnings": []
