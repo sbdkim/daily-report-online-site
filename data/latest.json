@@ -1,85 +1,132 @@
 {
-  "generated_at": "2026-03-26T13:01:19.419Z",
+  "generated_at": "2026-03-26T18:58:40.815Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran",
+      "headline": "Iran War Live Updates: Trump Delivers New Threats, Escalating Effort to Pressure Iran",
       "region": "world",
-      "summary": "Iran War Live Updates: Israel Says It Killed Iranian Naval Commander as Trump Raises Pressure on Tehran. Israel said that an airstrike had killed Alireza Tangsiri, a key player in Iran’s blockade of the Strait of Hormuz. President Trump warned Iranian officials to consider his peace proposal “before it is too late.”.",
+      "summary": "Iran War Live Updates: Trump Delivers New Threats, Escalating Effort to Pressure Iran. Mr. Trump warned Iranian officials to consider his peace proposal “before it is too late.” As the administration struggles to force Iran to fully open the Strait of Hormuz to oil shipments, the Israelis said they had killed an Iranian naval commander who was key to shutting the waterway.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
-          "published_at": "2026-03-26T12:57:24.000Z"
+          "published_at": "2026-03-26T18:49:50.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies",
+      "headline": "Trump's Iran strategy is to pursue two off-ramps at once",
       "region": "us",
-      "summary": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies. Analysts say the Iran war energy crisis is also adding momentum to nuclear interest and action in the region.",
+      "summary": "Trump's Iran strategy is to pursue two off-ramps at once. The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/26/g-s1-115291/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
-          "published_at": "2026-03-26T11:30:48.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T02:00:53.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "(LEAD) Gov't announces adjusted price ceilings for fuel products to take effect midnight",
+      "headline": "Trump says taking control of Iran oil an 'option,' cites Venezuela",
       "region": "korea",
-      "summary": "(LEAD) Gov't announces adjusted price ceilings for fuel products to take effect midnight. SEOUL, March 26 (Yonhap) -- The government announced Thursday adjusted price cei..",
+      "summary": "Trump says taking control of Iran oil an 'option,' cites Venezuela. WASHINGTON, March 26 (Yonhap) -- U.S. President Donald Trump said Thursday that ..",
       "sources": [
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260326009051320",
-          "published_at": "2026-03-26T11:33:20.000Z"
-        },
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260326009000320",
-          "published_at": "2026-03-26T11:00:03.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260327000200315",
+          "published_at": "2026-03-26T18:46:12.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
+      "headline": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
       "region": "world",
-      "summary": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran. European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
+      "summary": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say. Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
-          "published_at": "2026-03-26T04:01:13.000Z"
+          "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
+          "published_at": "2026-03-26T16:05:03.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined",
+      "headline": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed",
       "region": "world",
-      "summary": "How U.S.A.I.D. Birth Control Meant for Africa Was Ruined. The Trump administration had options for offloading contraceptives once destined for Africa, a newly obtained memo shows. Instead, it has let them collect dust and go bad.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/usaid-contraception-birth-control-belgium-africa.html",
-          "published_at": "2026-03-26T04:01:06.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection",
-      "region": "world",
-      "summary": "Chinese Education Influencer’s Sudden Death Prompts Grief, and Reflection. The influencer, Zhang Xuefeng, was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.",
+      "summary": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed. The influencer Zhang Xuefeng was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
-          "published_at": "2026-03-26T04:24:08.000Z"
+          "published_at": "2026-03-26T13:01:54.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Olympic Committee Bars Transgender Athletes From Women’s Events",
+      "region": "world",
+      "summary": "Olympic Committee Bars Transgender Athletes From Women’s Events. The decision is the most significant since Kirsty Coventry was elected last year to serve as president of the I.O.C.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
+          "published_at": "2026-03-26T18:04:29.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Hungary Opens Espionage Case Against Journalist",
+      "region": "world",
+      "summary": "Hungary Opens Espionage Case Against Journalist. The government of Prime Minister Viktor Orban has pursued an intensifying campaign against critics in a tough race before April elections.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/hungary-journalist-election-meddling-espionage.html",
+          "published_at": "2026-03-26T18:14:05.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Australia Temporarily Blocks Iranians With Visitor Visas From Entry",
+      "region": "world",
+      "summary": "Australia Temporarily Blocks Iranians With Visitor Visas From Entry. Iranian tourists with visas will be barred for six months in case they are ‘unable or unlikely’ to go back because of the war, Australian officials said.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/australia/oz-iran-visas.html",
+          "published_at": "2026-03-26T17:51:05.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
+      "region": "world",
+      "summary": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine. The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
+          "published_at": "2026-03-26T14:40:21.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target",
+      "region": "world",
+      "summary": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target. Trump and other American presidents have criticized Canada for failing to meet the alliance’s military spending minimum of 2 percent of gross domestic product.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html",
+          "published_at": "2026-03-26T18:07:50.000Z"
         }
       ],
       "reliability_score": 1
@@ -111,92 +158,45 @@
       "reliability_score": 1
     },
     {
-      "headline": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
+      "headline": "Malaysia Says Iran Will Allow Its Ships to Pass Through the Strait of Hormuz",
       "region": "world",
-      "summary": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say. Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
+      "summary": "Malaysia Says Iran Will Allow Its Ships to Pass Through the Strait of Hormuz. The reprieve would ease disruptions in Malaysia’s energy supply, but the prime minister has vowed to make preparations for a more volatile future.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
-          "published_at": "2026-03-26T09:01:30.000Z"
+          "url": "https://www.nytimes.com/2026/03/26/world/asia/iran-malaysia-ships-strait-of-hormuz.html",
+          "published_at": "2026-03-26T18:18:32.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon",
+      "headline": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
       "region": "world",
-      "summary": "Inside Trump’s Secret Deal to Deport Migrants to Cameroon. In Cameroon, the Trump administration found a partner it could pressure into accepting covertly deported migrants.",
+      "summary": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran. European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/25/world/africa/in-secret-deportation-deal-us-leveraged-favors-and-funds.html",
-          "published_at": "2026-03-25T16:46:27.000Z"
+          "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
+          "published_at": "2026-03-26T04:01:13.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.",
+      "headline": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
       "region": "world",
-      "summary": "Ukraine Finally Got Battlefield Momentum. Now Comes a Russian Offensive.. Moscow’s forces are intensifying their attacks in southern Ukraine after Kyiv made rare gains along the front.",
+      "summary": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees. A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/25/world/europe/ukraine-russia-war-zaporizhzhia.html",
-          "published_at": "2026-03-25T13:45:23.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Cheap Drones Remain Wild Card in Iran war",
-      "region": "world",
-      "summary": "Cheap Drones Remain Wild Card in Iran war. Stopping Iran’s production of drones is critical to opening the Strait of Hormuz and halting its attacks on Gulf nations. But can it be done.",
-      "sources": [
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T18:49:46.000Z"
+        },
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/25/world/middleeast/iran-war-cheap-drones.html",
-          "published_at": "2026-03-25T10:27:53.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Sarah Mullally, the First Female Archbishop of Canterbury, Is Enthroned",
-      "region": "world",
-      "summary": "Sarah Mullally, the First Female Archbishop of Canterbury, Is Enthroned. Sarah Mullally was installed on Wednesday at Canterbury Cathedral. Her appointment to the role has been both celebrated and denounced by some factions within the global Anglican Church.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/25/world/europe/sarah-mullally-archbishop-of-canterbury-church-of-england.html",
-          "published_at": "2026-03-25T17:24:32.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Sexual Misconduct Report Leaves I.C.C.’s Path Ahead Unclear",
-      "region": "world",
-      "summary": "Sexual Misconduct Report Leaves I.C.C.’s Path Ahead Unclear. In a report obtained by The New York Times, a panel of judges found that evidence of sexual misconduct by the chief prosecutor of the International Criminal Court left room for “reasonable doubt.”.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/25/world/europe/sexual-harassment-international-criminal-court-khan.html",
-          "published_at": "2026-03-25T15:24:26.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial",
-      "region": "us",
-      "summary": "Iran rejects U.S. peace plan. And, jury finds Meta, Google to blame in addiction trial. Iran rejects a U.S. proposal to end the war and counters with a different peace plan. And, a jury finds Meta and Google negligent in a trial over social media's harms.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/26/g-s1-115289/up-first-newsletter-iran-israel-trump-meta-google-social-media-cdc-director",
-          "published_at": "2026-03-26T11:16:16.000Z"
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T18:49:46.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Incoming utopia for the rich, and a crisis for the rest of us? Do you agree or disagree with this take?",
+      "title": "🚬🚬",
       "score": 0.51,
-      "summary": "Thread on \"Incoming utopia for the rich, and a crisis for the rest of us? Do you agree or disagree with this take?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s44hud/incoming_utopia_for_the_rich_and_a_crisis_for_the/",
+      "summary": "Thread on \"🚬🚬\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s4ddsg/_/",
+      "subreddit": "ChatGPT"
+    },
+    {
+      "title": "\"Car Wash Test\" debate: 6 OpenAI models from GPT-3.5 Turbo to GPT-5.4, debated the test. One still chose to walk.",
+      "score": 0.51,
+      "summary": "Thread on \"\"Car Wash Test\" debate: 6 OpenAI models from GPT-3.5 Turbo to GPT-5.4, debated the test. One still chose to walk.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4echj/car_wash_test_debate_6_openai_models_from_gpt35/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "I recreated a dream using AI",
+      "score": 0.5,
+      "summary": "Thread on \"I recreated a dream using AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s4aw5v/i_recreated_a_dream_using_ai/",
       "subreddit": "singularity"
     },
     {
-      "title": "Claude Code now has auto mode",
-      "score": 0.26,
-      "summary": "Thread on \"Claude Code now has auto mode\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeAI/comments/1s2ok85/claude_code_now_has_auto_mode/",
-      "subreddit": "ClaudeAI"
+      "title": "Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — \"or you’re neurodivergent\"",
+      "score": 0.49,
+      "summary": "Thread on \"Palantir’s billionaire CEO says only two kinds of people will succeed in the AI era: trade workers — \"or you’re neurodiv\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s48zyw/palantirs_billionaire_ceo_says_only_two_kinds_of/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "ELI5 for a layperson: how can I make a personal assistant?",
-      "score": 0.5,
-      "summary": "Thread on \"ELI5 for a layperson: how can I make a personal assistant?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s43ppg/eli5_for_a_layperson_how_can_i_make_a_personal/",
-      "subreddit": "AI_Agents"
+      "title": "Antigravity stopped replying after recent update.",
+      "score": 0.51,
+      "summary": "Thread on \"Antigravity stopped replying after recent update.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s4djod/antigravity_stopped_replying_after_recent_update/",
+      "subreddit": "google_antigravity"
     },
     {
-      "title": "Has Ai workflow automation for teams helped you stop chasing task?",
+      "title": "Token Use Leak / Check your tmp file",
       "score": 0.52,
-      "summary": "Thread on \"Has Ai workflow automation for teams helped you stop chasing task?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s46q3v/has_ai_workflow_automation_for_teams_helped_you/",
-      "subreddit": "AiAutomations"
-    },
-    {
-      "title": "How do you secure your claw not to send sensitive data?",
-      "score": 0.51,
-      "summary": "Thread on \"How do you secure your claw not to send sensitive data?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s45x92/how_do_you_secure_your_claw_not_to_send_sensitive/",
+      "summary": "Thread on \"Token Use Leak / Check your tmp file\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s4fwuj/token_use_leak_check_your_tmp_file/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Cold calling still works… but doing it manually is painful",
-      "score": 0.52,
-      "summary": "Thread on \"Cold calling still works… but doing it manually is painful\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s46nyq/cold_calling_still_works_but_doing_it_manually_is/",
-      "subreddit": "AiAutomations"
-    },
-    {
-      "title": "Built a semantic search-powered AI assistant with Drupal at its core",
+      "title": "there is why sora is taking down",
       "score": 0.51,
-      "summary": "Thread on \"Built a semantic search-powered AI assistant with Drupal at its core\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s44wj5/built_a_semantic_searchpowered_ai_assistant_with/",
-      "subreddit": "AiAutomations"
+      "summary": "Thread on \"there is why sora is taking down\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4ec8m/there_is_why_sora_is_taking_down/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Which model for linkedin / twitter growth?",
-      "score": 0.51,
-      "summary": "Thread on \"Which model for linkedin / twitter growth?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s44i7u/which_model_for_linkedin_twitter_growth/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "4090 24 VRAM + 64 RAM machine collecting dust. Any use as local inference for OpenClaw?",
-      "score": 0.51,
-      "summary": "Thread on \"4090 24 VRAM + 64 RAM machine collecting dust. Any use as local inference for OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s45cl1/4090_24_vram_64_ram_machine_collecting_dust_any/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Reflex robotics places their humanoid robot into a pizzeria, other places",
+      "title": "OpenAI puts erotic chatbot plans on hold ‘indefinitely’",
       "score": 0.5,
-      "summary": "Thread on \"Reflex robotics places their humanoid robot into a pizzeria, other places\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s440z7/reflex_robotics_places_their_humanoid_robot_into/",
+      "summary": "Thread on \"OpenAI puts erotic chatbot plans on hold ‘indefinitely’\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s4bpxl/openai_puts_erotic_chatbot_plans_on_hold/",
       "subreddit": "singularity"
     },
     {
-      "title": "What ARC AGI-5 should be like (Behavior1k)",
+      "title": "People from across the political spectrum acknowledge the existential threat posed by AI",
       "score": 0.5,
-      "summary": "Thread on \"What ARC AGI-5 should be like (Behavior1k)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s42vyu/what_arc_agi5_should_be_like_behavior1k/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"People from across the political spectrum acknowledge the existential threat posed by AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4csyc/people_from_across_the_political_spectrum/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "How are you handling alert fatigue in your SOC right now?",
+      "title": "If you want…",
       "score": 0.5,
-      "summary": "Thread on \"How are you handling alert fatigue in your SOC right now?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s449rg/how_are_you_handling_alert_fatigue_in_your_soc/",
-      "subreddit": "AiAutomations"
+      "summary": "Thread on \"If you want…\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s4cokh/if_you_want/",
+      "subreddit": "ChatGPT"
     },
     {
-      "title": "Agents that generate their own code at runtime",
+      "title": "New user - Recent experience - new skills",
       "score": 0.5,
-      "summary": "Thread on \"Agents that generate their own code at runtime\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s43ueb/agents_that_generate_their_own_code_at_runtime/",
-      "subreddit": "AiAutomations"
-    },
-    {
-      "title": "Has anyone here run Nemotron through OpenClaw?",
-      "score": 0.5,
-      "summary": "Thread on \"Has anyone here run Nemotron through OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s43idw/has_anyone_here_run_nemotron_through_openclaw/",
+      "summary": "Thread on \"New user - Recent experience - new skills\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s4bfd7/new_user_recent_experience_new_skills/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Building a Second Brain with OpenClaw + Obsidian - looking for setup advice",
+      "title": "How to make Openclaw actually do things you tell it to. Help needed.",
       "score": 0.5,
-      "summary": "Thread on \"Building a Second Brain with OpenClaw + Obsidian - looking for setup advice\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s43dpg/building_a_second_brain_with_openclaw_obsidian/",
+      "summary": "Thread on \"How to make Openclaw actually do things you tell it to. Help needed.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s4cr9f/how_to_make_openclaw_actually_do_things_you_tell/",
       "subreddit": "openclaw"
+    },
+    {
+      "title": "Virtual “office” to see AI agents working (like Claw3D but simpler)with the chat box there?",
+      "score": 0.5,
+      "summary": "Thread on \"Virtual “office” to see AI agents working (like Claw3D but simpler)with the chat box there?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s4byr3/virtual_office_to_see_ai_agents_working_like/",
+      "subreddit": "openclaw"
+    },
+    {
+      "title": "OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags",
+      "score": 0.49,
+      "summary": "Thread on \"OpenAI halts \"Adult Mode\" as advisors, investors, and employees raise red flags\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4a1r6/openai_halts_adult_mode_as_advisors_investors_and/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Can someone suggest an auto accept extension that works with the current version of anti gravity?",
+      "score": 0.49,
+      "summary": "Thread on \"Can someone suggest an auto accept extension that works with the current version of anti gravity?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s498er/can_someone_suggest_an_auto_accept_extension_that/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-26T13:00:41.491Z",
-    "refresh_finished_at": "2026-03-26T13:01:19.419Z",
+    "refresh_started_at": "2026-03-26T18:58:04.731Z",
+    "refresh_finished_at": "2026-03-26T18:58:40.815Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 2028
+        "duration_ms": 1766
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 37881
+        "duration_ms": 36021
       }
     },
     "warnings": []
