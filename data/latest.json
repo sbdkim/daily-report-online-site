@@ -1,15 +1,46 @@
 {
-  "generated_at": "2026-03-27T07:01:03.550Z",
+  "generated_at": "2026-03-27T12:53:32.851Z",
   "news_summary": [
     {
-      "headline": "Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid",
+      "headline": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded",
       "region": "world",
-      "summary": "Trump Again Extends Deadline for Iran to Open Strait or Face Strikes on Power Grid. President Trump moved the deadline to reopen the major transit route for oil tankers from Friday to April 6. Stocks fell sharply and oil prices rose.",
+      "summary": "US Senate votes to fund most of Homeland Security to end airports chaos - but ICE excluded. The late-night vote is a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
       "sources": [
         {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil",
-          "published_at": "2026-03-27T06:15:17.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T10:31:46.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T10:31:46.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Three charts that are warning signs flashing for Trump on Iran war",
+      "region": "us",
+      "summary": "Three charts that are warning signs flashing for Trump on Iran war. As gas prices rise, Trump's approval rating is heading into politically dangerous territory.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c3w384px52no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T00:13:09.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Samsung Electronics' unionized workers halt talks with management",
+      "region": "korea",
+      "summary": "Samsung Electronics' unionized workers halt talks with management. SEOUL, March 27 (Yonhap) -- Unionized workers at Samsung Electronics Co. said Fr..",
+      "sources": [
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260327010300320",
+          "published_at": "2026-03-27T11:56:54.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,170 +59,154 @@
       "reliability_score": 1
     },
     {
-      "headline": "Lee vows to swiftly retake wartime command from U.S., speed up military reform including selective conscription",
-      "region": "korea",
-      "summary": "Lee vows to swiftly retake wartime command from U.S., speed up military reform including selective conscription. SEOUL, March 27 (Yonhap) -- President Lee Jae Myung said Friday South Korea will..",
-      "sources": [
-        {
-          "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260327006700315",
-          "published_at": "2026-03-27T06:52:29.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say",
-      "region": "world",
-      "summary": "Cuban Patients Are Dying Because of U.S. Blockade, Doctors Say. Cuban health care was once the pride of the island. Now the U.S. oil blockade is upending even basic medical care.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/americas/cubas-health-system-us-oil-blockade.html",
-          "published_at": "2026-03-26T16:05:03.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed",
-      "region": "world",
-      "summary": "The Sudden Death of a Man Who Told Chinese Kids How to Succeed. The influencer Zhang Xuefeng was known for no-nonsense, some said cynical, advice about how to win in China’s educational rat race. He died at 41.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/asia/chinese-influencer-zhang-death.html",
-          "published_at": "2026-03-26T13:01:54.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Olympic Committee Bars Transgender Athletes From Women’s Events",
-      "region": "world",
-      "summary": "Olympic Committee Bars Transgender Athletes From Women’s Events. The decision is the most significant since Kirsty Coventry was elected last year to serve as president of the I.O.C.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html",
-          "published_at": "2026-03-27T00:25:56.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Hungary Opens Espionage Case Against Journalist",
-      "region": "world",
-      "summary": "Hungary Opens Espionage Case Against Journalist. The government of Prime Minister Viktor Orban has pursued an intensifying campaign against critics in a tough race before April elections.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/hungary-journalist-election-meddling-espionage.html",
-          "published_at": "2026-03-26T18:14:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Australia Temporarily Blocks Iranians With Visitor Visas From Entry",
-      "region": "world",
-      "summary": "Australia Temporarily Blocks Iranians With Visitor Visas From Entry. Iranian tourists with visas will be barred for six months in case they are ‘unable or unlikely’ to go back because of the war, Australian officials said.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/australia/oz-iran-visas.html",
-          "published_at": "2026-03-26T17:51:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine",
-      "region": "world",
-      "summary": "Russian Lawmakers Go to U.S. for First Time Since Invasion of Ukraine. The State Department had to lift sanctions on Russian lawmakers invited by a Kremlin-friendly member of Congress.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/russia-us-talks-ukraine-sanctions.html",
-          "published_at": "2026-03-26T14:40:21.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target",
-      "region": "world",
-      "summary": "Under Carney, Canada Finally Hits NATO’s 2% Spending Target. Trump and other American presidents have criticized Canada for failing to meet the alliance’s military spending minimum of 2 percent of gross domestic product.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/canada/carney-canada-nato-spending.html",
-          "published_at": "2026-03-26T18:07:50.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran",
-      "region": "world",
-      "summary": "India Appears Sidelined as Pakistan Tries to Play Peacemaker in Iran. Hours before a call between President Trump and India’s prime minister, American officials urged India to focus on shared goals and ignore differences.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/asia/india-pakistan-iran-trump-modi.html",
-          "published_at": "2026-03-26T09:44:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "In Rural Ukraine, Basic Health Care Is a Casualty of War",
-      "region": "world",
-      "summary": "In Rural Ukraine, Basic Health Care Is a Casualty of War. Elderly people in isolated villages are going without medicine. One woman said she hadn’t seen a doctor in four years.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/ukraine-russia-war-health-care.html",
-          "published_at": "2026-03-26T09:01:16.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Malaysia Says Iran Will Allow Its Ships to Pass Through the Strait of Hormuz",
-      "region": "world",
-      "summary": "Malaysia Says Iran Will Allow Its Ships to Pass Through the Strait of Hormuz. The reprieve would ease disruptions in Malaysia’s energy supply, but the prime minister has vowed to make preparations for a more volatile future.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/asia/iran-malaysia-ships-strait-of-hormuz.html",
-          "published_at": "2026-03-26T22:29:58.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran",
-      "region": "world",
-      "summary": "Trump’s Threats to Europe Put Its Leaders in a Double Bind Over Iran. European politicians risk angering their voters if they join America’s war. Yet they could also face domestic upheaval if they take no action to reopen shipping routes that Iran has blocked and ease an energy crisis.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/26/world/europe/iran-trump-hormuz-europe-dilemma.html",
-          "published_at": "2026-03-26T04:01:13.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Trump orders airport security paid as travellers face hours-long queues",
+      "headline": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
       "region": "us",
-      "summary": "Trump orders airport security paid as travellers face hours-long queues. While Trump's order could provide temporary relief, it is unclear what authority the White House could invoke for such a move.",
+      "summary": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees. A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/cr513dnq61mo?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-27T01:44:22.000Z"
+          "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T18:49:46.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter",
+      "region": "us",
+      "summary": "Sarah Ferguson's 'close Epstein ties' scrutinised in US lawmaker's letter. The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c80m5y428xpo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T00:52:51.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump's signature to appear on US dollars in first for sitting president",
+      "region": "world",
+      "summary": "Trump's signature to appear on US dollars in first for sitting president. The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T23:36:14.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T23:36:14.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Oscars ceremony moving to new home outside Hollywood",
+      "region": "world",
+      "summary": "Oscars ceremony moving to new home outside Hollywood. The centrally located Peacock Theater in Los Angeles will host the 101st Academy Awards ceremony when it begins streaming on YouTube in 2029.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c9wq5g5p174o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T21:50:20.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9wq5g5p174o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T21:50:20.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump's Iran strategy is to pursue two off-ramps at once",
+      "region": "us",
+      "summary": "Trump's Iran strategy is to pursue two off-ramps at once. The White House insists the president is dictating events, but even some Republicans are frustrated by mixed messaging about his war aims.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c15d980nyw1o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T02:00:53.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Tearful Savannah Guthrie blames herself for mother's kidnapping",
+      "region": "us",
+      "summary": "Tearful Savannah Guthrie blames herself for mother's kidnapping. The US television presenter describes the aftermath of her mother's abduction and worries her fame is to blame.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cx24jg8yrxeo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T17:49:34.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash",
+      "region": "us",
+      "summary": "Air Canada CEO 'deeply saddened' his English-only message distracted from victims of crash. Michael Rousseau has faced calls to resign for not speaking French in his message after the LaGuardia crash, which killed two Air Canada pilots.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cgrlnw70xyko?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-26T17:57:30.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
+      "region": "us",
+      "summary": "Judge rejects Pentagon's attempt to 'cripple' Anthropic. A federal judge told the government it could not immediately enforce a ban on Anthropic’s tools.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T00:44:24.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial",
+      "region": "us",
+      "summary": "Campaigners welcome Meta and YouTube's defeat in landmark social media addiction trial. A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T03:21:48.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Live Updates: Trump Claims Progress in Talks and Extends Strait of Hormuz Deadline",
+      "region": "world",
+      "summary": "Iran War Live Updates: Trump Claims Progress in Talks and Extends Strait of Hormuz Deadline. President Trump has threatened to attack Iran’s power plants unless it fully reopens the Strait of Hormuz, a vital oil route, by April 6. Israel on Friday launched more strikes on Iran.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
+          "published_at": "2026-03-27T12:29:07.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "In Sleepy Town on Strait of Hormuz, War Rages Just Over Horizon",
+      "region": "world",
+      "summary": "In Sleepy Town on Strait of Hormuz, War Rages Just Over Horizon. For centuries, an Omani exclave has been defined by a peculiar duality: rugged isolation and proximity to one of the world’s most important trade routes.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/middleeast/khasab-oman-hormuz-strait.html",
+          "published_at": "2026-03-27T04:01:13.000Z"
         }
       ],
       "reliability_score": 1
@@ -199,115 +214,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "Fortune reports Anthropic testing a new model that is a “step change” and “poses unprecedented cybersecurity risks”",
-      "score": 0.5,
-      "summary": "Thread on \"Fortune reports Anthropic testing a new model that is a “step change” and “poses unprecedented cybersecurity risks”\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s4tz0m/fortune_reports_anthropic_testing_a_new_model/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed'",
-      "score": 0.49,
-      "summary": "Thread on \"Exclusive: Anthropic is testing 'Mythos' its 'most powerful AI model ever developed'\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s4t66w/exclusive_anthropic_is_testing_mythos_its_most/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "You've hit your global rate limit. Please upgrade your plan or wait for your limit to reset",
-      "score": 0.49,
-      "summary": "Thread on \"You've hit your global rate limit. Please upgrade your plan or wait for your limit to reset\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4s9g1/youve_hit_your_global_rate_limit_please_upgrade/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Is anyone automating SEO or Organic Growth?",
-      "score": 0.51,
-      "summary": "Thread on \"Is anyone automating SEO or Organic Growth?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s4vgc8/is_anyone_automating_seo_or_organic_growth/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "Good Old Dangerously OpenClaw",
-      "score": 0.51,
-      "summary": "Thread on \"Good Old Dangerously OpenClaw\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AskClaw/comments/1s4v3bt/good_old_dangerously_openclaw/",
-      "subreddit": "AskClaw"
-    },
-    {
-      "title": "Escaping the slop",
-      "score": 0.46,
-      "summary": "Thread on \"Escaping the slop\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/clawdbot/comments/1s4n4pf/escaping_the_slop/",
-      "subreddit": "clawdbot"
-    },
-    {
-      "title": "Any Noble soul who will help me --> i will not be able to pay rent next month",
-      "score": 0.51,
-      "summary": "Thread on \"Any Noble soul who will help me --> i will not be able to pay rent next month\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s4v6n0/any_noble_soul_who_will_help_me_i_will_not_be/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not “cheated” their ARC-AGI 1 and 2 scores through memorisation of similar benchmark tasks during training",
-      "score": 0.5,
-      "summary": "Thread on \"ARC-AGI 3 Paper alleges that Gemini 3 (and other frontier models) intentionally or not “cheated” their ARC-AGI 1 and 2 s\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s4trph/arcagi_3_paper_alleges_that_gemini_3_and_other/",
-      "subreddit": "singularity"
-    },
-    {
-      "title": "90% of AI agent projects I get hired for don't need agents at all. Here's what businesses actually pay for.",
-      "score": 0.5,
-      "summary": "Thread on \"90% of AI agent projects I get hired for don't need agents at all. Here's what businesses actually pay for.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s4u5v4/90_of_ai_agent_projects_i_get_hired_for_dont_need/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "Should I stay at an agentic ai company even though the boss is intimidating and bullying me?",
-      "score": 0.5,
-      "summary": "Thread on \"Should I stay at an agentic ai company even though the boss is intimidating and bullying me?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s4u8cq/should_i_stay_at_an_agentic_ai_company_even/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "What are you actually using to build your AI agents — frameworks or from scratch?",
-      "score": 0.5,
-      "summary": "Thread on \"What are you actually using to build your AI agents — frameworks or from scratch?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s4uaa4/what_are_you_actually_using_to_build_your_ai/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "PDF & Image transcript",
-      "score": 0.49,
-      "summary": "Thread on \"PDF & Image transcript\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AskClaw/comments/1s4t6bz/pdf_image_transcript/",
-      "subreddit": "AskClaw"
-    },
-    {
-      "title": "Pro+ and can't even work 5 minutes straight without hitting global rate limits!",
-      "score": 0.49,
-      "summary": "Thread on \"Pro+ and can't even work 5 minutes straight without hitting global rate limits!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4skfj/pro_and_cant_even_work_5_minutes_straight_without/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Claude reducing token limits on all tiers during busy hours",
+      "title": "This company is secretly turning your zoom meetings into AI podcasts",
       "score": 0.48,
-      "summary": "Thread on \"Claude reducing token limits on all tiers during busy hours\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s4rfd1/claude_reducing_token_limits_on_all_tiers_during/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"This company is secretly turning your zoom meetings into AI podcasts\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4y0ar/this_company_is_secretly_turning_your_zoom/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "Federal Judge halts Anthropic supply chain risk designation",
+      "title": "Just a heads up - if you downgrade from Ultra to Pro you immediately start getting de-prioritized & can't cancel the downgrade",
       "score": 0.47,
-      "summary": "Thread on \"Federal Judge halts Anthropic supply chain risk designation\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/singularity/comments/1s4obk6/federal_judge_halts_anthropic_supply_chain_risk/",
-      "subreddit": "singularity"
+      "summary": "Thread on \"Just a heads up - if you downgrade from Ultra to Pro you immediately start getting de-prioritized & can't cancel the dow\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s4w3f7/just_a_heads_up_if_you_downgrade_from_ultra_to/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Here is my suggestions to copilot team regarding the recent situation.",
+      "score": 0.49,
+      "summary": "Thread on \"Here is my suggestions to copilot team regarding the recent situation.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4yzic/here_is_my_suggestions_to_copilot_team_regarding/",
+      "subreddit": "GithubCopilot"
+    },
+    {
+      "title": "Self Promotion Thread",
+      "score": 0.31,
+      "summary": "Thread on \"Self Promotion Thread\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s41uxe/self_promotion_thread/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "Built a fully automated B2B cold email system for ~$15/month — AI template selection, 6-account Gmail rotation, intent-based follow-ups, and WhatsApp conversion tracking",
+      "score": 0.51,
+      "summary": "Thread on \"Built a fully automated B2B cold email system for ~$15/month — AI template selection, 6-account Gmail rotation, intent-b\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s51j62/built_a_fully_automated_b2b_cold_email_system_for/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "See what your AI agents are doing (multi-agent observability tool)",
+      "score": 0.5,
+      "summary": "Thread on \"See what your AI agents are doing (multi-agent observability tool)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s504au/see_what_your_ai_agents_are_doing_multiagent/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "how we automated our supplier document validation workflow - went from 32 man-hours/day to about 2",
+      "score": 0.5,
+      "summary": "Thread on \"how we automated our supplier document validation workflow - went from 32 man-hours/day to about 2\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s4zp6z/how_we_automated_our_supplier_document_validation/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Meta cuts about 700 jobs as it shifts spending to AI",
+      "score": 0.5,
+      "summary": "Thread on \"Meta cuts about 700 jobs as it shifts spending to AI\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s4zkrx/meta_cuts_about_700_jobs_as_it_shifts_spending_to/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Got a website? I’ll break down your SEO + ads strategy + growth plan",
+      "score": 0.49,
+      "summary": "Thread on \"Got a website? I’ll break down your SEO + ads strategy + growth plan\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AiAutomations/comments/1s4y9uh/got_a_website_ill_break_down_your_seo_ads/",
+      "subreddit": "AiAutomations"
+    },
+    {
+      "title": "Win moment for those who avoided yearly subscription !",
+      "score": 0.47,
+      "summary": "Thread on \"Win moment for those who avoided yearly subscription !\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4vqcw/win_moment_for_those_who_avoided_yearly/",
+      "subreddit": "GithubCopilot"
+    },
+    {
+      "title": "Is this poor execution or just a company at work trying things",
+      "score": 0.46,
+      "summary": "Thread on \"Is this poor execution or just a company at work trying things\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4ui3n/is_this_poor_execution_or_just_a_company_at_work/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Adult mode was never about erotica.",
+      "score": 0.46,
+      "summary": "Thread on \"Adult mode was never about erotica.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4us0p/adult_mode_was_never_about_erotica/",
+      "subreddit": "OpenAI"
+    },
+    {
+      "title": "Please fix those stupid limits!!!! 🤬",
+      "score": 0.46,
+      "summary": "Thread on \"Please fix those stupid limits!!!! 🤬\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4tvit/please_fix_those_stupid_limits/",
+      "subreddit": "GithubCopilot"
+    },
+    {
+      "title": "Dear Github, use sonnet 4.6 to fix your rate limit issue ASAP",
+      "score": 0.46,
+      "summary": "Thread on \"Dear Github, use sonnet 4.6 to fix your rate limit issue ASAP\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4umap/dear_github_use_sonnet_46_to_fix_your_rate_limit/",
+      "subreddit": "GithubCopilot"
+    },
+    {
+      "title": "Rate limiting pro users is ridiculous",
+      "score": 0.46,
+      "summary": "Thread on \"Rate limiting pro users is ridiculous\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s4ubuy/rate_limiting_pro_users_is_ridiculous/",
+      "subreddit": "GithubCopilot"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-27T07:00:36.319Z",
-    "refresh_finished_at": "2026-03-27T07:01:03.550Z",
+    "refresh_started_at": "2026-03-27T12:52:54.294Z",
+    "refresh_finished_at": "2026-03-27T12:53:32.852Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +330,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1691
+        "duration_ms": 1939
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 27176
+        "duration_ms": 38524
       }
     },
     "warnings": []
