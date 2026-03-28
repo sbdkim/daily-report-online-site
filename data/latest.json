@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T12:41:51.982Z",
+  "generated_at": "2026-03-28T18:32:11.820Z",
   "news_summary": [
     {
       "headline": "On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight",
@@ -28,19 +28,14 @@
       "reliability_score": 1
     },
     {
-      "headline": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day",
+      "headline": "S. Korea coach says team must grow as whole ahead of World Cup",
       "region": "korea",
-      "summary": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day. The South Korean and Japanese Coast Guards on Saturday continued to carry out a joint rescue operation for an Indonesian crewman who went missing near the South's easternmost islets of Dokdo earlier this week, officials said. The 20-something crewman who had been on a fishing vessel fell into seas some 195 kilometers northeast of Dokdo around 11:15 a.m., Friday. Alongside a 5,000-ton South Korean vessel and a 1,250-ton Japanese vessel, a civilian fishing boat also joined the search operations that resumed after sunrise, according to officials. A Coast Guard official vowed to conduct a seamless search, adding both sides are cooperating and doing their best to locate the crewman who went missing in waters between the two countries.",
+      "summary": "S. Korea coach says team must grow as whole ahead of World Cup. SEOUL, March 29 (Yonhap) -- South Korea head coach Hong Myung-bo acknowledged hi..",
       "sources": [
         {
-          "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/20260328/s-korea-japan-conduct-joint-rescue-operation-for-missing-indonesian-crewman-for-2nd-day?utm_source=rss",
-          "published_at": "2026-03-28T12:37:02.000Z"
-        },
-        {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260328002900315",
-          "published_at": "2026-03-28T08:34:20.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260329000500315",
+          "published_at": "2026-03-28T17:15:19.000Z"
         }
       ],
       "reliability_score": 1
@@ -53,7 +48,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
-          "published_at": "2026-03-28T09:01:12.000Z"
+          "published_at": "2026-03-28T14:38:17.000Z"
         }
       ],
       "reliability_score": 1
@@ -66,7 +61,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
-          "published_at": "2026-03-28T09:02:14.000Z"
+          "published_at": "2026-03-28T14:08:36.000Z"
         }
       ],
       "reliability_score": 1
@@ -79,7 +74,7 @@
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
-          "published_at": "2026-03-28T09:00:07.000Z"
+          "published_at": "2026-03-28T16:26:20.000Z"
         }
       ],
       "reliability_score": 1
@@ -87,12 +82,12 @@
     {
       "headline": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel",
       "region": "world",
-      "summary": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel. Earlier, U.S. officials said an Iranian strike at a military base in Saudi Arabia injured 12 U.S. troops, one of the most serious breaches of American defenses since the war began.",
+      "summary": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel. A U.S. official said that earlier an Iranian strike at a military base in Saudi Arabia injured around two dozen U.S. troops, one of the most serious breaches of American defenses since the war began.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
-          "published_at": "2026-03-28T12:33:09.000Z"
+          "published_at": "2026-03-28T18:28:28.000Z"
         }
       ],
       "reliability_score": 1
@@ -209,115 +204,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "You guys are scrolling on Reddit",
-      "score": 0.51,
-      "summary": "Thread on \"You guys are scrolling on Reddit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s5yf32/you_guys_are_scrolling_on_reddit/",
-      "subreddit": "ChatGPT"
-    },
-    {
-      "title": "HPC/AI Snack #1: What is Top500?",
+      "title": "Claude usage bug = ChatGPT limits magically reset? Who else sees this? 😭💀😂",
       "score": 0.52,
-      "summary": "Thread on \"HPC/AI Snack #1: What is Top500?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5z0ea/hpcai_snack_1_what_is_top500/",
-      "subreddit": "ArtificialInteligence"
+      "summary": "Thread on \"Claude usage bug = ChatGPT limits magically reset? Who else sees this? 😭💀😂\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s67w63/claude_usage_bug_chatgpt_limits_magically_reset/",
+      "subreddit": "codex"
     },
     {
-      "title": "The Claude Code skills actually worth installing right now (March 2026)",
-      "score": 0.34,
-      "summary": "Thread on \"The Claude Code skills actually worth installing right now (March 2026)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s51cre/the_claude_code_skills_actually_worth_installing/",
-      "subreddit": "AI_Agents"
+      "title": "Codex CLI now supports 5 hooks after v0.117.0 — PreToolUse and PostToolUse just dropped",
+      "score": 0.48,
+      "summary": "Thread on \"Codex CLI now supports 5 hooks after v0.117.0 — PreToolUse and PostToolUse just dropped\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s67q2a/codex_cli_now_supports_5_hooks_after_v01170/",
+      "subreddit": "ClaudeCode"
     },
     {
-      "title": "Claude rubbing salt in the wound leaving me on Read.",
-      "score": 0.52,
-      "summary": "Thread on \"Claude rubbing salt in the wound leaving me on Read.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s5yshe/claude_rubbing_salt_in_the_wound_leaving_me_on/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "I gave my Mac Mini a brain, a security system, and a personality. Here's what 6 weeks of daily use actually looks like.",
-      "score": 0.52,
-      "summary": "Thread on \"I gave my Mac Mini a brain, a security system, and a personality. Here's what 6 weeks of daily use actually looks like.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5z1xp/i_gave_my_mac_mini_a_brain_a_security_system_and/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "ISO: an extension for working in Classic ASP",
-      "score": 0.39,
-      "summary": "Thread on \"ISO: an extension for working in Classic ASP\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/vscode/comments/1s5bwn1/iso_an_extension_for_working_in_classic_asp/",
-      "subreddit": "vscode"
-    },
-    {
-      "title": "I automated secure OpenClaw sandboxes (Daytona) and open-sourced a library of monthly iterated agents to run in them",
-      "score": 0.52,
-      "summary": "Thread on \"I automated secure OpenClaw sandboxes (Daytona) and open-sourced a library of monthly iterated agents to run in them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5yuxg/i_automated_secure_openclaw_sandboxes_daytona_and/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Openclaw Anthropic Oauth",
-      "score": 0.52,
-      "summary": "Thread on \"Openclaw Anthropic Oauth\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5z9yj/openclaw_anthropic_oauth/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Bitcoin Miners Are Pivoting to AI Instead of Losing $10,000 on Every Coin They Mine",
-      "score": 0.52,
-      "summary": "Thread on \"Bitcoin Miners Are Pivoting to AI Instead of Losing $10,000 on Every Coin They Mine\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5ymte/bitcoin_miners_are_pivoting_to_ai_instead_of/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Can Claude Do This Bookkeeping Task?",
-      "score": 0.51,
-      "summary": "Thread on \"Can Claude Do This Bookkeeping Task?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s5xs1y/can_claude_do_this_bookkeeping_task/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "I think a lot of people are overbuilding AI agents right now.",
-      "score": 0.51,
-      "summary": "Thread on \"I think a lot of people are overbuilding AI agents right now.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5xekx/i_think_a_lot_of_people_are_overbuilding_ai/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
-      "score": 0.51,
-      "summary": "Thread on \"Apple hires ex-Google executive to head AI marketing amid push to improve Siri\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5x5on/apple_hires_exgoogle_executive_to_head_ai/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "I tracked AI answers for 3 days… results were not what I expected",
-      "score": 0.51,
-      "summary": "Thread on \"I tracked AI answers for 3 days… results were not what I expected\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5x2kf/i_tracked_ai_answers_for_3_days_results_were_not/",
-      "subreddit": "ArtificialInteligence"
-    },
-    {
-      "title": "Why does my AI lose its memory randomly?",
+      "title": "I keep losing my workflow in ChatGPT after refresh — thinking of building a fix, need honest feedback",
       "score": 0.5,
-      "summary": "Thread on \"Why does my AI lose its memory randomly?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5w6un/why_does_my_ai_lose_its_memory_randomly/",
-      "subreddit": "openclaw"
+      "summary": "Thread on \"I keep losing my workflow in ChatGPT after refresh — thinking of building a fix, need honest feedback\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s64duu/i_keep_losing_my_workflow_in_chatgpt_after/",
+      "subreddit": "OpenAI"
     },
     {
-      "title": "WTF CHAT-GPT!?!!",
+      "title": "Performance of LLMs in USAMO 2025 vs 2026",
+      "score": 0.52,
+      "summary": "Thread on \"Performance of LLMs in USAMO 2025 vs 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s67s02/performance_of_llms_in_usamo_2025_vs_2026/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "How to us skills in AG?",
+      "score": 0.49,
+      "summary": "Thread on \"How to us skills in AG?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s61k2a/how_to_us_skills_in_ag/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Stop Letting Your AI Make Things Up: How MCP Grounds LLMs in Real Data",
+      "score": 0.45,
+      "summary": "Thread on \"Stop Letting Your AI Make Things Up: How MCP Grounds LLMs in Real Data\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s5vk6o/stop_letting_your_ai_make_things_up_how_mcp/",
+      "subreddit": "ChatGPTCoding"
+    },
+    {
+      "title": "is it really possible that Codex can kick Opus's butt in writing skill?",
+      "score": 0.51,
+      "summary": "Thread on \"is it really possible that Codex can kick Opus's butt in writing skill?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s66asn/is_it_really_possible_that_codex_can_kick_opuss/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Headless browser to help codex verify",
       "score": 0.5,
-      "summary": "Thread on \"WTF CHAT-GPT!?!!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s5wk28/wtf_chatgpt/",
-      "subreddit": "ChatGPT"
+      "summary": "Thread on \"Headless browser to help codex verify\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s64upa/headless_browser_to_help_codex_verify/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Convergence Resistant, Continuous Learning, Spiking Neural Network Architecture",
+      "score": 0.5,
+      "summary": "Thread on \"Convergence Resistant, Continuous Learning, Spiking Neural Network Architecture\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s63ime/convergence_resistant_continuous_learning_spiking/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Codex Max Plan faster?",
+      "score": 0.49,
+      "summary": "Thread on \"Codex Max Plan faster?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/codex/comments/1s60tdl/codex_max_plan_faster/",
+      "subreddit": "codex"
+    },
+    {
+      "title": "Claude can control your computer now, openclaw and zenmux updated same day",
+      "score": 0.49,
+      "summary": "Thread on \"Claude can control your computer now, openclaw and zenmux updated same day\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s62oms/claude_can_control_your_computer_now_openclaw_and/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Every AI assistant built is reactive by design. It waits for you to notice things first. That's already the wrong model for what intelligence should do.",
+      "score": 0.49,
+      "summary": "Thread on \"Every AI assistant built is reactive by design. It waits for you to notice things first. That's already the wrong model \". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s622vd/every_ai_assistant_built_is_reactive_by_design_it/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!!\"",
+      "score": 0.48,
+      "summary": "Thread on \"People here keep saying \"arc agi 3 is soo unfair for the SOTA AI models! Imagine if you had to do the test blind folded!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s5zj2w/people_here_keep_saying_arc_agi_3_is_soo_unfair/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "The Vibe Coder’s Privacy Paradox: Who actually owns your \"secret\" codebase?",
+      "score": 0.48,
+      "summary": "Thread on \"The Vibe Coder’s Privacy Paradox: Who actually owns your \"secret\" codebase?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5zjfh/the_vibe_coders_privacy_paradox_who_actually_owns/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Advertisement mode in antigravity?",
+      "score": 0.48,
+      "summary": "Thread on \"Advertisement mode in antigravity?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5z8db/advertisement_mode_in_antigravity/",
+      "subreddit": "google_antigravity"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-28T12:41:14.435Z",
-    "refresh_finished_at": "2026-03-28T12:41:51.982Z",
+    "refresh_started_at": "2026-03-28T18:32:06.612Z",
+    "refresh_finished_at": "2026-03-28T18:32:11.820Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -325,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1636
+        "duration_ms": 2355
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 37518
+        "duration_ms": 5162
       }
     },
     "warnings": []
