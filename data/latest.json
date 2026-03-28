@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-03-28T06:52:12.967Z",
+  "generated_at": "2026-03-28T12:41:51.982Z",
   "news_summary": [
     {
-      "headline": "12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
+      "headline": "On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight",
       "region": "world",
-      "summary": "12 U.S. Troops Injured in Attack on Saudi Base, Officials Say. Two of the Americans were seriously wounded in the strike on the Prince Sultan Air Base, the officials said, in one of the most serious breaches of American defenses since the war began on Feb. 28.",
+      "summary": "On Iran’s Rugged Frontier, Kurds Yearn to Join the Fight. These groups’ dream has long been to establish federal autonomy, akin to that of their fellow Kurds in Iraq. With Iran’s leaders battered and degraded, they hope their moment has come.",
       "sources": [
         {
           "title": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-28T05:15:06.000Z"
+          "url": "https://www.nytimes.com/2026/03/28/world/europe/iran-kurds-iraq-fighters.html",
+          "published_at": "2026-03-28T09:01:53.000Z"
         }
       ],
       "reliability_score": 1
@@ -28,14 +28,71 @@
       "reliability_score": 1
     },
     {
-      "headline": "‘Their son cheated — so why are his parents getting blamed?’ Affair scandal sparks backlash in Korea",
+      "headline": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day",
       "region": "korea",
-      "summary": "‘Their son cheated — so why are his parents getting blamed?’ Affair scandal sparks backlash in Korea. An extramarital affair involving a non-celebrity man has unexpectedly brought about a public backlas against his famous parents — triggering a heated online debate over how far parental responsibility should go. According to a March 25 report by NewDaily, a Korean court ruled that the man must pay 30 million won ($22,000) in damages to his ex-wife and provide monthly child support of 800,000 won until their child reaches adulthood. The ex-wife also reportedly won a separate lawsuit against the woman involved in the affair, receiving 20 million won in compensation. In an interview with a YouTube channel, she said the marriage collapsed due to her husband’s infidelity and claimed that child support payments had not been properly made. The case has gained unusual attention because the man’s parents are well-known singers in South Korea — Hong Seo-beom and Jo Gap-kyung — who previously appeared on family reality shows featuring their children. As details of the affair surfaced, criticism began to spill over to his parents — despite their lack of direct involvement. The backlash h.",
+      "summary": "S. Korea, Japan conduct joint rescue operation for missing Indonesian crewman for 2nd day. The South Korean and Japanese Coast Guards on Saturday continued to carry out a joint rescue operation for an Indonesian crewman who went missing near the South's easternmost islets of Dokdo earlier this week, officials said. The 20-something crewman who had been on a fishing vessel fell into seas some 195 kilometers northeast of Dokdo around 11:15 a.m., Friday. Alongside a 5,000-ton South Korean vessel and a 1,250-ton Japanese vessel, a civilian fishing boat also joined the search operations that resumed after sunrise, according to officials. A Coast Guard official vowed to conduct a seamless search, adding both sides are cooperating and doing their best to locate the crewman who went missing in waters between the two countries.",
       "sources": [
         {
           "title": "Korea Times",
-          "url": "https://www.koreatimes.co.kr/southkorea/society/20260328/their-son-cheated-so-why-are-his-parents-getting-blamed-affair-scandal-sparks-backlash-in-korea?utm_source=rss",
-          "published_at": "2026-03-28T06:47:02.000Z"
+          "url": "https://www.koreatimes.co.kr/southkorea/20260328/s-korea-japan-conduct-joint-rescue-operation-for-missing-indonesian-crewman-for-2nd-day?utm_source=rss",
+          "published_at": "2026-03-28T12:37:02.000Z"
+        },
+        {
+          "title": "Yonhap",
+          "url": "https://en.yna.co.kr/view/AEN20260328002900315",
+          "published_at": "2026-03-28T08:34:20.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs",
+      "region": "world",
+      "summary": "Halfway Through Lent, a Small Quebec Island Celebrates With Masks and Jigs. Few islanders still observe Lent, but they cling to a tradition once seen as defying the all-powerful Roman Catholic Church.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/28/world/canada/mid-lent-celebration-quebec-islands.html",
+          "published_at": "2026-03-28T09:01:12.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats",
+      "region": "world",
+      "summary": "Castro Heirs Emerge Across Cuba’s Political Scene Amid Energy Crisis and Trump Threats. As Trump officials demand changes, Castro family members are suddenly popping up across Cuba’s political scene. Some even ask: Could one be the “Cuban Delcy?”.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/28/world/americas/castro-family-cuba-energy-crisis-trump.html",
+          "published_at": "2026-03-28T09:02:14.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Can This Russian Bakery Survive a 3,500% Tax Increase?",
+      "region": "world",
+      "summary": "Can This Russian Bakery Survive a 3,500% Tax Increase?. The challenges faced by a small-business owner near Moscow highlight how Russia’s war-drained economy is on the doorstep of a major crisis.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/28/world/europe/russia-economy-small-business-tax-increase.html",
+          "published_at": "2026-03-28T09:00:07.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel",
+      "region": "world",
+      "summary": "Iran War Live Updates: Iran-Backed Houthis Enter War With Missile Attack on Israel. Earlier, U.S. officials said an Iranian strike at a military base in Saudi Arabia injured 12 U.S. troops, one of the most serious breaches of American defenses since the war began.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/03/28/world/iran-war-trump-israel-oil",
+          "published_at": "2026-03-28T12:33:09.000Z"
         }
       ],
       "reliability_score": 1
@@ -132,71 +189,19 @@
       "reliability_score": 1
     },
     {
-      "headline": "Actress Says She’s Found Her Secret Online Abuser: Her Husband",
+      "headline": "House Republicans reject Senate deal, prolonging partial US government shutdown",
       "region": "world",
-      "summary": "Actress Says She’s Found Her Secret Online Abuser: Her Husband. Collien Fernandes said her spouse had posted deepfakes of her. The account, disputed by her husband, spurred outrage, protests and parliamentary debates in Germany.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html",
-          "published_at": "2026-03-27T22:41:17.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
-      "region": "world",
-      "summary": "Europeans Are Angry at Trump, but Often Forgiving of Americans. A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
-          "published_at": "2026-03-27T11:46:34.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "The Faroe Islands, Wary After Greenland, Vote for Change",
-      "region": "world",
-      "summary": "The Faroe Islands, Wary After Greenland, Vote for Change. Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
-          "published_at": "2026-03-27T15:48:20.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Lee Geun-an, Infamous ‘Torture Master’ Under South Korean Dictator, Dies at 88",
-      "region": "world",
-      "summary": "Lee Geun-an, Infamous ‘Torture Master’ Under South Korean Dictator, Dies at 88. The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.",
-      "sources": [
-        {
-          "title": "New York Times",
-          "url": "https://www.nytimes.com/2026/03/27/world/asia/lee-geun-an-korea-obit.html",
-          "published_at": "2026-03-27T18:11:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "US House to vote on DHS funding as travel chaos deepens",
-      "region": "world",
-      "summary": "US House to vote on DHS funding as travel chaos deepens. The planned vote is unlikely to end the funding impasse as long security lines at US airports continue.",
+      "summary": "House Republicans reject Senate deal, prolonging partial US government shutdown. Airport security agents have not been paid in more than a month due to a congressional impasse, causing travel chaos across the US.",
       "sources": [
         {
           "title": "BBC US & Canada",
-          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-28T01:49:48.000Z"
+          "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-28T08:38:34.000Z"
         },
         {
           "title": "BBC",
-          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
-          "published_at": "2026-03-28T01:49:48.000Z"
+          "url": "https://www.bbc.com/news/articles/cgj052l1j2no?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-28T08:38:34.000Z"
         }
       ],
       "reliability_score": 1
@@ -204,115 +209,115 @@
   ],
   "reddit_ai_summary": [
     {
-      "title": "chatgpt models are great at a lot things except for .. UI design..",
-      "score": 0.5,
-      "summary": "Thread on \"chatgpt models are great at a lot things except for .. UI design..\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/codex/comments/1s5ppem/chatgpt_models_are_great_at_a_lot_things_except/",
-      "subreddit": "codex"
-    },
-    {
-      "title": "Never hit a rate limit on $200 Max. Had Claude scan every complaint to figure out why. Here's the actual data.",
-      "score": 0.5,
-      "summary": "Thread on \"Never hit a rate limit on $200 Max. Had Claude scan every complaint to figure out why. Here's the actual data.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s5qxyq/never_hit_a_rate_limit_on_200_max_had_claude_scan/",
-      "subreddit": "ClaudeCode"
-    },
-    {
-      "title": "Typical ChatGPT experience in a nutshell",
-      "score": 0.49,
-      "summary": "Thread on \"Typical ChatGPT experience in a nutshell\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s5o7yh/typical_chatgpt_experience_in_a_nutshell/",
+      "title": "You guys are scrolling on Reddit",
+      "score": 0.51,
+      "summary": "Thread on \"You guys are scrolling on Reddit\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s5yf32/you_guys_are_scrolling_on_reddit/",
       "subreddit": "ChatGPT"
     },
     {
-      "title": "Bye Adult Mode",
-      "score": 0.32,
-      "summary": "Thread on \"Bye Adult Mode\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/OpenAI/comments/1s4sns2/bye_adult_mode/",
-      "subreddit": "OpenAI"
-    },
-    {
-      "title": "PSA: If you don't opt out by Apr 24 GitHub will train on your private repos",
-      "score": 0.47,
-      "summary": "Thread on \"PSA: If you don't opt out by Apr 24 GitHub will train on your private repos\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5k5va/psa_if_you_dont_opt_out_by_apr_24_github_will/",
-      "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Human-in-the-loop: The \"Emergency Brake\".",
+      "title": "HPC/AI Snack #1: What is Top500?",
       "score": 0.52,
-      "summary": "Thread on \"Human-in-the-loop: The \"Emergency Brake\".\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s5t13o/humanintheloop_the_emergency_brake/",
+      "summary": "Thread on \"HPC/AI Snack #1: What is Top500?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5z0ea/hpcai_snack_1_what_is_top500/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "The Claude Code skills actually worth installing right now (March 2026)",
+      "score": 0.34,
+      "summary": "Thread on \"The Claude Code skills actually worth installing right now (March 2026)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s51cre/the_claude_code_skills_actually_worth_installing/",
       "subreddit": "AI_Agents"
     },
     {
-      "title": "Should we just wait for smarter models that run cheaply?",
+      "title": "Claude rubbing salt in the wound leaving me on Read.",
       "score": 0.52,
-      "summary": "Thread on \"Should we just wait for smarter models that run cheaply?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5t2d6/should_we_just_wait_for_smarter_models_that_run/",
+      "summary": "Thread on \"Claude rubbing salt in the wound leaving me on Read.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s5yshe/claude_rubbing_salt_in_the_wound_leaving_me_on/",
+      "subreddit": "claude"
+    },
+    {
+      "title": "I gave my Mac Mini a brain, a security system, and a personality. Here's what 6 weeks of daily use actually looks like.",
+      "score": 0.52,
+      "summary": "Thread on \"I gave my Mac Mini a brain, a security system, and a personality. Here's what 6 weeks of daily use actually looks like.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5z1xp/i_gave_my_mac_mini_a_brain_a_security_system_and/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Showcase Weekend! — Week 12, 2026",
-      "score": 0.51,
-      "summary": "Thread on \"Showcase Weekend! — Week 12, 2026\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5rc0e/showcase_weekend_week_12_2026/",
+      "title": "ISO: an extension for working in Classic ASP",
+      "score": 0.39,
+      "summary": "Thread on \"ISO: an extension for working in Classic ASP\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/vscode/comments/1s5bwn1/iso_an_extension_for_working_in_classic_asp/",
+      "subreddit": "vscode"
+    },
+    {
+      "title": "I automated secure OpenClaw sandboxes (Daytona) and open-sourced a library of monthly iterated agents to run in them",
+      "score": 0.52,
+      "summary": "Thread on \"I automated secure OpenClaw sandboxes (Daytona) and open-sourced a library of monthly iterated agents to run in them\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5yuxg/i_automated_secure_openclaw_sandboxes_daytona_and/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Can OpenClaw connect to brokerages and execute trades?",
-      "score": 0.51,
-      "summary": "Thread on \"Can OpenClaw connect to brokerages and execute trades?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5rxta/can_openclaw_connect_to_brokerages_and_execute/",
+      "title": "Openclaw Anthropic Oauth",
+      "score": 0.52,
+      "summary": "Thread on \"Openclaw Anthropic Oauth\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5z9yj/openclaw_anthropic_oauth/",
       "subreddit": "openclaw"
     },
     {
-      "title": "Huge niche open? Use OpenClaw to explore public, but non-indexed content on Instagram, and provide it for LLMs and search engine users",
-      "score": 0.51,
-      "summary": "Thread on \"Huge niche open? Use OpenClaw to explore public, but non-indexed content on Instagram, and provide it for LLMs and searc\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5rhia/huge_niche_open_use_openclaw_to_explore_public/",
-      "subreddit": "openclaw"
+      "title": "Bitcoin Miners Are Pivoting to AI Instead of Losing $10,000 on Every Coin They Mine",
+      "score": 0.52,
+      "summary": "Thread on \"Bitcoin Miners Are Pivoting to AI Instead of Losing $10,000 on Every Coin They Mine\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5ymte/bitcoin_miners_are_pivoting_to_ai_instead_of/",
+      "subreddit": "ArtificialInteligence"
     },
     {
-      "title": "I broke up with my AI Agent.",
+      "title": "Can Claude Do This Bookkeeping Task?",
       "score": 0.51,
-      "summary": "Thread on \"I broke up with my AI Agent.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s5rsl6/i_broke_up_with_my_ai_agent/",
-      "subreddit": "AI_Agents"
+      "summary": "Thread on \"Can Claude Do This Bookkeeping Task?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/claude/comments/1s5xs1y/can_claude_do_this_bookkeeping_task/",
+      "subreddit": "claude"
     },
     {
-      "title": "OpenClaw is starting to feel like another round of Al hype",
+      "title": "I think a lot of people are overbuilding AI agents right now.",
+      "score": 0.51,
+      "summary": "Thread on \"I think a lot of people are overbuilding AI agents right now.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5xekx/i_think_a_lot_of_people_are_overbuilding_ai/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Apple hires ex-Google executive to head AI marketing amid push to improve Siri",
+      "score": 0.51,
+      "summary": "Thread on \"Apple hires ex-Google executive to head AI marketing amid push to improve Siri\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5x5on/apple_hires_exgoogle_executive_to_head_ai/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "I tracked AI answers for 3 days… results were not what I expected",
+      "score": 0.51,
+      "summary": "Thread on \"I tracked AI answers for 3 days… results were not what I expected\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5x2kf/i_tracked_ai_answers_for_3_days_results_were_not/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Why does my AI lose its memory randomly?",
       "score": 0.5,
-      "summary": "Thread on \"OpenClaw is starting to feel like another round of Al hype\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5pra8/openclaw_is_starting_to_feel_like_another_round/",
+      "summary": "Thread on \"Why does my AI lose its memory randomly?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5w6un/why_does_my_ai_lose_its_memory_randomly/",
       "subreddit": "openclaw"
     },
     {
-      "title": "I've built 30+ automations. The ones making clients $10k+/month would get laughed off this sub",
+      "title": "WTF CHAT-GPT!?!!",
       "score": 0.5,
-      "summary": "Thread on \"I've built 30+ automations. The ones making clients $10k+/month would get laughed off this sub\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s5qz40/ive_built_30_automations_the_ones_making_clients/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "How are people preventing duplicate tool execution in AI agents?",
-      "score": 0.49,
-      "summary": "Thread on \"How are people preventing duplicate tool execution in AI agents?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/AI_Agents/comments/1s5pghx/how_are_people_preventing_duplicate_tool/",
-      "subreddit": "AI_Agents"
-    },
-    {
-      "title": "Enough with usage limit posts - we get it",
-      "score": 0.48,
-      "summary": "Thread on \"Enough with usage limit posts - we get it\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ClaudeCode/comments/1s5m43q/enough_with_usage_limit_posts_we_get_it/",
-      "subreddit": "ClaudeCode"
+      "summary": "Thread on \"WTF CHAT-GPT!?!!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ChatGPT/comments/1s5wk28/wtf_chatgpt/",
+      "subreddit": "ChatGPT"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-28T06:52:09.280Z",
-    "refresh_finished_at": "2026-03-28T06:52:12.967Z",
+    "refresh_started_at": "2026-03-28T12:41:14.435Z",
+    "refresh_finished_at": "2026-03-28T12:41:51.982Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -320,13 +325,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1186
+        "duration_ms": 1636
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 3647
+        "duration_ms": 37518
       }
     },
     "warnings": []
