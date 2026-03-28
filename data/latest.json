@@ -1,158 +1,41 @@
 {
-  "generated_at": "2026-03-27T18:49:16.273Z",
+  "generated_at": "2026-03-28T01:44:42.522Z",
   "news_summary": [
     {
-      "headline": "Iran War Live Updates: Rubio Says U.S. Can Achieve Its Goals Without Ground Troops",
+      "headline": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
       "region": "world",
-      "summary": "Iran War Live Updates: Rubio Says U.S. Can Achieve Its Goals Without Ground Troops. Secretary of State Marco Rubio said the war would be over in a matter of weeks as he left a Group of 7 meeting in France. Tehran moved to assert control over the Strait of Hormuz.",
+      "summary": "Iran War Live Updates: 12 U.S. Troops Injured in Attack on Saudi Base, Officials Say. Two of the Americans were seriously wounded in the strike on the Prince Sultan Air Base, the officials said, in one of the most serious breaches of American defenses since the war began on Feb. 28.",
       "sources": [
         {
           "title": "New York Times",
           "url": "https://www.nytimes.com/live/2026/03/27/world/iran-war-trump-oil-israel",
-          "published_at": "2026-03-27T18:43:57.000Z"
+          "published_at": "2026-03-28T01:22:08.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Research points to how companies could make social media less addictive for teens",
+      "headline": "Gilgo Beach serial killings suspect to plead guilty, US media report",
       "region": "us",
-      "summary": "Research points to how companies could make social media less addictive for teens. Juries in two big cases have affirmed what research is finding: The design of social media platforms is particularly compelling and hard to resist for kids. There are growing calls to change it.",
+      "summary": "Gilgo Beach serial killings suspect to plead guilty, US media report. Rex Heuermann, who is accused of murdering seven women, previously maintained his innocence and pleaded not guilty.",
       "sources": [
         {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5763017/social-media-teens-addictive-design",
-          "published_at": "2026-03-27T17:50:47.000Z"
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c78lwy32d2qo?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T15:41:02.000Z"
         }
       ],
       "reliability_score": 1
     },
     {
-      "headline": "Rubio says U.S. expects military operation against Iran to conclude in 'weeks, not months'",
+      "headline": "S. Korea, Ukraine FMs agree to handle issue of N. Korean POWs in line with humanitarian principles",
       "region": "korea",
-      "summary": "Rubio says U.S. expects military operation against Iran to conclude in 'weeks, not months'. WASHINGTON, March 27 (Yonhap) -- U.S. Secretary of State Marco Rubio said Friday..",
+      "summary": "S. Korea, Ukraine FMs agree to handle issue of N. Korean POWs in line with humanitarian principles. SEOUL, March 28 (Yonhap) -- The foreign ministers of South Korea and Ukraine hav..",
       "sources": [
         {
           "title": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260328000200315",
-          "published_at": "2026-03-27T18:34:45.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "How long will the war last? No one knows, and it's making oil prices weird",
-      "region": "us",
-      "summary": "How long will the war last? No one knows, and it's making oil prices weird. It's like the \"Schrödinger's cat\" thought experiment. There are two very different potential realities, and traders don't yet know which one is true.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5757946/oil-iran-war-markets-uncertainty",
-          "published_at": "2026-03-27T16:16:50.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "House panel finds Florida Democrat guilty of ethics violations",
-      "region": "us",
-      "summary": "House panel finds Florida Democrat guilty of ethics violations. The House Ethics Committee has found evidence that Rep. Sheila Cherfilus-McCormick violated House rules. This comes after the panel held a rare public hearing to review investigations into allegations against the Florida Democrat.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/g-s1-115336/house-panel-finds-florida-democrat-guilty-of-ethics-violations",
-          "published_at": "2026-03-27T15:32:06.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Her dad's dementia inspired her to create a guide for family caregivers",
-      "region": "us",
-      "summary": "Her dad's dementia inspired her to create a guide for family caregivers. Wambūi Karanja of Kenya is \"one to watch,\" says the Alzheimer's Association. Coping with her dad's condition inspired her to develop a training program for families on the art of caregiving.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5732794/dementia-caregiving-alzheimers-kenya-support",
-          "published_at": "2026-03-27T13:18:05.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Here's some new dirt on an unusual source of antibiotic resistance",
-      "region": "us",
-      "summary": "Here's some new dirt on an unusual source of antibiotic resistance. New research suggests drought can stoke antibiotic resistance in soil bacteria — and that can have an impact on humans.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/g-s1-115318/antibiotic-resistance-bacteria-drought-climate-change",
-          "published_at": "2026-03-27T12:59:30.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Americans seek redemption at figure skating worlds, just weeks after the Olympics",
-      "region": "us",
-      "summary": "Americans seek redemption at figure skating worlds, just weeks after the Olympics. Figure Skating World Championships in Prague end on Saturday. Americans Amber Glenn and Ilia Malinin are within medals' reach after disappointing finishes at last month's Olympics.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5761994/figure-skating-world-championships-malinin-glenn",
-          "published_at": "2026-03-27T12:51:16.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Senate votes to fund most of DHS. And, Trump extends Iran's deadline to reopen strait",
-      "region": "us",
-      "summary": "Senate votes to fund most of DHS. And, Trump extends Iran's deadline to reopen strait. The Senate has voted to fund most of the Department of Homeland Security. And, President Trump extends the deadline for Iran to reopen the Strait of Hormuz.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/g-s1-115433/up-first-newsletter-dhs-funding-iran-strait-of-hormuz-cpac",
-          "published_at": "2026-03-27T11:33:38.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Scientists watch sperm whales work as a team to assist a birth",
-      "region": "us",
-      "summary": "Scientists watch sperm whales work as a team to assist a birth. An unprecedented look at the birth of a sperm whale found that mother and calf were supported by other whales throughout the process.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5762978/sperm-whale-birth-cooperation-coordination-marine-mammals-science",
-          "published_at": "2026-03-27T10:00:00.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Marco Rubio heads to Europe to try to garner support for the Iran war",
-      "region": "us",
-      "summary": "Marco Rubio heads to Europe to try to garner support for the Iran war. Representatives from G7 countries gather in France, where U.S. Secretary of State Marco Rubio is expected to try to shore up support from reticent allies for the Trump administration's war on Iran.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
-          "published_at": "2026-03-27T09:49:02.000Z"
-        }
-      ],
-      "reliability_score": 1
-    },
-    {
-      "headline": "Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?",
-      "region": "us",
-      "summary": "Our quiz writer made yet another Tom Bombadil reference this week. Can you spot it?. How well do you know your \"Lord of the Rings\"? What about AI, Washington landmarks and TSA wait times? Find out.",
-      "sources": [
-        {
-          "title": "NPR",
-          "url": "https://www.npr.org/2026/03/27/g-s1-115268/ai-columbus-cherry-blossom-trump-colbert-news-quiz",
-          "published_at": "2026-03-27T09:01:00.000Z"
+          "url": "https://en.yna.co.kr/view/AEN20260328001200315",
+          "published_at": "2026-03-28T01:30:45.000Z"
         }
       ],
       "reliability_score": 1
@@ -195,119 +78,241 @@
         }
       ],
       "reliability_score": 1
+    },
+    {
+      "headline": "In Sleepy Town on Strait of Hormuz, War Rages Just Over Horizon",
+      "region": "world",
+      "summary": "In Sleepy Town on Strait of Hormuz, War Rages Just Over Horizon. For centuries, an Omani exclave has been defined by a peculiar duality: rugged isolation and proximity to one of the world’s most important trade routes.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/middleeast/khasab-oman-hormuz-strait.html",
+          "published_at": "2026-03-27T04:01:13.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "U.N. Report Documents Sectarian Violence in Syria That Killed Over 1,700",
+      "region": "world",
+      "summary": "U.N. Report Documents Sectarian Violence in Syria That Killed Over 1,700. Investigators said the government of President Ahmed al-Sharaa had done little to address the extrajudicial killings and torture of Druse civilians in July 2025.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/middleeast/syria-mass-killing-druse-un.html",
+          "published_at": "2026-03-27T19:38:28.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Noelia Castillo Ramos Dies in Spain After Winning Right to End Her Life",
+      "region": "world",
+      "summary": "Noelia Castillo Ramos Dies in Spain After Winning Right to End Her Life. Noelia Castillo Ramos, 25, who was in chronic physical and psychological pain, had sought an assisted death since 2024, but her father sued to prevent it.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/europe/noelia-castillo-ramos-spain-assisted-death.html",
+          "published_at": "2026-03-27T18:03:41.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The German Military Tightens Its Social Media Rules",
+      "region": "world",
+      "summary": "The German Military Tightens Its Social Media Rules. Military members sharing clips on Instagram and TikTok have helped recruit badly needed new soldiers, but Bundeswehr officials said they are concerned about security.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/europe/german-military-social-media.html",
+          "published_at": "2026-03-27T04:01:05.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Actress Says She’s Found Her Secret Online Abuser: Her Husband",
+      "region": "world",
+      "summary": "Actress Says She’s Found Her Secret Online Abuser: Her Husband. Collien Fernandes said her spouse had posted deepfakes of her. The account, disputed by her husband, spurred outrage, protests and parliamentary debates in Germany.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html",
+          "published_at": "2026-03-27T22:41:17.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Europeans Are Angry at Trump, but Often Forgiving of Americans",
+      "region": "world",
+      "summary": "Europeans Are Angry at Trump, but Often Forgiving of Americans. A generation ago, foreign fury over the Iraq invasion often blurred into anti-Americanism. Now, some Europeans seem ready to distinguish between the president and the American people.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/europe/europe-trump-sentiment.html",
+          "published_at": "2026-03-27T11:46:34.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "The Faroe Islands, Wary After Greenland, Vote for Change",
+      "region": "world",
+      "summary": "The Faroe Islands, Wary After Greenland, Vote for Change. Statehood had been a key issue in this tiny Danish archipelago before President Trump threatened Greenland. Now, Faroese voters are focused more on their own economy than geopolitics.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/europe/faroe-islands-election-greenland.html",
+          "published_at": "2026-03-27T15:48:20.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Lee Geun-an, Infamous ‘Torture Master’ Under South Korean Dictator, Dies at 88",
+      "region": "world",
+      "summary": "Lee Geun-an, Infamous ‘Torture Master’ Under South Korean Dictator, Dies at 88. The name of Mr. Lee, a former police inspector, had long incited fear and hatred in the country.",
+      "sources": [
+        {
+          "title": "New York Times",
+          "url": "https://www.nytimes.com/2026/03/27/world/asia/lee-geun-an-korea-obit.html",
+          "published_at": "2026-03-27T18:11:00.000Z"
+        }
+      ],
+      "reliability_score": 1
+    },
+    {
+      "headline": "Trump orders paycheques for TSA workers as Congress stalls and airport chaos grinds on",
+      "region": "world",
+      "summary": "Trump orders paycheques for TSA workers as Congress stalls and airport chaos grinds on. The late-night vote was a step towards bringing the 40-day partial shutdown - and long security lines at US airports - to an end.",
+      "sources": [
+        {
+          "title": "BBC US & Canada",
+          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T19:31:57.000Z"
+        },
+        {
+          "title": "BBC",
+          "url": "https://www.bbc.com/news/articles/c33l4j03kr3o?at_medium=RSS&at_campaign=rss",
+          "published_at": "2026-03-27T19:31:57.000Z"
+        }
+      ],
+      "reliability_score": 1
     }
   ],
   "reddit_ai_summary": [
     {
-      "title": "Just a heads up - if you downgrade from Ultra to Pro you immediately start getting de-prioritized & can't cancel the downgrade",
-      "score": 0.43,
-      "summary": "Thread on \"Just a heads up - if you downgrade from Ultra to Pro you immediately start getting de-prioritized & can't cancel the dow\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s4w3f7/just_a_heads_up_if_you_downgrade_from_ultra_to/",
+      "title": "Webmasters today, left: input, right: output (Google Stitch)",
+      "score": 0.49,
+      "summary": "Thread on \"Webmasters today, left: input, right: output (Google Stitch)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s5h6ep/webmasters_today_left_input_right_output_google/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "Any neuroscience people on the sub with an interest in AI have thoughts on where we're at?",
+      "score": 0.51,
+      "summary": "Thread on \"Any neuroscience people on the sub with an interest in AI have thoughts on where we're at?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5mgsz/any_neuroscience_people_on_the_sub_with_an/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Claude Code Works Great For Me!",
+      "score": 0.5,
+      "summary": "Thread on \"Claude Code Works Great For Me!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/Anthropic/comments/1s5k6ap/claude_code_works_great_for_me/",
+      "subreddit": "Anthropic"
+    },
+    {
+      "title": "AG Update 1.21.6",
+      "score": 0.47,
+      "summary": "Thread on \"AG Update 1.21.6\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5cy10/ag_update_1216/",
       "subreddit": "google_antigravity"
     },
     {
-      "title": "Replace Rate Limiting with a Queue and guarantee requests",
-      "score": 0.52,
-      "summary": "Thread on \"Replace Rate Limiting with a Queue and guarantee requests\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5c4cx/replace_rate_limiting_with_a_queue_and_guarantee/",
+      "title": "It was said that global limits were a bug yesterday, and yet they are back!",
+      "score": 0.51,
+      "summary": "Thread on \"It was said that global limits were a bug yesterday, and yet they are back!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5mg2o/it_was_said_that_global_limits_were_a_bug/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "Is there any real alternative to Claude Cowork + Computer Use?",
+      "title": "PSA: If you don't opt out by Apr 24 GitHub will train on your private repos",
       "score": 0.5,
-      "summary": "Thread on \"Is there any real alternative to Claude Cowork + Computer Use?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/ChatGPTCoding/comments/1s582h8/is_there_any_real_alternative_to_claude_cowork/",
-      "subreddit": "ChatGPTCoding"
-    },
-    {
-      "title": "This might explain the usage issues people have come across.",
-      "score": 0.51,
-      "summary": "Thread on \"This might explain the usage issues people have come across.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s59ueq/this_might_explain_the_usage_issues_people_have/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Can’t use my OpenClaw - AI service is temporarily overloaded",
-      "score": 0.51,
-      "summary": "Thread on \"Can’t use my OpenClaw - AI service is temporarily overloaded\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5ausq/cant_use_my_openclaw_ai_service_is_temporarily/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "I am sure they are faking this chart , it's always \"RED\" towards right.",
-      "score": 0.51,
-      "summary": "Thread on \"I am sure they are faking this chart , it's always \"RED\" towards right.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s5blsy/i_am_sure_they_are_faking_this_chart_its_always/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Has the rate limit issue been fixed yet?",
-      "score": 0.51,
-      "summary": "Thread on \"Has the rate limit issue been fixed yet?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5azpa/has_the_rate_limit_issue_been_fixed_yet/",
+      "summary": "Thread on \"PSA: If you don't opt out by Apr 24 GitHub will train on your private repos\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5k5va/psa_if_you_dont_opt_out_by_apr_24_github_will/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "Fuck Claude",
+      "title": "Github Copilot/Opencode still guesses your codebase to burn $$ so I built something to stop that to save your tokens!",
       "score": 0.5,
-      "summary": "Thread on \"Fuck Claude\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s57fs0/fuck_claude/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Source-Available Mobile Mission Control (feedback wanted)",
-      "score": 0.5,
-      "summary": "Thread on \"Source-Available Mobile Mission Control (feedback wanted)\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s58tpt/sourceavailable_mobile_mission_control_feedback/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Rate limit issue for Pro and Pro+ users",
-      "score": 0.5,
-      "summary": "Thread on \"Rate limit issue for Pro and Pro+ users\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s59h62/rate_limit_issue_for_pro_and_pro_users/",
+      "summary": "Thread on \"Github Copilot/Opencode still guesses your codebase to burn $$ so I built something to stop that to save your tokens!\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5k2xt/github_copilotopencode_still_guesses_your/",
       "subreddit": "GithubCopilot"
     },
     {
-      "title": "Sorry, you have been rate-limited. Please wait a moment before trying again, For Github Education Copilot Plan",
+      "title": "So, is the peak usage change temporary or not??",
       "score": 0.5,
-      "summary": "Thread on \"Sorry, you have been rate-limited. Please wait a moment before trying again, For Github Education Copilot Plan\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s58cil/sorry_you_have_been_ratelimited_please_wait_a/",
+      "summary": "Thread on \"So, is the peak usage change temporary or not??\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/Anthropic/comments/1s5khje/so_is_the_peak_usage_change_temporary_or_not/",
+      "subreddit": "Anthropic"
+    },
+    {
+      "title": "Amazon's AI Deleted Production Servers and Called It Progress",
+      "score": 0.5,
+      "summary": "Thread on \"Amazon's AI Deleted Production Servers and Called It Progress\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5izd7/amazons_ai_deleted_production_servers_and_called/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Amazed at what is possible with Claude",
+      "score": 0.49,
+      "summary": "Thread on \"Amazed at what is possible with Claude\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/ArtificialInteligence/comments/1s5hfey/amazed_at_what_is_possible_with_claude/",
+      "subreddit": "ArtificialInteligence"
+    },
+    {
+      "title": "Any Updates on this deleted tweet from Logan Kilpatrick?",
+      "score": 0.48,
+      "summary": "Thread on \"Any Updates on this deleted tweet from Logan Kilpatrick?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/singularity/comments/1s5fi9g/any_updates_on_this_deleted_tweet_from_logan/",
+      "subreddit": "singularity"
+    },
+    {
+      "title": "OpenSource Starter Kit SaaS SkitSaaS",
+      "score": 0.47,
+      "summary": "Thread on \"OpenSource Starter Kit SaaS SkitSaaS\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5db45/opensource_starter_kit_saas_skitsaas/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Conversation history gap 100 entries",
+      "score": 0.47,
+      "summary": "Thread on \"Conversation history gap 100 entries\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5da01/conversation_history_gap_100_entries/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "latest antigravity changelogs 27/03",
+      "score": 0.47,
+      "summary": "Thread on \"latest antigravity changelogs 27/03\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/google_antigravity/comments/1s5d15f/latest_antigravity_changelogs_2703/",
+      "subreddit": "google_antigravity"
+    },
+    {
+      "title": "Why doesn’t copilot add Chinese models as option to there lineup",
+      "score": 0.47,
+      "summary": "Thread on \"Why doesn’t copilot add Chinese models as option to there lineup\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
+      "source_link": "https://www.reddit.com/r/GithubCopilot/comments/1s5e6ut/why_doesnt_copilot_add_chinese_models_as_option/",
       "subreddit": "GithubCopilot"
-    },
-    {
-      "title": "Anthropic just accidentally leaked their most powerful model yet — and honestly, it's a little terrifying.",
-      "score": 0.49,
-      "summary": "Thread on \"Anthropic just accidentally leaked their most powerful model yet — and honestly, it's a little terrifying.\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/claude/comments/1s577xr/anthropic_just_accidentally_leaked_their_most/",
-      "subreddit": "claude"
-    },
-    {
-      "title": "Opus currently not working with OpenClaw?",
-      "score": 0.49,
-      "summary": "Thread on \"Opus currently not working with OpenClaw?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s56y80/opus_currently_not_working_with_openclaw/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "use Openclaw but twitter account was quickly banned",
-      "score": 0.49,
-      "summary": "Thread on \"use Openclaw but twitter account was quickly banned\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s5682e/use_openclaw_but_twitter_account_was_quickly/",
-      "subreddit": "openclaw"
-    },
-    {
-      "title": "Anthropic have blocked us?",
-      "score": 0.49,
-      "summary": "Thread on \"Anthropic have blocked us?\". In the comments, people are mainly debating The comment thread is focused on practical implications, caveats, and likely outcomes.",
-      "source_link": "https://www.reddit.com/r/openclaw/comments/1s55fcq/anthropic_have_blocked_us/",
-      "subreddit": "openclaw"
     }
   ],
   "metadata": {
     "overall_status": "success",
-    "refresh_started_at": "2026-03-27T18:48:37.531Z",
-    "refresh_finished_at": "2026-03-27T18:49:16.274Z",
+    "refresh_started_at": "2026-03-28T01:44:06.635Z",
+    "refresh_finished_at": "2026-03-28T01:44:42.522Z",
     "refresh_interval_hours": 6,
     "generated_for": "github-pages",
     "sections": {
@@ -315,13 +320,13 @@
         "source": "rss-feeds",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 1566
+        "duration_ms": 2012
       },
       "reddit": {
         "source": "public-json+rss",
         "status": "success",
         "item_count": 15,
-        "duration_ms": 38710
+        "duration_ms": 35848
       }
     },
     "warnings": []
